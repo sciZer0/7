@@ -35,7 +35,7 @@ All these fundamental errors together result in the endless series of errors in 
 ---
 
 ### DISCOVERY #2
-*NEW LAW OF CONSERVATION OF ENERGY AND NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER*
+*NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER*
 
 2.1. Work and Energy in the Most General Sense<br>
 2.2. New Law of Conservation of Energy<br>
