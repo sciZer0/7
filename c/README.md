@@ -117,9 +117,9 @@ Importantly,
 
 * there are Target Works and Non-Target Works;
 
-* there are Energy-Isolated and Energy-Non-Isolated Systems -- often, people think about some systems that they are Energy-Isolated, but in reality, they are Energy-Non-Isolated;
+* there are Energy-Isolated and Energy-Non-Isolated Systems; -- often, people think about some systems that they are Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
-* some devices (being Energy-Non-Isolated Systems) really can work with an efficiency of more than 100%; 
+* some devices, for example, Electromagnets -- those devices that, in reality, aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space -- really can work with an efficiency of more than 100%; 
 
 *More on this all below.*
 
@@ -332,9 +332,15 @@ Importantly, there are Target Works and Non-Target Works.
 
 ## 2.11. Target Works and Non-Target Works
 
-Target Work is the Work that is the target for Organism to be doing while working.
+Target Work is the Work that is the target for Organism to do while working.
 
-Non-Target Work is any Work that isn't the target for Organism but is unavoidable for Organism to be doing while doing Target Work -- meaning, is any Work that  is additional but unavoidable for Organism.
+Non-Target Work is any Work that isn't Target Work for Organism but is the Work that Organism must unavoidably do while doing Target Work.
+
+In other words,
+
+Non-Target Work is any Work that is additional but unavoidable for Organism to do while doing Target Work.
+
+Work is additional but unavoidable for Organism.
 
 For example, let's consider Work of a Linear Electric Motor (as an example of Organism).
 
