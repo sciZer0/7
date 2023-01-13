@@ -46,7 +46,7 @@ All these fundamental errors together result in the endless series of errors in 
 2.7. New Universal Formula for Work and Energy<br>
 2.8. New Concept of Work and New Concept of Energy<br>
 2.9. New Unit of Measure for Work and Energy<br>
-2.10. Static Mechanical Work
+2.10. Static Mechanical Work<br>
 2.11. Target Works and Non-Target Works<br>
 2.12. Calculations with New Formulas<br>
 2.13. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
