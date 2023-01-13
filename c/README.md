@@ -78,11 +78,17 @@ So,
 
 In my opinion, in the most general sense,
 
+Work is any activity that is spending Energy (some resource).
+
 > ### Work is any activity of Organism that is spending Energy (some resource).
+
 
 On the other hand, 
 
+Energy is the resource to do Work.
+
 > ### Energy is the resource for Organism to be doing Work.
+
 
 And of course, 
 
@@ -96,7 +102,7 @@ The official law of Conservation of Energy is:
 
 *Energy can neither be destroyed nor created — only converted from one form of Energy to another.*
 
-Even all calculations, like, proved this law.
+It looked like all calculations proved this law.
 
 But in reality, all official formulas for calculating Work and Energy are absolutely wrong.
 
