@@ -178,28 +178,12 @@ In Case #1, Organism, by its Hand, is pushing the 20 kg object during 30 seconds
 In Case #2, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 
-So,
 
-> **Organism is any system that can be pushing an object during a certain time.**
-
-> **Organism is pushing an object during a certain time by its Hand.**
-
-> **Hand is Force, in other words: the thing by which Organism is pushing an object.**
-
-
-
-
---
-
-## 2.8. New Undertanding about Force, Work and Energy
-
-Let's continue to consider the 3 cases simultaneously:
+In more detail,
 
 <p align="center">
   <img src="/assets/images/cases196f.png"/><br>
 </p>
-
-In more detail,
 
 In Case #1, Organism, by its Hand, is pushing the 20 kg object during 30 seconds, applying, during each of the 30 seconds, the same non-zero Force equal to 196 Newtons.<br>
 In Case #2, Organism, by its Hand, is pushing the 20 kg object during 30 seconds, applying, during each of the 30 seconds, the same non-zero Force equal to 196 Newtons.<br>
@@ -207,19 +191,27 @@ In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds
 
 *More details on how to calculate each Force a bit below.*
 
+> **Organism is any system that can, by its Hand, be pushing an outside object during each second of a sertain time period, applying, during each cecond, the same non-zero Force.
+
+> **Hand is Force, in other words: the thing by which Organism is pushing the object.**
+
+--
+
+## 2.8. New Undertanding about Force, Work and Energy
+
 Force is the process where Organism, by its Hand, is pushing an outside object in a certain direction during one second, putting a certain non-zero amount of Energy (resource/effort) into the pushing.
 
 The magnitude of Force means the amount of Energy (resource/effort) that Organism is putting into the pushing during one second of the pushing.
 
 In its turn,
 
-Work is the process where Organism, by its Hand, is pushing an outside object in a certain direction during a certain number of seconds, putting, for every second, a certain non-zero amount of Energy (resource/effort) into the pushing.
+Work is the process where Organism, by its Hand, is pushing an outside object in a certain direction during a certain number of seconds, putting, for every second, a certain non-zero amount of Energy (resource/effort) equal to Force into the pushing.
 
 The magnitude of Work means the amount of Energy (resource/effort) that Organism is putting into the pushing during a certain number of seconds.
 
 More on Work.
 
-Any Work is the process of pushing, meaning any Work is Mechanical Work.
+Any Work is the process of pushing, meaning any Work is Mechanical Work, sometimes, Static Mechanical Work.
 
 In other words,
 
