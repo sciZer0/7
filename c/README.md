@@ -74,11 +74,11 @@ In its turn, a system is a collection of elements or components that function to
 
 So, 
 
-> ### Organism is any system that can be doing Work.
+> **Organism is any system that can be doing Work.**
 
 In my opinion, in the most general sense,
 
-> ### Work is any activity of Organism that is spending Energy (some resource).
+> **Work is any activity of Organism that is spending Energy (some resource).**
 
 In other words,
 
@@ -86,7 +86,7 @@ Work is any activity that is spending Energy (some resource).
 
 On the other hand, 
 
-> ### Energy is the resource for Organism to be doing Work.
+> **Energy is the resource for Organism to be doing Work.**
 
 In other words,
 
@@ -94,7 +94,7 @@ Energy is the resource to do Work.
 
 And of course, 
 
-> ### Work and Energy have the same unit of measure.
+> **Work and Energy have the same unit of measure.**
 
 --
 
@@ -156,7 +156,7 @@ In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds
 
 Let's call any system that can be pushing an object during a certain time “Organism” too.
 
-> ### Organism is any system that can be pushing an object during a certain time.
+> **Organism is any system that can be pushing an object during a certain time.**
 
 In Case #1, Organism is a human (say, you).<br>
 In Case #2 and Case #3, Organism is the Universe or, we might also say, some fragment of the Universe.
@@ -170,7 +170,7 @@ In Case #2 and Case #3, Hand is Gravitational Force (Invisible Hand).
 
 Let's call the thing by which Organism is pushing an object "Hand".
 
-> ### Hand is Force, in other words: the thing by which Organism is pushing an object.
+> **Hand is Force, in other words: the thing by which Organism is pushing an object.**
 
 In each of the 3 cases,
 
@@ -180,11 +180,11 @@ In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds
 
 So,
 
-> ### Organism is any system that can be pushing an object during a certain time.
+> **Organism is any system that can be pushing an object during a certain time.**
 
-> ### Organism is pushing an object during a certain time by its Hand.
+> **Organism is pushing an object during a certain time by its Hand.**
 
-> ### Hand is Force, in other words: the thing by which Organism is pushing an object.
+> **Hand is Force, in other words: the thing by which Organism is pushing an object.**
 
 
 
