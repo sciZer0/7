@@ -156,6 +156,8 @@ In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds
 
 Let's call any system that can be pushing an object during a certain time “Organism” too.
 
+> ### Organism is any system that can be pushing an object during a certain time.
+
 In Case #1, Organism is a human (say, you).<br>
 In Case #2 and Case #3, Organism is the Universe or, we might also say, some fragment of the Universe.
 
@@ -183,7 +185,7 @@ In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds
 Let's continue to consider the 3 cases simultaneously:
 
 <p align="center">
-  <img src="/assets/images/cases196.png"/><br>
+  <img src="/assets/images/cases196f.png"/><br>
 </p>
 
 In more detail,
@@ -204,7 +206,11 @@ Work is the process where Organism, by its Hand, is pushing an outside object in
 
 The magnitude of Work means the amount of Energy (resource/effort) that Organism is putting into the pushing during a certain number of seconds.
 
+More on Work.
+
 Any Work is the process of pushing, meaning any Work is Mechanical Work.
+
+In other words,
 
 Any Work (Mechanical Work) is a push or combination of pushes.
 
