@@ -172,11 +172,22 @@ Let's call the thing by which Organism is pushing an object "Hand".
 
 > ### Hand is Force, in other words: the thing by which Organism is pushing an object.
 
-So,
+In each of the 3 cases,
 
 In Case #1, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 In Case #2, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
+
+So,
+
+> ### Organism is any system that can be pushing an object during a certain time.
+
+> ### Organism is pushing an object during a certain time by its Hand.
+
+> ### Hand is Force, in other words: the thing by which Organism is pushing an object.
+
+
+
 
 --
 
