@@ -78,17 +78,19 @@ So,
 
 In my opinion, in the most general sense,
 
-Work is any activity that is spending Energy (some resource).
-
 > ### Work is any activity of Organism that is spending Energy (some resource).
 
+In other words,
+
+Work is any activity that is spending Energy (some resource).
 
 On the other hand, 
 
-Energy is the resource to do Work.
-
 > ### Energy is the resource for Organism to be doing Work.
 
+In other words,
+
+Energy is the resource to do Work.
 
 And of course, 
 
