@@ -25,9 +25,9 @@ As we can [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the 
 
 But there is another fundamental errors:
 
+* the official concept of Force being -- wrong
 * the official concept of Work -- being wrong
 * the official concept of Energy -- being wrong
-* the official concept of Force being -- wrong
 * the official Law of conservation of Energy -- being wrong
 
 All these fundamental errors together result in the endless series of errors in science.
