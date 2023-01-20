@@ -15,11 +15,11 @@ New Formula for Power<br>
 * START<br>
 
 ## FIRST OF ALL
-Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is much like a religious sect. <i>More details on this a bit below.</i>
+This paper shows that science for now is being a fundamentally illogical/wrong thing taken on faith and that the real situation is even much worse -- the scientific system itself is much like a religious sect.
 
 All I have is logic.
 
-Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
+Some time ago, just through thinking logically about well-known facts, I made scientific discoveries -- probably, the biggest ever scientific discoveries.
 
 The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
