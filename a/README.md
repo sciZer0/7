@@ -17,7 +17,7 @@ New Formula for Power<br>
 ## FIRST OF ALL
 This paper shows that modern science is a fundamentally illogical/wrong thing taken on faith, and that the scientific system itself is exactly a religious sect.
 
-All I have is logic.
+I am just a person on the globe and all I have is logic.
 
 Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
@@ -27,7 +27,7 @@ Simultaneously, the discoveries are very simple and obvious.
 
 ## EASY TO UNDERSTAND
 
-This article explaining the discoveries was written in such a way as to be understandable to everyone.
+This paper explaining the discoveries was written in such a way as to be understandable to everyone.
 
 In particular, if you know the multiplication table and can understand these simple mathematical examples:
 
@@ -38,7 +38,7 @@ In particular, if you know the multiplication table and can understand these sim
 
 you are fully able to easily understand every thing, even if you have no scientific background.
 
-Throughout the whole article, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times and in various ways.
+Throughout the whole paper, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times and in various ways.
 
 Feel free to ask me any questions about the discoveries: theOlegGor@gmail.com.
 
@@ -118,7 +118,7 @@ The Joule, in its turn, is the absolutely wrong unit of measure for Work and Ene
 
 As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
 
-<i>The error is explained in detail below in this article.</i>
+<i>The error is explained in detail below.</i>
 
 #### ANOTHER SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
 
@@ -142,7 +142,7 @@ Due to this fundamental error — due to the Absence of the Concept of Stati
 
 As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
 
-<i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
+<i>The Concept of Static Mechanical Work is explained in detail below.</i>
 
 Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on this below.</i>
 
@@ -377,7 +377,7 @@ a — Real Acceleration of the pushed object during the given second (measur
 
 In my opinion, the true Newton’s Formula for Force is different, but the official Newton’s formula for Force works correctly in some cases.
 
-Throughout this article, we will consider each of these cases:
+Throughout this paper, we will consider each of these cases:
 
 <p align="center">
   <img src="/assets/images/cases.png"/><br>
@@ -976,5 +976,5 @@ https://github.com/sciZer0/newdiscoveries/tree/main/a
 Help civilization.
 
 ---
-The continuation of the article is here:<br>
+The continuation of the paper is here:<br>
 https://github.com/sciZer0/newdiscoveries/tree/main/c
