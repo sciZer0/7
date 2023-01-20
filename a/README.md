@@ -15,7 +15,7 @@ New Formula for Power<br>
 * START<br>
 
 ## FIRST OF ALL
-This paper shows that modern science is a fundamentally illogical/wrong thing taken on faith and the scientific system itself is much like a religious sect.
+This paper shows that modern science is a fundamentally illogical/wrong thing taken on faith, and that the scientific system itself is exactly a religious sect.
 
 All I have is logic.
 
@@ -161,9 +161,9 @@ In my opinion, all the biggest fundamental errors in science occurred because pe
 
 What about official science?
 
-In my opinion, modern science is a fundamentally illogical/wrong thing taken on faith and the scientific system itself is much like a religious sect, meaning, is in some cases exactly like a religious sect.
+In my opinion, modern science is a fundamentally illogical/wrong thing taken on faith and the scientific system itself is exactly a religious sect.
 
-Specifically, the entire scientific system, because of being exactly like a religious sect, is a fully-closed one. The entrance in the system for any new person is ONLY possible on recommendations of members of the religious sect. But receiving those "needed" recommendations (endorsements) is absolutely impossible for any new person when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+Specifically, the entire scientific system, because of being exactly a religious sect, is a fully-closed one. The entrance in the system for any new person is ONLY possible on recommendations of members of the religious sect. But receiving those "needed" recommendations (endorsements) is absolutely impossible for any new person when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
