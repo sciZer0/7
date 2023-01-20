@@ -1,5 +1,5 @@
 <h1 align="center">
-  This is the continuation of this article:
+  This is the continuation of this paper:
 </h1>
 
 **Fundamental Errors in Science and New Discoveries Changing All Science:<br>
@@ -19,7 +19,7 @@ https://github.com/sciZer0/newdiscoveries/tree/main/a
 
 ## 1.2. Endless Series of Errors in Science
 
-As you might [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
+As we can [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
 
 > ### The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
