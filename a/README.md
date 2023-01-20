@@ -15,11 +15,11 @@ New Formula for Power<br>
 * START<br>
 
 ## FIRST OF ALL
-This paper shows that science for now is being a fundamentally illogical/wrong thing taken on faith and that the real situation is even much worse -- the scientific system itself is much like a religious sect.
+This paper shows that modern science is a fundamentally illogical/wrong thing taken on faith and the scientific system itself is much like a religious sect.
 
 All I have is logic.
 
-Some time ago, just through thinking logically about well-known facts, I made scientific discoveries -- probably, the biggest ever scientific discoveries.
+Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
 The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
@@ -161,9 +161,9 @@ In my opinion, all the biggest fundamental errors in science occurred because pe
 
 What about official science?
 
-In my opinion, science now as theory is a fundamentally illogical/wrong thing being taken on faith. And actually, the situation is even much worse than that, the scientific system itself is much like a religious sect, meaning is, in some cases, exactly like a religious sect.
+In my opinion, modern science is a fundamentally illogical/wrong thing taken on faith and the scientific system itself is much like a religious sect, meaning, is in some cases exactly like a religious sect.
 
-The scientific system, precisely because of being much like a religious sect, is a fully-closed one. The system's entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+Specifically, the entire scientific system, because of being exactly like a religious sect, is a fully-closed one. The entrance in the system for any new person is ONLY possible on recommendations of members of the religious sect. But receiving those "needed" recommendations (endorsements) is absolutely impossible for any new person when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
