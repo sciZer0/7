@@ -1,10 +1,6 @@
-Fundamental Errors in Science and New Discoveries Changing All Science:<br>
+# Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
-New Formula for Force<br>
-New Formula for Work<br>
-New Formula for Energy<br>
-New Formula for Power<br>
----
+
 
 <b>Table of Contents</b>
 * FIRST OF ALL<br>
@@ -19,7 +15,7 @@ This paper shows that modern science is a fundamentally illogical/wrong thing ta
 
 I am just a person on the globe and all I have is logic.
 
-Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
+The whole thing is that some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
 The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
