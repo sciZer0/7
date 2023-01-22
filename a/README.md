@@ -17,7 +17,7 @@ I am just a person on the globe and all I have is logic.
 
 The whole thing is that some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
-The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change/improve all science as we know it.
 
 Simultaneously, the discoveries are very simple and obvious.
 
@@ -42,7 +42,7 @@ Feel free to ask me any questions about the discoveries: theOlegGor@gmail.com.
 
 ## ABOUT DISCOVERIES
 
-Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
+Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding of the Universe.
 
 Among other things as a result I got the following:
 
