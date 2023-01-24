@@ -79,7 +79,7 @@ A simple transaction is a transaction performing a transfer of tokens from one a
 
 Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
 
-*A regular user, if there is congestion (if ever), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simplel transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.*
+*A regular user, if there is congestion (if ever), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.*
 
 # Possible DDoS/Spam Attacks
 
@@ -123,6 +123,15 @@ But not everyone in the industry understands the main point of blockchain techno
 
 And this is the initial problem of each of the existing blockchains.
 
+## How Progress in Understanding Started
+
+At first, thanks to Bitcoin, there was an understanding that true decentralization is where each node is equal to other in working, meaning, at any given time each node can be 
+
+* trying to create a block
+* resieving transactions from users
+* gossiping transactions to other nodes in the network.
+
+Over time, this understanding was improved.
 
 
 
