@@ -31,4 +31,4 @@ THE 1ST TRULY-DECENTRALIZED EFFICIENT BLOCKCHAIN<br>
 </p>
 <p>&nbsp</p>
 
-This is really the first blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+This is the first blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
