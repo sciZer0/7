@@ -41,12 +41,12 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
 
 <p>Next-Level Blockchain</p>
 <b>FROM DAY ONE</b><br>
-* with 1 million users<br>
-* with free transactions<br>
-* with Decreasing Circulating Supply<br>
-* with 50,000 TPS<br>
-* truly-decentralized<br>
-* truly-democratic<br>
+· with 1 million users<br>
+· with free transactions<br>
+· with Decreasing Circulating Supply<br>
+· with 50,000 TPS<br>
+· truly-decentralized<br>
+· truly-democratic<br>
 <b>FROM DAY ONE</b>
 <p>&nbsp</p>
 
