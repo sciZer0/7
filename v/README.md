@@ -53,5 +53,65 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
 **Motto: Like Bitcoin just better**
 
 
+# Maximum Supply
+
+Maximum Supply is 21,000,000 Vote tokens.
+
+Each Vote token is divided into 100,000,000 Hands.
+
+The Hand is the smallest unit of the Vote token.
+
+# 1 Million Users, Unprecedented Full-Scale Distribution
+
+At the start, through a fair airdrop, all 100% of Vote tokens are equally distributed among 1,000,000 people becoming Voters (users).
+
+# 50,000 TPS
+
+From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
+
+# Free Transactions
+
+There are no Gas fees for simple transactions, meaning, it is a freemium model blockchain.
+
+A simple transaction is a transaction performing a transfer of tokens from one address not associated with a smart contract to another address also not associated with a smart contract.
+
+Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
+
+A regular user, if there is congestion (if ever), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simplel transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.
+
+# Possible DDoS/Spam Attacks
+
+Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done in relation to other possible DDoS/Spam attacks that can, for example, be requesting the Block Height.
+
+# Gas Fees
+
+Users pay Gas Fees only for some sorts of transactions.
+
+Specifically, users pay Gas fees for deploying smart contracts and for making transactions with smart contracts.
+
+Gas fees are paid in the Vote token (in Hands).
+
+# Order of Transactions in Each Block
+
+During each slot, from the transactions received, the ordered list of transactions (maximum 50,000) is automatically formed in the following order:
+
+1. transactions with Gas are automatically ordered in descending order of Gas
+
+2. transactions without Gas are automatically ordered with a random number algorithm.
+
+If the total amount of all transactions, received but yet not executed, is bigger than the maximum block size (50,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
+
+# Decreasing Circulating Supply
+
+From the start, all Gas fees, received during each slot, are burned, resulting in decreasing the Circulating Supply of Vote token.
+
+At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of Vote Token over time.
+
+
+
+How is this all possible?
+
+
+
 
 
