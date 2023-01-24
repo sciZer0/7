@@ -34,14 +34,9 @@ THE 1ST TRULY-DECENTRALIZED EFFICIENT BLOCKCHAIN<br>
 
 This is the first blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
 <p>&nbsp</p>
-<p>&nbsp</p>
-
-<p align="left">
-  <img src="/assets/images/vote.png" height="100">
-</p>
 
 
-
+![Tux, the Linux mascot](/assets/images/vote.png)
 
 
 <p>Next-level blockchain</p>
@@ -58,5 +53,5 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
 **Motto: Like Bitcoin just better**
 
 
-![Tux, the Linux mascot](/assets/images/vote.png)
+
 
