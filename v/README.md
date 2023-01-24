@@ -39,9 +39,7 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
   <img src="/assets/images/vote.png" height="100"><br>
 </p>
 
-
-
-<p>Next-level blockchain</p>
+<p>Next-Level Blockchain</p>
 <b>FROM DAY ONE</b><br>
 * with 1 million users<br>
 * with free transactions<br>
