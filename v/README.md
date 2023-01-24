@@ -125,11 +125,12 @@ And this is the initial problem of each of the existing blockchains.
 
 ## How Progress in Understanding Started
 
-At first, thanks to Bitcoin, there was an understanding that true decentralization is where each node is equal to other in working, meaning, at any given time each node can be 
+At first, thanks to Bitcoin, there was an understanding that true decentralization is where **each node is equal to other in working**, meaning, at any given time each node can be 
 
 * trying to create a block
-* resieving transactions from users
-* gossiping transactions to other nodes in the network.
+* verifying the last block
+* receiving transactions from users
+* gossiping received transactions to other nodes in the network.
 
 Over time, this understanding was improved.
 
