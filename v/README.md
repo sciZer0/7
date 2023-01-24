@@ -109,7 +109,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 
 
-How is this all possible?
+# How is this all possible?
 
 
 
