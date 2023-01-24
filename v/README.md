@@ -12,7 +12,8 @@ existing on 2023
 
 <p>&nbsp</p>
 
-<p><b>
+<p>
+<b>
 Every code created must be open source.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
@@ -20,7 +21,7 @@ Everyone must always feel free to use other people’s ideas and code in order t
 And of course, we should be forming a donation culture for giving thanks in tokens to the creators of ideas and code.<br>
 
 When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.<br>
- </b>
+</b>
 </p>
  
  
@@ -32,3 +33,30 @@ THE 1ST TRULY-DECENTRALIZED EFFICIENT BLOCKCHAIN<br>
 <p>&nbsp</p>
 
 This is the first blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+<p>&nbsp</p>
+<p>&nbsp</p>
+
+<p align="left">
+  <img src="/assets/images/vote.png" height="100">
+</p>
+
+
+
+
+
+<p>Next-level blockchain</p>
+<b>FROM DAY ONE</b><br>
+* with 1 million users, through fair token distribution<br>
+* with free transactions<br>
+* with Decreasing Circulating Supply<br>
+* with 50,000 TPS<br>
+* truly-decentralized<br>
+* truly-democratic<br>
+<b>FROM DAY ONE</b>
+<p>&nbsp</p>
+
+**Motto: Like Bitcoin just better**
+
+
+![Tux, the Linux mascot](/assets/images/vote.png)
+
