@@ -11,7 +11,7 @@ deserves to go away<br>
 </p>
 
 <p><b>
-Every code created must be open source.<br><br>
+Every code created must be open source.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
