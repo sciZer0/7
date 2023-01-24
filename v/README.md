@@ -5,7 +5,7 @@ NEW BLOCKCHAIN
 
 
 <p align="right">
-The increasing overhead (inefficiency)<br>
+Increasing overhead (inefficiency)<br>
 is the target for each of blockchains<br>
 existing on 2023
 </p>
