@@ -17,6 +17,8 @@ https://github.com/sciZer0/newdiscoveries/tree/main/a
   The continuation itself:
 </h1>
 
+<h1 align="center">THIS PART IS UNDER EDITING</h1>
+
 ## 1.2. Endless Series of Errors in Science
 
 As we can [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
