@@ -113,7 +113,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to just build a permissionless decentralized system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
+The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
 
 On the other hand, the main task of developers is to build this sustainable working system, simultaneously, being maximally efficient.
 
