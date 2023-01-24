@@ -27,8 +27,8 @@ When people create something not good enough, there must be absolute freedom for
  
 
 <h1 align="center">MEET</h1>
-<p align="center">
-THE 1ST TRULY-DECENTRALIZED EFFICIENT BLOCKCHAIN<br>
+<p align="center"><b>
+THE 1ST TRULY-DECENTRALIZED EFFICIENT BLOCKCHAIN</b><br>
 </p>
 <p>&nbsp</p>
 
@@ -110,6 +110,17 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 
 # How is this all possible?
+
+<h1 align="center">Abstract</h1>
+
+The main point of blockchain technology is to just build a working system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
+
+On the other hand, the main task of developers is to build such a super survivor – such a  super sustainable working system – simultaneously being maximally efficient.
+
+But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
+
+And this is the initial problem of each of the existing blockchains.
+
 
 
 
