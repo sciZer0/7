@@ -41,7 +41,7 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
 
 <p>Next-level blockchain</p>
 <b>FROM DAY ONE</b><br>
-* with 1 million users, through fair token distribution<br>
+* with 1 million users<br>
 * with free transactions<br>
 * with Decreasing Circulating Supply<br>
 * with 50,000 TPS<br>
