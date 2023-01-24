@@ -12,6 +12,8 @@ existing on 2023
 
 <p>&nbsp</p>
 
+# Our Fundamentals
+
 <p>
 <b>
 Every code created must be open source.<br>
