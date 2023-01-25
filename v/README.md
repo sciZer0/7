@@ -107,6 +107,8 @@ If the total amount of all transactions, received but yet not executed, is bigge
 
 From the start, all Gas fees, received during each slot, are burned, resulting in decreasing the Circulating Supply of Vote token.
 
+This is for the first time ever, unique in the industry, that decreasing Circulating Supply starts from day one.
+
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of Vote Token over time.
 
 <p>&nbsp</p>
