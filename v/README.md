@@ -51,9 +51,9 @@ The Vote blockchain solves this problem from day one.
 
 <h3 align="center">Big Problem 2</h3>
 
-The big problem 2 is that on each of the existing blockchains, the possible network congestions always lead to the increase in gas prices which, in it turn, always leads to an increase in the total amount of money that the servants (miners/validators) get.
+The big problem 2 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in it turn, always leads to an increase in the total amount of money that the servants (miners/validators) receive.
 
-Ideally, the possible network congestions, leading inevitably to the increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) get -- instead, this whole token increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) receive -- instead, this whole increase must be burned.
 
 The Vote blockchain solves this problem from day one.
 
@@ -61,23 +61,26 @@ The Vote blockchain solves this problem from day one.
 <h3 align="center">Big Problem 3</h3>
 
 
-The big problem 3 is that, for now, in the industry, there is the mainstream wrong understanding that only one only way is for blockchains to build up the "51% attack" resistance:
+The big problem 3 is that, for now, in the industry, there is the mainstream wrong understanding that only one only way is for a blockchain to build up its "51% attack" resistance:
 
 **the more nodes in a network, the more resilient this network is to 51% attacks.**
 
-Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in  the network in order to be more resilient to 51% attacks -- increasing thereby the total amount of money that users must pay the miners/validators during each day.
+Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in the network in order to be more resilient to 51% attacks -- inevitably increasing thereby the total amount of money that users must pay the servants (miners/validators) during each day.
 
-This all results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes, meaning, it must always strive to be expensive for users.
+For example, the Solana blockchain or Bitcoin blockchain – on the time when, only theoretically, it might reach a capitalization of $1 trillion – would never allow its users to pay their servants (miners/validators) in total just $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
 
-For example, the Solana blockchain or Bitcoin blockchain – on the time when, only theoretically, it might reach the capitalization of $1 trillion – would never allow its users to pay their servants (node holders) just, in total, $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
+In 2022, when the Bitcoin blockchain capitalization was a lot lower than $1 trillion, the total amount of money that users paid their servants (miners/validators) was over $6 billions.
 
-In 2022, when the Bitcoin blockchain capitalization was a lot lower than $1 trillion, the total amount of money that users have paid their servants (node holders) was over $6 billions.
+This all results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes in order to be more resilient to the 51% attacks -- meaning, each of the existing blockchains must always strive to be expensive for users.
 
 Of course, undoubtedly, the traditional approach is a dead end approach.
 
-Importantly, increasing overhead (inefficiency) is the target for each of the existing blockchains.
+For now, increasing overhead (inefficiency) is the target for each of the existing blockchains.
 
 So each of the existing blockchains is inefficient by design, meaning, doomed by design.
+
+The Vote blockchain solves this problem from day one.
+
 
 <h3 align="center">Big Problem 4</h3>
 
