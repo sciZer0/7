@@ -42,7 +42,7 @@ But not everyone in the industry understands the main point of blockchain techno
 
 <h3 align="center">Big Problem 1</h3>
 
-The big problem 1 is the inability of each of the existing blockchains to start decreasing its Circulating Token Supply from day one.
+The big problem 1 is the inability of each of the existing blockchains to start decreasing its Circulating Supply from day one.
 
 Even this single problem along negatively affects each project's economy a lot and is SO important that might be considered as the sufficient condition for canceling each of the existing blockchains.
 
