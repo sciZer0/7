@@ -27,6 +27,62 @@ When people create something not good enough, there must be absolute freedom for
 </p>
  
  
+<h1 align="center">Abstract</h1>
+
+The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
+
+On the other hand, the main task of developers is to build such a super sustainable working system which is, simultaneously, being maximally efficient.
+
+But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
+
+
+
+<h1 align="center">Big Problems of Current Blockchain</h1>
+
+
+<h3 align="center">Big Problem 1</h3>
+
+The big problem 1 is the inability of each of the existing blockchains to start decreasing its Circulating Token Supply from day one.
+
+Even this single problem along negatively affects each project's economy a lot and is SO important that might be considered as the sufficient condition for canceling each of the existing blockchains.
+
+The Vote blockchain solves this problem.
+
+
+<h3 align="center">Big Problem 2</h3>
+
+The big problem 2 is that on each of the existing blockchains, the possible network congestions always lead to the increase in gas prices which, in it turn, always leads to an increase in the total amount of money that the servants (miners/validators) get.
+
+Ideally, the possible network congestions, leading inevitably to the increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) get -- instead, this whole token increase must be burned.
+
+The Vote blockchain solves this problem.
+
+
+<h3 align="center">Big Problem 3</h3>
+
+
+For now, in the industry, there is the mainstream wrong understanding is that there is only one only way for blockchains to build up the "51% attack" resistance:
+
+**the more nodes in a network, the more resilient this network is to 51% attacks.**
+
+Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in  the network in order to be more resilient to 51% attacks -- increasing thereby the total amount of money that users must pay the miners/validators during each day.
+
+This all results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes, meaning, it must always strive to be expensive for users.
+
+For example, the Solana blockchain or Bitcoin blockchain – on the time when, only theoretically, it might reach the capitalization of $1 trillion – would never allow its users to pay their servants (node holders) just, in total, $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
+
+In 2022, when the Bitcoin blockchain capitalization was a lot lower than $1 trillion, the total amount of money that users have paid their servants (node holders) was over $6 billions.
+
+Of course, undoubtedly, the traditional approach is a dead end approach.
+
+Importantly, increasing overhead (inefficiency) is the target for each of the existing blockchains.
+
+So each of the existing blockchains is inefficient by design, meaning, doomed by design.
+
+
+
+
+ 
 
 <h1 align="center">MEET</h1>
 <p align="center"><b>
@@ -111,21 +167,7 @@ This is for the first time ever, unique in the industry, that decreasing Circula
 
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of Vote Token over time.
 
-<p>&nbsp</p>
 
-# How is this all possible?
-
-<h1 align="center">Abstract</h1>
-
-The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
-
-On the other hand, the main task of developers is to build this super sustainable working system, simultaneously, being maximally efficient.
-
-But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
-
-And this is the initial problem of each of the existing blockchains.
-
-## How Progress in Understanding Started
 
 
 
