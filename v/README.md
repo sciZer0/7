@@ -116,7 +116,7 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
 
 # Maximum Supply
 
-Maximum Supply is 21,000,000 Vote tokens.
+Maximum Supply is 10,000,000 Vote tokens.
 
 Each Vote token is divided into 100,000,000 Hands.
 
