@@ -79,10 +79,13 @@ Importantly, increasing overhead (inefficiency) is the target for each of the ex
 
 So each of the existing blockchains is inefficient by design, meaning, doomed by design.
 
+<h3 align="center">Big Problem 4</h3>
 
+The big problem 4 is that on each of the existing blockchains, there are low incentives for validator and developers if calculated per person.
 
-
+The Vote blockchain solves this problem.
  
+<p>&nbsp</p>
 
 <h1 align="center">MEET</h1>
 <p align="center"><b>
