@@ -92,6 +92,15 @@ The big problem 4 is that on each of the existing blockchains, there are low inc
 Ideally, a blockchain must create very generous incentives for validator and developers when calculated per person.
 
 The Vote blockchain ideally solves this problem from day one.
+
+<p>&nbsp</p>
+
+<p align="center">
+Probably<br>
+each of blockchains existing on 2023<br>
+deserves to go away<br>
+</p>
+
  
 <p>&nbsp</p>
 
