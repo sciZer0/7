@@ -46,7 +46,7 @@ The big problem 1 is the inability of each of the existing blockchains to start 
 
 Even this single problem along negatively affects each project's economy a lot and is SO important that might be considered as the sufficient condition for canceling each of the existing blockchains.
 
-The Vote blockchain solves this problem.
+The Vote blockchain solves this problem from day one.
 
 
 <h3 align="center">Big Problem 2</h3>
@@ -55,7 +55,7 @@ The big problem 2 is that on each of the existing blockchains, the possible netw
 
 Ideally, the possible network congestions, leading inevitably to the increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) get -- instead, this whole token increase must be burned.
 
-The Vote blockchain solves this problem.
+The Vote blockchain solves this problem from day one.
 
 
 <h3 align="center">Big Problem 3</h3>
@@ -83,7 +83,7 @@ So each of the existing blockchains is inefficient by design, meaning, doomed by
 
 The big problem 4 is that on each of the existing blockchains, there are low incentives for validator and developers if calculated per person.
 
-The Vote blockchain solves this problem.
+The Vote blockchain solves this problem from day one.
  
 <p>&nbsp</p>
 
