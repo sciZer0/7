@@ -68,17 +68,17 @@ The big problem 3 is that, for now, in the industry, there is the mainstream wro
 
 Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in the network in order to be more resilient to the 51% attacks -- inevitably increasing thereby the total amount of money that users must pay the servants (miners/validators) during each day.
 
-For example, the Solana blockchain or Bitcoin blockchain – on the time when, only theoretically, it might reach a capitalization of $1 trillion – would never allow its users to pay their servants (miners/validators) in total just $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
+For example, the Solana blockchain or Bitcoin blockchain  –   if,  only theoretically,  each of them would reach a market capitalization of $1 trillion – each of them would never allow its users to pay their servants (miners/validators) in total just about say $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
 
-In 2022, when the Bitcoin blockchain capitalization was a lot lower than $1 trillion, the total amount of money that users paid their servants (miners/validators) was over $6 billions.
+In 2022, when the Bitcoin blockchain market capitalization was a lot lower than $1 trillion, the total amount of money that users paid their servants (miners/validators) was over $6 billions.
 
-This all results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes in order to be more resilient to the 51% attacks -- meaning, each of the existing blockchains must always strive to be expensive for users.
+The traditional approach  inevitably  results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes in order to be more resilient to the 51% attacks -- meaning, each of the existing blockchains must always strive to be more expensive for users.
 
 Of course, undoubtedly, the traditional approach is a dead end approach.
 
 For now, increasing overhead (inefficiency) is the target for each of the existing blockchains.
 
-So each of the existing blockchains is inefficient by design, meaning, doomed by design.
+Importantly, each of the existing blockchains is inefficient by design, meaning, doomed by design.
 
 Ideally, a blockchain must use another, more efficient way to build up its "51% attack" resistance, remaining truly-decentralized and truly-democratic.
 
