@@ -29,7 +29,7 @@ When people create something not good enough, there must be absolute freedom for
  
 <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
+The main point of blockchain technology is to just build a permissionless system whose pre-programmed workы is extremely hard – implying, impossible  – to stop.
 
 On the other hand, the main task of developers is to build such a super sustainable working system which is, simultaneously, being maximally efficient.
 
@@ -61,7 +61,7 @@ The Vote blockchain solves this problem.
 <h3 align="center">Big Problem 3</h3>
 
 
-For now, in the industry, there is the mainstream wrong understanding is that there is only one only way for blockchains to build up the "51% attack" resistance:
+The big problem 3 is that, for now, in the industry, there is the mainstream wrong understanding that only one only way is for blockchains to build up the "51% attack" resistance:
 
 **the more nodes in a network, the more resilient this network is to 51% attacks.**
 
