@@ -52,7 +52,7 @@ This is the first blockchain which is extremely hard to surpass/improve in terms
 <b>FROM DAY ONE</b>
 <p>&nbsp</p>
 
-**Motto: Like Bitcoin just better**
+**Motto: Like others just better**
 
 
 # Maximum Supply
