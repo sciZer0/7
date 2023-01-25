@@ -29,9 +29,9 @@ When people create something not good enough, there must be absolute freedom for
  
 <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to just build a permissionless system whose pre-programmed workы is extremely hard – implying, impossible  – to stop.
+The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
 
-On the other hand, the main task of developers is to build such a super sustainable working system which is, simultaneously, being maximally efficient.
+On the other hand, the main task of developers is to build such an unstoppable permissionless system which is, simultaneously, being maximally efficient.
 
 But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
 
@@ -46,26 +46,27 @@ The big problem 1 is the inability of each of the existing blockchains to start 
 
 Even this single problem along negatively affects each project's economy a lot and is SO important that might be considered as the sufficient condition for canceling each of the existing blockchains.
 
-The Vote blockchain solves this problem from day one.
+Ideally, a blockchain must start decreasing its Circulating Supply from day one.
+
+The Vote blockchain ideally solves this problem from day one.
 
 
 <h3 align="center">Big Problem 2</h3>
 
 The big problem 2 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in it turn, always leads to an increase in the total amount of money that the servants (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) receive -- instead, this whole increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) receive -- instead, this whole token increase must be burned.
 
-The Vote blockchain solves this problem from day one.
+The Vote blockchain ideally solves this problem from day one.
 
 
 <h3 align="center">Big Problem 3</h3>
 
-
-The big problem 3 is that, for now, in the industry, there is the mainstream wrong understanding that only one only way is for a blockchain to build up its "51% attack" resistance:
+The big problem 3 is that, for now, in the industry, there is the mainstream wrong belief that only one single way is for a blockchain to build up its "51% attack" resistance:
 
 **the more nodes in a network, the more resilient this network is to 51% attacks.**
 
-Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in the network in order to be more resilient to 51% attacks -- inevitably increasing thereby the total amount of money that users must pay the servants (miners/validators) during each day.
+Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in the network in order to be more resilient to the 51% attacks -- inevitably increasing thereby the total amount of money that users must pay the servants (miners/validators) during each day.
 
 For example, the Solana blockchain or Bitcoin blockchain – on the time when, only theoretically, it might reach a capitalization of $1 trillion – would never allow its users to pay their servants (miners/validators) in total just $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
 
@@ -79,14 +80,18 @@ For now, increasing overhead (inefficiency) is the target for each of the existi
 
 So each of the existing blockchains is inefficient by design, meaning, doomed by design.
 
-The Vote blockchain solves this problem from day one.
+Ideally, a blockchain must use another, more efficient way to build up its "51% attack" resistance, remaining truly-decentralized and truly-democratic.
+
+The Vote blockchain ideally solves this problem from day one.
 
 
 <h3 align="center">Big Problem 4</h3>
 
 The big problem 4 is that on each of the existing blockchains, there are low incentives for validator and developers if calculated per person.
 
-The Vote blockchain solves this problem from day one.
+Ideally, a blockchain must create very generous incentives for validator and developers when calculated per person.
+
+The Vote blockchain ideally solves this problem from day one.
  
 <p>&nbsp</p>
 
