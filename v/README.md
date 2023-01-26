@@ -57,8 +57,6 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 2 is the inability of each of the existing blockchains to start decreasing its Circulating Supply from day one.
 
-Even this single problem along negatively affects each project's economy a lot and is SO important that might be considered as the sufficient condition for canceling each of the existing blockchains.
-
 Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
 The Vote blockchain ideally solves this problem from day one.
