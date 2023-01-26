@@ -79,14 +79,6 @@ The problem 4 is that, for now, in the industry, there is the mainstream wrong b
 
 **the more nodes in a network, the more resilient this network is to a 51% attack.**
 
-The traditional approach  inevitably  results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes in order to be more resilient to a 51% attack -- meaning, each of the existing blockchains must always strive to be more expensive for users.
-
-Of course, undoubtedly, the traditional approach is a dead end approach.
-
-For now, increasing overhead (inefficiency) is the target for each of the existing blockchains.
-
-Importantly, each of the existing blockchains is inefficient by design, meaning, doomed by design.
-
 Ideally, a blockchain must use another, more efficient way to build up its "51% attack" resistance, remaining truly-decentralized and truly-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
