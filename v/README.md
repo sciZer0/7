@@ -70,9 +70,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Big Problem 2</h3>
 
-The big problem 2 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in the total amount of money that the servants (miners/validators) receive during the congestions.
+The big problem 2 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of money that the servants (miners/validators) receive during the congestions -- instead, this whole token increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion — instead, this whole token increase must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
