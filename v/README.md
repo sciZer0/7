@@ -111,14 +111,15 @@ deserves to go away<br>
  
 <p>&nbsp</p>
 
-<h1 align="center">MEET</h1>
+<h2 align="center">Meet with</h2>
 
-<h2 align="center">
-1ST TRULY-DECENTRALIZED & EFFICIENT BLOCKCHAIN</b>
-</h2>
+<h1 align="center">
+FIRST TRULY-DECENTRALIZED &<br>
+TRULY-EFFICIENT BLOCKCHAIN</b>
+</h1>
 <p>&nbsp</p>
 
-This is the first blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
 <p>&nbsp</p>
 
 <p align="left">
