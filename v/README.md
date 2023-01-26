@@ -111,10 +111,10 @@ deserves to go away<br>
  
 <p>&nbsp</p>
 
-<h2 align="center">Meet with</h2>
 
 <h1 align="center">
-FIRST TRULY-DECENTRALIZED &<br>
+Meet<br>
+THE 1ST TRULY-DECENTRALIZED &<br>
 TRULY-EFFICIENT BLOCKCHAIN</b>
 </h1>
 <p>&nbsp</p>
