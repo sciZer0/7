@@ -42,7 +42,7 @@ But not everyone in the industry understands the main point of blockchain techno
 
 
 
-<h1 align="center">Big Problems of Current Blockchain</h1>
+<h1 align="center">Big Problems of Current Blockchains</h1>
 
 <h3 align="center">Big Problem 0</h3>
 
