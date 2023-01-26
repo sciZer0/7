@@ -85,9 +85,9 @@ The big problem 3 is that, for now, in the industry, there is the mainstream wro
 
 Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in the network in order to be more resilient to a 51% attack -- inevitably increasing thereby the total amount of money that users must pay the servants (miners/validators) during each day.
 
-For example, the Solana blockchain or Bitcoin blockchain  –   if,  only theoretically, each of them would reach a market capitalization of $1 trillion – each of them would never allow its users to pay their servants (miners/validators) in total just about say $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.
+*For example, the Solana blockchain or Bitcoin blockchain  –   if,  only theoretically, each of them would reach a market capitalization of $1 trillion – each of them would never allow its users to pay their servants (miners/validators) in total just about say $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.*
 
-In 2022, even when the Bitcoin blockchain market capitalization was a lot lower than $1 trillion, the total amount of money that users paid their servants (miners/validators) was over $6 billions.
+*In 2022, even when the Bitcoin blockchain market capitalization was a lot lower than $1 trillion, the total amount of money that users paid their servants (miners/validators) was over $6 billions.*
 
 The traditional approach  inevitably  results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes in order to be more resilient to a 51% attack -- meaning, each of the existing blockchains must always strive to be more expensive for users.
 
@@ -104,9 +104,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Big Problem 4</h3>
 
-The big problem 4 is that on each of the existing blockchains, there are low incentives for validator and developers if calculated per person.
+The big problem 4 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
-Ideally, a blockchain must create very generous incentives for validator and developers when calculated per person.
+Ideally, a blockchain must create very generous incentives for validators and developers when calculated per person.
 
 The Vote blockchain ideally solves this problem from day one.
 
