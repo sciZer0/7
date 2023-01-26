@@ -159,6 +159,8 @@ The Hand is the smallest unit of the Vote token.
 
 At the start, through a fair airdrop, all 100% of Vote tokens are equally distributed among 1,000,000 people who become Voters (users).
 
+Through a fair airdrop excluding the multi-accounting.
+
 # 50,000 TPS
 
 From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
