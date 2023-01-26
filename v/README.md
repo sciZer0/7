@@ -1,7 +1,12 @@
 
 <h1 align="center">
-NEW BLOCKCHAIN
+IDEA OF NEW BLOCKCHAIN
 </h1>
+
+<p align="center">
+Everything is discussable
+</p>
+
 
 
 <p align="right">
@@ -31,13 +36,25 @@ When people create something not good enough, there must be absolute freedom for
 
 The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
 
-On the other hand, the main task of developers is to build such an unstoppable permissionless system which is, simultaneously, being maximally efficient.
+On the other hand, the main task of developers is to build such an unstoppable permissionless system which is, simultaneously, maximally efficient.
 
 But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
 
 
 
 <h1 align="center">Big Problems of Current Blockchain</h1>
+
+<h3 align="center">Big Problem 0</h3>
+
+The big problem 0 is that we (people) build blockchains the same way as we built states: with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
+
+Of course, declaring the improvement of democracy in the future.
+
+Ideally, exactly people must rule the blockchains.
+
+The Vote blockchain ideally solves this problem from day one.
+
+*For example, on its best times, Solana's regular day was about 30 million transactions per day. At the peak, 65 million. So massive voting by,  say,  1 million voters won't be any problem now in terms of technology.*
 
 
 <h3 align="center">Big Problem 1</h3>
