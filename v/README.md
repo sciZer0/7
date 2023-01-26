@@ -33,7 +33,7 @@ The main point of blockchain technology is to allow to build a permissionless sy
 
 On the other hand, the main task of developers is to build such unstoppable permissionless systems which are, simultaneously, maximally fast and efficient.
 
-Maximally fast and efficient!
+Efficient!
 
 But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
 
