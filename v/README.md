@@ -195,7 +195,7 @@ During each 400-millisecond slot, from the transactions received, the ordered li
 
 If the total amount of all transactions, received but yet not executed, is bigger than the maximum block size (20,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
 
-This approach makes an unfair extracting of value by miners (so-called MEV) more difficult.
+This approach excludes an unfair extraction of value by miners (so-called MEV) on order-book exchanges,  and  greatly reduces this  on AMM exchanges.
 
 
 
