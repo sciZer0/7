@@ -79,6 +79,8 @@ The problem 4 is that, for now, in the industry, there is the mainstream wrong b
 
 **the more nodes in a network, the more resilient this network is to a 51% attack.**
 
+The approach means that increasing overhead (efficiency) is the target for each of the existing blockchains.
+
 Ideally, a blockchain must use another, more efficient way to build up its "51% attack" resistance, remaining truly-decentralized and truly-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
