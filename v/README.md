@@ -50,11 +50,11 @@ The big problem 0 is that we (people) build blockchains the same way as we built
 
 Of course, declaring the improvement of democracy in the future.
 
-Ideally, exactly people (users) must rule the blockchains.
+Ideally, blockchains must to be truly-democratic from day one and exactly people (users) must rule the blockchains.
 
 The Vote blockchain ideally solves this problem from day one.
 
-*For example, on its best times, Solana's regular day was about 30 million transactions per day. At the peak, 65 million. So massive voting by,  say,  1 million voters won't be any problem now in terms of technology.*
+*For example, on its best times, Solana's regular day was about 30 million transactions per day. At the peak, 65 million. So massive voting by, say, 1 million voters isn't any problem now in terms of technology.*
 
 
 <h3 align="center">Big Problem 1</h3>
