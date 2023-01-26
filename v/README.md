@@ -128,7 +128,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · truly-democratic<br>
 <p>&nbsp</p>
 
-**Motto: Like Bitcoin Just Better**
+**Motto: Like Others Just Better**
 
 
 # Maximum Supply
