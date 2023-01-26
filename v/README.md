@@ -9,11 +9,11 @@ Everything is discussable
 
 <p>&nbsp</p>
 
-<p align="right">
-Increasing overhead (inefficiency)<br>
-is the target for each of blockchains<br>
+<h3 align="right">
+Increasing overhead (inefficiency) is<br>
+the target for each of blockchains<br>
 existing on 2023
-</p>
+</h3>
 
 <p>&nbsp</p>
 
@@ -31,22 +31,22 @@ When people create something not good enough, there must be absolute freedom for
 </b>
 </p>
  
- 
 <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to just build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
+The main point of blockchain technology is to allow to build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
 
-On the other hand, the main task of developers is to build such an unstoppable permissionless system which is, simultaneously, maximally fast and efficient.
+On the other hand, the main task of developers is to build such unstoppable permissionless systems which are, simultaneously, maximally fast and efficient.
+
+Maximally fast and efficient!
 
 But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
 
 
+<h1 align="center">5 Problems of Current Blockchains</h1>
 
-<h1 align="center">Problems of Current Blockchains</h1>
+<h3 align="center">Problem 1</h3>
 
-<h3 align="center">Problem 0</h3>
-
-The problem 0 is that we (people) build blockchains the same way as we built states: with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
+The problem 1 is that we (people) build blockchains the same way as we built states: with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
 Of course, declaring the improvement of democracy in the future.
 
@@ -57,9 +57,9 @@ The Vote blockchain ideally solves this problem from day one.
 *For example, on its best times, Solana's regular day was about 30 million transactions per day. At the peak, 65 million. So massive voting by, say, 1 million voters isn't any problem now in terms of technology.*
 
 
-<h3 align="center">Problem 1</h3>
+<h3 align="center">Problem 2</h3>
 
-The problem 1 is the inability of each of the existing blockchains to start decreasing its Circulating Supply from day one.
+The problem 2 is the inability of each of the existing blockchains to start decreasing its Circulating Supply from day one.
 
 Even this single problem along negatively affects each project's economy a lot and is SO important that might be considered as the sufficient condition for canceling each of the existing blockchains.
 
@@ -68,18 +68,18 @@ Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 The Vote blockchain ideally solves this problem from day one.
 
 
-<h3 align="center">Problem 2</h3>
+<h3 align="center">Problem 3</h3>
 
-The problem 2 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion.
+The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion.
 
 Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion — instead, this whole token increase must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
 
-<h3 align="center">Problem 3</h3>
+<h3 align="center">Problem 4</h3>
 
-The problem 3 is that, for now, in the industry, there is the mainstream wrong belief that only one single way is for a blockchain to build up its "51% attack" resistance:
+The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that only one single way is for a blockchain to build up its "51% attack" resistance:
 
 **the more nodes in a network, the more resilient this network is to a 51% attack.**
 
@@ -102,9 +102,9 @@ Ideally, a blockchain must use another, more efficient way to build up its "51% 
 The Vote blockchain ideally solves this problem from day one.
 
 
-<h3 align="center">Problem 4</h3>
+<h3 align="center">Problem 5</h3>
 
-The problem 4 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
+The problem 5 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
 Ideally, a blockchain must create very generous incentives for validators and developers when calculated per person.
 
@@ -122,9 +122,10 @@ deserves to go away<br>
 <p>&nbsp</p>
 
 <h1 align="center">MEET</h1>
-<p align="center">
-THE 1ST TRULY-DECENTRALIZED EFFICIENT BLOCKCHAIN</b><br>
-</p>
+
+<h2 align="center">
+1ST TRULY-DECENTRALIZED & EFFICIENT BLOCKCHAIN</b>
+</h2>
 <p>&nbsp</p>
 
 This is the first blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
