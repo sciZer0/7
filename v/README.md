@@ -19,17 +19,13 @@ existing on 2023
 
 # Our Fundamentals
 
-<p>
-<b>
 Every code created must be open source.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
 And of course, we should be forming a donation culture for giving thanks in tokens to the creators of ideas and code.<br>
 
-When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.<br>
-</b>
-</p>
+When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.
  
 <h1 align="center">Abstract</h1>
 
@@ -70,9 +66,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion.
+The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the total amount of tokens that the servants (miners/validators) receive during the time including the congestion — instead, this whole token increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -82,12 +78,6 @@ The Vote blockchain ideally solves this problem from day one.
 The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that only one single way is for a blockchain to build up its "51% attack" resistance:
 
 **the more nodes in a network, the more resilient this network is to a 51% attack.**
-
-Despite the fact that the increase in the number of nodes doesn’t increase the network's bandwidth, each blockchain nevertheless strives to increase the number of nodes in the network in order to be more resilient to a 51% attack -- inevitably increasing thereby the total amount of money that users must pay the servants (miners/validators) during each day.
-
-*For example, the Solana blockchain or Bitcoin blockchain  –   if,  only theoretically, each of them would reach a market capitalization of $1 trillion – each of them would never allow its users to pay their servants (miners/validators) in total just about say $500,000,000 a year or less, while the Vote blockchain can do it, remaining truly-decentralized and truly-democratic.*
-
-*In 2022, even when the Bitcoin blockchain market capitalization was a lot lower than $1 trillion, the total amount of money that users paid their servants (miners/validators) was over $6 billions.*
 
 The traditional approach  inevitably  results in the fact that each of the existing blockchains must always strive to have lots of lots of profitable nodes in order to be more resilient to a 51% attack -- meaning, each of the existing blockchains must always strive to be more expensive for users.
 
