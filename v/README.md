@@ -56,7 +56,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 2</h3>
 
-The problem 2 is the inability of each of the existing blockchains to start decreasing its Circulating Supply from day one.
+The problem 2 is the inability of each of the existing blockchains to really start decreasing its Circulating Supply.
 
 Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
