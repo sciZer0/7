@@ -221,9 +221,9 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 
 
-<h1>9 &nbsp Incentives for Contributors</h1>
+<h1>9 &nbsp Cluster</h1>
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving generous donations – up to $5 million annually per person.
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which can be rotated by users and therefore constantly is competing for their position very hard because they may be recieving very generous donations – up to $5 million annually per person.
 
 > Generous donations:<br>
 > Up to $5 million annually per person.
@@ -236,13 +236,13 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to peo
 
 Automated Donations are a part of a donation culture.
 
-From the start, the monthly rate of Automated Donations is 0.05% from each account's balance and  the donors (Voters) can change ithe rate monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
+From the start, the monthly rate of Automated Donations is 0.05% from each account's balance and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 
 
 <h1>11 &nbsp Voting System</h1>
 
-The blockchain’s democratic system consists of the following elements:
+The Vote blockchain’s democratic system consists of the following elements:
 
 * Competitive Quadratic Voting System (in-built)
 * Hyde Park
