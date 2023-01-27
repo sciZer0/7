@@ -300,7 +300,7 @@ The applicant (person) in order to prove their qualification and usefulness for 
 
 
 
-<h1>13 &nbsp Proposals</h1>
+<h1>13 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
