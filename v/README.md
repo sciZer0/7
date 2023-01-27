@@ -35,7 +35,7 @@ When people create something not good enough, there must be absolute freedom for
 
 The main point of blockchain technology is to allow people to build permissionless systems whose pre-programmed works are extremely hard – at best, impossible  – to stop.
 
-On the other hand, the main task of developers is to build the unstoppable permissionless systems which are fast and efficient as much as possible.
+On the other hand, the main task of developers is to build the unstoppable permissionless systems which are,  simultaneously, as fast and efficient as possible.
 
  
 
