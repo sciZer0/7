@@ -192,7 +192,25 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 
 
+<h1 align="center">Hypothesis</h1>
 
+
+The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, which are constantly rotated by users and competing for their positions very hard, are the sufficient condition for a blockchain to be considered truly-decentralized.
+
+100 or 150, discussable.
+
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard.
+
+As a result, the Vote blockchain from day one:
+
+* can afford very generous incentives for validators and developers when calculated per person<br>
+* can afford Decreasing Circulating Supply<br>
+* can afford free transactions<br>
+* isn’t under control of any single entity<br>
+* is highly resilient to a 51% attack<br>
+* has High Partition Tolerance<br>
+* has the ability to restore to 100 or more truly-decentralized validators<br>
+* is highly efficient<br>
 
 
 
