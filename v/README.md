@@ -107,13 +107,11 @@ Actually, there are many more problems.
 
 <p align="center">
 Probably<br>
-each of blockchains existing on 2023<br>
+each blockchain existing on 2023<br>
 deserves to go away.<br>
 </p>
-
  
 <p>&nbsp</p>
-
 
 <h1 align="center">
 Meet<br>
