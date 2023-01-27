@@ -11,7 +11,7 @@ Everything is discussable
 
 <h3 align="right">
 Increasing overhead (inefficiency) is<br>
-the target for each of blockchains<br>
+the target for each blockchain<br>
 existing on 2023
 </h3>
 
