@@ -239,5 +239,57 @@ The blockchain’s democratic system consists of the following elements:
 * Hyde Park
 
 
+# Competitive Quadratic Voting
+
+The enormous benefit from voting, among others, is as follows below.
+
+**The more tokens are being locked for voting, the less tokens in real circulation.**
+
+On the Vote blockchain, voting on each proposal lasts 30 days (6,480,000 slots).
+
+The “competitive” word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously some number of Voters may be placing their AGAINST bets.
+
+The best decisions must overcome the Voting Power of rivals.
+
+For example, while voting on a proposal — for example, on appointing a certain person (Public Address) on the position of Validator-Developer — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+
+The “quadratic” word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
+
+For example, 
+
+if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
+if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
+if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
+
+and so on.
+
+At the last slot (during each voting), all the Voting Power of the FOR bets are summarized and all the Voting Power of the AGAINST bets also are summarized.
+
+Plus, each decision is made by a margin of 5% – in other words, the Mandatory Margin is 5%.
+
+For example, if a vote on appointing a certain person (Public Address) on the position of Validator-Developer has accumulated in total:
+
+for: 210,000,000,000 Voting Power
+against: 180,000,000,000 Voting Power
+
+then,
+
+the Voting Margin is 16.67%
+(210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67
+
+16.67% > 5%.
+
+Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
+
+# Proposals
+
+The Decisions are made on the following Proposals:
+
+* on appointing a person (possibly anonymous) to the position of the Validator-Developer (100 positions)
+* on dismissing a person (possibly anonymous) from the position of the Validator-Developer.
+* on increasing the rate of Tax
+* on decreasing the rate of Tax
+
+The Appointing/Dismissing Proposal is just a specific wallet address (the public key of a keypair) which is associated with a certain person (possibly anonymous), relying on the person’s declaring. The given address, among other things, participates in the automatic distribution of donations from the Annual Donation Fund formed yearly by Users through Vote token donations.
 
 
