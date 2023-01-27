@@ -203,6 +203,8 @@ On the Vote blockchain, there are always about 100 truly-decentralized (truly-au
 
 As a result, the Vote blockchain from day one:
 
+* is truly-decentralized<br>
+· is truly-democratic<br>
 * can afford very generous incentives for validators and developers when calculated per person<br>
 * can afford Decreasing Circulating Supply<br>
 * can afford free transactions<br>
