@@ -56,9 +56,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the contributors (miners/validators) receive.
+The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the contributors (miners/validators) receive — instead, this whole token increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -223,17 +223,20 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 <h1>9 &nbsp Incentives for Contributors</h1>
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving great donations – up to $5 million annually per person.
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving generous donations – up to $5 million annually per person.
+
+> Generous donations:<br>
+> Up to $5 million annually per person.
 
 
 
 <h1>10 &nbsp Automated Donations</h1>
 
-On the Vote Blockchain, there are Automated Donations for donating tokens to people for their contribution to the Vote blockchain.
+On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
 
 Automated Donations are a part of a donation culture.
 
-From the start, the rate of Automated Donations is 0.05% from each account's balance and then the donors (Voters) can change it monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
+From the start, the monthly rate of Automated Donations is 0.05% from each account's balance and  the donors (Voters) can change ithe rate monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
 
 
 
