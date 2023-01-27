@@ -27,8 +27,10 @@ And of course, we should be forming a donation culture for giving thanks in toke
 
 When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.
  
+<p>&nbsp</p>
+ <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
- 
+<p>&nbsp</p>
  <h1 align="center">Abstract</h1>
 
 The main point of blockchain technology is to allow people to build permissionless systems whose pre-programmed works are extremely hard – at best, impossible  – to stop.
@@ -235,9 +237,9 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 
 
-<h1>9 &nbsp Cluster</h1>
+<h1>9 &nbsp System's Sustainability</h1>
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which can be rotated by users and therefore constantly is competing for their position very hard because they may be recieving very generous donations – up to $5 million annually per person.
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which is constantly competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or  can be replaced with another validator, by Voters (users).
 
 > Generous donations:<br>
 > Up to $5 million annually per person.
