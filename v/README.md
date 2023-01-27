@@ -239,7 +239,7 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 <h1>9 &nbsp Sustainability & Efficiency</h1>
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which is constantly competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or may be replaced with another validator, by Voters (users).
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which is constantly competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or may be replaced with a new validator, by Voters (users).
 
 > Generous donations:<br>
 > Up to $5 million annually per person.
@@ -260,6 +260,10 @@ From the start, the monthly rate of Automated Donations is 0.05% from each accou
 
 <h1>11 &nbsp Voting System</h1>
 
+The enormous benefit from voting, among others, is as follows,
+
+> **The more tokens are being locked for voting, the less tokens in real circulation.**
+
 The Vote blockchain’s democratic system consists of the following elements:
 
 * Competitive Quadratic Voting System (in-built)
@@ -267,21 +271,17 @@ The Vote blockchain’s democratic system consists of the following elements:
 
 
 
-<h1>12 &nbsp Competitive Quadratic Voting</h1>
+<h1>12 &nbsp Competitive Quadratic Voting System</h1>
 
-The enormous benefit from voting, among others, is as follows below.
+On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
 
-> **The more tokens are being locked for voting, the less tokens in real circulation.**
-
-On the Vote blockchain, voting on each proposal lasts 30 days (6,480,000 slots).
-
-The “competitive” word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously some number of Voters may be placing their AGAINST bets.
+The "competitive" word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously some number of Voters may be placing their AGAINST bets.
 
 The best decisions must overcome the Voting Power of rivals.
 
 For example, while voting on a proposal — for example, on appointing a certain person (Public Address) on the position of Validator-Developer — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
-The “quadratic” word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
+The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
 
 For example, 
 
