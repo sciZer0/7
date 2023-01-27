@@ -56,9 +56,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the contributors (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the contributors (miners/validators) receive — instead, this whole token increase must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -208,7 +208,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 For reference,
 
-For just one single year (2022), users of the Bitcoin blockchain paid their servants (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.
+For just one single year (2022), users of the Bitcoin blockchain paid their contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.
 
 Also for reference, 
 
@@ -303,7 +303,3 @@ The applicant (person) in order to prove their qualification and usefulness for 
 <h1>13 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
-
-
-
-
