@@ -31,12 +31,11 @@ When people create something not good enough, there must be absolute freedom for
  
  <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to allow to build a permissionless system whose pre-programmed work is extremely hard – at best, impossible  – to stop.
+The main point of blockchain technology is to allow people to build a permissionless system whose pre-programmed work is extremely hard – at best, impossible  – to stop.
 
-On the other hand, the main task of developers is to build the unstoppable permissionless systems, each of which, simultaneously, is maximally fast and efficient.
+On the other hand, the main task of developers is to build the unstoppable permissionless systems which are fast and efficient as much as possible.
 
  
-
 
 <h1 align="center">5 Problems of Current Blockchains</h1>
 
@@ -94,16 +93,22 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 5 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
-Ideally, a blockchain must create very generous incentives for validators and developers when calculated per person.
+Ideally, a blockchain must create very generous incentives for validators and developers when calculated per person -- in order to be a more sustainable working system.
 
 The Vote blockchain ideally solves this problem from day one.
 
 <p>&nbsp</p>
 
 <p align="center">
+Actually, there are many more problems.
+</p>
+
+<p>&nbsp</p>
+
+<p align="center">
 Probably<br>
 each of blockchains existing on 2023<br>
-deserves to go away<br>
+deserves to go away.<br>
 </p>
 
  
@@ -117,8 +122,11 @@ TRULY-EFFICIENT BLOCKCHAIN</b>
 </h1>
 <p>&nbsp</p>
 
+<h3 align="left">
 This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+</h3>
 <p>&nbsp</p>
+
 
 <p align="left">
   <img src="/assets/images/vote.png" height="100"><br>
