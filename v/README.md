@@ -231,7 +231,7 @@ Also for reference,
 * 90% of the Bitcoin hashrate is controlled by 11 miner pools;
 * 90% of the Ethereum hashrate is controlled by 16 miner pools.
 
-The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, which are constantly rotated by users and competing for their positions very hard, are the sufficient condition for a blockchain to be considered truly-decentralized.
+The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, which are constantly rotated by users and competing for their positions very hard, are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 
 100 or 150, discussable.
 
