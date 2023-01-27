@@ -209,8 +209,9 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard.
 
-As a result, the Vote blockchain from day one:
+As a total result, the Vote blockchain from day one:
 
+* is with 50,000 TPS
 * is truly-decentralized<br>
 * is truly-democratic<br>
 * can afford very generous incentives for validators and developers when calculated per person<br>
@@ -220,6 +221,22 @@ As a result, the Vote blockchain from day one:
 * has High Partition Tolerance<br>
 * has the ability to restore to 100 or more truly-decentralized validators<br>
 * is highly efficient<br>
+
+
+
+# Tax
+
+On the Vote Blockchain, there is a tax, the Governance Token Tax (GTT) being charged automatically and monthly.
+
+From the start, the rate of the GTT is 0.05% on each account's balance and then Voters can change it monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
+
+
+# Voting System
+
+The blockchain’s democratic system consists of the following elements:
+
+* Competitive Quadratic Voting System (in-built)
+* Hyde Park
 
 
 
