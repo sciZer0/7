@@ -194,6 +194,14 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <h1 align="center">Hypothesis</h1>
 
+For reference,
+
+For just one single year (2022), users of the Bitcoin blockchain paid their servants (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.
+
+Also for reference, 
+
+* 90% of the Bitcoin hashrate is controlled by 11 miner pools;
+* 90% of the Ethereum hashrate is controlled by 16 miner pools.
 
 The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, which are constantly rotated by users and competing for their positions very hard, are the sufficient condition for a blockchain to be considered truly-decentralized.
 
@@ -204,11 +212,10 @@ On the Vote blockchain, there are always about 100 truly-decentralized (truly-au
 As a result, the Vote blockchain from day one:
 
 * is truly-decentralized<br>
-· is truly-democratic<br>
+* is truly-democratic<br>
 * can afford very generous incentives for validators and developers when calculated per person<br>
 * can afford Decreasing Circulating Supply<br>
 * can afford free transactions<br>
-* isn’t under control of any single entity<br>
 * is highly resilient to a 51% attack<br>
 * has High Partition Tolerance<br>
 * has the ability to restore to 100 or more truly-decentralized validators<br>
