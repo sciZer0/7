@@ -27,15 +27,7 @@ And of course, we should be forming a donation culture for giving thanks in toke
 
 When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.
  
-<h1 align="center">Abstract</h1>
-
-The main point of blockchain technology is to allow to build a permissionless system whose pre-programmed work is extremely hard – implying, impossible  – to stop.
-
-On the other hand, the main task of developers is to build such unstoppable permissionless systems which are, simultaneously, maximally fast and efficient.
-
-Efficient!
-
-But not everyone in the industry understands the main point of blockchain technology and the main task of developers.
+ 
 
 
 <h1 align="center">5 Problems of Current Blockchains</h1>
@@ -71,19 +63,23 @@ Ideally, network congestions, inevitably leading to an increase in gas prices, m
 The Vote blockchain ideally solves this problem from day one.
 
 
+
+
 <h3 align="center">Problem 4</h3>
 
-The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that only one single approach is for a blockchain to build up its "51% attack" resistance:
+The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that there is only one single way  for a blockchain to build up its "51% attack" resistance:
 
-**the more nodes in a network, the more resilient this network is to a 51% attack.**
+**the more nodes in a blockchain, the more resilient this blockchain is to a 51% attack.**
 
-At the same time, the increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
+At the same time, the increase in a number of nodes in a blockchain doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-The approach means that increasing overhead (efficiency) is the target for each of the existing blockchains.
+Actually, such a way means that increasing overhead (efficiency) is the target for each of the existing blockchains.
 
 Ideally, a blockchain must use another, more efficient way to build up its "51% attack" resistance, remaining truly-decentralized and truly-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
+
+
 
 
 <h3 align="center">Problem 5</h3>
