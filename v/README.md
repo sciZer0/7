@@ -12,7 +12,7 @@ Everything is discussable
 <h3 align="right">
 Increasing overhead (inefficiency) is<br>
 the target for each blockchain<br>
-existing on 2023
+existing in 2023
 </h3>
 
 <p>&nbsp</p>
@@ -109,7 +109,7 @@ Actually, there are many more problems.
 
 <p align="center">
 Probably<br>
-each blockchain existing on 2023<br>
+each blockchain existing in 2023<br>
 deserves to go away.<br>
 </p>
  
