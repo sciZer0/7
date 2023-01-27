@@ -129,7 +129,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 **Motto: Like Others Just Better**
 
 
-# Maximum Supply
+# 1 Maximum Supply
 
 Maximum Supply is 10,000,000 Vote tokens.
 
@@ -137,17 +137,17 @@ Each Vote token is divided into 100,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
-# 1 Million Users, Unprecedented Full-Scale Distribution
+# 2 Unprecedented Full-Scale Distribution
 
-At the start, through a fair airdrop,  Maximum Supply — all 100% of Vote tokens — is equally distributed among 1,000,000 people who become Voters (users).
+At the start, through a fair airdrop,  the whole Maximum Supply — all 100% of Vote tokens — is equally distributed among 1,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
-# 50,000 TPS
+# 3 50,000 TPS
 
 From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
-# Free Transactions
+# 4 Free Transactions
 
 There are no Gas fees for simple transactions, meaning, it is a freemium model blockchain.
 
@@ -157,11 +157,11 @@ Simply put, this includes, among other cases, that each transfer of tokens from 
 
 *An user, if there is congestion (if ever), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.*
 
-# Possible DDoS/Spam Attacks
+# 5 Possible DDoS/Spam Attacks
 
 Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done in relation to other possible DDoS/Spam attacks that can, for example, be requesting the Block Height.
 
-# Gas Fees
+# 6 Gas Fees
 
 Users pay Gas Fees only for some sorts of transactions.
 
@@ -169,7 +169,7 @@ Specifically, an user pays a Gas fee for deploying a smart contract and for maki
 
 Gas fees are paid in the Vote token (in Hands).
 
-# Order of Transactions in Each Block
+# 7 Order of Transactions in Each Block
 
 During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum 20,000) is automatically formed in the following order:
 
@@ -183,7 +183,7 @@ This approach greatly reduces an extraction of value done by miners (so-called M
 
 
 
-# Decreasing Circulating Supply
+# 8 Decreasing Circulating Supply
 
 From the start, all Gas fees, received on each block, are burned, resulting in a decrease of  the Vote token's Circulating Supply.
 
@@ -207,10 +207,10 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 100 or 150, discussable.
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving great donations.
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving great donations: up to $5 million annually.
 
 
-# Automated Donations
+# 9 Automated Donations
 
 On the Vote Blockchain, there are Automated Donations for donating tokens to people for their contribution to the Vote blockchain.
 
@@ -219,7 +219,7 @@ Automated Donations are a part of a donation culture.
 From the start, the rate of Automated Donations is 0.05% from each account's balance and then the donors (Voters) can change it monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
 
 
-# Voting System
+# 10 Voting System
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -227,7 +227,7 @@ The blockchain’s democratic system consists of the following elements:
 * Hyde Park
 
 
-# Competitive Quadratic Voting
+# 11 Competitive Quadratic Voting
 
 The enormous benefit from voting, among others, is as follows below.
 
@@ -269,7 +269,7 @@ the Voting Margin is 16.67%
 
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
 
-# Proposals
+# 12 Proposals
 
 The Decisions are made on the following Proposals:
 
@@ -281,12 +281,12 @@ The Appointing/Dismissing Proposal is just a specific Public Address (the public
 
 The applicant (person) in order to prove their qualification and usefulness for the Vote blockchain, can use Hyde Park.
 
-# Hyde Park
+# 13 Hyde Park
 
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
 
-# Incentives for Developers
+# 14 Incentives for Developers
 
 On the Vote blockchain, there are 100 positions of Validator-Developer.
 
