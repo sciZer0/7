@@ -80,7 +80,7 @@ The problem 4 is that, for now, in the industry, there is the mainstream wrong b
 
 **the more nodes in a blockchain, the more resilient this blockchain is to a 51% attack.**
 
-At the same time, the increase in a number of nodes in a blockchain doesn't increase the blockchain's bandwidth proportionally, if ever.
+At the same time, the increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
 Actually, such a way means that increasing overhead (efficiency) is the target for each of the existing blockchains.
 
