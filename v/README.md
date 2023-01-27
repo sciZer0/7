@@ -252,7 +252,7 @@ The total donation budget, even at its maximum, is just about $500 million, rega
 
 On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
 
-Automated Donations are a part of a donation culture.
+Automated Donations are an element of a donation culture.
 
 From the start, the monthly rate of Automated Donations is 0.05% from each account's balance and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
