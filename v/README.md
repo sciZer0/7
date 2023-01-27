@@ -139,7 +139,7 @@ The Hand is the smallest unit of the Vote token.
 
 # 1 Million Users, Unprecedented Full-Scale Distribution
 
-At the start, through a fair airdrop, all 100% of Vote tokens are equally distributed among 1,000,000 people who become Voters (users).
+At the start, through a fair airdrop,  Maximum Supply — all 100% of Vote tokens — is equally distributed among 1,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
