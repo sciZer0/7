@@ -165,7 +165,7 @@ Possible DDoS/Spam attacks, due to the fact that all simple transactions are fre
 
 Users pay Gas Fees only for some sorts of transactions.
 
-Specifically, users pay Gas fees for deploying smart contracts and for making transactions with smart contracts.
+Specifically, an user pays a Gas fee for deploying a smart contract and for making a transaction involving a smart contract.
 
 Gas fees are paid in the Vote token (in Hands).
 
@@ -185,9 +185,7 @@ This approach greatly reduces an extraction of value done by miners (so-called M
 
 # Decreasing Circulating Supply
 
-From the start, all Gas fees, received during each slot, are burned, resulting in decreasing the Circulating Supply of Vote token.
-
-This is for the first time ever, unique in the industry, that decreasing Circulating Supply starts from day one.
+From the start, all Gas fees, received on each block, are burned, resulting in a decrease of  the Vote token's Circulating Supply.
 
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of Vote Token over time.
 
