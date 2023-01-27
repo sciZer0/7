@@ -28,6 +28,14 @@ And of course, we should be forming a donation culture for giving thanks in toke
 When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.
  
  
+ 
+ <h1 align="center">Abstract</h1>
+
+The main point of blockchain technology is to allow to build a permissionless system whose pre-programmed work is extremely hard – at best, impossible  – to stop.
+
+On the other hand, the main task of developers is to build the unstoppable permissionless systems, each of which, simultaneously, is maximally fast and efficient.
+
+ 
 
 
 <h1 align="center">5 Problems of Current Blockchains</h1>
