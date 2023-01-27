@@ -243,7 +243,7 @@ The blockchain’s democratic system consists of the following elements:
 
 The enormous benefit from voting, among others, is as follows below.
 
-**The more tokens are being locked for voting, the less tokens in real circulation.**
+> **The more tokens are being locked for voting, the less tokens in real circulation.**
 
 On the Vote blockchain, voting on each proposal lasts 30 days (6,480,000 slots).
 
@@ -257,9 +257,9 @@ The “quadratic” word, in its turn, means that the Voting Power of each bet i
 
 For example, 
 
-if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
-if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
-if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
+* if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
+* if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
+* if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
 
 and so on.
 
@@ -287,9 +287,9 @@ The Decisions are made on the following Proposals:
 
 * on appointing a person (possibly anonymous) to the position of the Validator-Developer (100 positions)
 * on dismissing a person (possibly anonymous) from the position of the Validator-Developer.
-* on increasing the rate of Tax
-* on decreasing the rate of Tax
+* on changing – either increasing or decreasing – the rate of the GTT by 5% 
 
-The Appointing/Dismissing Proposal is just a specific wallet address (the public key of a keypair) which is associated with a certain person (possibly anonymous), relying on the person’s declaring. The given address, among other things, participates in the automatic distribution of donations from the Annual Donation Fund formed yearly by Users through Vote token donations.
+
+The Appointing/Dismissing Proposal is just a specific Public Address (the public key of a keypair) which is associated with a certain person (possibly anonymous), relying on the person’s declaring. 
 
 
