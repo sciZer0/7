@@ -237,12 +237,14 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 
 
-<h1>9 &nbsp System's Sustainability</h1>
+<h1>9 &nbsp Sustainability & Efficiency</h1>
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which is constantly competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or  can be replaced with another validator, by Voters (users).
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which is constantly competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or may be replaced with another validator, by Voters (users).
 
 > Generous donations:<br>
 > Up to $5 million annually per person.
+
+The total donation budget, even at its maximum, is just about $500 million, regardless of the increase in the blockchain's market capitalization.
 
 
 
