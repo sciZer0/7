@@ -207,28 +207,16 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 100 or 150, discussable.
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard.
-
-As a total result, the Vote blockchain from day one:
-
-* is with 50,000 TPS
-* is truly-decentralized<br>
-* is truly-democratic<br>
-* can afford very generous incentives for validators and developers when calculated per person<br>
-* can afford Decreasing Circulating Supply<br>
-* can afford free transactions<br>
-* is highly resilient to a 51% attack<br>
-* has High Partition Tolerance<br>
-* has the ability to restore to 100 or more truly-decentralized validators<br>
-* is highly efficient<br>
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving great donations.
 
 
+# Automated Donations
 
-# Tax
+On the Vote Blockchain, there are Automated Donations for donating tokens to people for their contribution to the Vote blockchain.
 
-On the Vote Blockchain, there is a tax, the Governance Token Tax (GTT) being charged automatically and monthly.
+Automated Donations are a part of a donation culture.
 
-From the start, the rate of the GTT is 0.05% on each account's balance and then Voters can change it monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
+From the start, the rate of Automated Donations is 0.05% from each account's balance and then the donors (Voters) can change it monthly – either increase or decrease – by 5% through Competitive Quadratic Voting. 
 
 
 # Voting System
@@ -289,7 +277,20 @@ The Decisions are made on the following Proposals:
 * on dismissing a person (possibly anonymous) from the position of the Validator-Developer.
 * on changing – either increasing or decreasing – the rate of the GTT by 5% 
 
-
 The Appointing/Dismissing Proposal is just a specific Public Address (the public key of a keypair) which is associated with a certain person (possibly anonymous), relying on the person’s declaring. 
 
+The applicant (person) in order to prove their qualification and usefulness for the Vote blockchain, can use Hyde Park.
 
+# Hyde Park
+
+Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
+
+
+# Incentives for Developers
+
+On the Vote blockchain, there are 100 positions of Validator-Developer.
+
+Annual Donation
+Anua
+
+Any needed rules and incentives can be enforced with the Vote blockchain..
