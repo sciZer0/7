@@ -104,7 +104,7 @@ deserves to go away<br>
 
 <h1 align="center">
 Meet<br>
-THE 1ST TRULY-DECENTRALIZED &<br>
+FIRST TRULY-DECENTRALIZED &<br>
 TRULY-EFFICIENT BLOCKCHAIN</b>
 </h1>
 <p>&nbsp</p>
@@ -142,7 +142,7 @@ The Hand is the smallest unit of the Vote token.
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
 
-At the start, through a fair airdrop,  the whole Maximum Supply — all 100% of Vote tokens — is equally distributed among 1,000,000 people who become Voters (users).
+At the start, through a fair airdrop, 100% of Vote tokens are equally distributed for free among 1,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
@@ -219,11 +219,15 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 100 or 150, discussable.
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving great donations: up to $5 million annually.
+
+
+<h1>9 &nbsp Incentives for Contributors</h1>
+
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators which are constantly rotated by users and competing for their positions very hard since they may be recieving great donations – up to $5 million annually per person.
 
 
 
-<h1>9 &nbsp Automated Donations</h1>
+<h1>10 &nbsp Automated Donations</h1>
 
 On the Vote Blockchain, there are Automated Donations for donating tokens to people for their contribution to the Vote blockchain.
 
@@ -233,7 +237,7 @@ From the start, the rate of Automated Donations is 0.05% from each account's bal
 
 
 
-<h1>10 &nbsp Voting System</h1>
+<h1>11 &nbsp Voting System</h1>
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -242,7 +246,7 @@ The blockchain’s democratic system consists of the following elements:
 
 
 
-<h1>11 &nbsp Competitive Quadratic Voting</h1>
+<h1>12 &nbsp Competitive Quadratic Voting</h1>
 
 The enormous benefit from voting, among others, is as follows below.
 
@@ -286,7 +290,7 @@ Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the d
 
 
 
-<h1>12 &nbsp Proposals</h1>
+<h1>13 &nbsp Proposals</h1>
 
 The Decisions are made on the following Proposals:
 
@@ -300,6 +304,6 @@ The applicant (person) in order to prove their qualification and usefulness for 
 
 
 
-<h1>13 &nbsp Hyde Park</h1>
+<h1>14 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
