@@ -223,11 +223,12 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 
 
+<p>&nbsp</p>
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
 
-**New Approach to Consensus**
+# New Approach to Consensus
 
 This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing hash-works (unlike POW). 
 
@@ -265,9 +266,9 @@ So we might, for example, just drop out the Solana's stake-weighted selection al
 Importantly, there is no problem to exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
 
 
-**Decentralization which is sufficient**
+# Decentralization which is sufficient
 
-For reference,
+*For reference,
 
 * 90% of the Bitcoin hashrate is controlled by 11 miner pools;
 * 90% of the Ethereum hashrate is controlled by 16 miner pools.*
@@ -278,14 +279,18 @@ when Validators are competing very hard for being in the list in order to be rec
 
 then the 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 
-**Efficient Decentralization**
+This is the decentralization which is sufficient.
+
+
+# Efficient Decentralization
 
 Even creating such very generous incentives for Validators, the total donation budget for 100 Validators, even at the maximum of the blockchain's market capitalization of say $1 trillion, might be just about $500 million.
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid their contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.*
 
+The qustion arises -- how much might the users of the Bitcoin blockchain pay the contributors (miners/validators) during a year  when the Bitcoin blockchain's market capitalizatin (only theoretecally)  would be $1 trillion.
 
 
 <h1>10 &nbsp Automated Donations</h1>
