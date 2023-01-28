@@ -43,7 +43,9 @@ On the other hand, the main task of developers is to build the unstoppable permi
 
 <h3 align="center">Problem 1</h3>
 
-The problem 1 is that we (people) build blockchains the same way as we built states: with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
+The problem 1 is that we (people) build blockchains the same way as we built states: 
+
+with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
 Of course, declaring the improvement of democracy in the future.
 
@@ -51,7 +53,7 @@ Ideally, blockchains must to be truly-democratic from day one and exactly people
 
 The Vote blockchain ideally solves this problem from day one.
 
-*For example, on its best times, Solana's regular day was about 30 million transactions per day. At the peak, 65 million. So massive voting by, say, 1 million voters isn't any problem now in terms of technology.*
+**For reference, Solana's routine -- on its best times -- was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.**
 
 
 <h3 align="center">Problem 2</h3>
@@ -76,15 +78,19 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 4</h3>
 
-The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that there is only one single way  for a blockchain to build up its "51% attack" resistance:
+The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
-**the more nodes in a blockchain, the more resilient this blockchain is to a 51% attack.**
+to  increase in a number of honest nodes in the blockchain.
+
+The motto is something like: 
+
+the more nodes in a blockchain, the more resilient this blockchain is to a 51% attack.
 
 At the same time, the increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, such a way means that increasing overhead (efficiency) is the target for each of the existing blockchains.
+Actually, such an approach means that increasing overhead (efficiency) is the target for each of the existing blockchains.
 
-Ideally, a blockchain must use another, more efficient way to build up its "51% attack" resistance, remaining truly-decentralized and truly-democratic.
+Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance -- of course, remaining truly-decentralized and truly-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
 
