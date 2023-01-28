@@ -33,10 +33,10 @@ When people create something not good enough, there must be absolute freedom for
 <p>&nbsp</p>
  <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to allow people to build permissionless systems whose pre-programmed works are extremely hard – at best, impossible  – to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems whose pre-programmed works are extremely hard – at best, impossible  – to stop.
 
-On the other hand, the main task of developers is to build the unstoppable permissionless systems which are,  simultaneously, as fast and efficient as possible.
-
+On the other hand, the main task of developers is to build these systems such swift and efficient as possible.
+ 
  
 
 <h1 align="center">5 Problems of Current Blockchains</h1>
@@ -69,7 +69,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
