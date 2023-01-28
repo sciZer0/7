@@ -226,26 +226,12 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
-**Decentralization which is sufficient**
-
-For reference,
-
-For just one single year (2022), users of the Bitcoin blockchain paid their contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.
-
-Also for reference, 
-
-* 90% of the Bitcoin hashrate is controlled by 11 miner pools;
-* 90% of the Ethereum hashrate is controlled by 16 miner pools.
-
-The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, which are constantly rotated by users and competing for their positions very hard, are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
-
-100 or 150, discussable.
 
 **New Approach to Consensus**
 
 This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing hash-works (unlike POW). 
 
-Nevertheless, approach incudes Proof-Of-History:  but Proof-Of-History without stakes.
+Nevertheless, the approach includes Solana's Proof-Of-History -- but Proof-Of-History without stakes.
 
 
 For reference.
@@ -262,29 +248,43 @@ All other Validators are only verifying the work of the leadr-Validator.
 
 So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
 
-Each leader-Validator is automatically chosen from the full list of all current Validators and then is rotated with another Validator according to a leader schedule calculated also automatically.
+Each leader-Validator is automatically chosen (calculated) from the full list of all current Validators by a stake-weighted selection algorithm and then is rotated with another Validator according to a leader schedule calculated also automatically.
 
-The idea is that when for a Validator there is no need to have significant money and put it as the stake, and when for the same Validator there are generous incentives (say, $5 million annually), this Validator will work honestly. Properly.
+Importantly, at any given moment, there is the list of all current Validators, meaning,  any Validator being out of the list cannot participate in the work.
 
-So we might, for example, just drop out the Solana's stake-weighted selection algorithm to automatically select the leader-Validator, replacing it with a random number selection algorithm.
+The hypothesis/idea is that 
 
-The idea is that when for Validators there is no need to have significant money and put it as the stake, and when for the same Validators there are generous incentives (say, $5 million annually per person), these Validators will work honestly. Properly.
+when for a Validator being in the list, there is no need to have significant money and put it as the stake, and 
 
-Importantly, there is no problem to exclude any Validator which would just try doing something wrong and replace it with any other of the waiting list of persons who are wanting to become Validators for getting the generous incentives.
+when for the same Validator, there are very generous incentives to work properly (say, $5 million annually), 
+
+then this Validator from the list will work properly. Honestly.
+
+So we might, for example, just drop out the Solana's stake-weighted selection algorithm to automatically select the leader-Validator from the list, replacing it with a random number selection algorithm.
+
+Importantly, there is no problem to exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
 
 
+**Decentralization which is sufficient**
 
+For reference,
 
-<h1>9 &nbsp Sustainability & Efficiency</h1>
+* 90% of the Bitcoin hashrate is controlled by 11 miner pools;
+* 90% of the Ethereum hashrate is controlled by 16 miner pools.*
 
+The hypothesis/idea is that
 
+when Validators are competing very hard for being in the list in order to be receiving the very generous incentives
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) Validator-Developers, each of which is competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or may be replaced with a new validator, by Voters (users).
+then the 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 
-> Generous donations:<br>
-> Up to $5 million annually per person.
+**Efficient Decentralization**
 
-Even with such generous incentives for Validators, the total donation budget, even at the maximum of the blockchain's market capitalization, is just about $500 million.
+Even creating such very generous incentives for Validators, the total donation budget for 100 Validators, even at the maximum of the blockchain's market capitalization of say $1 trillion, might be just about $500 million.
+
+*For reference,*
+
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid their contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.*
 
 
 
