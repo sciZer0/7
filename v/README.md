@@ -58,7 +58,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 2</h3>
 
-The problem 2 is the inability of each of the existing blockchains to really start decreasing its Circulating Supply.
+The problem 2 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
 
 Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
@@ -80,11 +80,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
-to  increase in a number of honest nodes in the blockchain.
+to increase a number of honest nodes in the blockchain.
 
-The motto is something like: 
-
-the more nodes in a blockchain, the more resilient this blockchain is to a 51% attack.
+This approach results in the fact that the more the blockchain's market capitalization becomes, the more nodes this blockchain strives to add.
 
 At the same time, the increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
@@ -226,7 +224,9 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 
 
-<h1 align="center">Hypothesis</h1>
+<h1 align="center">Hypotheses, Ideas</h1>
+
+**Decentralization which is sufficient**
 
 For reference,
 
@@ -241,16 +241,50 @@ The hypothesis is that 100 truly-decentralized (truly-autonomous) validators, wh
 
 100 or 150, discussable.
 
+**New Approach to Consensus**
+
+This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing hash-works (unlike POW). 
+
+Nevertheless, approach incudes Proof-Of-History:  but Proof-Of-History without stakes.
+
+
+For reference.
+
+At any given moment, the Solana Blockchain is storing the full list of all current Validators. 
+
+All the Validators have the same hardware capabilities.
+
+Also, at any given moment, there is only one Validator (leader-Validator) which is creating a block.
+
+Only the leader-Validator can create a block and stream it to other Validators.
+
+All other Validators are only verifying the work of the leadr-Validator.
+
+So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
+
+Each leader-Validator is automatically chosen from the full list of all current Validators and then is rotated with another Validator according to a leader schedule calculated also automatically.
+
+The idea is that when for a Validator there is no need to have significant money and put it as the stake, and when for the same Validator there are generous incentives (say, $5 million annually), this Validator will work honestly. Properly.
+
+So we might, for example, just drop out the Solana's stake-weighted selection algorithm to automatically select the leader-Validator, replacing it with a random number selection algorithm.
+
+The idea is that when for Validators there is no need to have significant money and put it as the stake, and when for the same Validators there are generous incentives (say, $5 million annually per person), these Validators will work honestly. Properly.
+
+Importantly, there is no problem to exclude any Validator which would just try doing something wrong and replace it with any other of the waiting list of persons who are wanting to become Validators for getting the generous incentives.
+
+
 
 
 <h1>9 &nbsp Sustainability & Efficiency</h1>
 
-On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) validators, each of which is constantly competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or may be replaced with a new validator, by Voters (users).
+
+
+On the Vote blockchain, there are always about 100 truly-decentralized (truly-autonomous) Validator-Developers, each of which is competing for their position very hard because they may either be recieving very generous donations from Voters (users) – up to $5 million annually per person — or may be replaced with a new validator, by Voters (users).
 
 > Generous donations:<br>
 > Up to $5 million annually per person.
 
-The total donation budget, even at its maximum, is just about $500 million, regardless of the increase in the blockchain's market capitalization.
+Even with such generous incentives for Validators, the total donation budget, even at the maximum of the blockchain's market capitalization, is just about $500 million.
 
 
 
