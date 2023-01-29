@@ -99,7 +99,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 5 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
-Ideally, a blockchain must create very generous incentives for validators and developers when calculated per person -- in order to be a more sustainable working system.
+Ideally, a blockchain must create highly generous incentives for validators and developers when calculated per person -- in order to be a more sustainable working system.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -235,7 +235,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 * New Approach to Consensus
 * Decentralization which is sufficient
-* True Decentralization Being Efficient
+* True Decentralization Being Highly Efficient
 
 
 ## New Approach to Consensus
@@ -272,35 +272,35 @@ The hypothesis/idea is that
 
 when for a Validator being in the list, there is no need to have significant money and put it as the stake, and 
 
-when for the Validator, there are very generous incentives to work properly (say, $5 million annually), 
+when for the Validator, there are highly generous incentives to work properly (say, $5 million annually), 
 
 then this Validator from the list will work properly. Honestly.
 
 So we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list,  -- and replace it with a random number selection algorithm  -- to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 
-Importantly, as mentioned above, there is no problem to automatically exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives.
 
 
 ## Decentralization which is sufficient
 
 *For reference,
 
-* 90% of the Bitcoin hashrate is controlled by 11 miner pools;
-* 90% of the Ethereum hashrate is controlled by 16 miner pools.*
+* about 90% of the Bitcoin hashrate is controlled by 11 miner pools;
+* about 90% of the Ethereum hashrate is controlled by 16 miner pools.*
 
 The main principle of efficiency is that you must never do more than enough – and  exactly this way each efficient blockchain must work.
 
 The hypothesis/idea is that
 
-when the list of all current Validators are known (Solana's approach)
+when the list of all current Validators are known (Solana's approach), and
 
-when the list is limited
+when the list is limited, and
 
-when Validators are competing very hard for being in the list in order to be receiving highly generous incentives
+when Validators are competing very hard for being in the list in order to be receiving the highly generous incentives, and
 
-when no malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and will be replaced with a Validator from the waitinhg list
+when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list,
 
-then the 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
+then 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 
 100 or 150, discussable.
 
@@ -318,7 +318,7 @@ Even creating such very generous incentives for Validators ($5m annually per per
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6 billion.*
 
-The qustion arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be $1 trillion.
+The question arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be $1 trillion.
 
 <p>&nbsp</p>
 
