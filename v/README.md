@@ -223,7 +223,9 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <p>&nbsp</p>
 
-**To be continued...**
+**To be continued a bit below**
+
+
 
 
 
@@ -232,7 +234,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 <h1 align="center">Hypotheses, Ideas</h1>
 
 
-# New Approach to Consensus
+## New Approach to Consensus
 
 This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing hash-works (unlike POW). 
 
@@ -254,7 +256,7 @@ All other Validators are only verifying the work of the leadr-Validator.
 
 So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
 
-Each leader-Validator is automatically chosen (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to a leader schedule calculated also automatically.
+Each leader-Validator is automatically chosen (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to the leader schedule calculated also automatically.
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
@@ -266,12 +268,12 @@ when for the Validator, there are very generous incentives to work properly (say
 
 then this Validator from the list will work properly. Honestly.
 
-So we might, for example, just drop out the Solana's stake-weighted selection algorithm used to automatically select the leader-Validator from the list, and replace it with a random number selection algorithm  -- to automatically select the leader-Validator from the list.
+So we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule, and replace it with a random number selection algorithm  -- to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule.
 
 Importantly, there is no problem to exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
 
 
-# Decentralization which is sufficient
+## Decentralization which is sufficient
 
 *For reference,
 
@@ -282,12 +284,17 @@ The hypothesis/idea is that
 
 when Validators are competing very hard for being in the list in order to be receiving the very generous incentives
 
+when no malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list
+
 then the 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
+
+100 or 150, discussable.
 
 This is the decentralization which is sufficient.
 
 
-# Efficient Decentralization
+
+## Efficient Decentralization
 
 Even creating such very generous incentives for Validators, the total donation budget for 100 Validators, even at the maximum of the blockchain's market capitalization of say $1 trillion, might be just about $500 million.
 
