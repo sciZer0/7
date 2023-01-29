@@ -240,13 +240,15 @@ This new approach doesn't require stakes from Validators (unlike POS) and of cou
 
 Nevertheless, the approach includes Solana's Proof-Of-History -- but Proof-Of-History without stakes.
 
+The approach is highly efficient and might only be used by a truly-decentralized and truly-democratic blockchain which one, for example, the Vote blockchain is.
+
 
 <p align="center"><b>For reference, about Solana</b></p>
 
 
 At any given moment, the Solana Blockchain is storing the full list of all current Validators. 
 
-All the Validators on the list should have the same hardware capabilities.
+All the Validators being on the list should have the same hardware capabilities.
 
 Also, at any given moment, there is only one Validator (leader-Validator) which is creating a block.
 
@@ -256,7 +258,7 @@ All other Validators are only verifying the work of the leadr-Validator.
 
 So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
 
-Each leader-Validator is automatically chosen (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to the leader schedule calculated also automatically.
+Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to the leader schedule calculated also automatically.
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
@@ -270,7 +272,7 @@ then this Validator from the list will work properly. Honestly.
 
 So we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule, and replace it with a random number selection algorithm  -- to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule.
 
-Importantly, there is no problem to exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
+Importantly, there is no problem to automatically exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
 
 
 ## Decentralization which is sufficient
