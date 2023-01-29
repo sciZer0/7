@@ -164,7 +164,7 @@ The Hand is the smallest unit of the Vote token.
 
 The whole Maximum Supply (10,000,000 Vote tokens) is created at the Genesis Block.
 
-And right away, through a fair airdrop, all the Vote tokens (100%) for free are equally distributed among 1,000,000 people who become Voters (users).
+And right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among 1,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
