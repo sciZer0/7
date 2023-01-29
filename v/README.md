@@ -203,15 +203,15 @@ Gas fees are paid in the Vote token (in Hands).
 
 <h1>7 &nbsp Order of Transactions in Each Block</h1>
 
-During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum 20,000) is automatically formed in the following order:
+During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum ~ 20,000) is automatically formed in the following order:
 
 1. transactions with Gas fees are automatically ordered in descending order of Gas
 
 2. simple transactions without Gas fees are automatically ordered with a random number algorithm.
 
-If the total amount of all transactions, received but yet not executed, is bigger than the maximum block size (20,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
+If the total number of transactions, received but yet not executed, is bigger than the maximum block size (~20,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
 
-This approach greatly reduces an extraction of value done by miners (so-called MEV) on AMM exchanges, and plus, of course, complitelly excludes this phenomenon on order-book exchanges.
+*This approach greatly reduces an unjust value-extraction done by miners/validators on AMM exchanges, not excluding an unjust value-extraction done by algorithmic traders, and plus, of course, completely excludes this phenomenon on order-book exchanges.*
 
 
 
