@@ -233,6 +233,9 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
+* New Approach to Consensus
+* Decentralization which is sufficient
+
 
 ## New Approach to Consensus
 
@@ -240,7 +243,7 @@ This new approach doesn't require stakes from Validators (unlike POS) and of cou
 
 Nevertheless, the approach includes Solana's Proof-Of-History -- but Proof-Of-History without stakes.
 
-The approach is highly efficient and might only be used by a truly-decentralized and truly-democratic blockchain which one, for example, the Vote blockchain is.
+The approach is highly efficient and might be used by a truly-decentralized and truly-democratic blockchain which one, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, about Solana</b></p>
@@ -258,9 +261,11 @@ All other Validators are only verifying the work of the leadr-Validator.
 
 So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
 
-Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to the leader schedule calculated also automatically.
+Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to the leader schedule also calculated automatically by a stake-weighted selection algorithm.
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
+
+Plus, any Validator being in the list, just trying doing something wrong, will be punished by slashing its stake -- and, theoretically, might be dropped out of the list.
 
 The hypothesis/idea is that 
 
@@ -270,9 +275,9 @@ when for the Validator, there are very generous incentives to work properly (say
 
 then this Validator from the list will work properly. Honestly.
 
-So we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule, and replace it with a random number selection algorithm  -- to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule.
+So we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list,  -- and replace it with a random number selection algorithm  -- to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 
-Importantly, there is no problem to automatically exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator out from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the very generous incentives.
 
 
 ## Decentralization which is sufficient
@@ -284,7 +289,11 @@ Importantly, there is no problem to automatically exclude any Validator out from
 
 The hypothesis/idea is that
 
-when Validators are competing very hard for being in the list in order to be receiving the very generous incentives
+when the list of all current Validators are known (Solana's approach)
+
+when the list of all Validators are limited
+
+when Validators are competing very hard for being in the list in order to be receiving highly generous incentives
 
 when no malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list
 
