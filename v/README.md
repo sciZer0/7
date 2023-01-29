@@ -324,6 +324,8 @@ The qustion arises -- how much might the users of the Bitcoin blockchain pay to 
 
 **The Continuation**
 
+<p>&nbsp</p>
+
 <h1>10 &nbsp Contributors</h1>
 
 On the Vote Blockchain, there are Contributors: Validator-Developers who can contribute in the Vote blockchain.
@@ -339,7 +341,7 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to peo
 
 Automated Donations are an element of a donation culture.
 
-From the start, the monthly rate of Automated Donations is 0.05% from each public address's balance and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+From the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 
 
@@ -360,11 +362,11 @@ The Vote blockchain’s democratic system consists of the following elements:
 
 On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
 
-The "competitive" word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously some number of Voters may be placing their AGAINST bets.
+The "competitive" word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 The best decisions must overcome the Voting Power of rivals.
 
-For example, while voting on a proposal — for example, on appointing a certain person (Public Address) on the position of Validator-Developer — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+For example, while voting on a proposal — for example, on appointing a certain person (Public Address) on the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
 
@@ -376,19 +378,21 @@ For example,
 
 and so on.
 
-At the last slot (during each voting), all the Voting Power of the FOR bets are summarized and all the Voting Power of the AGAINST bets also are summarized.
+At the last slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets also are summarized.
 
-Plus, each decision is made by a margin of 5% – in other words, the Mandatory Margin is 5%.
+Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
 
-For example, if a vote on appointing a certain person (Public Address) on the position of Validator-Developer has accumulated in total:
+For example, if a vote on appointing a certain person (Public Address) on the position of Contributor has accumulated in total:
 
-for: 210,000,000,000 Voting Power
-against: 180,000,000,000 Voting Power
+FOR: 210,000,000,000 Voting Power
+AGAINST: 180,000,000,000 Voting Power
 
 then,
 
 the Voting Margin is 16.67%
 (210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67
+
+and,
 
 16.67% > 5%.
 
@@ -400,13 +404,12 @@ Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the d
 
 The Decisions are made on the following Proposals:
 
-* on appointing a person (possibly anonymous) to the position of the Validator-Developer (100 positions)
-* on dismissing a person (possibly anonymous) from the position of the Validator-Developer.
-* on changing – either increasing or decreasing – the rate of the GTT by 5% 
+* on appointing a person (possibly anonymous) to the position of Contributor (100 positions)
+* on dismissing a person (possibly anonymous) from the position of Contributor.
+* on changing – either increasing or decreasing – the donation rate by 5%
 
-The Appointing/Dismissing Proposal is just a specific Public Address (the public key of a keypair) which is associated with a certain person (possibly anonymous), relying on the person’s declaring. 
+The applicant (person) in order to prove their qualification and usefulness for the Vote blockchain, and through this become Contributor, can use Hyde Park.
 
-The applicant (person) in order to prove their qualification and usefulness for the Vote blockchain, can use Hyde Park.
 
 
 
