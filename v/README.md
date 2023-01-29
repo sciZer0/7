@@ -312,7 +312,7 @@ The approach allows truly-decentralized and truly-democratic blockchains to be e
 
 ## True Decentralization Being Efficient
 
-Even creating such very generous incentives for Validators ($5m annually per person), the total annual donation budget for 100 Validators, even at the maximum of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million or so -- which is just 0.05% of the blockchain's market capitalization.
+Even creating such very generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.05% of the blockchain's market capitalization.
 
 *For reference,*
 
