@@ -162,7 +162,7 @@ The Hand is the smallest unit of the Vote token.
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
 
-At the start, through a fair airdrop, 100% of Vote tokens for free are equally distributed among 1,000,000 people who become Voters (users).
+At the start, through a fair airdrop, all the Vote tokens (100%) for free are equally distributed among 1,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
@@ -320,19 +320,31 @@ Even creating such very generous incentives for Validators ($5m annually per per
 
 The question arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be $1 trillion.
 
+
+
+
+
+
+
 <p>&nbsp</p>
 
 **The Continuation**
 
 <p>&nbsp</p>
 
-<h1>10 &nbsp Contributors</h1>
+<h1>9 &nbsp Contributors</h1>
 
-On the Vote Blockchain, there are Contributors: Validator-Developers who can contribute in the Vote blockchain.
+On the Vote Blockchain, there are Contributors: Validator-Developers who are contributing in the Vote blockchain.
 
-Each Contributor is a person (probably anonumous) with their Public Address. 
+Each Contributor is a person (possibly anonymous) with their Public Address.
+
+Any person is appointed to a position of Contributor by users (Voters) through Competitive Quadratic Voting.
+
+The applicant (person), in order to prove their qualification and usefulness for the Vote blockchain and through this become Contributor, can use Hyde Park.
 
 Contributors can recieve donations from users (Voters).
+
+
 
 
 <h1>10 &nbsp Automated Donations</h1>
@@ -364,9 +376,9 @@ On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots
 
 The "competitive" word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
-The best decisions must overcome the Voting Power of rivals.
+> The best decisions must overcome the Voting Power of rivals.
 
-For example, while voting on a proposal — for example, on appointing a certain person (Public Address) on the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+For example, while voting on a proposal — fon appointing a certain person (Public Address) on the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
 
@@ -382,7 +394,7 @@ At the last slot (during each voting), the Voting Power of all the FOR bets are 
 
 Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
 
-For example, if a vote on appointing a certain person (Public Address) on the position of Contributor has accumulated in total:
+For example, if a vote on appointing a certain person (Public Address) to a position of Contributor has accumulated in total:
 
 FOR: 210,000,000,000 Voting Power
 AGAINST: 180,000,000,000 Voting Power
@@ -408,7 +420,6 @@ The Decisions are made on the following Proposals:
 * on dismissing a person (possibly anonymous) from the position of Contributor.
 * on changing – either increasing or decreasing – the donation rate by 5%
 
-The applicant (person) in order to prove their qualification and usefulness for the Vote blockchain, and through this become Contributor, can use Hyde Park.
 
 
 
