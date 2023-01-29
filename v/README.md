@@ -235,6 +235,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 * New Approach to Consensus
 * Decentralization which is sufficient
+* True Decentralization Being Efficient
 
 
 ## New Approach to Consensus
@@ -287,15 +288,17 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 * 90% of the Bitcoin hashrate is controlled by 11 miner pools;
 * 90% of the Ethereum hashrate is controlled by 16 miner pools.*
 
+The main principle of efficiency is that you must never do more than enough – and  exactly this way each efficient blockchain must work.
+
 The hypothesis/idea is that
 
 when the list of all current Validators are known (Solana's approach)
 
-when the list of all Validators are limited
+when the list is limited
 
 when Validators are competing very hard for being in the list in order to be receiving highly generous incentives
 
-when no malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list
+when no malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and will be replaced with a Validator from the waitinhg list
 
 then the 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 
@@ -303,17 +306,31 @@ then the 100 truly-decentralized (truly-autonomous) Validators are the sufficien
 
 This is the decentralization which is sufficient.
 
+The approach allows truly-decentralized and truly-democratic blockchains to be extremely efficient.
 
 
-## Efficient Decentralization
 
-Even creating such very generous incentives for Validators, the total donation budget for 100 Validators, even at the maximum of the blockchain's market capitalization of say $1 trillion, might be just about $500 million.
+## True Decentralization Being Efficient
+
+Even creating such very generous incentives for Validators ($5m annually per person), the total annual donation budget for 100 Validators, even at the maximum of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million or so -- which is just 0.05% of the blockchain's market capitalization.
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6,000,000,000.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6 billion.*
 
-The qustion arises -- how much might the users of the Bitcoin blockchain pay the contributors (miners/validators) during a year  when the Bitcoin blockchain's market capitalizatin (only theoretecally)  would be $1 trillion.
+The qustion arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be $1 trillion.
+
+<p>&nbsp</p>
+
+**The Continuation**
+
+<h1>10 &nbsp Contributors</h1>
+
+On the Vote Blockchain, there are Contributors: Validator-Developers who can contribute in the Vote blockchain.
+
+Each Contributor is a person (probably anonumous) with their Public Address. 
+
+Contributors can recieve donations from users (Voters).
 
 
 <h1>10 &nbsp Automated Donations</h1>
@@ -322,7 +339,7 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to peo
 
 Automated Donations are an element of a donation culture.
 
-From the start, the monthly rate of Automated Donations is 0.05% from each account's balance and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+From the start, the monthly rate of Automated Donations is 0.05% from each public address's balance and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 
 
