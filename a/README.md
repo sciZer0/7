@@ -49,7 +49,7 @@ Feel free to ask me any questions about the discoveries: theOlegGor@gmail.com.
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding of the Universe.
 
-Among other things as a result I got the following:
+As a result, among other things, I got the following:
 
 * New Formula for Force<br>
 * New Formula for Work<br>
