@@ -223,7 +223,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <p>&nbsp</p>
 
-**To be continued a bit below**
+**To be continued a bit below...**
 
 
 
