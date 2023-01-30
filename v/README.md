@@ -443,38 +443,6 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 <h1 align="center">Hypotheses, Ideas</h1>
 
 
-# About Technology
-
-Fortunately, on the table, there alreay are good blockchain technologies.
-
-The hypothesis/idea is that we might take some existing good blockchain technologies and combine them .
-
-For example, we might take code of Solana' blockchain and combine it with code of some DAO (Decentralized Autonomous Organization) on the Solana's blockchain, of course, modifying them a bit.
-
-
-
-<p>&nbsp</p>
-
-**The Continuation**
-
-<p>&nbsp</p>
-<h1>15 &nbsp Technologies & Donation Culture</h1>
-
-On the Vote blockhan, the blockchain code is close to code of the Solana blockchain.
-
-We establish a new fete day -- Creator Thanksgiving Day -- on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators through direct donations of tokens. 
-
-There may (will inevitably) be people who are searching for the creators eligible for donations -- forming the lists.
-
-Number #1 of the lists might be Anatoly Yakovenko.
-
-
-
-<p>&nbsp</p>
-
-<h1 align="center">Hypotheses, Ideas</h1>
-
-
 # About Unbelievable Exchange
 
 **Choice 1**
@@ -506,11 +474,47 @@ Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>16 &nbsp Unbelievable Exchange</h1>
+<h1>15 &nbsp Unbelievable Exchange</h1>
 
 On the Vote Blockchain, there is one Inbuilt, Order-Book Exchange; – Unbelievable Exchange.
 
 From the start, the fee rate on Unbelievable Exchange is 0.00%, and users (Voters) can monthly change the rate by 0.01  – either increase or decrease –  through Competitive Quadratic Voting. 
+
+
+<p>&nbsp</p>
+
+**To be continued a bit below...**
+
+
+<h1 align="center">Hypotheses, Ideas</h1>
+
+
+# About Technology
+
+Fortunately, on the table, there alreay are good blockchain technologies.
+
+The hypothesis/idea is that we might take some existing good blockchain technologies and combine them .
+
+For example, we might take code of Solana' blockchain and combine it with code of some apps (DAOs, Exchanges) on the Solana's blockchain, of course, modifying them a bit.
+
+
+
+<p>&nbsp</p>
+
+**The Continuation**
+
+<p>&nbsp</p>
+<h1>16 &nbsp Technologies & Donation Culture</h1>
+
+On the Vote blockhan, the blockchain code is close to code of the Solana blockchain.
+
+We establish a new fete day -- Creator Thanksgiving Day -- on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators through direct donations of tokens. 
+
+There may (will inevitably) be people who are searching for the creators eligible for donations -- forming the lists.
+
+Number #1 of the lists might be Anatoly Yakovenko.
+
+
 
 <p>&nbsp</p>
 
