@@ -238,8 +238,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * New Approach to Consensus
-* Decentralization which is sufficient
-* True Decentralization Being Highly Efficient
+* Sufficient Decentralization
 
 
 ## New Approach to Consensus
@@ -326,19 +325,12 @@ The approach allows truly-decentralized and truly-democratic blockchains to be e
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was just about $576 billion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $9 billion.*
 
+From day one, on the Vote blockchain, there the Sufficient Decentralization approach is used.
 
-With the Sufficient Decentralization approach,  even creating such highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
+
+With this approach,  even creating such highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
 
 The Vote Blockchain is 150 times more efficient than the Bitcoin Blockchain, remaining truly-decentralized, truly-democratic and highly sustainable.
-
-The is the true decentralization being highly efficient.
-
-The question arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be about $1 trillion.
-
-
-
-
-
 
 
 
