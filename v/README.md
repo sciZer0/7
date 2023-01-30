@@ -411,12 +411,13 @@ Plus, each decision is made by a margin of at least 5% – in other words, the M
 
 For example, if a vote on appointing a certain person (Public Address) to a position of Contributor has accumulated in total:
 
-FOR: 210,000,000,000 Voting Power
-AGAINST: 180,000,000,000 Voting Power
+* FOR: 210,000,000,000 Voting Power<br>
+
+* AGAINST: 180,000,000,000 Voting Power
 
 then,
 
-the Voting Margin is 16.67%
+the Voting Margin is 16.67%<br>
 (210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67
 
 and,
