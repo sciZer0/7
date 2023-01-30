@@ -23,7 +23,7 @@ Every code created must be open source.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
-And of course, we should be forming a donation culture for giving thanks in tokens to the creators of ideas and code.<br>
+And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to the creators of ideas and code.<br>
 
 When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.
  
@@ -354,7 +354,7 @@ Contributors can recieve donations from users (Voters).
 
 On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
 
-Automated Donations are an element of a donation culture.
+Automated Donations are an element of a Creator Donation Culture.
 
 From the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
@@ -493,9 +493,9 @@ From the start, the fee rate on Unbelievable Exchange is 0.00%, and users (Voter
 
 Fortunately, on the table, there alreay are good blockchain technologies.
 
-The hypothesis/idea is that we might take some existing good blockchain technologies and combine them .
+The hypothesis/idea is that we might take some existing good blockchain technologies and combine them.
 
-For example, we might take code of Solana' blockchain and combine it with code of some apps (DAOs, Exchanges) on the Solana's blockchain, of course, modifying them a bit.
+For example, we might take code of Solana' blockchain itself and combine it with code of some apps (DAOs, Exchanges) on the Solana blockchain, of course, modifying them a bit.
 
 
 
@@ -504,13 +504,13 @@ For example, we might take code of Solana' blockchain and combine it with code o
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>16 &nbsp Technologies & Donation Culture</h1>
+<h1>16 &nbsp Technologies & Creator Donation Culture</h1>
 
-On the Vote blockhan, the blockchain code is close to code of the Solana blockchain.
+At the start, on the Vote blockchain, the blockchain code is close to code of programs inside the Solana blockchain.
 
-We establish a new fete day -- Creator Thanksgiving Day -- on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators through direct donations of tokens. 
+As an element of a Creator Donation Culture, we establish a new fete day -- Creator Thanksgiving Day -- on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators through direct donations of tokens. 
 
-There may (will inevitably) be people who are searching for the creators eligible for donations -- forming the lists.
+There may (will inevitably) be people who are searching for the creators eligible for donations and forming the lists.
 
 Number #1 of the lists might be Anatoly Yakovenko.
 
