@@ -285,14 +285,14 @@ So we might, for example, just drop out the Solana's stake-weighted selection al
 Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list -- if the Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives.
 
 
-## Decentralization which is sufficient
+## Sufficient Decentralization
 
 *For reference,
 
 * about 90% of the Bitcoin hashrate is controlled by 11 miner pools;
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.*
 
-The main principle of efficiency is that you must never do more than enough – and  exactly this way each efficient blockchain must work.
+The main principle of efficiency is that you must never do more than enough – and  exactly this way each blockchain must work.
 
 The hypothesis/idea is that
 
@@ -310,23 +310,7 @@ then 100 truly-decentralized (truly-autonomous) Validators are the sufficient co
 
 This is the decentralization which is sufficient.
 
-The approach allows truly-decentralized and truly-democratic blockchains to be extremely efficient.
-
-
-
-## True Decentralization Being Highly Efficient
-
-Even creating such very generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.05% of the blockchain's market capitalization.
-
-*For reference,*
-
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was a lot lower then $1 trillion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $6 billion.*
-
-The question arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be $1 trillion.
-
-
-
-
+The approach allows truly-decentralized and truly-democratic blockchains to be extremely efficient and simultaneously sustainable.
 
 
 
@@ -336,7 +320,30 @@ The question arises -- how much might the users of the Bitcoin blockchain pay to
 
 <p>&nbsp</p>
 
-<h1>9 &nbsp Contributors</h1>
+<h1>9 &nbsp True Decentralization Being Highly Efficient</h1>
+
+*For reference,*
+
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was just about $576 billion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $9 billion.*
+
+
+With the Sufficient Decentralization approach,  even creating such highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
+
+The Vote Blockchain is 150 times more efficient than the Bitcoin Blockchain, remaining truly-decentralized, truly-democratic and highly sustainable.
+
+The is the true decentralization being highly efficient.
+
+The question arises -- how much might the users of the Bitcoin blockchain pay to the contributors (miners/validators) annually when the Bitcoin blockchain's market capitalizatin (only theoretecally) would be about $1 trillion.
+
+
+
+
+
+
+
+
+
+<h1>10 &nbsp Contributors</h1>
 
 On the Vote Blockchain, there are Contributors: Validator-Developers who are contributing in the Vote blockchain.
 
@@ -351,7 +358,7 @@ Contributors can recieve donations from users (Voters).
 
 
 
-<h1>10 &nbsp Automated Donations</h1>
+<h1>11 &nbsp Automated Donations</h1>
 
 On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
 
@@ -361,7 +368,7 @@ From the start, the monthly rate of Automated Donations is 0.05% from each publi
 
 
 
-<h1>11 &nbsp Voting System</h1>
+<h1>12 &nbsp Voting System</h1>
 
 The enormous benefit from voting, among others, is as follows,
 
@@ -378,7 +385,7 @@ To be continued a bit below ..
 
 
 
-<h1>12 &nbsp Competitive Quadratic Voting System</h1>
+<h1>13 &nbsp Competitive Quadratic Voting System</h1>
 
 On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
 
@@ -429,7 +436,7 @@ The Decisions are made on the following Proposals:
 
 
 
-<h1>14 &nbsp Hyde Park</h1>
+<h1>15 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
@@ -475,7 +482,7 @@ Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>15 &nbsp Unbelievable Exchange</h1>
+<h1>16 &nbsp Unbelievable Exchange</h1>
 
 On the Vote Blockchain, there is one Inbuilt, Order-Book Exchange; – Unbelievable Exchange.
 
@@ -505,7 +512,7 @@ For example, we might take code of Solana' blockchain itself and combine it with
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>16 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>17 &nbsp Technologies & Creator Donation Culture</h1>
 
 At the start, on the Vote blockchain, the blockchain code is close to code of programs inside the Solana blockchain.
 
