@@ -446,7 +446,7 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 <h1 align="center">Hypotheses, Ideas</h1>
 
 
-# Unbelievable Exchange
+# About Unbelievable Exchange
 
 **Choice 1**
 
@@ -464,10 +464,9 @@ There may be smart-contract Exchanges and in-biult Exchanges.
 
 The problem with smart-contract Exchanges is that there a code bug can result in fund losses -- since logic and state are in the same place there, in the smart-contract.
 
-At the same time, on in-biult Exchanges, there logic and state are in separated, so any code bug will never result in fund losses
+At the same time, on in-biult Exchanges, there logic and state are separated, so any code bug will never result in fund losses.
 
 So our choice 2 should be Order-Book Exchanges.
-
 
 Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
 
@@ -479,6 +478,8 @@ Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
 
 <p>&nbsp</p>
 <h1>14 &nbsp Unbelievable Exchange</h1>
+
+On the Vote Blockchain, there is one Inbuilt, Order-Book Exchange; – Unbelievable Exchange.
 
 From the start, the fee rate on Unbelievable Exchange is 0.00%, and  the user (Voters) can monthly change the rate by 0.01  – either increase or decrease –  through Competitive Quadratic Voting. 
 
