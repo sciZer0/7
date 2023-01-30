@@ -166,9 +166,9 @@ In my opinion, modern science is a fundamentally illogical/wrong thing taken on 
 
 Specifically, the entire scientific system, because of being exactly a religious sect, is a fully-closed one. The entrance in the system for any new person is ONLY possible on recommendations of members of the religious sect. But receiving those "needed" recommendations (endorsements) is absolutely impossible for any new person when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
-Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
+Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, – importantly, and this is always so without allowing any open public discussion.
 
-The today’s situation is that if any clever person wants to enter official science, first the person must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental errors existing in official science are too big and obvious, it is impossible not to see them.
+The today’s situation is that if any clever person wants to enter official science, the first thing that the person must do is that this person must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental errors existing in official science are too big and obvious, and it is impossible to not see them.
 
 In my Open Letter to Elon Musk, I explain why exactly all official physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
