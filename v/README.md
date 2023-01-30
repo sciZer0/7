@@ -25,7 +25,8 @@ Everyone must always feel free to use other people’s ideas and code in order t
 
 And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.<br>
 
-When people create something not good enough, there must be absolute freedom for everyone to surpass it — to improve it.
+When people create something not good enough, there must be absolute freedom for everyone to surpass it, improve it.
+
  
 <p>&nbsp</p>
  <h1 align="center">THE VOTE BLOCKCHAIN</h1>
@@ -247,7 +248,7 @@ This new approach doesn't require stakes from Validators (unlike POS) and of cou
 
 Nevertheless, the approach includes Solana's Proof-Of-History -- but Proof-Of-History without stakes.
 
-The approach is highly efficient and might be used by a truly-decentralized and truly-democratic blockchain which one, for example, the Vote blockchain is.
+The approach is highly efficient and might be used by truly-decentralized and truly-democratic blockchains one of which, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, about Solana</b></p>
@@ -281,7 +282,7 @@ then this Validator from the list will work properly. Honestly.
 
 So we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list,  -- and replace it with a random number selection algorithm  -- to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 
-Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list -- if this Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives.
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list -- if the Validator would just try doing something wrong -- and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives.
 
 
 ## Decentralization which is sufficient
