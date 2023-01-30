@@ -454,9 +454,9 @@ There may be AMM Exchanges and Order-Book Exchanges.
 
 The problem with AMM Exchanges is that there it is impossible to set a fee-free exchange.
 
-At the same time, on Order-Book Exchanges, there it is principally possible to set a fee-free exchange.
+On the other hand, on Order-Book Exchanges, there it is principally possible to set a fee-free exchange.
 
-So our choice 1 should be Order-Book Exchanges.
+So the hypothesis/idea is that our choice 1 should be Order-Book Exchanges.
 
 **Choice 2**
 
@@ -464,9 +464,9 @@ There may be smart-contract Exchanges and in-biult Exchanges.
 
 The problem with smart-contract Exchanges is that there a code bug can result in fund losses -- since logic and state are in the same place there, in the smart-contract.
 
-At the same time, on in-biult Exchanges, there logic and state are separated, so any code bug will never result in fund losses.
+On the other hand, on in-biult Exchanges, there logic and state are separated, so any code bug will never result in fund losses.
 
-So our choice 2 should be Order-Book Exchanges.
+So the hypothesis/idea is that our choice 2 should be in-biult Exchanges.
 
 Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
 
@@ -481,7 +481,7 @@ Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
 
 On the Vote Blockchain, there is one Inbuilt, Order-Book Exchange; – Unbelievable Exchange.
 
-From the start, the fee rate on Unbelievable Exchange is 0.00%, and  the user (Voters) can monthly change the rate by 0.01  – either increase or decrease –  through Competitive Quadratic Voting. 
+From the start, the fee rate on Unbelievable Exchange is 0.00%, and users (Voters) can monthly change the rate by 0.01  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 <p>&nbsp</p>
 
