@@ -144,7 +144,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · with 50,000 TPS<br>
 · with Unbelievable Exchange<br
 · truly-decentralized<br>
-· truly-democratic<br>
+· truly-democratic.<br>
 <p>&nbsp</p>
 
 **Motto: Like Others Just Better**
