@@ -142,7 +142,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · with free transactions<br>
 · with Decreasing Circulating Supply<br>
 · with 50,000 TPS<br>
-· with unbelievable Exchange
+· with Unbelievable Exchange<br
 · truly-decentralized<br>
 · truly-democratic<br>
 <p>&nbsp</p>
