@@ -142,6 +142,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · with free transactions<br>
 · with Decreasing Circulating Supply<br>
 · with 50,000 TPS<br>
+· with unbelievable Exchange
 · truly-decentralized<br>
 · truly-democratic<br>
 <p>&nbsp</p>
@@ -370,6 +371,10 @@ The Vote blockchain’s democratic system consists of the following elements:
 * Competitive Quadratic Voting System (in-built)
 * Hyde Park
 
+To be continued a bit below ..
+
+
+
 
 
 <h1>12 &nbsp Competitive Quadratic Voting System</h1>
@@ -413,7 +418,6 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
 
 
-
 <h1>13 &nbsp Proposals</h1>
 
 The Decisions are made on the following Proposals:
@@ -424,8 +428,60 @@ The Decisions are made on the following Proposals:
 
 
 
-
-
 <h1>14 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
+
+
+<p>&nbsp</p>
+
+**To be continued a bit below...**
+
+
+
+
+
+<p>&nbsp</p>
+
+<h1 align="center">Hypotheses, Ideas</h1>
+
+
+# Unbelievable Exchange
+
+**Choice 1**
+
+There may be AMM Exchanges and Order-Book Exchanges.
+
+The problem with AMM Exchanges is that there it is impossible to set a fee-free exchange.
+
+At the same time, on Order-Book Exchanges, there it is principally possible to set a fee-free exchange.
+
+So our choice 1 should be Order-Book Exchanges.
+
+**Choice 2**
+
+There may be smart-contract Exchanges and in-biult Exchanges.
+
+The problem with smart-contract Exchanges is that there a code bug can result in fund losses -- since logic and state are in the same place there, in the smart-contract.
+
+At the same time, on in-biult Exchanges, there logic and state are in separated, so any code bug will never result in fund losses
+
+So our choice 2 should be Order-Book Exchanges.
+
+
+Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
+
+
+
+<p>&nbsp</p>
+
+**The Continuation**
+
+<p>&nbsp</p>
+<h1>14 &nbsp Unbelievable Exchange</h1>
+
+From the start, the fee rate on Unbelievable Exchange is 0.00%, and  the user (Voters) can monthly change the rate by 0.01  – either increase or decrease –  through Competitive Quadratic Voting. 
+
+<p>&nbsp</p>
+
+
