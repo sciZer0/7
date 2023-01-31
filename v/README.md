@@ -341,7 +341,7 @@ From day one, on the Vote blockchain, the Efficient True-Decentralization approa
 
 With this approach, even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
 
-The Vote Blockchain is more than 170 times more effective than the Bitcoin Blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
+The Vote Blockchain is more than <b>170 times (~16,800%) more effective</b> than the Bitcoin Blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
 
 
 
