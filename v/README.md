@@ -459,7 +459,7 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 
 # About Technology
 
-Nearly each code in the industry is open source.
+Nearly each code in the industry, already, is open source.
 
 Fortunately, on the table, there already are very good blockchain technologies.
 
@@ -474,9 +474,9 @@ For example, we might take code of Solana blockchain itself and combine it with 
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>16 &nbsp Open Source Does Rule</h1>
+<h1>16 &nbsp Technology & Creator Donation Culture</h1>
 
-At the start, the Vote blockchain the Solana blockchain codebase modified a it.
+At the start, the Vote blockchain uses the Solana blockchain's code modified a bit.
 
 As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
 
