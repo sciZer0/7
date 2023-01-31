@@ -81,18 +81,15 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
-to increase a number of honest nodes in the blockchain.
-
-This approach results in the fact that the more the blockchain's market capitalization becomes, the more nodes this blockchain strives to add.
+**to more and more increase a number of honest nodes in the blockchain**.
 
 At the same time, the increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
 Actually, such an approach means that increasing overhead (efficiency) is the target for each of the existing blockchains.
 
-Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance -- of course, remaining truly-decentralized and truly-democratic.
+Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining truly-decentralized and truly-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
-
 
 
 
@@ -143,7 +140,6 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · with free transactions<br>
 · with Decreasing Circulating Supply<br>
 · with 50,000 TPS<br>
-· with Unbelievable Exchange<br>
 · truly-decentralized<br>
 · truly-democratic<br>
 <p>&nbsp</p>
@@ -434,52 +430,7 @@ The Decisions are made on the following Proposals:
 Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
 
-<p>&nbsp</p>
 
-**To be continued a bit below...**
-
-
-<p>&nbsp</p>
-
-<h1 align="center">Hypotheses, Ideas</h1>
-
-
-# About Unbelievable Exchange
-
-**Choice 1**
-
-There may be AMM Exchanges and Order-Book Exchanges.
-
-The problem with AMM Exchanges is that there it is impossible to set a fee-free exchange.
-
-On the other hand, on Order-Book Exchanges, there it is principally possible to set a fee-free exchange.
-
-So the hypothesis/idea is that our choice 1 should be Order-Book Exchanges.
-
-**Choice 2**
-
-There may be smart-contract Exchanges and in-biult Exchanges.
-
-The problem with smart-contract Exchanges is that there a code bug can result in fund losses -- since logic and state are in the same place there, in the smart-contract.
-
-On the other hand, on in-biult Exchanges, there logic and state are separated, so any code bug will never result in fund losses.
-
-So the hypothesis/idea is that our choice 2 should be in-biult Exchanges.
-
-Our summarized choice should be as at least one Inbuilt, Order-Book Exchange.
-
-
-
-<p>&nbsp</p>
-
-**The Continuation**
-
-<p>&nbsp</p>
-<h1>16 &nbsp Unbelievable Exchange</h1>
-
-On the Vote Blockchain, there is one Inbuilt, Order-Book Exchange; – Unbelievable Exchange.
-
-From the start, the fee rate on Unbelievable Exchange is 0.00%, and users (Voters) can monthly change the rate by 0.01  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 
 <p>&nbsp</p>
@@ -496,7 +447,7 @@ Fortunately, on the table, there alreay are good blockchain technologies.
 
 The hypothesis/idea is that we might take some existing good blockchain technologies and combine them.
 
-For example, we might take code of Solana' blockchain itself and combine it with code of some apps (DAOs, Exchanges) on the Solana blockchain, of course, modifying them a bit.
+For example, we might take code of Solana blockchain itself and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
 
 
@@ -505,15 +456,22 @@ For example, we might take code of Solana' blockchain itself and combine it with
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>17 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>16 &nbsp Technologies & Creator Donation Culture</h1>
 
 At the start, on the Vote blockchain, the blockchain code is close to code of programs inside the Solana blockchain.
 
-As an element of a Creator Donation Culture, we establish a new fete day -- Creator Thanksgiving Day -- on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
+As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
 
-There may (will inevitably) be people who are searching for the creators eligible for donations and forming the lists.
+There may (will inevitably) be people who are searching for the creators eligible for donations, forming the lists.
 
 Number #1 of the lists might be Anatoly Yakovenko.
+
+
+<h1>16 &nbsp CONCLUSION</h1>
+
+
+As mentioned above, actually, in the industry, there are many more problems than described here, and probably each blockchain existing in 2023 deserves to go away since it cannot solve these problems.
+
 
 
 
