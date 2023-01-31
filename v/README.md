@@ -243,12 +243,13 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 
 ## New Approach to Consensus
 
-This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
+This new approach allows to reach consensus highly efficiently.
 
-At the same time, the approach includes Solana's Proof-Of-History — but Proof-Of-History without stakes.
+The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
-The approach is highly efficient and might be used by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+At the same time, the approach includes the Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
 
+The approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 <p align="center"><b>For reference, about Solana</b></p>
 
@@ -273,19 +274,27 @@ Plus, any Validator being in the list, just trying to do something wrong, will b
 
 The hypothesis/idea is that 
 
-* when for each Validator being in the list, there is no need to have any money and put it as the stake, and 
+* when the list of all current Validators are known (Solana's approach), and
 
-* when for each Validator, there are highly generous incentives to work properly (say, $5 million annually), and
+* when the list is limited to some number, and
 
-* when Validators are competing very hard for being in the list in order to be receiving the highly generous incentives, and
+* when each Validator is appointed to their position (added in the list) by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
-* when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list,
+* when <b>each Validator in the list doesn't need to have any money and put it as the stake</b>, and 
 
-* then the wide majority of (or all) Validators from the list will work properly, honestly, 
+* when each Validator in the list is receiving the highly generous incentives (say, <b>$5 million annually</b>) for working properly, and
 
-so we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+* when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
 
-Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives, simultaneously, without a need have any money and put it as the stake.
+* when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
+
+* when each Validator may also be dismissed from their position (dropped out of the list) by users (Voters) through democratic voting (Competitive Quadratic Voting),
+
+* <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> 
+
+and so we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives, and simultaneously, without a need to have any money and put it as the stake.
 
 
 ## Highly Efficient True-Decentralization
@@ -297,7 +306,7 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 
 The main principle of efficiency is that you must never do more than enough – and  exactly this way each truly-decentralized blockchain must work.
 
-How much should  true-decentralization be that this might be considered sufficient?
+How much True-Decentralization should be  there that this might be considered sufficient?
 
 The hypothesis/idea is that
 
@@ -305,19 +314,25 @@ The hypothesis/idea is that
 
 * when the list is limited to some number, and
 
-* when for each Validator being in the list, there is no need to have any money and put it as the stake, and 
+* when each Validator is appointed to their position (added in the list) by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
-* when for each Validator, there are highly generous incentives to work properly (say, $5 million annually), and
+* when <b>each Validator in the list doesn't need to have any money and put it as the stake</b>, and 
 
-* when Validators are competing very hard for being in the list in order to be receiving the highly generous incentives, and
+* when each Validator in the list is receiving the highly generous incentives (say, <b>$5 million annually</b>) for working properly, and
 
-* when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list,
+* when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
 
-* then 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
+* when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
+
+* when each Validator may also be dismissed from their position (dropped out of the list) by users (Voters) through democratic voting (Competitive Quadratic Voting),
+
+* <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> and
+
+* <b>then 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.</b>
 
 100 or 150, discussable.
 
-The approach allows truly-decentralized and truly-democratic blockchains to be extremely efficient and simultaneously sustainable.
+The approach allows truly-decentralized and truly-democratic blockchains to be highly efficient, and simultaneously, highly sustainable.
 
 
 
