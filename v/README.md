@@ -274,11 +274,11 @@ Plus, any Validator being in the list, just trying to do something wrong, will b
 
 The hypothesis/idea is that 
 
-* when the list of all current Validators are known (Solana's approach), and
+* when the list of all current Validators (possibly anonymous) are known (Solana's approach), and
 
 * when the list is limited to some number, and
 
-* when each Validator is appointed to their position (added in the list) by users (Voters) through democratic voting (Competitive Quadratic Voting), and
+* when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
 * when <b>each Validator in the list doesn't need to have any money and put it as the stake</b>, and 
 
@@ -288,7 +288,7 @@ The hypothesis/idea is that
 
 * when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
-* when each Validator may also be dismissed from their position (dropped out of the list) by users (Voters) through democratic voting (Competitive Quadratic Voting),
+* when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
 
 * <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> 
 
@@ -310,11 +310,11 @@ How much True-Decentralization should be  there that this might be considered su
 
 The hypothesis/idea is that
 
-* when the list of all current Validators are known (Solana's approach), and
+* when the list of all current Validators (possibly anonymous) are known (Solana's approach), and
 
 * when the list is limited to some number, and
 
-* when each Validator is appointed to their position (added in the list) by users (Voters) through democratic voting (Competitive Quadratic Voting), and
+* when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
 * when <b>each Validator in the list doesn't need to have any money and put it as the stake</b>, and 
 
@@ -324,9 +324,9 @@ The hypothesis/idea is that
 
 * when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
-* when each Validator may also be dismissed from their position (dropped out of the list) by users (Voters) through democratic voting (Competitive Quadratic Voting),
+* when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
 
-* <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> and
+* <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> and 
 
 * <b>then 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.</b>
 
