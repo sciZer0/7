@@ -238,7 +238,7 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * New Approach to Consensus
-* Sufficient Decentralization
+* Highly Efficient True-Decentralization
 
 
 ## New Approach to Consensus
@@ -288,7 +288,7 @@ so we might, for example, just drop out the Solana's stake-weighted selection al
 Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives, simultaneously, without a need have any money and put it as the stake.
 
 
-## Sufficient Decentralization
+## Highly Efficient True-Decentralization
 
 *For reference,
 
@@ -297,11 +297,17 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 
 The main principle of efficiency is that you must never do more than enough – and  exactly this way each truly-decentralized blockchain must work.
 
+How much should  true-decentralization be that this might be considered sufficient?
+
 The hypothesis/idea is that
 
 * when the list of all current Validators are known (Solana's approach), and
 
 * when the list is limited to some number, and
+
+* when for each Validator being in the list, there is no need to have any money and put it as the stake, and 
+
+* when for each Validator, there are highly generous incentives to work properly (say, $5 million annually), and
 
 * when Validators are competing very hard for being in the list in order to be receiving the highly generous incentives, and
 
@@ -310,8 +316,6 @@ The hypothesis/idea is that
 * then 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 
 100 or 150, discussable.
-
-This is the true decentralization which is sufficient.
 
 The approach allows truly-decentralized and truly-democratic blockchains to be extremely efficient and simultaneously sustainable.
 
