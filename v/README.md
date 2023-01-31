@@ -97,7 +97,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 5 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
-Ideally, a blockchain must create highly generous incentives for validators and developers when calculated per person -- in order to be a more sustainable working system.
+Ideally, a blockchain must create highly generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -217,9 +217,13 @@ If the total number of transactions, received but yet not executed, is bigger th
 
 <h1>8 &nbsp Decreasing Circulating Supply</h1>
 
-From the start, all Gas fees, received on each block, are burned, resulting in a decrease of  the Vote token's Circulating Supply.
+From day one, all Gas fees, received on each block, are burned, resulting in a decrease of  the Vote token's Circulating Supply.
 
-At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.
+*Decreasing Circulating Supply is the impossible thing for each of the existing blockchain.*
+
+*This is better than even there were the everyday halving in the Bitcoin Blockchain — since this is Decreasing Circulating Supply, not Increasing Circulating Supply.*
+
+*At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.*
 
 <p>&nbsp</p>
 
@@ -257,7 +261,7 @@ Also, at any given moment, there is only one Validator (leader-Validator) which 
 
 Only the leader-Validator can create the block and stream it to other Validators.
 
-All other Validators are only verifying the work of the leadr-Validator.
+All other Validators are only verifying the work of the leader-Validator.
 
 So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
 
