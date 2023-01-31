@@ -25,7 +25,7 @@ Everyone must always feel free to use other people’s ideas and code in order t
 
 And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.<br>
 
-When people create something not good enough, there must be absolute freedom for everyone to surpass it, improve it.
+When people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
 
  
 <p>&nbsp</p>
@@ -54,7 +54,7 @@ Ideally, blockchains must to be truly-democratic from day one and exactly people
 
 The Vote blockchain ideally solves this problem from day one.
 
-**For reference, Solana's routine -- on its best times -- was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.**
+**For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.**
 
 
 <h3 align="center">Problem 2</h3>
@@ -467,7 +467,7 @@ There may (will inevitably) be people who are searching for the creators eligibl
 Number #1 of the lists might be Anatoly Yakovenko.
 
 
-<h1>16 &nbsp CONCLUSION</h1>
+<h1>CONCLUSION</h1>
 
 
 As mentioned above, actually, in the industry, there are many more problems than described here, and probably each blockchain existing in 2023 deserves to go away since it cannot solve these problems.
