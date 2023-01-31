@@ -370,20 +370,22 @@ The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> th
 
 <h1>10 &nbsp Contributors</h1>
 
-On the Vote Blockchain, there are 100 (up to 150) Contributors who can be contributing in the Vote blockchain, necessarily in two roles simultaneously: 
+On the Vote Blockchain, in the list, there are 100 (up to 150) Contributors who can be contributing in the Vote blockchain.
+
+Each Contributor can be contributing in the Vote blockchain necessarily in two roles simultaneously: 
 
 * as Validator, and 
 * as Developer.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each applicant (person, possibly anonymous) is appointed to the position of Contributor by users (Voters) through Competitive Quadratic Voting.
+Any person (possibly anonymous) is appointed to the position of Contributor only by users (Voters) through Competitive Quadratic Voting.
 
 Each applicant (person, possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain and for this can use Hyde Park.
 
-The first 100 persons (possibly anonymous) are appointed to the positions of Contributor by the Initiative Group.
+The first 50 persons (possibly anonymous) are appointed to the positions of Contributor by the Initiative Group.
 
-Contributors may recieve donations from users (Voters).
+All Contributors being in the list may recieve donations from users (Voters).
 
 
 
@@ -392,7 +394,7 @@ Contributors may recieve donations from users (Voters).
 
 Automated Donations are an element of a Creator Donation Culture.
 
-On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing in the Vote blockchain.
+On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
