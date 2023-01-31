@@ -488,7 +488,7 @@ One of the first names of such lists might be Anatoly Yakovenko.
 
 As mentioned above, actually, in the industry, there are many more problems than described here, and probably each blockchain existing in 2023 deserves to go away since it cannot solve these problems.
 
-All these problems can only be solved by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+All these problems can be solved only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p>&nbsp</p>
