@@ -247,7 +247,7 @@ This new approach doesn't require stakes from Validators (unlike POS) and of cou
 
 At the same time, the approach includes Solana's Proof-Of-History — but Proof-Of-History without stakes.
 
-The approach is highly efficient and might be used by truly-decentralized and truly-democratic blockchains one of which, for example, the Vote blockchain is.
+The approach is highly efficient and might be used by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, about Solana</b></p>
@@ -484,7 +484,7 @@ Number #1 of the lists might be Anatoly Yakovenko.
 
 As mentioned above, actually, in the industry, there are many more problems than described here, and probably each blockchain existing in 2023 deserves to go away since it cannot solve these problems.
 
-All these problems can ONLY be solved by truly-decentralized and truly-democratic blockchains one of which, for example, the Vote blockchain is.
+All these problems can only be solved by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p>&nbsp</p>
