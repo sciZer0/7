@@ -295,7 +295,7 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 * about 90% of the Bitcoin hashrate is controlled by 11 miner pools;
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.*
 
-The main principle of efficiency is that you must never do more than enough – and  exactly this way each blockchain must work.
+The main principle of efficiency is that you must never do more than enough – and  exactly this way each truly-decentralized blockchain must work.
 
 The hypothesis/idea is that
 
@@ -311,7 +311,7 @@ The hypothesis/idea is that
 
 100 or 150, discussable.
 
-This is the decentralization which is sufficient.
+This is the true decentralization which is sufficient.
 
 The approach allows truly-decentralized and truly-democratic blockchains to be extremely efficient and simultaneously sustainable.
 
