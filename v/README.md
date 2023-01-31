@@ -480,7 +480,7 @@ As an element of a Creator Donation Culture, we establish a new fete day — Cre
 
 Eventually, there might (will inevitably) be people who are searching for the creators eligible for donations, making the lists. 
 
-Number #1 of the lists might be Anatoly Yakovenko.
+One of the first names of such lists might be Anatoly Yakovenko.
 
 
 <h1>CONCLUSION</h1>
