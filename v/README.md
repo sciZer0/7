@@ -328,31 +328,31 @@ The approach allows truly-decentralized and truly-democratic blockchains to be e
 
 **The Continuation**
 
-<p>&nbsp</p>
 
 <h1>9 &nbsp Highly Efficient True-Decentralization</h1>
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was on average just about $576 billion, the users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $10 billion.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $10 billion.*
 
-From day one, on the Vote blockchain, the Efficient True-Decentralization approach is used.
+From day one, on the Vote blockchain, there the Highly Efficient True-Decentralization approach is used.
 
-
+<p><i>
 With this approach, even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
 
-The Vote Blockchain is more than <b>170 times (~16,800%) more effective</b> than the Bitcoin Blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
-
+The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> than the Bitcoin blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
+</i>
+ </p>
 
 
 
 <h1>10 &nbsp Contributors</h1>
 
-On the Vote Blockchain, there are Contributors: Validator-Developers who can be contributing in the Vote blockchain.
+On the Vote Blockchain, there are 100 Contributors: Validator-Developers who can be contributing in the Vote blockchain.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Any person is appointed to a position of Contributor by users (Voters) through Competitive Quadratic Voting.
+The person is appointed to the position of Contributor by users (Voters) through Competitive Quadratic Voting.
 
 Each applicant (person), in order to prove their qualification and usefulness for the Vote blockchain and through this become Contributor, can use Hyde Park.
 
@@ -365,7 +365,7 @@ Contributors may recieve donations from users (Voters).
 
 Automated Donations are an element of a Creator Donation Culture.
 
-On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
+On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing in the Vote blockchain.
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
@@ -394,7 +394,7 @@ The "competitive" word means that on each proposal, the competitive Voters may p
 
 > The best decisions must overcome the Voting Power of rivals.
 
-For example, while voting on a proposal — on appointing a certain person (Public Address) on the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
 
@@ -410,7 +410,7 @@ At the last slot (during each voting), the Voting Power of all the FOR bets are 
 
 Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
 
-For example, if a vote on appointing a certain person (Public Address) to a position of Contributor has accumulated in total:
+For example, if a vote on appointing a certain person (Public Address) to the position of Contributor has accumulated in total:
 
 * FOR: 210,000,000,000 Voting Power<br>
 
@@ -427,7 +427,7 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
 
 
-<h1>13 &nbsp Proposals</h1>
+<h1>14 &nbsp Proposals</h1>
 
 The Decisions are made on the following Proposals:
 
