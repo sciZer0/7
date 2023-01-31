@@ -243,7 +243,7 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 
 ## New Approach to Consensus
 
-This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing hash-works (unlike POW). 
+This new approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
 At the same time, the approach includes Solana's Proof-Of-History — but Proof-Of-History without stakes.
 
