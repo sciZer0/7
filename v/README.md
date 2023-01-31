@@ -286,7 +286,7 @@ The hypothesis/idea is that
 
 * when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
 
-* when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
+* when any malicious Validator from the list cannot do anything wrong – since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
 * when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
 
@@ -325,7 +325,7 @@ The hypothesis/idea is that
 
 * when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
 
-* when any malicious Validator from the list cannot do anything wrong -- since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
+* when any malicious Validator from the list cannot do anything wrong – since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
 * when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
 
@@ -360,7 +360,7 @@ The approach allows truly-decentralized and truly-democratic blockchains to be h
 From day one, on the Vote blockchain, there the Highly Efficient True-Decentralization approach is used.
 
 <p><i>
-With this approach, even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
+With this approach, even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million – which is just 0.01% of the blockchain's market capitalization.
 
 The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> than the Bitcoin blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
 </i>
@@ -370,7 +370,7 @@ The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> th
 
 <h1>10 &nbsp Contributors</h1>
 
-On the Vote Blockchain, in the list, there are 100 (up to 150) Contributors who can be contributing in the Vote blockchain.
+On the Vote Blockchain, there are 100 Contributors in the list who can be contributing in the Vote blockchain.
 
 Each Contributor can be contributing in the Vote blockchain necessarily in two roles simultaneously: 
 
@@ -381,7 +381,7 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (possibly anonymous) is appointed to the position of Contributor only by users (Voters) through Competitive Quadratic Voting.
 
-Each applicant (person, possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain and for this can use Hyde Park.
+Each applicant (person, possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain and, for this, can use Hyde Park.
 
 The first 50 persons (possibly anonymous) are appointed to the positions of Contributor by the Initiative Group.
 
