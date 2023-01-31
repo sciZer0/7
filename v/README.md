@@ -363,11 +363,13 @@ Contributors may recieve donations from users (Voters).
 
 <h1>11 &nbsp Automated Donations</h1>
 
-On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
-
 Automated Donations are an element of a Creator Donation Culture.
 
-From the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and  the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+On the Vote Blockchain, there are Automated Donations for donating tokens to people who are contributing to the Vote blockchain.
+
+Automated Donations are an automated inbuilt feature of the Vote blockchain.
+
+At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 
 
@@ -375,11 +377,11 @@ From the start, the monthly rate of Automated Donations is 0.05% from each publi
 
 The enormous benefit from voting, among others, is as follows,
 
-> **The more tokens are being locked for voting, the less tokens in real circulation.**
+**The more tokens are being locked for voting, the less tokens in real circulation.**
 
 The Vote blockchain’s democratic system consists of the following elements:
 
-* Competitive Quadratic Voting System (in-built)
+* Competitive Quadratic Voting System (inbuilt)
 * Hyde Park
 
 
