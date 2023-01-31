@@ -19,7 +19,7 @@ existing in 2023
 
 # Our Fundamentals
 
-Every code created must be open (Open Source, GPL).<br>
+Every code created must be open and free (Open Source, GPL).<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
@@ -459,13 +459,11 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 
 # About Technology
 
-Nearly each code in the industry, already, is open source.
-
-Fortunately, on the table, there already are very good blockchain technologies.
+Thanks to good people, on the table, there already are technologies that are usable.
 
 The hypothesis/idea is that we might take some existing blockchain technologies and combine them.
 
-For example, we might take code of Solana blockchain itself and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
+For example, we might take code of Solana blockchain itself (codebase) and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
 
 
