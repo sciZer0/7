@@ -280,9 +280,9 @@ The hypothesis/idea is that
 
 * when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
-* when <b>each Validator in the list doesn't need to have any money and put it as the stake</b>, and 
+* when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the highly generous incentives (say, <b>$5 million annually</b>) for working properly, and
+* when each Validator in the list is receiving the highly generous incentives (say, $5 million annually) for working properly, and
 
 * when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
 
@@ -299,10 +299,13 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 
 ## Highly Efficient True-Decentralization
 
-*For reference,
+
+<p><i>
+For reference,
 
 * about 90% of the Bitcoin hashrate is controlled by 11 miner pools;
-* about 90% of the Ethereum hashrate is controlled by 16 miner pools.*
+* about 90% of the Ethereum hashrate is controlled by 16 miner pools.
+</i></p>
 
 The main principle of efficiency is that you must never do more than enough – and  exactly this way each truly-decentralized blockchain must work.
 
@@ -316,9 +319,9 @@ The hypothesis/idea is that
 
 * when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
-* when <b>each Validator in the list doesn't need to have any money and put it as the stake</b>, and 
+* when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the highly generous incentives (say, <b>$5 million annually</b>) for working properly, and
+* when each Validator in the list is receiving the highly generous incentives (say, $5 million annually) for working properly, and
 
 * when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
 
