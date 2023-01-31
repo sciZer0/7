@@ -334,14 +334,14 @@ The approach allows truly-decentralized and truly-democratic blockchains to be e
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was just about $576 billion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $9 billion.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was on average just about $576 billion, the users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $10 billion.*
 
 From day one, on the Vote blockchain, the Efficient True-Decentralization approach is used.
 
 
-With this approach,  even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
+With this approach, even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
 
-The Vote Blockchain is 150 times more efficient than the Bitcoin Blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
+The Vote Blockchain is more than 170 times more effective than the Bitcoin Blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
 
 
 
