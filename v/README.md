@@ -313,39 +313,46 @@ The approach allows truly-decentralized and truly-democratic blockchains to be e
 
 
 
+
+
+
+
+
+
+
 <p>&nbsp</p>
 
 **The Continuation**
 
 <p>&nbsp</p>
 
-<h1>9 &nbsp True Decentralization Being Highly Efficient</h1>
+<h1>9 &nbsp Highly Efficient True-Decentralization</h1>
 
 *For reference,*
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was just about $576 billion, users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $9 billion.*
 
-From day one, on the Vote blockchain, there the Sufficient Decentralization approach is used.
+From day one, on the Vote blockchain, the Efficient True-Decentralization approach is used.
 
 
-With this approach,  even creating such highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
+With this approach,  even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million -- which is just 0.01% of the blockchain's market capitalization.
 
-The Vote Blockchain is 150 times more efficient than the Bitcoin Blockchain, remaining truly-decentralized, truly-democratic and highly sustainable.
+The Vote Blockchain is 150 times more efficient than the Bitcoin Blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
 
 
 
 
 <h1>10 &nbsp Contributors</h1>
 
-On the Vote Blockchain, there are Contributors: Validator-Developers who are contributing in the Vote blockchain.
+On the Vote Blockchain, there are Contributors: Validator-Developers who can be contributing in the Vote blockchain.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person is appointed to a position of Contributor by users (Voters) through Competitive Quadratic Voting.
 
-The applicant (person), in order to prove their qualification and usefulness for the Vote blockchain and through this become Contributor, can use Hyde Park.
+Each applicant (person), in order to prove their qualification and usefulness for the Vote blockchain and through this become Contributor, can use Hyde Park.
 
-Contributors can recieve donations from users (Voters).
+Contributors may recieve donations from users (Voters).
 
 
 
@@ -371,10 +378,6 @@ The Vote blockchain’s democratic system consists of the following elements:
 * Competitive Quadratic Voting System (in-built)
 * Hyde Park
 
-To be continued a bit below ..
-
-
-
 
 
 <h1>13 &nbsp Competitive Quadratic Voting System</h1>
@@ -385,7 +388,7 @@ The "competitive" word means that on each proposal, the competitive Voters may p
 
 > The best decisions must overcome the Voting Power of rivals.
 
-For example, while voting on a proposal — fon appointing a certain person (Public Address) on the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+For example, while voting on a proposal — on appointing a certain person (Public Address) on the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
 
@@ -409,8 +412,7 @@ For example, if a vote on appointing a certain person (Public Address) to a posi
 
 then,
 
-the Voting Margin is 16.67%<br>
-(210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67
+<p>the Voting Margin is 16.67%  &nbsp (210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67</p>
 
 and,
 
@@ -466,7 +468,7 @@ At the start, on the Vote blockchain, the blockchain code is close to code of pr
 
 As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
 
-There may (will inevitably) be people who are searching for the creators eligible for donations, forming the lists.
+Eventually, there might (will inevitably) be people who are searching for the creators eligible for donations, making the lists. 
 
 Number #1 of the lists might be Anatoly Yakovenko.
 
@@ -475,8 +477,6 @@ Number #1 of the lists might be Anatoly Yakovenko.
 
 
 As mentioned above, actually, in the industry, there are many more problems than described here, and probably each blockchain existing in 2023 deserves to go away since it cannot solve these problems.
-
-
 
 
 <p>&nbsp</p>
