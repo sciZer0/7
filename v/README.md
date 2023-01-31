@@ -370,13 +370,18 @@ The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> th
 
 <h1>10 &nbsp Contributors</h1>
 
-On the Vote Blockchain, there are 100 Contributors: Validator-Developers who can be contributing in the Vote blockchain.
+On the Vote Blockchain, there are 100 (up to 150) Contributors who can be contributing in the Vote blockchain, necessarily in two roles simultaneously: 
+
+* as Validator, and 
+* as Developer.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-The person is appointed to the position of Contributor by users (Voters) through Competitive Quadratic Voting.
+Each applicant (person, possibly anonymous) is appointed to the position of Contributor by users (Voters) through Competitive Quadratic Voting.
 
-Each applicant (person), in order to prove their qualification and usefulness for the Vote blockchain and through this become Contributor, can use Hyde Park.
+Each applicant (person, possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain and for this can use Hyde Park.
+
+The first 100 persons (possibly anonymous) are appointed to the positions of Contributor by the Initiative Group.
 
 Contributors may recieve donations from users (Voters).
 
