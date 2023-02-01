@@ -296,18 +296,23 @@ All the Validators being in the list should have the same hardware capabilities.
 
 Each Validator is a person (possibly anonymous) with their publicly-known Public Address, and exactly this Public Address serves to identify any given Validator in the list.
 
-<b>Leader Schedule</b>
+<b>Full List of All Current Validators:</b>
+
+
+<p align="center">
 
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
 |       1     |     Ninja1b7rg8y3h9kh82n   |
 |       1     |     Panda3hk8f56fg1n9zet   |
-|       1     |     Eagle1j3rg9y3h5kh8rl   |
-|       1     |     Satosh19rg463k9dkn2a   |
-|       1     |     Panda3hk8f56fg1n9zet   |
-|       1     |     Panda3hk8f56fg1n9zet   |
-|       1     |     Panda3hk8f56fg1n9zet   |
-|       1     |     Panda3hk8f56fg1n9zet   |
+|       1     |     EagLe1j3rg9y3h5kh8rl   |
+|       1     |     Zazuph19rg463k9dkn2a   |
+|       1     |     Jaqee3hm8fy6fg1n9kee   |
+|       1     |     Pumbaaxk3f32fg1n5zet   |
+|       1     |     Scrat3hk23v5fg3a9dut   |
+|       1     |     Vixeyygfpsdkfge59hde   |
+
+</p>
 
 Also, at any given moment, in the list, there is only one Validator (called leader-Validator or Leader) which is creating the block.
 
@@ -317,11 +322,11 @@ All other Validators are only verifying the work of the leader-Validator.
 
 In other words, all other Validators are voting: each successful verification serves as one vote for the consensus algorithm.
 
-So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This thing is good. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. *If this last sentence isn't understandable, relax. Doesn't matter here. *
+So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This is a very good thing. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. <i>If this last sentence isn't understandable, relax. Doesn't matter here.</i>
 
 Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list according to the leader schedule also calculated automatically by a stake-weighted selection algorithm.
 
-<b>Leader Schedule</b>
+<b>Leader Schedule:</b>
 
 |    Slot     | Public Address of Leader|
 | ----------- | ------------------------|
@@ -363,14 +368,47 @@ The hypothesis/idea is that
 
 and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list;
 
-and this all would allow to create an extremely sustanable truly-decentralized system -- and reach true-decentralization of the extremely high level for the extremely low costs simultaneously. 
+These 100 truly decentralized (truly-autonomus) Validators – which are higly motivated to work properly, honestly – would allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
 
-Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous Automated Donations, and simultaneously, without any need to have any money and put it as the stake.
+And, which is more than <b>170 times (16,800.00%) more effective</b> than the Bitcoin blockchain.
+
+So we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
+
+<i>
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous Automated Donations, and simultaneously, without any need to have any money and put it as the stake.</i>
 
 
+As mentioned above, the whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
+<p>&nbsp</p>
 
+**The Continuation**
+
+<h1>9 &nbsp Contributors</h1>
+
+Contributors are people who are contributing in the Vote blockchain.
+
+On the Vote Blockchain, there are only 100 positions of Contributors.
+
+100 or 150, discussable.
+
+Each Contributor is a person (possibly anonymous) with their Public Address.
+
+Each Contributor, in equal size - if compared to other Contributors, receive the highly generous Automated Donations (~ $5 million annually per person) from Voters.
+
+Each Contributor may only be contributing in the Vote blockchain in the two roles simultaneously: 
+
+* as Validator, and 
+* as Developer.
+
+Any person (possibly anonymous) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
+
+Each applicant (possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain, and can for this use Hyde Park.
+
+Each person being in the position of Contributor may be dropped out of the position by users (Voters) through democratic voting (Competitive Quadratic Voting).
+
+The very first 15 persons are appointed to the positions of Contributor by an initiative group.
 
 
 
@@ -438,29 +476,6 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 
 
 
-
-<h1>9 &nbsp Contributors</h1>
-
-Contributors are people who are contributing in the Vote blockchain.
-
-On the Vote Blockchain, there are 100 positions of Contributors.
-
-Each Contributor is a person (possibly anonymous) with their Public Address.
-
-Each Contributor, in equal size - if compared to other Contributors, receive the highly generous Automated Donations (~ $5 million annually per person) from Voters.
-
-Each Contributor may only be contributing in the Vote blockchain in the two roles simultaneously: 
-
-* as Validator, and 
-* as Developer.
-
-Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
-
-Each applicant (Public Address) must find a way to prove their qualification and usefulness for the Vote blockchain, and can for this use Hyde Park.
-
-Each person being in the position of Contributor may be dropped out of the position by users (Voters) through democratic voting (Competitive Quadratic Voting).
-
-The first 30 persons (Public Addresses) are appointed to the positions of Contributor by an initiative group.
 
 
 
