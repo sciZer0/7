@@ -211,7 +211,7 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchain.
 
-This is better than even there were the everyday halving in the Bitcoin Blockchain — since this is Decreasing Circulating Supply, not Increasing Circulating Supply.
+This is even better than if there were the Everyday Halving of the award in the Bitcoin Blockchain — since in the Vote blockchain, there is Decreasing Circulating Supply, not Increasing Circulating Supply.
 
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
@@ -249,8 +249,7 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * A Lot of Room To Improve
-* New Approach to Consensus
-* Highly Efficient True-Decentralization
+* New Approach to Consensus or Highly Efficient True-Decentralization
 
 
 ## A Lot of Room To Improve
@@ -276,7 +275,7 @@ The whole thing is that we can reach true-decentralization of the extremely high
 
 
 
-## New Approach to Consensus
+## New Approach to Consensus or Highly Efficient True-Decentralization
 
 This new approach allows to reach consensus highly efficiently.
 
@@ -356,7 +355,7 @@ The hypothesis/idea is that
 
 * when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the highly generous Automated Donations (~ <b>$5 million annually</b>) just for working properly, and
+* when each Validator in the list is receiving the highly generous Automated Donations (~ <b>$5 million annually</b>) just for working honestly, and
 
 * when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -364,11 +363,11 @@ The hypothesis/idea is that
 
 * when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
-* <b>then the wide majority of (or even all) Validators in the list will work properly, honestly,</b> 
+* <b>then the wide majority of (or even all) Validators in the list will work honestly,</b> 
 
 and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list;
 
-These 100 truly decentralized (truly-autonomus) Validators – which are higly motivated to work properly, honestly – would allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
+These 100 truly decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
 
 And, which is more than <b>170 times (16,800.00%) more effective</b> than the Bitcoin blockchain.
 
@@ -387,7 +386,7 @@ As mentioned above, the whole trick is that this approach might be efficiently u
 
 <h1>9 &nbsp Contributors</h1>
 
-Contributors are people who are contributing in the Vote blockchain.
+Contributors are people who may be contributing in the Vote blockchain.
 
 On the Vote Blockchain, there are only 100 positions of Contributors.
 
@@ -397,7 +396,7 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Each Contributor, in equal size - if compared to other Contributors, receive the highly generous Automated Donations (~ $5 million annually per person) from Voters.
 
-Each Contributor may only be contributing in the Vote blockchain in the two roles simultaneously: 
+Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
 * as Validator, and 
 * as Developer.
@@ -409,6 +408,35 @@ Each applicant (possibly anonymous) must find a way to prove their qualification
 Each person being in the position of Contributor may be dropped out of the position by users (Voters) through democratic voting (Competitive Quadratic Voting).
 
 The very first 15 persons are appointed to the positions of Contributor by an initiative group.
+
+
+
+
+
+
+<h1>10 &nbsp Automated Donations</h1>
+
+Automated Donations are an element of a Creator Donation Culture.
+
+On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
+
+Automated Donations are an automated inbuilt feature of the Vote blockchain.
+
+At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+
+<i>
+The monthly rate of 0.05% from each public address' balance means that the total donations to Contributors  result in the monthly rate of 0.05% from the blockchain's market capitalization – or, in the annual rate of 0.6% from the blockchain's market capitalization.<br>
+<br>
+For example, the annual rate of 0.01% might be reached (from 0.6%) at best in 79 months (6 years and 7 months).<br>
+<br>
+The good long-term reference for Automated Donations might be providing each Contributor the $5m annually.
+</i>
+
+
+
+
+
+
 
 
 
@@ -481,28 +509,6 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 
 
 
-
-
-
-
-
-<h1>10 &nbsp Automated Donations</h1>
-
-Automated Donations are an element of a Creator Donation Culture.
-
-On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
-
-Automated Donations are an automated inbuilt feature of the Vote blockchain.
-
-At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
-
-<i>
-The monthly rate of 0.05% from each public address' balance means that the total donations to Contributors  result in the monthly rate of 0.05% from the blockchain's market capitalization – or, in the annual rate of 0.6% from the blockchain's market capitalization.<br>
-<br>
-For example, the annual rate of 0.01% might be reached (from 0.6%) at best in  not less than 79 months (6 years and 7 months).<br>
-<br>
-The good long-term reference for the donations might be providing each Contributor the $5m annually.
-</i>
 
 
 
