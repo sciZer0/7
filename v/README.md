@@ -11,7 +11,7 @@ Everything is discussable
 
 <h3 align="right">
 Increasing overhead (inefficiency) is<br>
-the target for each blockchain<br>
+the goal for each blockchain<br>
 existing in 2023
 </h3>
 
@@ -85,7 +85,7 @@ The problem 4 is that, for now, in the industry, there is the mainstream wrong b
 
 At the same time, the increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, such an approach means that increasing overhead (efficiency) is the target for each of the existing blockchains.
+Actually, such an approach means that increasing overhead (efficiency) is the goal for each of the existing blockchains.
 
 Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining truly-decentralized and truly-democratic.
 
