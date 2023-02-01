@@ -216,23 +216,7 @@ This is better than even there were the everyday halving in the Bitcoin Blockcha
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
-<h1>8 &nbsp Voting System</h1>
 
-The Vote blockchain’s democratic system consists of the following elements:
-
-* Standard Proposals for Votes (inbuilt)
-* Competitive Quadratic Votes (inbuilt)
-* Hyde Park
- 
-<i><b>
-The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation.
- 
-From day one, on the Vote blockchain, there are 1,000,000 Voters and many Standard Proposals for votes. 
- 
-Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote.
- 
-Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
-</b></i>
 
 
 
@@ -248,12 +232,12 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
-* The Main Principle of Efficiency
+* Room To Improve
 * New Approach to Consensus
 * Highly Efficient True-Decentralization
 
 
-## The Main Principle of Efficiency
+## Room To Improve
 
 
 *For reference,
@@ -269,15 +253,9 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current true-decentralization is not ideal but is extremely expensive.
+As we can see, current true-decentralization isn't the one of the extremely high level but at the same time is extremely expensive.
 
-But, of course, there should not be true-decentralization for extremely high costs.
-
-Instead, there should only be true-decentralization for low costs.
-
-The main principle of efficiency is that you must never do (spend) more than enough – and  exactly this way each truly-decentralized blockchain must work.
-
-The whole thing is that we can reach true-decentralization of a lot higher level for a lot lower costs.
+The whole thing is that we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously.
 
 
 
@@ -300,7 +278,9 @@ At any given moment, the Solana Blockchain is storing the full list of all curre
 
 All the Validators being on the list should have the same hardware capabilities.
 
-Also, at any given moment, there is only one Validator (leader-Validator) which is creating the block.
+A Validator is a person (possibly anonymous) with their publicly-known Public Address, and exactly this Public Address serves to identify the given Validator in the list.
+
+Also, at any given moment, in the list, there is only one Validator (leader-Validator) which is creating the block.
 
 Only the leader-Validator can create the block and stream it to other Validators.
 
@@ -308,7 +288,7 @@ All other Validators are only verifying the work of the leader-Validator.
 
 So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
 
-Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator according to the leader schedule also calculated automatically by a stake-weighted selection algorithm.
+Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list according to the leader schedule also calculated automatically by a stake-weighted selection algorithm.
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
@@ -332,11 +312,159 @@ The hypothesis/idea is that
 
 * when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
 
-* <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> 
+* <b>then the wide majority of (or even all) Validators in the list will work properly, honestly,</b> 
 
 and so we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 
 Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives, and simultaneously, without a need to have any money and put it as the stake.
+
+
+
+
+
+
+
+
+
+
+
+<h1>8 &nbsp Voting System</h1>
+
+The Vote blockchain’s democratic system consists of the following elements:
+
+* Automatic Proposals & Non-Automatic Proposals (inbuilt)
+* Competitive Quadratic Voting (inbuilt)
+* Hyde Park
+ 
+<i><b>
+The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation.
+ 
+From day one, on the Vote blockchain, there are 1,000,000 Voters and many Automatic and Non-Automatic Proposals to vote. 
+ 
+Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote.
+ 
+Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
+</b></i>
+
+
+<h1>13 &nbsp Competitive Quadratic Voting</h1>
+
+On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
+
+The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+
+> The best decisions must overcome the Voting Power of rivals.
+
+For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+
+The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
+
+For example, 
+
+* if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
+* if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
+* if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
+
+and so on.
+
+At the last slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets also are summarized.
+
+Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
+
+For example, if a vote on a certain proposal has accumulated in total:
+
+* FOR: 210,000,000,000 Voting Power<br>
+
+* AGAINST: 180,000,000,000 Voting Power
+
+then,
+
+<p>the Voting Margin is 16.67%  &nbsp (210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67</p>
+
+and,
+
+16.67% > 5%.
+
+Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
+
+
+<h1>14 &nbsp Proposals</h1>
+
+The Decisions are made on the following Proposals:
+
+* on appointing a person (possibly anonymous) to the position of Contributor (100 positions)
+* on dismissing a person (possibly anonymous) from the position of Contributor.
+* on changing – either increasing or decreasing – the donation rate by 5%
+
+
+
+<h1>15 &nbsp Hyde Park</h1>
+
+Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
+
+
+
+
+
+
+
+<h1>9 &nbsp Contributors</h1>
+
+Contributors are people who are contributing in the Vote blockchain.
+
+On the Vote Blockchain, there are 100 positions of Contributors.
+
+Each Contributor is a person (possibly anonymous) with their Public Address.
+
+Each Contributor, in equal size - if compared to other Contributors, receive the highly generous Automated Donations (~ $5 million annually per person) from Voters.
+
+Each Contributor may only be contributing in the Vote blockchain in the two roles simultaneously: 
+
+* as Validator, and 
+* as Developer.
+
+Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
+
+Each applicant (Public Address) must find a way to prove their qualification and usefulness for the Vote blockchain, and can for this use Hyde Park.
+
+Each person being in the position of Contributor may be dropped out of the position by users (Voters) through democratic voting (Competitive Quadratic Voting).
+
+The first 30 persons (Public Addresses) are appointed to the positions of Contributor by an initiative group.
+
+
+
+
+
+
+
+
+
+
+<h1>10 &nbsp Automated Donations</h1>
+
+Automated Donations are an element of a Creator Donation Culture.
+
+On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
+
+Automated Donations are an automated inbuilt feature of the Vote blockchain.
+
+At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+
+<i>
+The monthly rate of 0.05% from each public address' balance means that the total donations to Contributors  result in the monthly rate of 0.05% from the blockchain's market capitalization – or, in the annual rate of 0.6% from the blockchain's market capitalization.<br>
+<br>
+For example, the annual rate of 0.01% might be reached (from 0.6%) at best in  not less than 79 months (6 years and 7 months).<br>
+<br>
+The good long-term reference for the donations might be providing each Contributor the $5m annually.
+</i>
+
+
+
+
+
+
+
+
 
 
 
@@ -372,106 +500,12 @@ The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> th
 
 
 
-<h1>10 &nbsp Contributors</h1>
-
-On the Vote Blockchain, there are 100 Contributors in the list who can be contributing in the Vote blockchain.
-
-Each Contributor can be contributing in the Vote blockchain necessarily in two roles simultaneously: 
-
-* as Validator, and 
-* as Developer.
-
-Each Contributor is a person (possibly anonymous) with their Public Address.
-
-Any person (Public Address) is appointed to the position of Contributor only by users (Voters) through Competitive Quadratic Voting.
-
-Each applicant (Public Address) must find a way to prove their qualification and usefulness for the Vote blockchain, and for this, can use Hyde Park.
-
-The first 50 persons (Public Addresses) are appointed to the positions of Contributor by an initiative group.
-
-All Contributors being in the list may recieve donations from users (Voters).
-
-
-
-
-<h1>11 &nbsp Automated Donations</h1>
-
-Automated Donations are an element of a Creator Donation Culture.
-
-On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
-
-Automated Donations are an automated inbuilt feature of the Vote blockchain.
-
-At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
-
-<i>
-The monthly rate of 0.05% from each public address' balance means that the total donations to Contributors  result in the monthly rate of 0.05% from the blockchain's market capitalization – or, in the annual rate of 0.6% from the blockchain's market capitalization.<br>
-<br>
-For example, the annual rate of 0.01% might be reached (from 0.6%) at best in  not less than 79 months (6 years and 7 months).<br>
-<br>
-The good long-term reference for the donations might be providing each Contributor the $5m annually.
-</i>
 
 
 
 
 
 
-
-<h1>13 &nbsp Competitive Quadratic Voting System</h1>
-
-On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
-
-The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
-
-> The best decisions must overcome the Voting Power of rivals.
-
-For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
-
-The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
-
-For example, 
-
-* if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
-* if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
-* if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
-
-and so on.
-
-At the last slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets also are summarized.
-
-Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
-
-For example, if a vote on appointing a certain person (Public Address) to the position of Contributor has accumulated in total:
-
-* FOR: 210,000,000,000 Voting Power<br>
-
-* AGAINST: 180,000,000,000 Voting Power
-
-then,
-
-<p>the Voting Margin is 16.67%  &nbsp (210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67</p>
-
-and,
-
-16.67% > 5%.
-
-Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
-
-
-<h1>14 &nbsp Proposals</h1>
-
-The Decisions are made on the following Proposals:
-
-* on appointing a person (possibly anonymous) to the position of Contributor (100 positions)
-* on dismissing a person (possibly anonymous) from the position of Contributor.
-* on changing – either increasing or decreasing – the donation rate by 5%
-
-
-
-<h1>15 &nbsp Hyde Park</h1>
-
-Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
 
 
