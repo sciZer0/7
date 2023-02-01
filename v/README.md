@@ -19,7 +19,7 @@ existing in 2023
 
 # Our Fundamentals
 
-Every code created must be open and free (Open Source, GPL).<br>
+Every code created must be open and free – Open Source, GPL.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
