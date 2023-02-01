@@ -570,11 +570,11 @@ The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> th
 <h1 align="center">Hypotheses, Ideas</h1>
 
 
-# About Technology
+# About Technologies
 
 Thanks to good people, on the table, there already are technologies that are usable.
 
-The hypothesis/idea is that we might take some existing advanced blockchain technologies and combine them.
+The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
 For example, we might take code of Solana blockchain itself (codebase) and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
@@ -585,9 +585,9 @@ For example, we might take code of Solana blockchain itself (codebase) and combi
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>16 &nbsp Technology & Creator Donation Culture</h1>
+<h1>16 &nbsp Technologies & Creator Donation Culture</h1>
 
-From day one, the Vote blockchain uses advanced blockchain technologies.
+From day one, the Vote blockchain uses the most advanced blockchain technologies.
 
 As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
 
