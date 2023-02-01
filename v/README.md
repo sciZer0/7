@@ -182,7 +182,7 @@ A simple transaction is a transaction performing a transfer of tokens from one a
 
 Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
 
-*An user, if there is a congestion (if ever), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.*
+<i><b>An user, if there is a congestion (if ever), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.</b></i>
 
 
 
@@ -201,29 +201,40 @@ Specifically, an user pays a Gas fee for deploying a smart contract and for maki
 Gas fees are paid in the Vote token (in Hands).
 
 
-<h1>7 &nbsp Order of Transactions in Each Block</h1>
-
-During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum ~ 20,000) is automatically formed in the following order:
-
-1. transactions with Gas fees are automatically ordered in descending order of Gas
-
-2. simple transactions without Gas fees are automatically ordered with a random number algorithm.
-
-If the total number of transactions, received but yet not executed, is bigger than the maximum block size (~20,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
-
-*This approach greatly reduces an unjust value-extraction done by miners/validators on AMM exchanges, not excluding an unjust value-extraction done by algorithmic traders, and plus, of course, completely excludes this phenomenon on order-book exchanges.*
 
 
 
-<h1>8 &nbsp Decreasing Circulating Supply</h1>
+<h1>7 &nbsp Decreasing Circulating Supply</h1>
 
 From day one, all Gas fees, received on each block, are burned, resulting in a decrease of  the Vote token's Circulating Supply.
 
-*Decreasing Circulating Supply is the impossible thing for each of the existing blockchain.*
+<i><b>
+Decreasing Circulating Supply is the impossible thing for each of the existing blockchain.
 
-*This is better than even there were the everyday halving in the Bitcoin Blockchain — since this is Decreasing Circulating Supply, not Increasing Circulating Supply.*
+This is better than even there were the everyday halving in the Bitcoin Blockchain — since this is Decreasing Circulating Supply, not Increasing Circulating Supply.
 
-*At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.*
+At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
+
+
+<h1>8 &nbsp Voting System</h1>
+
+The Vote blockchain’s democratic system consists of the following elements:
+
+* Standard Proposals for Votes (inbuilt)
+* Competitive Quadratic Votes (inbuilt)
+* Hyde Park
+ 
+<i><b>
+The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation.
+ 
+From day one, on the Vote blockchain, there are 1,000,000 Voters and many Standard Proposals for votes. 
+ 
+Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote.
+ 
+Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
+</b></i>
+
+
 
 <p>&nbsp</p>
 
@@ -237,8 +248,38 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
+* The Main Principle of Efficiency
 * New Approach to Consensus
 * Highly Efficient True-Decentralization
+
+
+## The Main Principle of Efficiency
+
+
+*For reference,
+
+*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion.
+
+This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
+
+<p><i>
+Also, for reference,
+
+* about 90% of the Bitcoin hashrate is controlled by 11 miner pools;
+* about 90% of the Ethereum hashrate is controlled by 16 miner pools.
+</i></p>
+
+As we can see, current true-decentralization is not ideal but is extremely expensive.
+
+But, of course, there should not be true-decentralization for extremely high costs.
+
+Instead, there should only be true-decentralization for low costs.
+
+The main principle of efficiency is that you must never do (spend) more than enough – and  exactly this way each truly-decentralized blockchain must work.
+
+The whole thing is that we can reach true-decentralization of a lot higher level for a lot lower costs.
+
+
 
 
 ## New Approach to Consensus
@@ -249,7 +290,8 @@ The approach doesn't require stakes from Validators (unlike POS) and of course d
 
 At the same time, the approach includes the Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
 
-The approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+
 
 <p align="center"><b>For reference, about Solana</b></p>
 
@@ -276,7 +318,7 @@ The hypothesis/idea is that
 
 * when the list of all current Validators (possibly anonymous) are known (Solana's approach), and
 
-* when the list is limited to some number, and
+* when the list is limited to 100, and
 
 * when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
 
@@ -297,45 +339,7 @@ and so we might, for example, just drop out the Solana's stake-weighted selectio
 Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives, and simultaneously, without a need to have any money and put it as the stake.
 
 
-## Highly Efficient True-Decentralization
 
-
-<p><i>
-For reference,
-
-* about 90% of the Bitcoin hashrate is controlled by 11 miner pools;
-* about 90% of the Ethereum hashrate is controlled by 16 miner pools.
-</i></p>
-
-The main principle of efficiency is that you must never do more than enough – and  exactly this way each truly-decentralized blockchain must work.
-
-How much True-Decentralization should be  there that this might be considered sufficient?
-
-The hypothesis/idea is that
-
-* when the list of all current Validators (possibly anonymous) are known (Solana's approach), and
-
-* when the list is limited to some number, and
-
-* when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
-
-* when each Validator in the list doesn't need to have any money and put it as the stake, and 
-
-* when each Validator in the list is receiving the highly generous incentives (say, $5 million annually) for working properly, and
-
-* when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
-
-* when any malicious Validator from the list cannot do anything wrong – since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
-
-* when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
-
-* <b>then the wide majority of (or all) Validators in the list will work properly, honestly,</b> and 
-
-* <b>then 100 truly-decentralized (truly-autonomous) Validators are the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.</b>
-
-100 or 150, discussable.
-
-The approach allows truly-decentralized and truly-democratic blockchains to be highly efficient, and simultaneously, highly sustainable.
 
 
 
@@ -410,20 +414,7 @@ The good long-term reference for the donations might be providing each Contribut
 
 
 
-<h1>12 &nbsp Voting System</h1>
 
-<p><i>
-The enormous benefit from voting, among others, is as follows,
-
-<b>the more tokens are being locked for voting, the less tokens in real circulation.</b>
-
-So possible massive voting on the Vote blockchain will constantly be eating up the Vote token's real circulation a lot.
-</i></p>
-
-The Vote blockchain’s democratic system consists of the following elements:
-
-* Competitive Quadratic Voting System (inbuilt)
-* Hyde Park
 
 
 
