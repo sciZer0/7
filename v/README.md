@@ -379,11 +379,11 @@ Each Contributor can be contributing in the Vote blockchain necessarily in two r
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Any person (possibly anonymous) is appointed to the position of Contributor only by users (Voters) through Competitive Quadratic Voting.
+Any person (Public Address) is appointed to the position of Contributor only by users (Voters) through Competitive Quadratic Voting.
 
-Each applicant (person, possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain and, for this, can use Hyde Park.
+Each applicant (Public Address) must find a way to prove their qualification and usefulness for the Vote blockchain, and for this, can use Hyde Park.
 
-The first 50 persons (possibly anonymous) are appointed to the positions of Contributor by the Initiative Group.
+The first 50 persons (Public Addresses) are appointed to the positions of Contributor by an initiative group.
 
 All Contributors being in the list may recieve donations from users (Voters).
 
@@ -400,13 +400,25 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
 At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
+<i>
+The monthly rate of 0.05% from each public address' balance means that the total donations to Contributors  result in the monthly rate of 0.05% from the blockchain's market capitalization – or, in the annual rate of 0.6% from the blockchain's market capitalization.<br>
+<br>
+For example, the annual rate of 0.01% might be reached (from 0.6%) at best in  not less than 79 months (6 years and 7 months).<br>
+<br>
+The good long-term reference for the donations might be providing each Contributor the $5m annually.
+</i>
+
 
 
 <h1>12 &nbsp Voting System</h1>
 
+<p><i>
 The enormous benefit from voting, among others, is as follows,
 
-**The more tokens are being locked for voting, the less tokens in real circulation.**
+<b>the more tokens are being locked for voting, the less tokens in real circulation.</b>
+
+So possible massive voting on the Vote blockchain will constantly be eating up the Vote token's real circulation a lot.
+</i></p>
 
 The Vote blockchain’s democratic system consists of the following elements:
 
@@ -419,7 +431,7 @@ The Vote blockchain’s democratic system consists of the following elements:
 
 On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
 
-The "competitive" word means that on each proposal, the competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 > The best decisions must overcome the Voting Power of rivals.
 
@@ -486,7 +498,7 @@ Hyde Park is a set internet platforms for expressing various opinions and offeri
 
 Thanks to good people, on the table, there already are technologies that are usable.
 
-The hypothesis/idea is that we might take some existing blockchain technologies and combine them.
+The hypothesis/idea is that we might take some existing advanced blockchain technologies and combine them.
 
 For example, we might take code of Solana blockchain itself (codebase) and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
@@ -499,7 +511,7 @@ For example, we might take code of Solana blockchain itself (codebase) and combi
 <p>&nbsp</p>
 <h1>16 &nbsp Technology & Creator Donation Culture</h1>
 
-At the start, the Vote blockchain uses the Solana blockchain's code modified a bit.
+From day one, the Vote blockchain uses advanced blockchain technologies.
 
 As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
 
