@@ -216,6 +216,24 @@ This is better than even there were the everyday halving in the Bitcoin Blockcha
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
+<h1>8 &nbsp Voting System</h1>
+
+The Vote blockchain’s democratic system consists of the following elements:
+
+* Automatic & Non-Automatic Proposals (inbuilt)
+* Competitive Quadratic Voting (inbuilt)
+* Hyde Park
+ 
+<i><b>
+The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation.
+ 
+From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
+ 
+Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote.
+ 
+Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
+</b></i>
+
 
 
 
@@ -226,18 +244,16 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 
 
-
-
 <p>&nbsp</p>
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
-* Room To Improve
+* A Lot of Room To Improve
 * New Approach to Consensus
 * Highly Efficient True-Decentralization
 
 
-## Room To Improve
+## A Lot of Room To Improve
 
 
 *For reference,
@@ -274,53 +290,82 @@ The whole trick is that this approach might be efficiently used only by truly-de
 <p align="center"><b>For reference, about Solana</b></p>
 
 
-At any given moment, the Solana Blockchain is storing the full list of all current Validators. 
+At any given moment, the Solana blockchain is storing the full list of all current Validators. 
 
-All the Validators being on the list should have the same hardware capabilities.
+All the Validators being in the list should have the same hardware capabilities.
 
-A Validator is a person (possibly anonymous) with their publicly-known Public Address, and exactly this Public Address serves to identify the given Validator in the list.
+Each Validator is a person (possibly anonymous) with their publicly-known Public Address, and exactly this Public Address serves to identify any given Validator in the list.
 
-Also, at any given moment, in the list, there is only one Validator (leader-Validator) which is creating the block.
+<b>Leader Schedule</b>
+
+|    Stake    | Public Address of Validator|
+| ----------- | ---------------------------|
+|       1     |     Ninja1b7rg8y3h9kh82n   |
+|       1     |     Panda3hk8f56fg1n9zet   |
+|       1     |     Eagle1j3rg9y3h5kh8rl   |
+|       1     |     Satosh19rg463k9dkn2a   |
+|       1     |     Panda3hk8f56fg1n9zet   |
+|       1     |     Panda3hk8f56fg1n9zet   |
+|       1     |     Panda3hk8f56fg1n9zet   |
+|       1     |     Panda3hk8f56fg1n9zet   |
+
+Also, at any given moment, in the list, there is only one Validator (called leader-Validator or Leader) which is creating the block.
 
 Only the leader-Validator can create the block and stream it to other Validators.
 
 All other Validators are only verifying the work of the leader-Validator.
 
-So the creation of the block by the leader and the verification of the block by others are happening in parallel. 
+In other words, all other Validators are voting: each successful verification serves as one vote for the consensus algorithm.
+
+So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This thing is good. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. *If this last sentence isn't understandable, relax. Doesn't matter here. *
 
 Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list according to the leader schedule also calculated automatically by a stake-weighted selection algorithm.
+
+<b>Leader Schedule</b>
+
+|    Slot     | Public Address of Leader|
+| ----------- | ------------------------|
+|       1     |  Ninja1b7rg8y3h9kh82n   |
+|       2     |  Ninja1b7rg8y3h9kh82n   |
+|       3     |  Ninja1b7rg8y3h9kh82n   |
+|       4     |  Ninja1b7rg8y3h9kh82n   |
+|       5     |  Panda3hk8f56fg1n9zet   |
+|       6     |  Panda3hk8f56fg1n9zet   |
+|       7     |  Panda3hk8f56fg1n9zet   |
+|       8     |  Panda3hk8f56fg1n9zet   |
+
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
 Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake -- and, theoretically, might be dropped out of the list.
 
+Hypothesis/Idea
+
 The hypothesis/idea is that 
 
 * when the list of all current Validators (possibly anonymous) are known (Solana's approach), and
 
-* when the list is limited to 100, and
+* when the list is limited to 100 Validators, and
 
-* when each Validator is added in the list by users (Voters) through democratic voting (Competitive Quadratic Voting), and
+* when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
 * when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the highly generous incentives (say, $5 million annually) for working properly, and
+* when each Validator in the list is receiving the highly generous Automated Donations (~ <b>$5 million annually</b>) just for working properly, and
 
-* when each Validator is competing with others very hard for being in the list in order to be receiving the highly generous incentives, and
+* when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
-* when any malicious Validator from the list cannot do anything wrong – since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
+* when any malicious Validator in the list cannot do anything wrong – since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
-* when each Validator may also be dropped out of the list by users (Voters) through democratic voting (Competitive Quadratic Voting),
+* when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
 * <b>then the wide majority of (or even all) Validators in the list will work properly, honestly,</b> 
 
-and so we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list;
 
-Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous incentives, and simultaneously, without a need to have any money and put it as the stake.
+and this all would allow to create an extremely sustanable truly-decentralized system -- and reach true-decentralization of the extremely high level for the extremely low costs simultaneously. 
 
-
-
-
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous Automated Donations, and simultaneously, without any need to have any money and put it as the stake.
 
 
 
@@ -328,23 +373,9 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 
 
 
-<h1>8 &nbsp Voting System</h1>
 
-The Vote blockchain’s democratic system consists of the following elements:
 
-* Automatic Proposals & Non-Automatic Proposals (inbuilt)
-* Competitive Quadratic Voting (inbuilt)
-* Hyde Park
- 
-<i><b>
-The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation.
- 
-From day one, on the Vote blockchain, there are 1,000,000 Voters and many Automatic and Non-Automatic Proposals to vote. 
- 
-Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote.
- 
-Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
-</b></i>
+
 
 
 <h1>13 &nbsp Competitive Quadratic Voting</h1>
