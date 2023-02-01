@@ -359,7 +359,7 @@ The hypothesis/idea is that
 
 * when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
-* when any malicious Validator in the list cannot do anything wrong – since it will be automatically dropped out of the list and replaced with a Validator from the waiting list, and
+* when any malicious Validator in the list, just trying to do something wrong, are automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
 * when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
@@ -374,9 +374,8 @@ And, which is more than <b>170 times (16,800.00%) more effective</b> than the Bi
 So we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
 
 <i>
-Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous Automated Donations, and simultaneously, without any need to have any money and put it as the stake.</i>
-
-
+Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous Automated Donations, and simultaneously, without any need to have any money and put it as the stake.</i><br>
+<br>
 As mentioned above, the whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
