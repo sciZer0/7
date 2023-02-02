@@ -363,20 +363,24 @@ The hypothesis/idea is that
 
 * when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
-* <b>then the wide majority of (or even all) Validators in the list will work honestly,</b> 
+* <b>then we might consider there is very huge incentives for each Validator to work honestly</b>, and 
 
-and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list;
-
+* <b>then the wide majority of (or even all) Validators in the list will work honestly</b>, 
+<b>
+and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.</b><br>
+<br>
 These 100 truly decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
-
-And, which is more than <b>170 times (16,800.00%) more effective</b> than the Bitcoin blockchain.
-
+<br><br>
+And, which is more than <b>170 times (16,800.00%) more efficient</b> than the Bitcoin blockchain.
+<br><br>
 So we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
-
+<br><br>
 <i>
 Importantly, as mentioned above, there is no problem to automatically exclude any Validator from the list — if the Validator would just try doing something wrong — and replace it with any other Validator from the waiting list of persons who are wanting to become Validators for getting the highly generous Automated Donations, and simultaneously, without any need to have any money and put it as the stake.</i><br>
 <br>
-As mentioned above, the whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+Also, as mentioned above, the whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+<br><br>
+100 or 150, discussable.
 
 
 <p>&nbsp</p>
@@ -389,11 +393,9 @@ Contributors are people who may be contributing in the Vote blockchain.
 
 On the Vote Blockchain, there are only 100 positions of Contributors.
 
-100 or 150, discussable.
-
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each Contributor, in equal size - if compared to other Contributors, receive the highly generous Automated Donations (~ $5 million annually per person) from Voters.
+Each Contributor, in equal size - if compared to other Contributors, receives the highly generous Automated Donations (~ $5 million annually) from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -406,7 +408,7 @@ Each applicant (possibly anonymous) must find a way to prove their qualification
 
 Each person being in the position of Contributor may be dropped out of the position by users (Voters) through democratic voting (Competitive Quadratic Voting).
 
-The very first 15 persons are appointed to the positions of Contributor by an initiative group.
+*The very first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
 
 
@@ -421,14 +423,12 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.05% from each public address's balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
 
 <i>
-The monthly rate of 0.05% from each public address' balance means that the total donations to Contributors  result in the monthly rate of 0.05% from the blockchain's market capitalization – or, in the annual rate of 0.6% from the blockchain's market capitalization.<br>
+This monthly rate of 0.05% from each public address' balance means the monthly rate of 0.05% from the blockchain's market capitalization – or, the annual rate of 0.6% from the blockchain's market capitalization.<br>
 <br>
 For example, the annual rate of 0.01% might be reached (from 0.6%) at best in 79 months (6 years and 7 months).<br>
-<br>
-The good long-term reference for Automated Donations might be providing each Contributor the $5m annually.
 </i>
 
 
