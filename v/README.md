@@ -394,7 +394,7 @@ There are about 150 countries around the world. At best, from one single country
 
 Contributors are people who may be contributing in the Vote blockchain.
 
-On the Vote Blockchain, there are only 150 positions of Contributors.
+At the start, on the Vote Blockchain, there are 150 positions of Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
@@ -409,7 +409,7 @@ Any person (possibly anonymous) is appointed to the position of Contributor only
 
 Each applicant (possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain, and can for this use Hyde Park.
 
-Each person being in the position of Contributor may be dropped out of the position by users (Voters) through democratic voting (Competitive Quadratic Voting).
+Each person being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 *The very first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
@@ -426,10 +426,16 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting. 
+At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting.
 
 <i>
-This monthly rate of 0.05% from each public address' balance means the monthly rate of 0.05% from the blockchain's market capitalization – or, the annual rate of 0.6% from the blockchain's market capitalization.<br>
+Each Validator monthly receives: 
+
+(sum of Automated Donations) / (maximum possible number of positions of Validator)
+
+Importantly, if there is one or more vacant positions of Validator – all Automated Donations intended for the vacant position are burned.
+
+The monthly rate of 0.05% from each public address' balance means the monthly rate of 0.05% from the blockchain's market capitalization – or, the annual rate of 0.6% from the blockchain's market capitalization.<br>
 <br>
 For example, the annual rate of 0.01% might be reached (from 0.6%) at best in 79 months (6 years and 7 months).<br>
 </i>
@@ -448,7 +454,9 @@ For example, the annual rate of 0.01% might be reached (from 0.6%) at best in 79
 
 <h1>13 &nbsp Competitive Quadratic Voting</h1>
 
-On the Vote blockchain, each voting on a proposal lasts 30 days (6,480,000 slots).
+On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
+
+Each voting on a proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
 The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
@@ -456,7 +464,7 @@ The "competitive" word means that on each proposal, competitive Voters may place
 
 For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
-The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as the square of the number of tokens.
+The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
 
 For example, 
 
@@ -466,19 +474,19 @@ For example,
 
 and so on.
 
-At the last slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets also are summarized.
+At the last Slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets are also summarized.
 
 Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
 
 For example, if a vote on a certain proposal has accumulated in total:
 
-* FOR: 210,000,000,000 Voting Power<br>
+* FOR: 3,500,000,000 Voting Power<br>
 
-* AGAINST: 180,000,000,000 Voting Power
+* AGAINST: 3,000,000,000 Voting Power
 
 then,
 
-<p>the Voting Margin is 16.67%  &nbsp (210,000,000,000 / 180,000,000,000 - 1) * 100 = 16.67</p>
+<p>the Voting Margin is 16.67%  &nbsp (3,500,000,000 / 3,000,000,000 - 1) * 100 = 16.67</p>
 
 and,
 
@@ -489,11 +497,20 @@ Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the d
 
 <h1>14 &nbsp Proposals</h1>
 
-The Decisions are made on the following Proposals:
+On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 
-* on appointing a person (possibly anonymous) to the position of Contributor (100 positions)
-* on dismissing a person (possibly anonymous) from the position of Contributor.
-* on changing – either increasing or decreasing – the donation rate by 5%
+Automatic Proposals happen each 30 days and are the following ones:
+
+* proposal to change – either increase or decrease – the monthly rate of Automated Donations by 5%
+* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1%.
+
+Non-Automatic Proposals may start at any moment (Slot) and are the following ones:
+
+* proposal to appoint a person (possibly anonymous) to the position of Contributor
+* proposal to dismiss a person (possibly anonymous) from the position of Contributor
+
+
+
 
 
 
