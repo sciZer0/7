@@ -387,6 +387,7 @@ There are about 150 countries around the world. At best, from one single country
 </i>
 
 <p>&nbsp</p>
+<p>&nbsp</p>
 
 **The Continuation**
 
@@ -433,7 +434,7 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 
 
-<h1>13 &nbsp Competitive Quadratic Voting</h1>
+<h1>11 &nbsp Competitive Quadratic Voting</h1>
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
 
@@ -476,7 +477,7 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
 
-<h1>14 &nbsp Proposals</h1>
+<h1>12 &nbsp Proposals</h1>
 
 On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 
@@ -530,7 +531,7 @@ For example, we might take code of Solana blockchain itself as codebase and comb
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>16 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>14 &nbsp Technologies & Creator Donation Culture</h1>
 
 From day one, the Vote blockchain uses the most advanced blockchain technologies.
 
