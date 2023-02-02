@@ -255,9 +255,9 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 ## A Lot of Room To Improve
 
 
-*For reference,
+*For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion.
+*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion.*
 
 This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
 
@@ -369,7 +369,7 @@ The hypothesis/idea is that
 <b>
 and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.</b><br>
 <br>
-These 100 truly decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
+These 100 truly decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would actually allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
 <br><br>
 And, which is more than <b>170 times (16,800.00%) more efficient</b> than the Bitcoin blockchain.
 <br><br>
