@@ -428,25 +428,6 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
 At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting.
 
-<i>
-Each Validator monthly receives: 
-
-(sum of Automated Donations) / (maximum possible number of positions of Validator)
-
-Importantly, if there is one or more vacant positions of Validator – all Automated Donations intended for the vacant position are burned.
-
-The monthly rate of 0.05% from each public address' balance means the monthly rate of 0.05% from the blockchain's market capitalization – or, the annual rate of 0.6% from the blockchain's market capitalization.<br>
-<br>
-For example, the annual rate of 0.01% might be reached (from 0.6%) at best in 79 months (6 years and 7 months).<br>
-</i>
-
-
-
-
-
-
-
-
 
 
 
@@ -516,63 +497,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 <h1>15 &nbsp Hyde Park</h1>
 
-Hyde Park is a set internet platforms for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>&nbsp</p>
-
-**The Continuation**
-
-
-<h1>9 &nbsp Highly Efficient True-Decentralization</h1>
-
-*For reference,*
-
-*During just one single year (2022), when the Bitcoin blockchain's market capitalizatin was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the contributors (miners/validators), for keeping the blockchain working, an amount exceeding $10 billion.*
-
-From day one, on the Vote blockchain, there the Highly Efficient True-Decentralization approach is used.
-
-<p><i>
-With this approach, even creating the highly generous incentives for Validators ($5m annually per person), the total annual budget for 100 Validators, even at a very high level of the blockchain's market capitalization of, say, $5 trillion, might be just about $500 million – which is just 0.01% of the blockchain's market capitalization.
-
-The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> than the Bitcoin blockchain and also many times more efficient than each of the existing blockchains, remaining truly-decentralized, truly-democratic and highly-sustainable.
-</i>
- </p>
-
-
-
-
-
+Hyde Park is a set internet platforms (incl. Twitter, Telegram, Descord, Vote) for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
 
 
@@ -592,11 +517,11 @@ The Vote blockchain is more than <b>170 times (16,800.00%) more effective</b> th
 
 # About Technologies
 
-Thanks to good people, on the table, there already are technologies that are usable.
+Thanks to good people, on the table, there already are good technologies to use.
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
-For example, we might take code of Solana blockchain itself (codebase) and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
+For example, we might take code of Solana blockchain itself as codebase and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
 
 
@@ -619,7 +544,7 @@ One of the first names of such lists might be Anatoly Yakovenko.
 <h1>CONCLUSION</h1>
 
 
-As mentioned above, actually, in the industry, there are many more problems than described here, and probably each blockchain existing in 2023 deserves to go away since it cannot solve these problems.
+As mentioned above, actually, in the industry, there are many more problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
 
 All these problems can be solved only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
