@@ -110,9 +110,9 @@ Actually, there are many more problems.
 <p>&nbsp</p>
 
 <p align="center">
-Probably<br>
-each blockchain existing in 2023<br>
-deserves to go away.<br>
+And, each blockchain<br>
+existing in 2023 is fundamentally<br>
+unable to solve these problems.<br>
 </p>
  
 <p>&nbsp</p>
@@ -295,10 +295,8 @@ All the Validators being in the list should have the same hardware capabilities.
 
 Each Validator is a person (possibly anonymous) with their publicly-known Public Address, and exactly this Public Address serves to identify any given Validator in the list.
 
-<b>Full List of All Current Validators:</b>
+<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Full List of All Current Validators:</p>
 
-
-<p align="center">
 
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
@@ -313,17 +311,19 @@ Each Validator is a person (possibly anonymous) with their publicly-known Public
 
 </p>
 
-Also, at any given moment, in the list, there is only one Validator (called leader-Validator or Leader) which is creating the block.
+Also, time is splitted into Slots, each Slot is 400 milliseconds.
+
+At any given Slot, in the list, there is only one Validator (called leader-Validator or Leader) which is creating the block.
 
 Only the leader-Validator can create the block and stream it to other Validators.
 
 All other Validators are only verifying the work of the leader-Validator.
 
-In other words, all other Validators are voting: each successful verification serves as one vote for the consensus algorithm.
+In other words, all other Validators are voting – each successful verification of the block by a Validator serves as one vote for the consensus algorithm.
 
 So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This is a very good thing. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. <i>If this last sentence isn't understandable, relax. Doesn't matter here.</i>
 
-Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list according to the leader schedule also calculated automatically by a stake-weighted selection algorithm.
+Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list according to the leader schedule also calculated automatically by the stake-weighted selection algorithm.
 
 <b>Leader Schedule:</b>
 
@@ -341,7 +341,7 @@ Each leader-Validator is automatically selected (calculated) from the list by a 
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
-Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake -- and, theoretically, might be dropped out of the list.
+Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake – and, theoretically, might be dropped out of the list.
 
 Hypothesis/Idea
 
@@ -359,7 +359,7 @@ The hypothesis/idea is that
 
 * when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
-* when any malicious Validator in the list, just trying to do something wrong, are automatically dropped out of the list and replaced with a Validator from the waiting list, and
+* when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
 * when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
