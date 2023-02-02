@@ -237,7 +237,7 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 
 
 
-
+<p>&nbsp</p>
 <p>&nbsp</p>
 
 **To be continued a bit below...**
@@ -389,6 +389,11 @@ There are about 150 countries around the world. At best, from one single country
 <p>&nbsp</p>
 <p>&nbsp</p>
 
+
+
+
+
+
 **The Continuation**
 
 <h1>9 &nbsp Contributors</h1>
@@ -496,7 +501,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 
 
-<h1>15 &nbsp Hyde Park</h1>
+<h1>13 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms (incl. Twitter, Telegram, Descord, Vote) for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
@@ -507,7 +512,7 @@ Hyde Park is a set internet platforms (incl. Twitter, Telegram, Descord, Vote) f
 
 
 
-
+<p>&nbsp</p>
 <p>&nbsp</p>
 
 **To be continued a bit below...**
@@ -525,7 +530,7 @@ The hypothesis/idea is that we might take some existing blockchain technologies 
 For example, we might take code of Solana blockchain itself as codebase and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
 
-
+<p>&nbsp</p>
 <p>&nbsp</p>
 
 **The Continuation**
@@ -549,7 +554,7 @@ As mentioned above, actually, in the industry, there are many more problems than
 
 All these problems can be solved only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
-
+<p>&nbsp</p>
 <p>&nbsp</p>
 
 
