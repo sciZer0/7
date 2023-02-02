@@ -9,11 +9,11 @@ Everything is discussable
 
 <p>&nbsp</p>
 
-<h3 align="right">
+<h4 align="right">
 Increasing overhead (inefficiency) is<br>
 the goal for each blockchain<br>
 existing in 2023
-</h3>
+</h4>
 
 <p>&nbsp</p>
 
