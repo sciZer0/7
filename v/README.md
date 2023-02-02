@@ -349,13 +349,13 @@ The hypothesis/idea is that
 
 * when the list of all current Validators (possibly anonymous) are known (Solana's approach), and
 
-* when the list is limited to 100 Validators, and
+* when the list is limited to 150 Validators, and
 
 * when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
 * when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the highly generous Automated Donations (~ <b>$5 million annually</b>) just for working honestly, and
+* when each Validator in the list is receiving the highly generous Automated Donations (~ <b>$3 million annually</b>) just for working honestly, and
 
 * when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -380,8 +380,11 @@ Importantly, as mentioned above, there is no problem to automatically exclude an
 <br>
 Also, as mentioned above, the whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 <br><br>
+<i>
 100 or 150, discussable.
-
+ 
+There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — really autonomous Validator — making this whole system extremely sustandable. Really, it would be impossible to stop as long as there is at least one semi-democratic country around the world.
+</i>
 
 <p>&nbsp</p>
 
@@ -391,11 +394,11 @@ Also, as mentioned above, the whole trick is that this approach might be efficie
 
 Contributors are people who may be contributing in the Vote blockchain.
 
-On the Vote Blockchain, there are only 100 positions of Contributors.
+On the Vote Blockchain, there are only 150 positions of Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each Contributor, in equal size - if compared to other Contributors, receives the highly generous Automated Donations (~ $5 million annually) from Voters.
+Each Contributor, in equal size - if compared to other Contributors, receives the highly generous Automated Donations (~ $3 million annually) from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
