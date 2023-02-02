@@ -371,7 +371,7 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 <br>
 These 100 truly decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would actually allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
 <br><br>
-And, which is more than <b>170 times (16,800.00%) more efficient</b> than the Bitcoin blockchain.
+And, which might be more than <b>170 times (16,800.00%) more efficient</b> than the Bitcoin blockchain.
 <br><br>
 So we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
 <br><br>
@@ -407,7 +407,7 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 Any person (possibly anonymous) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each applicant (possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain, and can for this use Hyde Park.
+Each applicant (possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain, and can use Hyde Park.
 
 Each person being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
@@ -476,7 +476,7 @@ and so on.
 
 At the last Slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets are also summarized.
 
-Plus, each decision is made by a margin of at least 5% – in other words, the Mandatory Margin is 5%.
+Plus, each decision is made by a margin of at least 15% – in other words, the Mandatory Margin is 15%.
 
 For example, if a vote on a certain proposal has accumulated in total:
 
@@ -490,9 +490,9 @@ then,
 
 and,
 
-16.67% > 5%.
+16.67% > 15%.
 
-Since the Voting Margin of 16.67% is more than the Mandatory Margin of 5%, the decision is made.
+Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
 
 <h1>14 &nbsp Proposals</h1>
