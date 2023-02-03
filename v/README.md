@@ -39,9 +39,15 @@ The main point of blockchain technology is to allow people to build permissionle
 On the other hand, the main task of developers is to build these systems as speedy and efficient as possible.
 
 This paper proposes a new, truly-decentralized and truly-democratic blockchain which is speedy and sustainable, simultaneously being unachievably efficient and able of unbelievably great things, impossible for regular blockchains.
- 
- 
 
+And one more moment…
+
+The main principle of efficiency is that you must never do more than enough – and  exactly this way each blockchain must work.
+ 
+ > <b>Never do more than enough.
+
+ <p>&nbsp</p>
+ 
 <h1 align="center">Five Problems of Current Blockchains</h1>
 
 <h3 align="center">Problem 1</h3>
