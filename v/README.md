@@ -302,14 +302,14 @@ Each Validator is a person (possibly anonymous) with their publicly-known Public
 
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
-|       1     |     Ninja1b7rg8y3h9kh82n   |
-|       1     |     Panda3hk8f56fg1n9zet   |
+|       1     |     Pumbaaxk3Q32fg1n5zet   |
 |       1     |     EagLe1j3rg9y3h5kh8rl   |
 |       1     |     Zazuph19rg463k9dkn2a   |
-|       1     |     Jaqee3hm8fy6fg1n9kee   |
-|       1     |     Pumbaaxk3f32fg1n5zet   |
-|       1     |     Scrat3hk23v5fg3a9dut   |
-|       1     |     Vixeyygfpsdkfge59hde   |
+|       1     |     Jaqee3hm8fy6fG1n9kes   |
+|       1     |     Ninja1b7Mg8Y3H9kh82n   |
+|       1     |     Scrat3hk23v5fD3a9dut   |
+|       1     |     Panda3hk8f56JS1N9zet   |
+|       1     |     Vixeyygfpsdkfse59hde   |
 
 </p>
 
@@ -331,14 +331,14 @@ Each leader-Validator is automatically selected (calculated) from the list by a 
 
 |    Slot     | Public Address of Leader|
 | ----------- | ------------------------|
-|       1     |  Ninja1b7rg8y3h9kh82n   |
-|       2     |  Ninja1b7rg8y3h9kh82n   |
-|       3     |  Ninja1b7rg8y3h9kh82n   |
-|       4     |  Ninja1b7rg8y3h9kh82n   |
-|       5     |  Panda3hk8f56fg1n9zet   |
-|       6     |  Panda3hk8f56fg1n9zet   |
-|       7     |  Panda3hk8f56fg1n9zet   |
-|       8     |  Panda3hk8f56fg1n9zet   |
+|       1     |  Ninja1b7Mg8Y3H9kh82n   |
+|       2     |  Ninja1b7Mg8Y3H9kh82n   |
+|       3     |  Ninja1b7Mg8Y3H9kh82n   |
+|       4     |  Ninja1b7Mg8Y3H9kh82n   |
+|       5     |  Panda3hk8f56JS1N9zet   |
+|       6     |  Panda3hk8f56JS1N9zet   |
+|       7     |  Panda3hk8f56JS1N9zet   |
+|       8     |  Panda3hk8f56JS1N9zet   |
 
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
