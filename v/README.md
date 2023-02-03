@@ -185,17 +185,13 @@ A simple transaction is a transaction performing a transfer of tokens from one a
 <i><b>
 Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
 <br><br>
-An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without fees aren't possible on regular blockchains.</b></i>
+An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without fees aren't possible on regular blockchains.
+<br><br>
+Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by good blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
+</b></i>
 
 
-
-<h1>5 &nbsp Possible DDoS/Spam Attacks</h1>
-
-Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done in relation to other possible DDoS/Spam attacks that can, for example, be requesting the Block Height.
-
-
-
-<h1>6 &nbsp Gas Fees</h1>
+<h1>5 &nbsp Gas Fees</h1>
 
 Users pay Gas Fees only for some sorts of transactions.
 
@@ -207,7 +203,7 @@ Gas Fees are paid in the Vote token (in Hands).
 
 
 
-<h1>7 &nbsp Decreasing Circulating Supply</h1>
+<h1>6 &nbsp Decreasing Circulating Supply</h1>
 
 From day one, all Gas fees, received on each block, are burned, resulting in a decrease of the Vote token's Circulating Supply.
 
@@ -219,7 +215,7 @@ This is even better than if there were the Everyday Halving of the award in the 
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
-<h1>8 &nbsp Voting System</h1>
+<h1>7 &nbsp Voting System</h1>
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -398,7 +394,7 @@ So we can reach true-decentralization of the extremely high level and for the ex
 
 **The Continuation**
 
-<h1>9 &nbsp Contributors</h1>
+<h1>8 &nbsp Contributors</h1>
 
 Contributors are people who may be contributing in the Vote blockchain.
 
@@ -426,7 +422,7 @@ Each person being in the position of Contributor may be dropped out of the posit
 
 
 
-<h1>10 &nbsp Automated Donations</h1>
+<h1>9 &nbsp Automated Donations</h1>
 
 Automated Donations are an element of a Creator Donation Culture.
 
@@ -441,7 +437,7 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 
 
-<h1>11 &nbsp Competitive Quadratic Voting</h1>
+<h1>10 &nbsp Competitive Quadratic Voting</h1>
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
 
@@ -484,7 +480,7 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
 
-<h1>12 &nbsp Proposals</h1>
+<h1>11 &nbsp Proposals</h1>
 
 On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 
@@ -503,7 +499,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 
 
-<h1>13 &nbsp Hyde Park</h1>
+<h1>12 &nbsp Hyde Park</h1>
 
 Hyde Park is a set internet platforms (incl. Twitter, Telegram, Descord, Vote) for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
@@ -538,7 +534,7 @@ For example, we might take code of Solana blockchain itself as codebase and comb
 **The Continuation**
 
 <p>&nbsp</p>
-<h1>14 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>13 &nbsp Technologies & Creator Donation Culture</h1>
 
 From day one, the Vote blockchain uses the most advanced blockchain technologies.
 
