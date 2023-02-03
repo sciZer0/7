@@ -220,7 +220,7 @@ At best, such an extremely deflationary nature of tokenomics should result in a 
 
 <h1>8 &nbsp Voting System</h1>
 
-The Vote blockchain’s democratic system consists of the following elements:
+The blockchain’s democratic system consists of the following elements:
 
 * Automatic & Non-Automatic Proposals (inbuilt)
 * Competitive Quadratic Voting (inbuilt)
@@ -414,7 +414,7 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 Any person (possibly anonymous) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each applicant (possibly anonymous) must find a way to prove their qualification and usefulness for the Vote blockchain, and can use Hyde Park.
+Each applicant (possibly anonymous) must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Validator, and can use Hyde Park.
 
 Each person being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
