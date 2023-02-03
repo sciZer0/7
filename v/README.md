@@ -42,7 +42,7 @@ The whole thing is that only truly-decentralized and truly-democratic blockchain
  
  
 
-<h1 align="center">5 Problems of Current Blockchains</h1>
+<h1 align="center">Five Problems of Current Blockchains</h1>
 
 <h3 align="center">Problem 1</h3>
 
