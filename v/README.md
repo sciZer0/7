@@ -372,22 +372,28 @@ The hypothesis/idea is that
 
 * <b>then the wide majority of (or even all) Validators in the list will work honestly</b>, 
 <b>
-and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.</b><br>
-<br>
+and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+</b>
+<br><br>
 
 <i>
-100 or 150, discussable.
- 
-There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — making this whole system extremely sustandable. Really, it would be impossible to stop as long as there is at least one semi-democratic country around the world.
+There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — and this would make the whole system extremely sustandable, meaning, extremely hard, at best impossible, to stop.
 </i>
+<br><br>
+These 150 truly-decentralized (truly-autonomous) Validators – which are highly motivated to work honestly and which are selected through democratic voting – might be  the sufficient condition for a blockchain to be considered truly-decentralized and sustanable.
+<br><br>
+Such 150 Validators might be enough, maybe, and to spare.
+<br><br>
+Plus, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than the Bitcoin blockchain.
+<br><br>
 
-Such truly-decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would actually allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
-<br><br>
-Plus, such a blockchain might be more than <b>170 times (16,800.00%) more efficient</b> than the Bitcoin blockchain.
-<br><br>
+
+> <p>&nbsp &nbsp More than <b>170 times (16,800.00%) more efficient than the Bitcoin blockchain</b>
+
+ 
+<br>
 So we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
 <br><br>
-
 
 
 <p>&nbsp</p>
