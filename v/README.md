@@ -38,7 +38,7 @@ The main point of blockchain technology is to allow people to build permissionle
 
 On the other hand, the main task of developers is to build these systems as speedy and efficient as possible.
 
-The whole thing is that only truly-decentralized and truly-democratic blockchains can be speedy and sustainable, simultaneously being unachievably efficient and able of fantastically good things, impossible for regular blockchains.
+This paper proposes a new, truly-decentralized and truly-democratic blockchain which is speedy and sustainable, simultaneously being unachievably efficient and able of fantastically good things, impossible for regular blockchains.
  
  
 
