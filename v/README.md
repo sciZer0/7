@@ -421,11 +421,11 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 * as Validator, and 
 * as Developer.
 
-Any person (possibly anonymous) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
+Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each applicant (possibly anonymous) must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Validator, and can use Hyde Park.
+Each applicant must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Validator, and can use Hyde Park.
 
-Each person being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
+Each person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 *The very first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
