@@ -382,9 +382,9 @@ There are about 150 countries around the world. At best, from one single country
 <br><br>
 These 150 truly-decentralized (truly-autonomous) Validators – which are highly motivated to work honestly and which are selected through democratic voting – might be  the sufficient condition for a blockchain to be considered truly-decentralized and sustanable.
 <br><br>
-Such 150 Validators might be enough, maybe, and to spare.
+Such 150 Validators might be enough and to spare.
 <br><br>
-Plus, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than the Bitcoin blockchain.
+As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than the Bitcoin blockchain.
 <br><br>
 
 
@@ -392,7 +392,7 @@ Plus, the blockchain might be more than <b>170 times (16,800.00%)</b> more effic
 
  
 <br>
-So we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
+So we can surely reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
 <br><br>
 
 
