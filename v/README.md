@@ -34,9 +34,11 @@ When people create something not good enough, there must be absolute freedom for
 <p>&nbsp</p>
  <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems whose pre-programmed works are extremely hard – at best, impossible  – to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems (blockchains) which are sustanable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
-On the other hand, the main task of developers is to build these systems which are as fast and efficient as possible.
+On the other hand, the main task of developers is to build these systems (blockchains) as speedy and efficient as possible.
+
+The whole thing is that only truly-decentralized and truly-democratic blockchains can be speedy and sustainable, simultaneously being unachievably efficient and able of fantastically good things, impossible for regular blockchains.
  
  
 
