@@ -234,7 +234,7 @@ The enormous benefit from voting, among others, is that the more tokens are bein
  
 From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
  
-Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote.
+Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote, and everyone might spend only their idle time on voting.
  
 Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
 </b></i>
