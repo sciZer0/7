@@ -182,9 +182,10 @@ There are no Gas fees for simple transactions, meaning, it is a freemium model b
 
 A simple transaction is a transaction performing a transfer of tokens from one address not associated with a smart contract to another address also not associated with a smart contract.
 
+<i><b>
 Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
-
-<i><b>An user, if there is a congestion (if any), may set a Gas fee for their simple transaction, meaning, only at its worst the Vote blockchain might take Gas fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without Gas fees aren't possible on regular blockchains.</b></i>
+<br><br>
+An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without fees aren't possible on regular blockchains.</b></i>
 
 
 
@@ -200,7 +201,7 @@ Users pay Gas Fees only for some sorts of transactions.
 
 Specifically, an user pays a Gas fee for deploying a smart contract and for making a transaction involving a smart contract.
 
-Gas fees are paid in the Vote token (in Hands).
+Gas Fees are paid in the Vote token (in Hands).
 
 
 
@@ -208,7 +209,7 @@ Gas fees are paid in the Vote token (in Hands).
 
 <h1>7 &nbsp Decreasing Circulating Supply</h1>
 
-From day one, all Gas fees, received on each block, are burned, resulting in a decrease of  the Vote token's Circulating Supply.
+From day one, all Gas fees, received on each block, are burned, resulting in a decrease of the Vote token's Circulating Supply.
 
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchain.
