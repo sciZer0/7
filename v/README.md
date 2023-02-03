@@ -369,16 +369,16 @@ The hypothesis/idea is that
 
 * <b>then the wide majority of (or even all) Validators in the list will work honestly</b>, 
 <b>
-and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm  — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.</b><br>
+and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.</b><br>
 <br>
 
 <i>
 100 or 150, discussable.
  
-There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — really autonomous Validator — making this whole system extremely sustandable. Really, it would be impossible to stop as long as there is at least one semi-democratic country around the world.
+There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — making this whole system extremely sustandable. Really, it would be impossible to stop as long as there is at least one semi-democratic country around the world.
 </i>
 
-These 100 truly decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would actually allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
+Such truly-decentralized (truly-autonomus) Validators – which are highly motivated to work honestly – would actually allow to create an extremely sustanable truly-decentralized system which is extremely hard – at best, impossible  – to stop.
 <br><br>
 Plus, such a blockchain might be more than <b>170 times (16,800.00%) more efficient</b> than the Bitcoin blockchain.
 <br><br>
