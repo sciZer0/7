@@ -62,7 +62,7 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-Ideally, blockchains must be truly-democratic from day one and exactly people (users) must rule the blockchains.
+Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -106,7 +106,7 @@ At the same time, such an increase in a number of nodes doesn't increase the blo
 
 Actually, this approach means that increasing overhead (efficiency) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining truly-decentralized and truly-democratic.
+Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining highly-decentralized and highly-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -142,8 +142,8 @@ unable to solve these problems.<br>
 
 <h1 align="center">
 Meet<br>
-FIRST TRULY-DECENTRALIZED &<br>
-TRULY-EFFICIENT BLOCKCHAIN</b>
+FIRST HIGHLY-DECENTRALIZED &<br>
+HIGHLY-EFFICIENT BLOCKCHAIN</b>
 </h1>
 <p>&nbsp</p>
 
@@ -163,8 +163,9 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · with free transactions<br>
 · with Decreasing Circulating Supply<br>
 · with 50,000 TPS<br>
-· truly-decentralized<br>
-· truly-democratic<br>
+· highly-decentralized<br>
+· highly-democratic<br>
+· highly-efficient<br>
 <p>&nbsp</p>
 
 **Motto: Like Others Just Better**
@@ -233,7 +234,7 @@ Decreasing Circulating Supply is the impossible thing for each of the existing b
 
 This is even better than if there were the Everyday Halving of the block reward in the Bitcoin Blockchain — since in the Vote blockchain, there is the decreasing of Circulating Supply, not increasing of Circulating Supply which is in the Bitcoin Blockchain.
 
-At best, such a highly deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
+At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
 <h1>7 &nbsp Voting System</h1>
@@ -269,7 +270,7 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * A Lot of Room To Improve
-* New Approach to Consensus or Highly Efficient True-Decentralization
+* New Approach to Consensus or Extremely Efficient True-Decentralization
 
 
 ## A Lot of Room To Improve
@@ -279,7 +280,7 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion.*
 
-This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is highly expensive.
+This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
 
 <p><i>
 Also, for reference,
@@ -288,14 +289,14 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current true-decentralization isn't the one of the highly high level but at the same time is highly expensive.
+As we can see, current true-decentralization isn't the one of the extremely-high level but at the same time is extremely expensive.
 
-The whole thing is that we can reach true-decentralization of the highly high level and for the highly low costs simultaneously.
-
-
+The whole thing is that we can reach true-decentralization of the extremely-high level and for the extremely-low costs simultaneously.
 
 
-## New Approach to Consensus or Highly Efficient True-Decentralization
+
+
+## New Approach to Consensus or Extremely Efficient True-Decentralization
 
 This new approach allows us to reach consensus highly efficiently.
 
@@ -303,7 +304,7 @@ The approach doesn't require stakes from Validators (unlike POS) and of course d
 
 At the same time, the approach includes Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
 
-The whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole trick is that this approach might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, about Solana</b></p>
@@ -394,12 +395,12 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 <br><br>
 
 <i>
-There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — and this would make the whole system highly sustainable, meaning, extremely hard, at best impossible, to stop.
+There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly sustainable, meaning, extremely hard, at best impossible, to stop.
 </i>
 <br><br>
-These 150 truly-decentralized (truly-autonomous) Validators – which are highly motivated to work honestly and which are selected through democratic voting – might be  the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
+Actually, these 150 highly-decentralized (highly-autonomous) Validators – which are highly motivated to work honestly and which are selected/rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered highly-decentralized and highly-sustainable.
 <br><br>
-Such 150 Validators might be enough and to spare.
+These 150 Validators might be enough and to spare.
 <br><br>
 As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than the Bitcoin blockchain.
 <br><br>
@@ -409,7 +410,7 @@ As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> mor
 
  
 <br>
-So we can surely reach true-decentralization of the highly high level and for the highly low costs simultaneously. 
+So we can surely reach true-decentralization of the extremely-high level and for the extremely-low costs simultaneously.
 <br><br>
 
 
@@ -594,14 +595,9 @@ As mentioned above, actually, in the industry, there are even many more problems
 
 And, for this reason,  each blockchain existing in 2023 (excl. Bitcoin) deserves to go away.
 
-All the problems can be solved only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+All the problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p>&nbsp</p>
 <p>&nbsp</p>
-
-
-
-
-
 
