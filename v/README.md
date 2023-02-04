@@ -38,15 +38,14 @@ The main point of blockchain technology is to allow people to build permissionle
 
 On the other hand, the main task of developers is to build these systems as fast and efficient as possible.
 
-This paper proposes a new blockchain which is simultaneously:
+This paper proposes a new fast blockchain which is simultaneously:
 
 * extremely-decentralized
 * extremely-democratic
-* very fast
-* extremely sustainable
+* extremely-sustainable
 * extremely-efficient
 
-and aslo able of unbelievably great things, impossible for regular blockchains.
+and also, additionally, is able of other unbelievably-great things, impossible for regular blockchains.
 
 
 
