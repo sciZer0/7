@@ -583,7 +583,7 @@ The main point of Bitcoin, absolutely  is not sound money — since the Bitcoin 
 
 The whole point of Bitcoin as a blockchain, thanks to its uniqueness, is the same one the Mona Lisa has, which is the flexing — the ultimate way to flex. 
 
-But, even though the Mona Lisa is relatively expensive, it will never cost $20 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $20 trillion or more.
+But, even though the Mona Lisa's price is relatively expensive, it will never be $20 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $20 trillion or more.
 
 Eventually, people will understand it.
 
