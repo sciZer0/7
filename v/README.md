@@ -573,7 +573,7 @@ As an element of a Creator Donation Culture, we establish a new fete day — Cre
 <i>
 Eventually, there might (will inevitably) be people who are searching for the creators eligible for donations, making the lists. 
 <br><br>
-One of the first names of such lists might be Anatoly Yakovenko.
+Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
 <h1>CONCLUSION</h1>
