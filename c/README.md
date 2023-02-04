@@ -118,7 +118,7 @@ The whole point about the law is that official science wrongly considers that En
 
 The New Law of Conservation of Energy is:
 
-> **In some cases, Energy can neither be destroyed nor created — only converted from one form of Energy to another, but in another cases, Energy can be destroyed or can be taken for free**
+> **In some cases, Energy can neither be destroyed nor created — only converted from one form of Energy to another, but in another cases, Energy can be destroyed or can be taken for free.**
 
 *We will see confirmations of the New Law of Conservation of Energy also below.*
 
@@ -126,9 +126,9 @@ Importantly,
 
 * there are Target Works and Non-Target Works;
 
-* there are Energy-Isolated and Energy-Non-Isolated Systems; -- often, people think about some systems that they are Energy-Isolated, but in reality, they are Energy-Non-Isolated;
+* there are Energy-Isolated and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
-* some devices, for example, Electromagnets -- those devices that, in reality, aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space -- really can work with an efficiency of more than 100%; 
+* some devices, for example, Electromagnets – those devices that, in reality, aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
 
 *More on this all below.*
 
