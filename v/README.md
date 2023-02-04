@@ -127,7 +127,7 @@ The Vote blockchain ideally solves this problem from day one.
 <p>&nbsp</p>
 
 <p align="center">
-Actually, there are many more problems.
+Actually, there are many more fundamental problems.
 </p>
 
 <p>&nbsp</p>
@@ -395,7 +395,7 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 <br><br>
 
 <i>
-There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly sustainable, meaning, extremely hard, at best impossible, to stop.
+There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly sustainable, meaning, extremely hard, at best impossible, to stop.
 </i>
 <br><br>
 Actually, these 150 highly-decentralized (highly-autonomous) Validators – which are highly motivated to work honestly and which are selected/rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered highly-decentralized and highly-sustainable.
@@ -583,7 +583,9 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 The main point of Bitcoin, absolutely  is not sound money — since the Bitcoin blockchain will stop printing Bitcoin just at  the year 2140 (in 118 years).
 
-The whole point of Bitcoin as a blockchain, thanks to its uniqueness, is the same one the Mona Lisa has, which is the flexing — the ultimate way to flex. 
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Clubhas, which is the flexing — the ultimate way to flex. 
+
+1 Satoshi is like 1 NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in Bitcoin but its unique status of the 1st cryptocurrency.
 
 But, even though the Mona Lisa's price is relatively expensive, it will never be $20 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $20 trillion or more.
 
@@ -593,7 +595,7 @@ On the other hand, all other blockchains don't  even have this "Mona Lisa" point
 
 And ...
 
-As mentioned above, actually, in the industry, there are even many more problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
+As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
 
 And, for this reason,  each blockchain existing in 2023 (excl. Bitcoin) deserves to go away.
 
