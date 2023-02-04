@@ -67,7 +67,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <i><b>For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.</b></i>
 
-*Dscribed in more detail below.
+*The solution is dscribed in more detail below.*
 
 
 <h3 align="center">Problem 2</h3>
@@ -78,6 +78,8 @@ Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
 The Vote blockchain ideally solves this problem from day one.
 
+*The solution is dscribed in more detail below.*
+
 
 <h3 align="center">Problem 3</h3>
 
@@ -86,6 +88,8 @@ The problem 3 is that on each of the existing blockchains, each network congesti
 Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
+
+*The solution is dscribed in more detail below.*
 
 
 
@@ -104,6 +108,8 @@ Ideally, a blockchain must use another, more efficient, truly-decentralized way 
 
 The Vote blockchain ideally solves this problem from day one.
 
+*The solution is dscribed in more detail below.*
+
 
 
 <h3 align="center">Problem 5</h3>
@@ -113,6 +119,8 @@ The problem 5 is that on each of the existing blockchains, there are low incenti
 Ideally, a blockchain must create highly generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
 
 The Vote blockchain ideally solves this problem from day one.
+
+*The solution is dscribed in more detail below.*
 
 <p>&nbsp</p>
 
