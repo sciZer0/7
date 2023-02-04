@@ -1,4 +1,7 @@
 
+
+
+
 <h1 align="center">
 IDEA OF NEW BLOCKCHAIN
 </h1>
@@ -28,18 +31,18 @@ When people create something not good enough, there must be absolute freedom for
 <p>&nbsp</p>
  <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems being sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems being sustainable – meaning, whose pre-programmed works are highly hard, at best impossible, to stop.
 
 On the other hand, the main task of developers is to build/make these systems as fast and efficient as possible.
 
 This paper proposes an idea of a new blockchain, specifically, a very fast blockchain which is simultaneously:
 
-* extremely-decentralized
-* extremely-democratic
-* extremely-sustainable
-* extremely-efficient
+* highly-decentralized
+* highly-democratic
+* highly-sustainable
+* highly-efficient
 
-and also, additionally, is able of other, unbelievably-great things, impossible for regular blockchains.
+and also, additionally, is capable of other, unbelievably-great things, impossible for regular blockchains.
 
 
 
@@ -55,11 +58,11 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-Ideally, blockchains must to be truly-democratic from day one and exactly people (users) must rule the blockchains.
+Ideally, blockchains must be truly-democratic from day one and exactly people (users) must rule the blockchains.
 
 The Vote blockchain ideally solves this problem from day one.
 
-*The solution is dscribed below.*
+*The solution is described below.*
 
 <i><b>For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.</b></i>
 
@@ -73,18 +76,18 @@ Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
 The Vote blockchain ideally solves this problem from day one.
 
-*The solution is dscribed below.*
+*The solution is described below.*
 
 
 <h3 align="center">Problem 3</h3>
 
 The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in an amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
-*The solution is dscribed below.*
+*The solution is described below.*
 
 
 
@@ -103,7 +106,7 @@ Ideally, a blockchain must use another, more efficient, truly-decentralized way 
 
 The Vote blockchain ideally solves this problem from day one.
 
-*The solution is dscribed below.*
+*The solution is described below.*
 
 
 
@@ -115,7 +118,7 @@ Ideally, a blockchain must create highly generous incentives for validators and 
 
 The Vote blockchain ideally solves this problem from day one.
 
-*The solution is dscribed below.*
+*The solution is described below.*
 
 <p>&nbsp</p>
 
@@ -141,7 +144,7 @@ TRULY-EFFICIENT BLOCKCHAIN</b>
 <p>&nbsp</p>
 
 <h3 align="left">
-This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+This is a blockchain which is highly hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
 </h3>
 <p>&nbsp</p>
 
@@ -224,9 +227,9 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
 
-This is even better than if there were the Everyday Halving of the block reaward in the Bitcoin Blockchain — since in the Vote blockchain, there is the decreasing of Circulating Supply, not increasing of Circulating Supply which is in the Bitcoin Blockchain.
+This is even better than if there were the Everyday Halving of the block reward in the Bitcoin Blockchain — since in the Vote blockchain, there is the decreasing of Circulating Supply, not increasing of Circulating Supply which is in the Bitcoin Blockchain.
 
-At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
+At best, such a highly deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
 <h1>7 &nbsp Voting System</h1>
@@ -242,7 +245,7 @@ The enormous benefit from voting, among others, is that the more tokens are bein
  
 From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
  
-Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote, and everyone might spend only their idle time on voting.
+Importantly, even though the main principle of democracy is that there is absolute freedom for each Voter to either vote or not vote, and that everyone might spend only their idle time on voting.
  
 Nevertheless, at best, massive competitive-votes, happening on the Vote blockchain, might be additionally decreasing the Vote token's real circulation a lot.
 </b></i>
@@ -272,7 +275,7 @@ Nevertheless, at best, massive competitive-votes, happening on the Vote blockcha
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion.*
 
-This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
+This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is highly expensive.
 
 <p><i>
 Also, for reference,
@@ -281,20 +284,20 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current true-decentralization isn't the one of the extremely high level but at the same time is extremely expensive.
+As we can see, current true-decentralization isn't the one of the highly high level but at the same time is highly expensive.
 
-The whole thing is that we can reach true-decentralization of the extremely high level and for the extremely low costs simultaneously.
+The whole thing is that we can reach true-decentralization of the highly high level and for the highly low costs simultaneously.
 
 
 
 
 ## New Approach to Consensus or Highly Efficient True-Decentralization
 
-This new approach allows to reach consensus highly efficiently.
+This new approach allows us to reach consensus highly efficiently.
 
 The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
-At the same time, the approach includes the Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
+At the same time, the approach includes Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
 
 The whole trick is that this approach might be efficiently used only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
@@ -313,14 +316,15 @@ Each Validator is a person (possibly anonymous) with their publicly-known Public
 
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
-|       1     |     Pumbaaxk3Q32fg1n5zet   |
-|       1     |     EagLe1j3rg9y3h5kh8rl   |
-|       1     |     Zazuph19rg463k9dkn2a   |
-|       1     |     Jaqee3hm8fy6fG1n9kes   |
-|       1     |     Ninja1b7Mg8Y3H9kh82n   |
-|       1     |     Scrat3hk23v5fD3a9dut   |
-|       1     |     Panda3hk8f56JS1N9zet   |
-|       1     |     Vixeyygfpsdkfse59hde   |
+|       1     |     pumbaaxk3q32fg1n5zet   |
+|       1     |     eagle1j3rg9y3h5kh8rl   |
+|       1     |     zazuph19rg463k9dkn2a   |
+|       1     |     jaqee3hm8fy6fg1n9kes   |
+|       1     |     ninja1b7mg8y3h9kh82n   |
+|       1     |     scrat3hk23v5fd3a9dut   |
+|       1     |     panda3hk8f56js1n9zet   |
+|       1     |     vixeyygfpsdkfse59hde   |
+
 
 </p>
 
@@ -338,7 +342,8 @@ So the creation of the block by the Leader and the verification of the block by 
 
 Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list according to the leader schedule also calculated automatically by the stake-weighted selection algorithm.
 
-<b>Leader Schedule:</b>
+
+<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Leader Schedule:</p>
 
 |    Slot     | Public Address of Leader|
 | ----------- | ------------------------|
@@ -385,10 +390,10 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 <br><br>
 
 <i>
-There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — and this would make the whole system extremely sustandable, meaning, extremely hard, at best impossible, to stop.
+There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — and this would make the whole system highly sustainable, meaning, highly hard, at best impossible, to stop.
 </i>
 <br><br>
-These 150 truly-decentralized (truly-autonomous) Validators – which are highly motivated to work honestly and which are selected through democratic voting – might be  the sufficient condition for a blockchain to be considered truly-decentralized and sustanable.
+These 150 truly-decentralized (truly-autonomous) Validators – which are highly motivated to work honestly and which are selected through democratic voting – might be  the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
 <br><br>
 Such 150 Validators might be enough and to spare.
 <br><br>
@@ -400,7 +405,7 @@ As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> mor
 
  
 <br>
-So we can surely reach true-decentralization of the extremely high level and for the extremely low costs simultaneously. 
+So we can surely reach true-decentralization of the highly high level and for the highly low costs simultaneously. 
 <br><br>
 
 
@@ -416,9 +421,9 @@ So we can surely reach true-decentralization of the extremely high level and for
 
 <h1>8 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing in the Vote blockchain.
+Contributors are people who may be contributing to the Vote blockchain.
 
-At the start, on the Vote Blockchain, there are 150 positions of Contributors.
+From the start, on the Vote Blockchain, there are 150 positions of Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
@@ -426,8 +431,8 @@ Each Contributor, in equal size - if compared to other Contributors, receives th
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
-* as Validator, and 
-* as Developer.
+* as a Validator, and 
+* as a Developer.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
@@ -521,7 +526,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 <h1>12 &nbsp Hyde Park</h1>
 
-Hyde Park is a set internet platforms (incl. Twitter, Telegram, Descord, Vote) for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
+Hyde Park is a set of internet platforms (incl. Twitter, Telegram, Discord, Vote) for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
 
 
@@ -545,7 +550,7 @@ Thanks to good people, on the table, there already are good technologies to use.
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
-For example, we might take code of Solana blockchain itself as codebase and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
+For example, we might take the code of the Solana blockchain itself as codebase and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
 
 <p>&nbsp</p>
@@ -590,5 +595,8 @@ All the problems can be solved only by truly-decentralized and truly-democratic 
 
 <p>&nbsp</p>
 <p>&nbsp</p>
+
+
+
 
 
