@@ -580,24 +580,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-
-The main point of Bitcoin, absolutely  is not sound money — since the Bitcoin blockchain will stop printing Bitcoin just at  the year 2140 (in 118 years).
-
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Clubhas, which is the flexing — the ultimate way to flex. 
-
-1 Satoshi is like 1 NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in Bitcoin but its unique status of the 1st cryptocurrency.
-
-But, even though the Mona Lisa's price is relatively expensive, it will never be $20 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $20 trillion or more.
-
-Eventually, people will understand it.
-
-On the other hand, all other blockchains don't  even have this "Mona Lisa" point.
-
-And ...
-
 As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
-
-And, for this reason,  each blockchain existing in 2023 (excl. Bitcoin) deserves to go away.
 
 All the problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
