@@ -230,7 +230,7 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
 
-This is even better than if there were the Everyday Halving of the block reaward in the Bitcoin Blockchain — since in the Vote blockchain, there is Decreasing Circulating Supply, not Increasing Circulating Supply.
+This is even better than if there were the Everyday Halving of the block reaward in the Bitcoin Blockchain — since in the Vote blockchain, there is the decreasing of Circulating Supply, not increasing of Circulating Supply which is in the Bitcoin Blockchain.
 
 At best, such an extremely deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
