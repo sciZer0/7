@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 <h1 align="center">
 IDEA OF NEW BLOCKCHAIN
 </h1>
@@ -31,7 +35,7 @@ When people create something not good enough, there must be absolute freedom for
 <p>&nbsp</p>
  <h1 align="center">Abstract</h1>
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems being sustainable – meaning, whose pre-programmed works are highly hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
 On the other hand, the main task of developers is to build/make these systems as fast and efficient as possible.
 
@@ -144,7 +148,7 @@ TRULY-EFFICIENT BLOCKCHAIN</b>
 <p>&nbsp</p>
 
 <h3 align="left">
-This is a blockchain which is highly hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
 </h3>
 <p>&nbsp</p>
 
@@ -390,7 +394,7 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 <br><br>
 
 <i>
-There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — and this would make the whole system highly sustainable, meaning, highly hard, at best impossible, to stop.
+There are about 150 countries around the world. At best, from one single country, there might even be just 1 Validator — truly-autonomous Validator — and this would make the whole system highly sustainable, meaning, extremely hard, at best impossible, to stop.
 </i>
 <br><br>
 These 150 truly-decentralized (truly-autonomous) Validators – which are highly motivated to work honestly and which are selected through democratic voting – might be  the sufficient condition for a blockchain to be considered truly-decentralized and sustainable.
@@ -595,6 +599,7 @@ All the problems can be solved only by truly-decentralized and truly-democratic 
 
 <p>&nbsp</p>
 <p>&nbsp</p>
+
 
 
 
