@@ -38,13 +38,17 @@ The main point of blockchain technology is to allow people to build permissionle
 
 On the other hand, the main task of developers is to build these systems as speedy and efficient as possible.
 
-This paper proposes a new, truly-decentralized and truly-democratic blockchain which is speedy and sustainable, simultaneously being unachievably efficient and able of unbelievably great things, impossible for regular blockchains.
+This paper proposes a new blockchain which is simultaneously:
 
-And one more moment…
+* extremely-decentralized
+* extremely-democratic
+* very speedy
+* extremely sustainable
+* extremely-efficient
 
-The main principle of efficiency is that you must never do more than enough – and  exactly this way each blockchain must work.
- 
- > <b>Never do more than enough.
+and aslo able of unbelievably great things, impossible for regular blockchains.
+
+
 
  <p>&nbsp</p>
  
@@ -561,9 +565,24 @@ One of the first names of such lists might be Anatoly Yakovenko.
 <h1>CONCLUSION</h1>
 
 
-As mentioned above, actually, in the industry, there are many more problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
+The main point of Bitcoin, absolutely  is not sound money — since the Bitcoin blockchain will stop printing Bitcoin just at  the year 2140 (in 118 years).
 
-All these problems can be solved only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole point of Bitcoin as a blockchain, thanks to its uniqueness, is the same one the Mona Lisa has, which is the flexing — the ultimate way to flex. 
+
+But, even though the Mona Lisa is relatively expensive, it will never cost $20 trillion or more — and also, the Bitcoin blockchain's market capitalization will never be $20 trillion or more.
+
+Eventually, people will understand it.
+
+On the other hand, all other blockchain don't  even have this "Mona Lisa" point.
+
+And ...
+
+As mentioned above, actually, in the industry, there are even many more problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
+
+And, for this reason,  each blockchain existing in 2023 (excl. Bitcoin) deserves to go away.
+
+All the problems can be solved only by truly-decentralized and truly-democratic blockchains, one of which, for example, the Vote blockchain is.
+
 
 <p>&nbsp</p>
 <p>&nbsp</p>
