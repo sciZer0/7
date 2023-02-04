@@ -517,7 +517,7 @@ On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 Automatic Proposals happen each 30 days and are the following ones:
 
 * proposal to change – either increase or decrease – the monthly rate of Automated Donations by 5%
-* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1%.
+* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1% (the maximum number of the positions is 150).
 
 Non-Automatic Proposals may start at any moment (Slot) and are the following ones:
 
