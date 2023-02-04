@@ -167,8 +167,8 @@ In each of the 3 cases,
 
 Organism is pushing the 20 kg object during 30 seconds by its "Hand".
 
-In Case #1, Hand is the human's hand (say, your hand).<br>
-In Case #2 and Case #3, Hand is Gravitational Force (Invisible Hand). 
+In Case #1, Hand of Organism is the human's hand (say, your hand).<br>
+In Case #2 and Case #3, Hand of Organism is Gravitational Force (Invisible Hand). 
 
 Let's call the thing by which Organism is pushing an object "Hand".
 
