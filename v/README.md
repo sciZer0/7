@@ -524,6 +524,8 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 * proposal to appoint a person (possibly anonymous) to the position of Contributor
 * proposal to dismiss a person (possibly anonymous) from the position of Contributor
 
+<p><i><b>Any other suggestions for Proposals and voting conditions are welcome.</b></i></p>
+
 
 
 
@@ -531,7 +533,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 <h1>12 &nbsp Hyde Park</h1>
 
-Hyde Park is a set of internet platforms (incl. Twitter, Telegram, Discord, Vote) for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
+Hyde Park is a set of internet platforms and protocols (incl. Twitter, Telegram, Discord, Nostr, Vote) that might be used for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
 
 
