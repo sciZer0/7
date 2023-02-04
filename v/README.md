@@ -65,9 +65,10 @@ Ideally, blockchains must to be truly-democratic from day one and exactly people
 
 The Vote blockchain ideally solves this problem from day one.
 
+*The solution is dscribed in more detail below.*
+
 <i><b>For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.</b></i>
 
-*The solution is dscribed in more detail below.*
 
 
 <h3 align="center">Problem 2</h3>
