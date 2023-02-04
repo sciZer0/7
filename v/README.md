@@ -9,12 +9,6 @@ Everything is discussable
 
 <p>&nbsp</p>
 
-<p align="right"><b>
-Increasing overhead (inefficiency) is<br>
-the goal for each blockchain<br>
-existing in 2023
-</b></p>
-
 <p>&nbsp</p>
 
 # Our Fundamentals
