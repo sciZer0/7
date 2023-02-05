@@ -139,7 +139,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <p align="center">
 In fact,<br>
-there are many-more<br> 
+there are many more<br> 
 fundamental problems.
 </p>
 
@@ -562,45 +562,45 @@ Hyde Park is a set of internet platforms and protocols (incl. Twitter, Telegram,
 
 
 
-<p>&nbsp</p>
+
 <p>&nbsp</p>
 
 **To be continued a bit below...**
-
+<p>&nbsp</p>
 
 <h1 align="center">Hypotheses, Ideas</h1>
 
 
 # About Technologies
 
-Thanks to good people, on the table, there already are good technologies to use.
+Thanks to good people, on the table, there already are good blockchain technologies to use.
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
 For example, we might take the code of the Solana blockchain itself as codebase and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
 
 
-<p>&nbsp</p>
+
 <p>&nbsp</p>
 
 **The Continuation**
 
-<p>&nbsp</p>
+
 <h1>13 &nbsp Technologies & Creator Donation Culture</h1>
 
-From day one, the Vote blockchain uses the most advanced blockchain technologies.
+From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world may give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens. 
+As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world might give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens — including through buying NFTs of the creators.
 
 <i>
-Eventually, there might (will inevitably) be people who are searching for the creators eligible for donations, making the lists. 
+Eventually, there might be people who are searching for the creators eligible for donations, making the lists. 
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
 <h1>CONCLUSION</h1>
 
-As mentioned above, actually, in the industry, there are even many-more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these fundamental problems.
+As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these fundamental problems.
 
 All these fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
