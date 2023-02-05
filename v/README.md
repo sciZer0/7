@@ -342,7 +342,7 @@ Each Validator is a person (possibly anonymous) with their publicly-known Public
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
 |       1     |     pumbaaxk3q32fg1n5zet   |
-|       1     |     eagle1j3rg9y3h5kh8rl   |
+|       1     |     eag1e1j3rg9y3h5kh8rl   |
 |       1     |     zazuph19rg463k9dkn2a   |
 |       1     |     jaqee3hm8fy6fg1n9kes   |
 |       1     |     ninja1b7mg8y3h9kh82n   |
