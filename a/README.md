@@ -173,7 +173,7 @@ The today’s situation is that if any clever person wants to enter official sci
 In my Open Letter to Elon Musk, I explain why exactly all official physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
 <b>Open Letter to Elon Musk</b><br>
-https://github.com/sciZer0/newdiscoveries/tree/main/l
+https://github.com/sciZer0/7/tree/main/l
 
 ## START
 
@@ -978,4 +978,4 @@ Help civilization.
 
 ---
 The continuation of the paper is here:<br>
-https://github.com/sciZer0/newdiscoveries/tree/main/c
+https://github.com/sciZer0/7/tree/main/c
