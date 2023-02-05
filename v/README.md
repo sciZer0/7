@@ -69,7 +69,7 @@ Of course, declaring the improvement of democracy in the future.
 
 This is both unjust and inefficient.
 
-The thing is that only highly-democratic blockchains are able to be both just and highly efficient – plus, remaining highly-sustainable.
+The thing is that only highly-democratic blockchains are able to be both just and highly-efficient – plus, remaining highly-sustainable.
 
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
@@ -84,6 +84,8 @@ The Vote blockchain ideally solves this problem from day one.
 <h3 align="center">Problem 2</h3>
 
 The problem 2 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
+
+For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years) and the Ethereum blockchain – maybe at one day in the future.
 
 Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
@@ -241,8 +243,6 @@ From day one, all Gas fees, received on each block, are burned, resulting in a d
 
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
-
-This is even better than if there were the Everyday-Halving of the block reward in the Bitcoin Blockchain — since in the Vote blockchain, there is the decreasing of Circulating Supply, not increasing of Circulating Supply which happens daily in the Bitcoin Blockchain and will further last during 118 years — until 2140.
 
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
