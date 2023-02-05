@@ -972,7 +972,7 @@ __________
 Please spread this information.
 
 THE LINK:<br>
-https://github.com/sciZer0/newdiscoveries/tree/main/a
+https://github.com/sciZer0/7/tree/main/a
 
 Help civilization.
 
