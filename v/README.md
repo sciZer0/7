@@ -54,7 +54,9 @@ and also, additionally, is capable of other, unbelievably-great things, impossib
 
  <p>&nbsp</p>
  
-<h1 align="center">Five Problems of Current Blockchains</h1>
+<h1 align="center">
+ Five Fundamental Problems<br>
+ of Current Blockchains</h1>
 
 <h3 align="center">Problem 1</h3>
 
