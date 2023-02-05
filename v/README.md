@@ -48,7 +48,7 @@ This paper proposes an idea of a new blockchain, specifically, a very fast block
 * highly-sustainable
 * highly-efficient
 
-and also, additionally, is capable of other, unbelievably-great things, impossible for regular blockchains.
+and also, additionally, is able of other, unbelievably-great things, impossible for regular blockchains.
 
 
 
