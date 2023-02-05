@@ -243,7 +243,13 @@ Gas Fees are paid in the Vote token (in Hands).
 
 <h1>6 &nbsp Decreasing Circulating Supply</h1>
 
-From day one, all Gas fees, received on each block, are burned, resulting in a decrease of the Vote token's Circulating Supply.
+The whole Maximum Supply is created at the Genesis Block.
+
+There will never be the printing any more.
+
+And, all Gas fees, received on each block, are burned. 
+
+This all results in decreasing the Vote token's Circulating Supply.
 
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
