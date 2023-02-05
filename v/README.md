@@ -35,7 +35,7 @@ When people create something not good enough, there must be absolute freedom for
  <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p>&nbsp</p>
- <h1 align="center">Abstract</h1>
+ <h2 align="center">Abstract</h2>
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
@@ -54,9 +54,9 @@ and also, additionally, is capable of other, unbelievably-great things, impossib
 
  <p>&nbsp</p>
  
-<h1 align="center">
+<h2 align="center">
  Five Fundamental Problems<br>
- of Current Blockchains</h1>
+ of Current Blockchains</h2>
 
 <h3 align="center">Problem 1</h3>
 
