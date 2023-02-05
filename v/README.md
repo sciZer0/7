@@ -161,9 +161,16 @@ HIGHLY-EFFICIENT BLOCKCHAIN</b>
 </h1>
 <p>&nbsp</p>
 
-<h3 align="left">
-This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
-</h3>
+<p>
+<b>
+This is a blockchain
+which is extremely hard to
+surpass/improve in terms of
+maximization of decentralization,
+efficiency and opportunities 
+for developers.
+</b>
+</p>
 <p>&nbsp</p>
 
 
