@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <h1 align="center">
 IDEA OF NEW BLOCKCHAIN
 </h1>
@@ -14,11 +6,21 @@ IDEA OF NEW BLOCKCHAIN
 Everything is discussable
 </p>
 
-<p>&nbsp</p>
+
+
 
 <p>&nbsp</p>
 
-# Our Fundamentals
+<p align="right"><b>
+Each blockchain existing in 2023<br>
+is fundamentally unable to solve<br>
+these fundamental problems
+</b></p>
+
+
+<p>&nbsp</p>
+
+# Our Ideology
 
 Every code created must be open and free.<br>
 
@@ -133,9 +135,10 @@ Actually, there are many more fundamental problems.
 <p>&nbsp</p>
 
 <p align="center">
-And, each blockchain<br>
-existing in 2023 is fundamentally<br>
-unable to solve these problems.<br>
+And,<br>
+each blockchain existing in 2023<br>
+is fundamentally unable to solve<br> 
+these fundamental problems.<br>
 </p>
  
 <p>&nbsp</p>
@@ -580,9 +583,9 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these problems.
+As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these fundamental problems.
 
-All the problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+All these fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p>&nbsp</p>
