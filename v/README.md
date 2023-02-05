@@ -138,7 +138,7 @@ The Vote blockchain ideally solves this problem from day one.
 <p>&nbsp</p>
 
 <p align="center">
-Actually, there are many more fundamental problems.
+In fact, there are many-more fundamental problems.
 </p>
 
 <p>&nbsp</p>
@@ -590,7 +590,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these fundamental problems.
+As mentioned above, actually, in the industry, there are even many-more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these fundamental problems.
 
 All these fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
