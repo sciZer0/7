@@ -22,7 +22,7 @@ these fundamental problems
 
 # Our Ideology
 
-Every code created must be known and free – including, each code that happens to be known must be free.<br>
+Every code created must be knownable and free – including, each code that happens to be known must be free.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
