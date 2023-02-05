@@ -138,7 +138,9 @@ The Vote blockchain ideally solves this problem from day one.
 <p>&nbsp</p>
 
 <p align="center">
-In fact, there are many-more fundamental problems.
+In fact,<br>
+there are many-more<br> 
+fundamental problems.
 </p>
 
 <p>&nbsp</p>
@@ -147,7 +149,7 @@ In fact, there are many-more fundamental problems.
 And,<br>
 each blockchain existing in 2023<br>
 is fundamentally unable to solve<br> 
-these fundamental problems.<br>
+these fundamental problems.
 </p>
  
 <p>&nbsp</p>
