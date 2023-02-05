@@ -85,7 +85,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 The problem 2 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
 
-For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years) and the Ethereum blockchain – maybe at one day in the future.
+For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future.
 
 Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
