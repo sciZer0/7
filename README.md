@@ -6,5 +6,3 @@ New Formula for Energy<br>
 New Formula for Power<br>
 ---
 https://github.com/sciZer0/7/tree/main/a
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
