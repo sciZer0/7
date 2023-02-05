@@ -67,13 +67,17 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
+This is both unjust and inefficient.
+
+The thing is that only highly-democratic blockchains are able to be both just and highly efficient – plus, remaining highly-sustainable.
+
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
 The Vote blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
-<i><b>For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1 million voters) isn't any problem now in terms of technology.</b></i>
+<i><b>For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1-10 million voters) isn't any problem now in terms of technology.</b></i>
 
 
 
