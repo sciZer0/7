@@ -235,7 +235,7 @@ An user, if there is a congestion (if any), may set a fee for their simple trans
  
 Basically,  possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
 
-Also, the minimum balance level (Rent Level) is set  for an account to be due to pay rent (rent payments).
+Also, the minimum balance level (Rent Level) is set  for an account to be due to pay a rent (rent payments).
 
 Plus, the minimum balance level  (Garbage Level) is also set  for an account to be subject for Garbage-Collecting. 
 
