@@ -231,7 +231,7 @@ An user, if there is a congestion (if any), may set a fee for their simple trans
 
 
 
-<h1>5 &nbsp DDoS/Spam attacks</h1>
+<h1>5 &nbsp DDoS/Spam Attacks</h1>
  
 Basically,  possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
 
