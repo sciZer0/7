@@ -229,13 +229,13 @@ An user, if there is a congestion (if any), may set a fee for their simple trans
  
 <h1>5 &nbsp Possible DDoS/Spam attacks</h1>
  
-Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
+Basically,  possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
 
-Also, the minimum account-balance level (Rent Level) is set  for an account to be due to pay rent (rent payments).
+Also, the minimum balance level (Rent Level) is set  for an account to be due to pay rent (rent payments).
 
-Plus, the minimum account-balance balance level  (Garbage Level) is also set  for an account to be subject for Garbage-Collecting. 
+Plus, the minimum balance level  (Garbage Level) is also set  for an account to be subject for Garbage-Collecting. 
 
-Both the Rent Level and Garbage Level helps to decrease the possible DDoS/Spam attacks a lot .
+Both the Rent Level and Garbage Level helps to decrease possible DDoS/Spam attacks a lot .
 
 Both the Rent Level and Garbage Level are set through democratic voting: Competitive Quadratic Voting. 
 
