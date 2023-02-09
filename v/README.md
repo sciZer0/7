@@ -241,7 +241,15 @@ Plus, the minimum balance level  (Garbage Level) is also set  for an account to 
 
 Both the Rent Level and Garbage Level helps to decrease possible DDoS/Spam attacks a lot .
 
-Both the Rent Level and Garbage Level are set through democratic voting: Competitive Quadratic Voting. 
+Both the Rent Level and Garbage Level may be changed through democratic voting: Competitive Quadratic Voting. 
+
+At the start,  
+
+* Rent Level is 100,000,000,000,000 Hamds
+* Garbage Level is 100,000,000,000,000 Hands
+
+
+
 
 <h1>5 &nbsp Gas Fees</h1>
 
