@@ -225,9 +225,19 @@ Simply put, this includes, among other cases, that each transfer of tokens from 
 <br><br>
 An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without fees aren't possible on regular blockchains.
 <br><br>
-Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
 </b></i>
+ 
+<h1>5 &nbsp Possible DDoS/Spam attacks</h1>
+ 
+Possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
 
+Also, the minimum account-balance level (Rent Level) is set  for an account to be due to pay rent (rent payments).
+
+Plus, the minimum account-balance balance level  (Garbage Level) is also set  for an account to be subject for Garbage-Collecting. 
+
+Both the Rent Level and Garbage Level helps to decrease the possible DDoS/Spam attacks a lot .
+
+Both the Rent Level and Garbage Level are set through democratic voting: Competitive Quadratic Voting. 
 
 <h1>5 &nbsp Gas Fees</h1>
 
