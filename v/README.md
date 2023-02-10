@@ -14,8 +14,11 @@ Everything is discussable
 <p align="right"><b>
 Each blockchain existing in 2023<br>
 is fundamentally unable to solve<br>
-these fundamental problems
+the fundamental problems
 </b></p>
+
+
+This is not a fact, it is just my opinion on a subject. The fact, if wanted, is here.
 
 
 <p>&nbsp</p>
@@ -36,8 +39,10 @@ When people create something not good enough, there must be absolute freedom for
  
 <p>&nbsp</p>
  <h1 align="center">Abstract</h1>
-
+ 
 The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
+
+The only way for blockchains to be highly-sustainable (really-unstoppable) is to be people-ruled systems -- without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make these systems as fast and efficient as possible.
 
@@ -48,7 +53,7 @@ This paper proposes an idea of a new blockchain, specifically, a very fast block
 * highly-sustainable
 * highly-efficient
 
-and also, additionally, is able of other, unbelievably-great things, impossible for regular blockchains.
+and also additionally, is able of other, unbelievably-great things, impossible for regular blockchains.
 
 
 
@@ -149,7 +154,7 @@ fundamental problems.
 And,<br>
 each blockchain existing in 2023<br>
 is fundamentally unable to solve<br> 
-these fundamental problems.
+the fundamental problems.
 </p>
  
 <p>&nbsp</p>
@@ -622,7 +627,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve these fundamental problems.
+As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
 All these fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
