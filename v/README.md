@@ -16,9 +16,11 @@ Each blockchain existing in 2023<br>
 is fundamentally unable to solve<br>
 the fundamental problems
 </b></p>
+<br><br><br>
 
 
-This is not a fact, it is just my opinion on a subject. The fact, if wanted, is here.
+First of all, this is not a fact, this is just my opinion on a subject. The fact, if wanted, is here:<br>
+https://github.com/sciZer0/7/tree/main/a
 
 
 <p>&nbsp</p>
