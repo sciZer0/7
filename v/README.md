@@ -688,11 +688,11 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years), and plus there isn't any pre-programmed decreasing of Circulating Supply.
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
-By te way, the Bitcoin token isn't really fungible, each Bitcoin has its history, story and fate.
+By the way, the Bitcoin token isn't really fungible, each Bitcoin has its history, story and fate.
 
 One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
 
@@ -700,9 +700,7 @@ And, even though the Mona Lisa's price is relatively expensive, it will never be
 
 Eventually, people will understand it.
 
-On the other hand, all other existing blockchains don't even have this "Mona Lisa" point.
-
-And, as mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
+On the other hand, all other existing blockchains, being fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
 
 For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away.
 
@@ -710,7 +708,7 @@ All the fumdamental problems can be solved only by highly-decentralized and high
 
 Last but Not Least
 
-As one of the very smart people (specifically, Anatoly Yakovenko) said – <b>sharding sucks</b>.
+There is one thing to always keep in mind — which was said by one of the very smart people (specifically, Anatoly Yakovenko)  – <b>sharding sucks</b>.
 
 <p>&nbsp</p>
 <p>&nbsp</p>
