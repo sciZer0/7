@@ -44,19 +44,19 @@ When people create something not good enough, there must be absolute freedom for
  
 The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
-The only way for blockchains to be highly-sustainable (really-unstoppable) is to be people-ruled systems -- without being under control of any single entity.
+The only way for blockchains to be highly-sustainable (really-unstoppable) is to be people-ruled systems – without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make these systems as fast and efficient as possible.
 
-This paper proposes an idea of a new blockchain, specifically, a very fast blockchain which is simultaneously:
+This paper proposes an idea of a new blockchain which is simultaneously:
 
+* very fast
 * highly-decentralized
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-
-and also additionally, is able of other, unbelievably-great things, impossible for regular blockchains.
-
+* with Decreasing Circulating Supply
+* with the ideal Gini coefficient
 
 
  <p>&nbsp</p>
@@ -74,9 +74,7 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-This is both unjust and inefficient.
-
-The thing is that only highly-democratic blockchains are able to be both just and highly-efficient – plus, remaining highly-sustainable.
+The whole thing is that *– we can see this below –* only a highly-democratic blockchain is able to be highly-efficient – plus, remaining highly-decentralized and highly-sustainable.
 
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
@@ -340,7 +338,7 @@ Also, for reference,
 
 As we can see, current true-decentralization isn't the one of the extremely-high level but at the same time is extremely expensive.
 
-The whole thing is that we can reach true-decentralization of the extremely-high level and for the extremely-low costs simultaneously.
+We can reach true-decentralization of the extremely-high level for the extremely-low costs.
 
 
 
@@ -459,7 +457,7 @@ As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> mor
 
  
 <br>
-So we can surely reach true-decentralization of the extremely-high level and for the extremely-low costs simultaneously.
+So we can surely reach true-decentralization of the extremely-high level for the extremely-low costs.
 <br><br>
 
 
