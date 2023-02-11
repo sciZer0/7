@@ -707,9 +707,9 @@ All the fumdamental problems can be solved only by highly-decentralized and high
 
 Last but Not Least
 
-There is the 2 things to always keep in mind:
+There is one thing to always keep in mind and 
 
-* since, in the world, there are about $80 trillion, the most successful blockchain's market capitalization might theoretically be about this number or more
+
 * <b>sharding sucks</b>  — which was said by one of the most technically-advanced people in the industry, specifically, by Anatoly Yakovenko
 
 <p>&nbsp</p>
