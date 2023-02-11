@@ -146,7 +146,7 @@ Problem 5 is that, for now, in the industry, there is the mainstream wrong belie
 
 At the same time, such an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, this approach means that increasing overhead (efficiency) is the goal for each of the existing blockchains.
+Actually, this approach means that increasing overhead (inefficiency) is the goal for each of the existing blockchains.
 
 Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining highly-decentralized and highly-democratic.
 
