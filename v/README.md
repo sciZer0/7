@@ -693,11 +693,11 @@ In my opinion, the main point of Bitcoin absolutely isn't sound money — since 
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
-By the way, the Bitcoin token isn't really fungible, each Bitcoin has its history, story and fate.
+By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie and over time it will become even more clear to everyone.
 
 One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
 
-Eventually, people will understand it.
+Eventually, all people will understand it.
 
 On the other hand, all other existing blockchains, being also fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
 
