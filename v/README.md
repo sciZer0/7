@@ -266,18 +266,18 @@ An user, if there is a congestion (if any), may set a fee for their simple trans
  
 Basically,  possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
 
-Also, the minimum balance level (Rent Level) is set  for an account to be due to pay a rent (rent payments).
+Also, the minimum required balance level (Rent Level) is set  for an account in order be required to pay the blockchain a rent (rent payments).
 
-Plus, the minimum balance level  (Garbage Level) is also set  for an account to be subject for Garbage-Collecting. 
+Plus, the minimum required balance level (Garbage Level) is also set  for an account in order to be free from being-collected as garbage. 
 
-Both the Rent Level and Garbage Level helps to decrease possible DDoS/Spam attacks a lot .
+Both the Rent Level and Garbage Level helps to significantly decrease a number of possible DDoS/Spam attacks a lot.
 
 Both the Rent Level and Garbage Level may be changed through democratic voting: Competitive Quadratic Voting. 
 
 At the start,  
 
-* Rent Level is 100,000,000,000,000 Hamds
-* Garbage Level is 100,000,000,000,000 Hands
+* Rent Level is 100,000,000,000,000,000 Hamds
+* Garbage Level is 100,000,000,000,000,000 Hands
 
 
 
@@ -590,7 +590,9 @@ On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 Automatic Proposals happen each 30 days and are the following ones:
 
 * proposal to change – either increase or decrease – the monthly rate of Automated Donations by 5%
-* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1% (the maximum number of the positions is 150).
+* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1%
+* proposal to change – either increase or decrease – the Rent Level by 20%
+* proposal to change – either increase or decrease – the Garbage Level by 20%
 
 Non-Automatic Proposals may start at any moment (Slot) and are the following ones:
 
