@@ -19,7 +19,7 @@ the fundamental problems
 <br><br><br>
 
 
-First of all, this is not a fact, this is just my opinion on a subject. The fact, if wanted, is here:<br>
+First of all, this is just my opinion on a subject. The great fact, if wanted, is here:<br>
 https://github.com/sciZer0/7/tree/main/a
 
 
@@ -44,20 +44,20 @@ When people create something not good enough, there must be absolute freedom for
  
 The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
-The only way for blockchains to be highly-sustainable (really-unstoppable) is to be people-ruled systems – without being under control of any single entity.
+The only way for a blockchain to be highly-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make these systems as fast and efficient as possible.
+On the other hand, the main task of developers is to build/make the system as fast and efficient as possible.
 
-This paper proposes an idea of a new blockchain which is simultaneously:
+This paper proposes an idea of a new blockchain which from day one is simultaneously:
 
-* very fast
 * highly-decentralized
 * highly-democratic
 * highly-sustainable
 * highly-efficient
+* with 50,000 TPS
 * with Decreasing Circulating Supply
 * with the ideal Gini coefficient
-
+* with 1 million
 
  <p>&nbsp</p>
  
@@ -68,7 +68,7 @@ This paper proposes an idea of a new blockchain which is simultaneously:
 
 <h3 align="center">Problem 1</h3>
 
-The problem 1 is that we (people) build blockchains the same way as we built states: 
+Problem 1 is that we (people) build blockchains the same way as we built states: 
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
@@ -86,9 +86,30 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
+
+
 <h3 align="center">Problem 2</h3>
 
-The problem 2 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
+Problem 2 follows from Problem 1.
+
+Problem 2 is that on each of the existing blockchains, there is the inequality -- great inequality.
+
+For reference,
+
+wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.
+
+Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
+
+The Vote blockchain ideally solves this problem from day one.
+
+*The solution is described below.*
+
+
+
+
+<h3 align="center">Problem 3</h3>
+
+Problem 3 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
 
 For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. No one of them is able to truly start decreasing its Circulating Supply.
 
@@ -99,9 +120,9 @@ The Vote blockchain ideally solves this problem from day one.
 *The solution is described below.*
 
 
-<h3 align="center">Problem 3</h3>
+<h3 align="center">Problem 4</h3>
 
-The problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
 Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
@@ -112,9 +133,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
-<h3 align="center">Problem 4</h3>
+<h3 align="center">Problem 5</h3>
 
-The problem 4 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
+Problem 5 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
 **to more and more increase a number of honest nodes in the blockchain**.
 
@@ -130,9 +151,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
-<h3 align="center">Problem 5</h3>
+<h3 align="center">Problem 6</h3>
 
-The problem 5 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
+Problem 6 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
 Ideally, a blockchain must create highly generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
 
