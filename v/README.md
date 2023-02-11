@@ -96,7 +96,7 @@ Problem 2 is that on each of the existing blockchains, there is the inequality -
 
 For reference,
 
-wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.
+Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.
 
 Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
 
