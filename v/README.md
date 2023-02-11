@@ -82,7 +82,10 @@ The Vote blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
-<i><b>For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1-10 million voters) isn't any problem now in terms of technology.</b></i>
+<i>For reference,<br>
+<br>
+<b>
+Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1-10 million voters) isn't any problem now in terms of technology.</b></i>
 
 
 
