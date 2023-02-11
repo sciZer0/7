@@ -709,7 +709,7 @@ Last but Not Least
 
 There is the 2 things to always keep in mind:
 
-* since in the World there are about $80 trillion, the most successful blockchain's market capitalization might theoretically be about this number or more
+* since, in the world, there are about $80 trillion, the most successful blockchain's market capitalization might theoretically be about this number or more
 * <b>sharding sucks</b>  — which was said by one of the very smart people in the blockchain industry, specifically, by Anatoly Yakovenko
 
 <p>&nbsp</p>
