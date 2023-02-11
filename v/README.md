@@ -288,6 +288,8 @@ At the start,
 
 
 
+
+
 <h1>5 &nbsp Gas Fees</h1>
 
 Users pay Gas Fees only for some sorts of transactions.
@@ -295,6 +297,26 @@ Users pay Gas Fees only for some sorts of transactions.
 Specifically, an user pays a Gas fee for deploying a smart contract and for making a transaction involving a smart contract.
 
 Gas Fees are paid in the Vote token (in Hands).
+
+
+
+
+
+
+
+<h1>7 &nbsp Order of Transactions in Each Block</h1>
+
+During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum ~ 20,000) is automatically formed in the following order:
+
+1. transactions with Gas fees are automatically ordered in descending order of Gas Price
+
+2. simple transactions without Gas fees are automatically ordered with a random number algorithm.
+
+If the total number of transactions, received but yet not executed, is bigger than the maximum block size (~20,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
+
+<i><b>This approach greatly reduces an unjust value-extraction done by miners/validators on the AMM exchanges – of course not excluding an unjust value-extraction done by algorithmic traders – and plus, of course, completely excludes this phenomenon on the "order-book" exchanges.</i></b>
+
+
 
 
 
