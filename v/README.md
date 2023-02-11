@@ -19,7 +19,7 @@ its fundamental problems
 <br><br><br>
 
 
-First of all, this is just my opinion on a subject. The great fact, if wanted, is here:<br>
+First of all, some of what is said here isn't a fact so far and is just my opinion on the subject. The great fact, if wanted, is here:<br>
 https://github.com/sciZer0/7/tree/main/a
 
 
