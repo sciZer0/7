@@ -186,8 +186,8 @@ the fundamental problems.
 <p>&nbsp</p>
 
 <h1 align="center">
-Meet<br>
-FIRST HIGHLY-DECENTRALIZED &<br>
+Meet the FIRST<br>
+HIGHLY-DECENTRALIZED &<br>
 HIGHLY-EFFICIENT BLOCKCHAIN</b>
 </h1>
 <p>&nbsp</p>
