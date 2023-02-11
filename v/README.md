@@ -697,11 +697,9 @@ By the way, the Bitcoin token isn't really fungible, each Bitcoin has its histor
 
 One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
 
-And, even though the Mona Lisa painting's price is relatively expensive, it will never be, say, $90 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $90 trillion or more.
-
 Eventually, people will understand it.
 
-On the other hand, all other existing blockchains, being fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
+On the other hand, all other existing blockchains, being also fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
 
 For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away.
 
