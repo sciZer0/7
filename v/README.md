@@ -19,7 +19,7 @@ its fundamental problems
 <br><br><br>
 
 
-First of all, some of what is said here isn't a fact so far and is just my opinion on the subject. The great fact, if wanted, is here:<br>
+First of all, the thing that is said here about the future isn't a fact so far and is just my opinion on the subject. The most great fact , if wanted, is here:<br>
 https://github.com/sciZer0/7/tree/main/a
 
 
@@ -691,9 +691,9 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years), and plus there isn't any pre-programmed decreasing of Circulating Supply.
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex on people.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
-*Flexing can be described as showing that you are better than other people since you may do the thing everyone else cannot do.*
+*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do the thing everyone else cannot do — it is the demonstration of domination.*
 
 By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it will become even more clear to everyone.
 
