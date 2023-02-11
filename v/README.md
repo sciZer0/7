@@ -676,17 +676,41 @@ From day one, the Vote blockchain leverages the most advanced of cutting edge bl
 As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world might give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens — including through buying NFTs of the creators.
 
 <i>
-Eventually, there might be people who are searching for the creators eligible for donations, making the lists. 
+Eventually, there might probably be people who are searching for the creators eligible for donations, making the lists. 
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
+
+
+
+
+
 <h1>CONCLUSION</h1>
 
-As mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
+In my opinion, the main point of Bitcoin, absolutely is not sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-All these fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
+By te way, the Bitcoin token isn't really fungible, each Bitcoin has its history, story and fate.
+
+One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
+
+And, even though the Mona Lisa's price is relatively expensive, it will never be say $90 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $90 trillion or more.
+
+Eventually, people will understand it.
+
+On the other hand, all other existing blockchains don't even have this "Mona Lisa" point.
+
+And, as mentioned above, actually, in the industry, there are even many more fundamental problems than described here, and each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
+
+For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away.
+
+All the fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+
+Last but Not Least
+
+As one of the very smart people (specifically, Anatoly Yakovenko) said – <b>sharding sucks</b>.
 
 <p>&nbsp</p>
 <p>&nbsp</p>
