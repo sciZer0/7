@@ -62,9 +62,9 @@ This paper proposes an idea of a new blockchain which from day one is simultaneo
  <p>&nbsp</p>
  
 <h1 align="center">
- Five Fundamental<br>
- Problems of Current<br>
- Blockchains</h1>
+Six Fundamental<br>
+Problems of Current<br>
+Blockchains</h1>
 
 <h3 align="center">Problem 1</h3>
 
@@ -120,9 +120,11 @@ The Vote blockchain ideally solves this problem from day one.
 *The solution is described below.*
 
 
+
+
 <h3 align="center">Problem 4</h3>
 
-Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+Problem 4 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
 Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
