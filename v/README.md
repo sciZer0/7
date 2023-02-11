@@ -688,7 +688,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-In my opinion, the main point of Bitcoin, absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
