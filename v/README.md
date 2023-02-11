@@ -691,17 +691,17 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years), and plus there isn't any pre-programmed decreasing of Circulating Supply.
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex on people.
 
-By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie and over time it will become even more clear to everyone.
+*Flexing can be described as showing that you are better than other people since you may do the thing everyone else cannot do.*
 
-One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
+By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it will become even more clear to everyone.
 
-Eventually, all people will understand it.
+One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. Eventually, people will understand it.
 
 On the other hand, all other existing blockchains, being also fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
 
-For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away.
+For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. The Bitcoin blockchain will live for a while, and it is just a matter of time, someone will inevitably "51%-attack" it — but only in order to flex on people, to just flex on people.
 
 All the fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
