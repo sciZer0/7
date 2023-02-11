@@ -95,7 +95,7 @@ Solana's routine – on its best times – was about 30 million transactions per
 
 Problem 2 follows from Problem 1.
 
-Problem 2 is that on each of the existing blockchains, there is the inequality -- great inequality.
+Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
 
 For reference,
 
