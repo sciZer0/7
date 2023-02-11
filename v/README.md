@@ -40,7 +40,7 @@ When people create something not good enough, there must be absolute freedom for
  <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p>&nbsp</p>
- <h1 align="center">Abstract</h1>
+ <h2 align="center">Abstract</h2>
  
 The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
@@ -61,10 +61,17 @@ This paper proposes an idea of a new blockchain which from day one is simultaneo
 
  <p>&nbsp</p>
  
-<h1 align="center">
+
+
+
+<h2 align="center">
 Six Fundamental<br>
 Problems of Current<br>
-Blockchains</h1>
+Blockchains</h2>
+
+
+
+
 
 <h3 align="center">Problem 1</h3>
 
@@ -86,8 +93,6 @@ The Vote blockchain ideally solves this problem from day one.
 <br>
 <b>
 Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1-10 million voters) isn't any problem now in terms of technology.</b></i>
-
-
 
 
 
@@ -160,7 +165,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 6 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
-Ideally, a blockchain must create highly generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
+Ideally, a blockchain must create highly-generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -185,11 +190,11 @@ the fundamental problems.
  
 <p>&nbsp</p>
 
-<h1 align="center">
+<h2 align="center">
 Meet the FIRST<br>
 HIGHLY-DECENTRALIZED &<br>
 HIGHLY-EFFICIENT BLOCKCHAIN</b>
-</h1>
+</h2>
 <p>&nbsp</p>
 
 <p>
