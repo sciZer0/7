@@ -707,7 +707,7 @@ All the fumdamental problems can be solved only by highly-decentralized and high
 
 Last but Not Least
 
-There is one thing to always keep in mind — which was said by one of the very smart people (specifically, Anatoly Yakovenko)  – <b>sharding sucks</b>.
+There is one thing to always keep in mind — which was said by one of the very smart people in the blockchain industry (specifically, by Anatoly Yakovenko)  – <b>sharding sucks</b>.
 
 <p>&nbsp</p>
 <p>&nbsp</p>
