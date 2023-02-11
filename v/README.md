@@ -192,8 +192,9 @@ the fundamental problems.
 
 <h2 align="center">
 Meet the FIRST<br>
-HIGHLY-DECENTRALIZED &<br>
-HIGHLY-EFFICIENT BLOCKCHAIN</b>
+HIGHLY-DECENTRALIZED<br>
+& HIGHLY-EFFICIENT<br> 
+BLOCKCHAIN</b>
 </h2>
 <p>&nbsp</p>
 
