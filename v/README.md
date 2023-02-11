@@ -277,7 +277,7 @@ Also, the minimum required balance level (Rent Level) is set  for an account in 
 
 Plus, the minimum required balance level (Garbage Level) is also set  for an account in order to be free from being-collected as garbage. 
 
-Both the Rent Level and Garbage Level helps to significantly decrease a number of possible DDoS/Spam attacks a lot.
+Both the Rent Level and Garbage Level helps to significantly decrease a number of possible DDoS/Spam attacks.
 
 Both the Rent Level and Garbage Level may be changed through democratic voting: Competitive Quadratic Voting. 
 
@@ -707,7 +707,10 @@ All the fumdamental problems can be solved only by highly-decentralized and high
 
 Last but Not Least
 
-There is one thing to always keep in mind — which was said by one of the very smart people in the blockchain industry (specifically, by Anatoly Yakovenko)  – <b>sharding sucks</b>.
+There is the 2 things to always keep in mind:
+
+* since in the World there are about $80 trillion, the most successful blockchain's market capitalization might theoretically be about this number or more
+* <b>sharding sucks</b>  — which was said by one of the very smart people in the blockchain industry, specifically, by Anatoly Yakovenko
 
 <p>&nbsp</p>
 <p>&nbsp</p>
