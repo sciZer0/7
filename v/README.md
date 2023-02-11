@@ -690,13 +690,13 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years), and plus there isn't any pre-programmed decreasing of Circulating Supply.
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
 By the way, the Bitcoin token isn't really fungible, each Bitcoin has its history, story and fate.
 
 One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
 
-And, even though the Mona Lisa's price is relatively expensive, it will never be say $90 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $90 trillion or more.
+And, even though the Mona Lisa painting's price is relatively expensive, it will never be say $90 trillion or more — and also, the whole Bitcoin blockchain's market capitalization will never be $90 trillion or more.
 
 Eventually, people will understand it.
 
