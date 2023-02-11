@@ -57,7 +57,7 @@ This paper proposes an idea of a new blockchain which from day one is simultaneo
 * with 50,000 TPS
 * with Decreasing Circulating Supply
 * with the ideal Gini coefficient
-* with 1 million
+* with 1 million users
 
  <p>&nbsp</p>
  
