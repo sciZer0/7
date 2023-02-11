@@ -260,7 +260,7 @@ A simple transaction is a transaction performing a transfer of tokens from one a
 <i><b>
 Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
 <br><br>
-An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it -- because any transactions without fees aren't possible on regular blockchains.
+An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it — because any transactions without fees aren't possible on regular blockchains.
 <br><br>
 </b></i>
 
@@ -304,7 +304,7 @@ Gas Fees are paid in the Vote token (in Hands).
 
 
 
-<h1>7 &nbsp Order of Transactions in Each Block</h1>
+<h1>6 &nbsp Order of Transactions in Each Block</h1>
 
 During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum ~ 20,000) is automatically formed in the following order:
 
@@ -322,7 +322,7 @@ If the total number of transactions, received but yet not executed, is bigger th
 
 
 
-<h1>6 &nbsp Decreasing Circulating Supply</h1>
+<h1>7 &nbsp Decreasing Circulating Supply</h1>
 
 The whole Maximum Supply is created at the Genesis Block.
 
@@ -338,7 +338,7 @@ Decreasing Circulating Supply is the impossible thing for each of the existing b
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
-<h1>7 &nbsp Voting System</h1>
+<h1>8 &nbsp Voting System</h1>
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -525,7 +525,7 @@ So we can surely reach true-decentralization of the extremely-high level for the
 
 **The Continuation**
 
-<h1>8 &nbsp Contributors</h1>
+<h1>9 &nbsp Contributors</h1>
 
 Contributors are people who may be contributing to the Vote blockchain.
 
@@ -553,7 +553,7 @@ Each person  (Public Address) being in the position of Contributor may be droppe
 
 
 
-<h1>9 &nbsp Automated Donations</h1>
+<h1>10 &nbsp Automated Donations</h1>
 
 Automated Donations are an element of a Creator Donation Culture.
 
@@ -568,7 +568,7 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 
 
-<h1>10 &nbsp Competitive Quadratic Voting</h1>
+<h1>11 &nbsp Competitive Quadratic Voting</h1>
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
 
@@ -611,7 +611,7 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
 
-<h1>11 &nbsp Proposals</h1>
+<h1>12 &nbsp Proposals</h1>
 
 On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 
@@ -634,7 +634,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 
 
-<h1>12 &nbsp Hyde Park</h1>
+<h1>13 &nbsp Hyde Park</h1>
 
 Hyde Park is a set of internet platforms and protocols (incl. Twitter, Telegram, Discord, Nostr, Vote) that might be used for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
@@ -669,7 +669,7 @@ For example, we might take the code of the Solana blockchain itself as codebase 
 **The Continuation**
 
 
-<h1>13 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>14 &nbsp Technologies & Creator Donation Culture</h1>
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
