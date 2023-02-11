@@ -701,7 +701,7 @@ One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht
 
 On the other hand, all other existing blockchains, being also fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
 
-For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. The Bitcoin blockchain will live for a while, and it is just a matter of time, someone will inevitably "51%-attack" it — but only in order to flex on people, to just flex on people.
+For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. The Bitcoin blockchain will live, and it is just a matter of time, one day someone will inevitably "51%-attack" it — but only in order to flex, to just flex on people.
 
 All the fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
