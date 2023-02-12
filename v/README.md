@@ -80,10 +80,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
-<i>For reference,<br>
-<br>
+<i>
 <b>
-Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1-10 million voters) isn't any problem now in terms of technology.</b></i>
+For reference, Solana's routine – on its best times – was about 30 million transactions per day. At the peak, 65 million. So a massive voting (by, say, 1-10 million voters) isn't any problem now in terms of technology.</b></i>
 
 
 
@@ -226,7 +225,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 
 Maximum Supply is 10,000,000 Vote tokens.
 
-Each Vote token is divided into 100,000,000 Hands.
+Each Vote token is divided into 100,000,000,000,000,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
@@ -259,7 +258,7 @@ There will never be the printing any more.
 
 Gas Fees are paid in the Vote token (in Hands).
 
-All Gas fees, received on each block, are burned. 
+All Gas fees (100%) are burned. 
 
 This all results in decreasing the Vote token's Circulating Supply.
 
