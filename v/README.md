@@ -11,16 +11,7 @@ Everything is discussable
 
 <p>&nbsp</p>
 
-<p align="right"><b>
-Each blockchain existing in 2023<br>
-is fundamentally unable to solve<br>
-its fundamental problems
-</b></p>
-<br><br><br>
 
-
-First of all, the thing that is said here about the future isn't a fact so far and is just my opinion on the subject. The most great fact , if wanted, is here:<br>
-https://github.com/sciZer0/7/tree/main/a
 
 
 <p>&nbsp</p>
@@ -689,25 +680,31 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-In my opinion, the main point of Bitcoin absolutely isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years), and plus there isn't any pre-programmed decreasing of Circulating Supply.
+Bitcoin, absolutely, isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, is the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
+And, importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
 
-*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do the thing everyone else cannot do — it is the demonstration of domination.*
+Plus, the Bitcoin blockchain has a lot of the fundamental flaws, including the awful Gini, low bandwidth and highest efficiency.
 
-By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it will become even more clear to everyone.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of the collection of the Bored Ape Yacht Club have, and which is the flexing — the ultimate way to flex.
 
-One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. Eventually, people will understand it.
+*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — it is the demonstration of domination.*
+
+By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its own price. Even for now, Binance wouldn't allow me to lie about it, and over time, it might become even more clear to everyone.
+
+One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. 
+
+There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. 
 
 On the other hand, all other existing blockchains, being also fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
 
-For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. The Bitcoin blockchain will live, and it is just a matter of time, one day someone will inevitably "51%-attack" it — but only in order to flex, to just flex on people.
+For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. 
 
 All the fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 Last but Not Least
 
-There is one thing to always keep in mind — which was said by one of the most technically-advanced people in the industry, specifically, by Anatoly Yakovenko  —  <b>sharding sucks</b>.
+There is one thing to always keep in mind — thing was said by one of the most technically-advanced people in the industry, specifically, by Anatoly Yakovenko  —  <b>sharding sucks</b>.
 
 
 <p>&nbsp</p>
