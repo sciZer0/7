@@ -690,7 +690,7 @@ The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1
 
 *Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — it is the demonstration of domination.*
 
-By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its own price. Even for now, Binance wouldn't allow me to lie about it, and over time, it might become even more clear to everyone.
+By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it might become even more clear to everyone.
 
 One Satoshi is like One NFT, like 1 NFT of the collection of the Bored Ape Yacht Club. 
 
