@@ -618,7 +618,13 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-Bitcoin, absolutely, isn't sound money — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+What are the greatest values in the Universe? 
+
+These aren't brilliants, gold, buildings or lands. No. 
+
+The greatest values in the universe are unstoppable tokens with Decreasing Circulation Supply.
+
+For example, Bitcoin, absolutely, isn't and cannot be the greatest value (sound mnney) — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 And, importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
 
