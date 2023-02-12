@@ -5,16 +5,16 @@ IDEA OF NEW BLOCKCHAIN
 <p align="center">
 Everything is discussable
 </p>
+<br>
+
+<p align="right"><b>
+The Ethereum blockchain<br>
+is doomed by its design<br>
+</b></p>
+<br>
 
 
 
-
-<p>&nbsp</p>
-
-
-
-
-<p>&nbsp</p>
 
 # Our Ideology
 
@@ -33,18 +33,18 @@ When people create something not good enough, there must be absolute freedom for
 <p>&nbsp</p>
  <h2 align="center">Abstract</h2>
  
-The main point of blockchain technology is to allow people to build permissionless ownership systems being highly-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems being extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
-The only way for a blockchain to be highly-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
+The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make the system as fast and efficient as possible.
+On the other hand, the main task of developers is to build/make the systems as fast and efficient as possible.
 
 This paper proposes an idea of a new blockchain which from day one is simultaneously:
 
-* highly-decentralized
-* highly-democratic
-* highly-sustainable
-* highly-efficient
+* extremely-decentralized
+* extremely-democratic
+* extremely-sustainable
+* extremely-efficient
 * with 50,000 TPS
 * with Decreasing Circulating Supply
 * with the ideal Gini coefficient
@@ -72,9 +72,9 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-The whole thing is that *– we can see this below –* only a highly-democratic blockchain is able to be highly-efficient – plus, remaining highly-decentralized and highly-sustainable.
+The whole thing is that *– we can see this below –* only a extremely-democratic blockchain is able to be extremely-efficient – plus, remaining extremely-decentralized and extremely-sustainable.
 
-Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
+Ideally, blockchains must be extremely-democratic from day one and exactly people (users) must rule the blockchains.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -144,7 +144,7 @@ At the same time, such an increase in a number of nodes doesn't increase the blo
 
 Actually, this approach means that increasing overhead (inefficiency) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining highly-decentralized and highly-democratic.
+Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining extremely-decentralized and extremely-democratic.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -156,7 +156,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 6 is that on each of the existing blockchains, there are low incentives for validators and developers if calculated per person.
 
-Ideally, a blockchain must create highly-generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
+Ideally, a blockchain must create extremely-generous incentives for validators and developers when calculated per person — in order to be a more sustainable working system.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -208,9 +208,9 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 · with free transactions<br>
 · with Decreasing Circulating Supply<br>
 · with 50,000 TPS<br>
-· highly-decentralized<br>
-· highly-democratic<br>
-· highly-efficient<br>
+· extremely-decentralized<br>
+· extremely-democratic<br>
+· extremely-efficient<br>
 <p>&nbsp</p>
 
 **Motto: Like Others Just Better**
@@ -391,13 +391,13 @@ We can reach true-decentralization of the extremely-high level for the extremely
 
 ## New Approach to Consensus or Extremely Efficient True-Decentralization
 
-This new approach allows us to reach consensus highly efficiently.
+This new approach allows us to reach consensus extremely efficiently.
 
 The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
 At the same time, the approach includes Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
 
-The whole trick is that this approach might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole trick is that this approach might be efficiently used only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, about Solana</b></p>
@@ -471,9 +471,9 @@ The hypothesis/idea is that
 
 * when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the highly generous Automated Donations (~ <b>$3 million annually</b>) just for working honestly, and
+* when each Validator in the list is receiving the extremely generous Automated Donations (~ <b>$3 million annually</b>) just for working honestly, and
 
-* when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
+* when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
 * when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
@@ -488,10 +488,10 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 <br><br>
 
 <i>
-There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly sustainable, meaning, extremely hard, at best impossible, to stop.
+There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely sustainable, meaning, extremely hard, at best impossible, to stop.
 </i>
 <br><br>
-Actually, these 150 highly-decentralized (highly-autonomous) Validators – which are highly motivated to work honestly and which are selected/rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered highly-decentralized and highly-sustainable.
+Actually, these 150 extremely-decentralized (extremely-autonomous) Validators – which are extremely motivated to work honestly and which are selected/rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
 <br><br>
 These 150 Validators might be enough and to spare.
 <br><br>
@@ -525,7 +525,7 @@ From the start, on the Vote Blockchain, there are 150 positions of Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each Contributor, in equal size - if compared to other Contributors, receives the highly generous Automated Donations (~ $3 million annually) from Voters.
+Each Contributor, in equal size - if compared to other Contributors, receives the extremely generous Automated Donations (~ $3 million annually) from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -700,7 +700,7 @@ On the other hand, all other existing blockchains, being also fundamentally unab
 
 For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. 
 
-Summarizing, all the fundamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+Summarizing, all the fundamental problems can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 Last but Not Least
 
@@ -709,4 +709,3 @@ There is one thing to always keep in mind — the thing was said by the most tec
 
 <p>&nbsp</p>
 <p>&nbsp</p>
-
