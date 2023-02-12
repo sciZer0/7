@@ -72,7 +72,7 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-The whole thing is that *– we can see this below –* only a extremely-democratic blockchain is able to be extremely-efficient – plus, remaining extremely-decentralized and extremely-sustainable.
+The whole thing is that *– we can see this below –* only an extremely-democratic blockchain is able to be extremely-efficient – plus, remaining extremely-decentralized and extremely-sustainable.
 
 Ideally, blockchains must be extremely-democratic from day one and exactly people (users) must rule the blockchains.
 
