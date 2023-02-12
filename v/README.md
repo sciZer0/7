@@ -138,7 +138,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 5 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
-**to more and more increase a number of honest nodes in the blockchain**.
+**to increase more and more the number of honest nodes in the blockchain**.
 
 At the same time, such an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
