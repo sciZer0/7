@@ -700,7 +700,7 @@ On the other hand, all other existing blockchains, being also fundamentally unab
 
 For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. 
 
-All the fumdamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+Summarizing, all the fundamental problems can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 Last but Not Least
 
