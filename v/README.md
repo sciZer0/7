@@ -184,8 +184,8 @@ to be useful to people.
 
 <h2 align="center">
 Meet the FIRST<br>
-HIGHLY-DECENTRALIZED<br>
-& HIGHLY-EFFICIENT<br> 
+EXTREMELY-DECENTRALIZED<br>
+& EXTREMELY-EFFICIENT<br> 
 BLOCKCHAIN</b>
 </h2>
 <p>&nbsp</p>
@@ -198,20 +198,25 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 <p>&nbsp</p>
 
 
+
 <p align="left">
   <img src="/assets/images/vote.png" height="100"><br>
 </p>
 
 <p><b>Next-Gen Layer 1 Blockchain</b></p>
 <b>FROM DAY ONE</b><br>
-· with 1 million users<br>
-· with free transactions<br>
-· with Decreasing Circulating Supply<br>
-· with 50,000 TPS<br>
-· extremely-decentralized<br>
-· extremely-democratic<br>
-· extremely-efficient<br>
+
+* extremely-decentralized
+* extremely-democratic
+* extremely-sustainable
+* extremely-efficient
+* with 50,000 TPS
+* with Decreasing Circulating Supply
+* with the ideal Gini coefficient
+* with 1 million users
 <p>&nbsp</p>
+
+
 
 **Motto: Like Others Just Better**
 
@@ -243,84 +248,18 @@ From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, wi
 
 
 
-<h1>4 &nbsp Free Transactions</h1>
-
-There are no Gas fees for simple transactions, meaning, it is a freemium model blockchain.
-
-A simple transaction is a transaction performing a transfer of tokens from one address not associated with a smart contract to another address also not associated with a smart contract.
-
-<i><b>
-Simply put, this includes, among other cases, that each transfer of tokens from one regular user to another is for free and that each transfer of tokens involving a smart contract will be with a Gas fee.
-<br><br>
-An user, if there is a congestion (if any), may set a fee for their simple transaction, meaning, only at its worst the Vote blockchain might take fees for simple transactions – while each of the existing blockchains always does it — because any transactions without fees aren't possible on regular blockchains.
-<br><br>
-</b></i>
 
 
 
-
-
-<h1>5 &nbsp DDoS/Spam Attacks</h1>
- 
-Basically,  possible DDoS/Spam attacks, due to the fact that all simple transactions are free and hence can be created in enormous amounts, are beaten the same way as it is already done by all top blockchains in relation to other possible DDoS/Spam attacks that can, endlessly and frequently, be requesting the Block Height, for example.
-
-Also, the minimum required balance level (Rent Level) is set  for an account in order be required to pay the blockchain a rent (rent payments).
-
-Plus, the minimum required balance level (Garbage Level) is also set  for an account in order to be free from being-collected as garbage. 
-
-Both the Rent Level and Garbage Level helps to significantly decrease a number of possible DDoS/Spam attacks.
-
-Both the Rent Level and Garbage Level may be changed through democratic voting: Competitive Quadratic Voting. 
-
-At the start,  
-
-* Rent Level is 100,000,000,000,000,000 Hamds
-* Garbage Level is 100,000,000,000,000,000 Hands
-
-
-
-
-
-
-<h1>5 &nbsp Gas Fees</h1>
-
-Users pay Gas Fees only for some sorts of transactions.
-
-Specifically, an user pays a Gas fee for deploying a smart contract and for making a transaction involving a smart contract.
-
-Gas Fees are paid in the Vote token (in Hands).
-
-
-
-
-
-
-
-<h1>6 &nbsp Order of Transactions in Each Block</h1>
-
-During each 400-millisecond slot, from the transactions received but yet not executed, the ordered list of transactions (maximum ~ 20,000) is automatically formed in the following order:
-
-1. transactions with Gas fees are automatically ordered in descending order of Gas Price
-
-2. simple transactions without Gas fees are automatically ordered with a random number algorithm.
-
-If the total number of transactions, received but yet not executed, is bigger than the maximum block size (~20,000 transactions) – the remaining transactions will participate in competition during the next slot, according to the same order described above.
-
-<i><b>This approach greatly reduces an unjust value-extraction done by miners/validators on the AMM exchanges – of course not excluding an unjust value-extraction done by algorithmic traders – and plus, of course, completely excludes this phenomenon on the "order-book" exchanges.</i></b>
-
-
-
-
-
-
-
-<h1>7 &nbsp Decreasing Circulating Supply</h1>
+<h1>4 &nbsp Decreasing Circulating Supply</h1>
 
 The whole Maximum Supply is created at the Genesis Block.
 
 There will never be the printing any more.
 
-And, all Gas fees, received on each block, are burned. 
+Gas Fees are paid in the Vote token (in Hands).
+
+All Gas fees, received on each block, are burned. 
 
 This all results in decreasing the Vote token's Circulating Supply.
 
@@ -330,7 +269,7 @@ Decreasing Circulating Supply is the impossible thing for each of the existing b
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
-<h1>8 &nbsp Voting System</h1>
+<h1>5 &nbsp Voting System</h1>
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -517,7 +456,7 @@ So we can surely reach true-decentralization of the extremely-high level for the
 
 **The Continuation**
 
-<h1>9 &nbsp Contributors</h1>
+<h1>6 &nbsp Contributors</h1>
 
 Contributors are people who may be contributing to the Vote blockchain.
 
@@ -545,7 +484,7 @@ Each person  (Public Address) being in the position of Contributor may be droppe
 
 
 
-<h1>10 &nbsp Automated Donations</h1>
+<h1>7 &nbsp Automated Donations</h1>
 
 Automated Donations are an element of a Creator Donation Culture.
 
@@ -560,7 +499,7 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 
 
-<h1>11 &nbsp Competitive Quadratic Voting</h1>
+<h1>8 &nbsp Competitive Quadratic Voting</h1>
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
 
@@ -603,7 +542,7 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
 
-<h1>12 &nbsp Proposals</h1>
+<h1>9 &nbsp Proposals</h1>
 
 On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
 
@@ -626,7 +565,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 
 
-<h1>13 &nbsp Hyde Park</h1>
+<h1>10 &nbsp Hyde Park</h1>
 
 Hyde Park is a set of internet platforms and protocols (incl. Twitter, Telegram, Discord, Nostr, Vote) that might be used for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
 
@@ -661,7 +600,7 @@ For example, we might take the code of the Solana blockchain itself as codebase 
 **The Continuation**
 
 
-<h1>14 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>11 &nbsp Technologies & Creator Donation Culture</h1>
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
