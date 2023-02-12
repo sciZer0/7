@@ -704,7 +704,7 @@ Summarizing, all the fundamental problems can be solved only by highly-decentral
 
 Last but Not Least
 
-There is one thing to always keep in mind — thing was said by one of the most technically-advanced people in the industry, specifically, by Anatoly Yakovenko  —  <b>sharding sucks</b>.
+There is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
 
 
 <p>&nbsp</p>
