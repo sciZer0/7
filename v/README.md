@@ -619,17 +619,17 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 What are the greatest values in the Universe? 
 
-These aren't conventionally-material: like brilliants, gold, buildings or lands. No. 
+These aren't ones like brilliants, gold, buildings or lands. No. 
 
-These are virtual. Virtuality in turn is just a special sort of matter, materiality.
+These are virtual ones. Virtuality in turn is just a special sort of materiality.
 
-So that the greatest values in the universe these are unstoppable virtual tokens with Decreasing Circulation Supply.
+Specifically, these — the greatest values in the universe — are unstoppable virtual tokens with Decreasing Circulation Supply.
 
 For example, Bitcoin, absolutely, isn't and cannot be the greatest value — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 And, more importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
 
-Plus, additionally, the Bitcoin blockchain has a lot of the fundamental flaws, including the awful Gini, low bandwidth and highest efficiency.
+Plus, additionally, the Bitcoin blockchain has constant fundamental flaws, including the awful Gini and highest efficiency.
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
