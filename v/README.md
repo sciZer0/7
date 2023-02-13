@@ -566,7 +566,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 <h1>10 &nbsp Hyde Park</h1>
 
-Hyde Park is a set of internet platforms and protocols (incl. Twitter, Telegram, Discord, Nostr, Vote) that might be used for expressing various opinions and offering proposals, including, proposals on appointing/dismissing.
+Hyde Park is a set of internet platforms and protocols (incl. Twitter, Telegram, Discord, Nostr, Vote) that might be used for expressing various opinions and discussing proposals, including, proposals on appointing/dismissing.
 
 
 
