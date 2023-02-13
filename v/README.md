@@ -18,7 +18,7 @@ is doomed by design<br>
 
 # Our Ideology
 
-In fact:
+In fact,
 * any text is just a number
 * any code is just a number
 * any picture is just a number
