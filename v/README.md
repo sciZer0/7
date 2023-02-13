@@ -175,8 +175,7 @@ fundamental problems.
 And,<br>
 each blockchain existing in 2023<br>
 is fundamentally unable to solve<br> 
-its fundamental problems, meaning,<br>
-to be useful to people.
+the fundamental problems.
 </p>
  
 <p>&nbsp</p>
