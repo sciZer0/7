@@ -623,7 +623,7 @@ These aren't ones like brilliants, gold, buildings or lands. No.
 
 These are virtual ones. Virtuality in turn is just a special sort of materiality.
 
-Specifically, these — the greatest values in the universe — are unstoppable virtual tokens with Decreasing Circulation Supply.
+So, the greatest values in the universe are permissionless virtual tokens with Decreasing Circulation Supply — specifically, those of them which function on the best in-main-aspects blockchains (including such aspects as efficiency and sustainability).
 
 For example, Bitcoin, absolutely, isn't and cannot be the greatest value — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
