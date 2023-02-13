@@ -9,7 +9,7 @@ Everything is discussable
 
 <p align="right"><b>
 The Ethereum blockchain<br>
-is doomed by its design<br>
+is doomed by design<br>
 </b></p>
 <br>
 
