@@ -18,25 +18,13 @@ is doomed by design<br>
 
 # Our Ideology
 
-In fact,
-* any text is just a number
-* any code is just a number
-* any picture is just a number
-* any sound is just a number
-* any video is just a number
-* any idea is just a number
-* any thought is just a number
-* any information is just a number.
+Every code created must be open and free – including, each code which happens to be known must be free.<br>
 
-Everyone must be free to use any number, to run any number on a computer – when this use/run doesn't directly cause direct physical violence against people
+Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
-Meaning, every code created must be open and free, including, each code which happens to be known must be free.
+And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.<br>
 
-Including, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
-
-Additionally, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.
-
-Importantly, when people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
+When people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
 
  
 <p>&nbsp</p>
