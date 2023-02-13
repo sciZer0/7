@@ -626,7 +626,7 @@ The greatest values in the universe are unstoppable virtual tokens with Decreasi
 
 For example, Bitcoin, absolutely, isn't and cannot be the greatest value (sound mnney) — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-And, importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
+And, more importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
 
 Plus, additionally, the Bitcoin blockchain has a lot of the fundamental flaws, including the awful Gini, low bandwidth and highest efficiency.
 
