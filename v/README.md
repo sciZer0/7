@@ -25,7 +25,8 @@ In fact,
 * any sound is just a number
 * any video is just a number
 * any idea is just a number
-* any thought is just number. 
+* any thought is just number
+* any information is just number.
 
 Everyone must be free to use any number, to run any number on a computer – when this use/run doesn't cause direct physical violence against people.
 
