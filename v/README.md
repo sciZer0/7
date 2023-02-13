@@ -543,7 +543,7 @@ Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the 
 
 <h1>9 &nbsp Proposals</h1>
 
-On the Vote blockchain, there are Automatic and Non-Automatic Proposals.
+On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
 Automatic Proposals happen each 30 days and are the following ones:
 
@@ -557,7 +557,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 * proposal to appoint a person (possibly anonymous) to the position of Contributor
 * proposal to dismiss a person (possibly anonymous) from the position of Contributor
 
-<p><i><b>Any other suggestions for Proposals and voting conditions are welcome.</b></i></p>
+<p><i><b>Any suggestions on Proposals and voting conditions are welcome.</b></i></p>
 
 
 
