@@ -27,7 +27,7 @@ In fact,
 * any idea is just a number
 * any thought is just number. 
 
-Everyone must be free to use any number, to run any number on a computer – when this use/run doesn't cause straight physical violence over people.
+Everyone must be free to use any number, to run any number on a computer – when this use/run doesn't cause direct physical violence against people.
 
 Meaning, every code created must be open and free, including, each code which happens to be known must be free.
 
