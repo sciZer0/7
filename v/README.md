@@ -620,23 +620,23 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 What are the greatest values in the Universe? 
 
-These aren't brilliants, gold, buildings or lands. No. 
+These aren't material: brilliants, gold, buildings or lands. No. 
 
-The greatest values in the universe are unstoppable tokens with Decreasing Circulation Supply.
+The greatest values in the universe are unstoppable virtual tokens with Decreasing Circulation Supply.
 
 For example, Bitcoin, absolutely, isn't and cannot be the greatest value (sound mnney) — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 And, importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
 
-Plus, the Bitcoin blockchain has a lot of the fundamental flaws, including the awful Gini, low bandwidth and highest efficiency.
+Plus, additionally, the Bitcoin blockchain has a lot of the fundamental flaws, including the awful Gini, low bandwidth and highest efficiency.
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
 *Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — it is the demonstration of domination.*
 
-By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it might become even more clear to everyone.
+By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it might become even more clear to everyone.
 
-One Satoshi is like One NFT, much like 1 NFT of the collection of the Bored Ape Yacht Club. 
+One Satoshi is like one NFT, much like 1 NFT of the collection of the Bored Ape Yacht Club. 
 
 There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. 
 
