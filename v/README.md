@@ -24,7 +24,7 @@ Everyone must always feel free to use other people’s ideas and code in order t
 
 And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.<br>
 
-When people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
+Summarizing, when people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
 
  
 <p>&nbsp</p>
