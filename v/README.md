@@ -18,11 +18,21 @@ is doomed by design<br>
 
 # Our Ideology
 
-Every code created must be open and free – including, each code which happens to be known must be free.<br>
+It is stupid to fight just some numbers: 
+* any text is just a number
+* any code is just a number
+* any picture is just a number
+* any sound is just a number
+* any video is just a number. 
 
-Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
+All numbers must be free from fighting them, and free to use.
 
-And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.<br>
+Including, every code created must be open and free – involving, each code which happens to be known must be free.
+
+Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
+
+
+And of course, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.
 
 Summarizing, when people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
 
