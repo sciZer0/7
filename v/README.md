@@ -624,7 +624,7 @@ These aren't material: brilliants, gold, buildings or lands. No.
 
 The greatest values in the universe are unstoppable virtual tokens with Decreasing Circulation Supply.
 
-For example, Bitcoin, absolutely, isn't and cannot be the greatest value (sound mnney) — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+For example, Bitcoin, absolutely, isn't and cannot be the greatest value — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 And, more importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
 
