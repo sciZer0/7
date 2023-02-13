@@ -25,14 +25,14 @@ In fact,
 * any sound is just a number
 * any video is just a number
 * any idea is just a number
-* any thought is just number
-* any information is just number.
+* any thought is just a number
+* any information is just a number.
 
-Everyone must be free to use any number, to run any number on a computer – when this use/run doesn't cause direct physical violence against people.
+Everyone must be free to use any number, to run any number on a computer – when this use/run doesn't directly cause direct physical violence against people
 
 Meaning, every code created must be open and free, including, each code which happens to be known must be free.
 
-Plus, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
+Including, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
 
 Additionally, we should be forming a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.
 
