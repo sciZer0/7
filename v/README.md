@@ -651,10 +651,5 @@ Last but Not Least
 
 There is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
 
-About Vitalik
-
-He is the big brand in the industry. And moreover, his efforts helped us to form our understanding and our vision.
-
-
 <p>&nbsp</p>
 <p>&nbsp</p>
