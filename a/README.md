@@ -182,7 +182,7 @@ What about regular people?
 <p align="center">
   <img src="/assets/images/dogma.png"/><br>
 </p>
-
+<br>
 <p align="center">
   <img src="/assets/images/Snowden.png"/><br>
 </p>
