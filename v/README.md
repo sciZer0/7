@@ -165,7 +165,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <p align="center">
 In fact,<br>
-there are many more<br> 
+there are another<br> 
 fundamental problems.
 </p>
 
