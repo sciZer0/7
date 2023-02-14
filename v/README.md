@@ -627,11 +627,11 @@ The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1
 
 *Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a token proving your involvement in a unique (meaning historical) event. This is in a way the demonstration of domination, superiority.*
 
-The Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins  might have a more price.
+Probably, there is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
 
-One Satoshi is like one NFT, much like a specific NFT of the collection of the Crypto Punks. 
+Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins might have a more price.
 
-There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. 
+One Satoshi is like one NFT, much like a specific NFT of the collection of the Crypto Punks.  
 
 Summarizing, all the fundamental problems of current blockchains can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
