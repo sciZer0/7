@@ -176,6 +176,13 @@ In my Open Letter to Elon Musk, I explain why exactly all official physics scien
 <b>Open Letter to Elon Musk</b><br>
 https://github.com/sciZer0/7/tree/main/l
 
+What about regular people?
+
+
+<p align="center">
+  <img src="/assets/images/dogma.png"/><br>
+</p>
+
 ## START
 
 ATTENTION: This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
