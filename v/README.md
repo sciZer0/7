@@ -617,11 +617,11 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-Bitcoin, absolutely, isn't sound money — because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+Bitcoin, absolutely, isn't sound money because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-And, more importantly, —  because there isn't any pre-programmed decrease of Circulating Supply.
+More importantly, because there isn't any pre-programmed decrease of Circulating Supply.
 
-Plus, additionally, the Bitcoin blockchain has irremovable fundamental flaws, including the awful Gini and highest efficiency.
+Plus, additionally, the Bitcoin blockchain has irremovable fundamental flaws, including the awful Gini and highest inefficiency.
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
