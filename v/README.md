@@ -224,7 +224,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 
 Maximum Supply is 10,000,000 Vote tokens.
 
-Each Vote token is divided into 100,000,000,000,000,000,000 Hands.
+Each Vote token is divided into 10,000,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
