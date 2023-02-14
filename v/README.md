@@ -625,11 +625,11 @@ Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
-*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a token proving your involvement in a historical event. This is in a way the demonstration of domination, superiority.*
+*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a token proving your involvement in a unique event. This is in a way the demonstration of domination, superiority.*
 
-The Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins  will have a more price.
+The Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins  might have a more price.
 
-One Satoshi is like one NFT, much like 1 NFT of the collection of the Crypto Punks. 
+One Satoshi is like one NFT, much like 1 specific NFT of the collection of the Crypto Punks. 
 
 There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. 
 
