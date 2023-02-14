@@ -625,7 +625,7 @@ Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
-*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — specifically, this happens through extremal money spending. This is the demonstration of domination, superiority.*
+*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — specifically, this happens through extremal money spending on a practically useless thing. This is the demonstration of domination, superiority.*
 
 By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone.
 
