@@ -114,7 +114,7 @@ The wrongness of all the official formulas for calculating Work and Energy is a 
 
 The fact was proven here: [link](https://github.com/sciZer0/7/tree/main/a).
 
-The whole point about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy -- *and we will see this below*.
+The whole point about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy – *and we will see this below*.
 
 The New Law of Conservation of Energy is:
 
@@ -126,7 +126,7 @@ Importantly,
 
 * there are Target Works and Non-Target Works;
 
-* there are Energy-Isolated and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
+* there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
 * some devices, for example, Electromagnets – those devices that, in reality, aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
 
@@ -174,11 +174,15 @@ Let's call the thing by which Organism is pushing an object "Hand".
 
 > **Hand is Force, in other words: the thing by which Organism is pushing an object.**
 
-In each of the 3 cases,
+So,
 
 In Case #1, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 In Case #2, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
+
+In each of the 3 cases,
+
+Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 
 --
 
