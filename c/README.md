@@ -251,11 +251,11 @@ the formula doesn't result in zero when Real Acceleration of the pushed object i
 --
 --
 
-## 2.8. New Concept of Work and New Concept of Energy
+## 2.8. New Concept of Force or Work
 
-The magnitude of Force means the amount of Energy (resource/effort) that Organism is putting into the pushing for a second
+The magnitude of Force means the amountof Energy (resource/effort) that Organism is putting into the pushing for a second
 
-The magnitude of Work means the amount of Energy (resource/effort) that Organism is putting into the pushing for a certain number of seconds.
+In turn, the magnitude of Work just means the amount of Energy (resource/effort) that Organism is putting into the pushing either for a second or for a certain number of seconds.
 
 --
 
