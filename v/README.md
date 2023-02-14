@@ -625,19 +625,15 @@ Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
-*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — specifically, this happens through extremal money spending on a practically useless thing. This is the demonstration of domination, superiority.*
+*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a token proving your involvement in a historical event. This is in a way the demonstration of domination, superiority.*
 
-By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone.
+The Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins  will have a more price.
 
-One Satoshi is like one NFT, much like 1 NFT of the collection of the Bored Ape Yacht Club. 
+One Satoshi is like one NFT, much like 1 NFT of the collection of the Crypto Punks. 
 
 There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. 
 
-On the other hand, all other existing blockchains, being also fundamentally unable to solve the fundamental problems, don't even have this "Mona Lisa" point.
-
-For this reason, each blockchain existing in 2023 (excl. Bitcoin) reasonably deserves to go away. 
-
-Summarizing, all the fundamental problems can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
+Summarizing, all the fundamental problems of current blockchains can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 Last but Not Least
 
