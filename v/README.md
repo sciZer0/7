@@ -629,7 +629,7 @@ The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1
 
 The Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins  might have a more price.
 
-One Satoshi is like one NFT, much like 1 specific NFT of the collection of the Crypto Punks. 
+One Satoshi is like one NFT, much like a specific NFT of the collection of the Crypto Punks. 
 
 There is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency. 
 
