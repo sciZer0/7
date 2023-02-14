@@ -183,6 +183,10 @@ What about regular people?
   <img src="/assets/images/dogma.png"/><br>
 </p>
 
+<p align="center">
+  <img src="/assets/images/Snowden.png"/><br>
+</p>
+
 ## START
 
 ATTENTION: This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
