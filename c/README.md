@@ -21,16 +21,16 @@ https://github.com/sciZer0/7/tree/main/a
 
 ## 1.2. Endless Series of Errors in Science
 
-As we can [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
+As we can [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy – importantly, being fundamental – are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
 
 > ### The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
 But there is another fundamental errors:
 
-* the official concept of Force being -- wrong
-* the official concept of Work -- being wrong
-* the official concept of Energy -- being wrong
-* the official Law of conservation of Energy -- being wrong
+* the official concept of Force – being wrong
+* the official concept of Work – being wrong
+* the official concept of Energy – being wrong
+* the official Law of conservation of Energy – being wrong
 
 All these fundamental errors together result in the endless series of errors in science.
 
