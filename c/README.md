@@ -21,7 +21,7 @@ https://github.com/sciZer0/7/tree/main/a
 
 ## 1.2. Endless Series of Errors in Science
 
-As we can [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy – importantly, being fundamental – are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
+As we can [see](https://github.com/sciZer0/7/tree/main/a), all the official formulas for calculating Work and Energy – importantly, being fundamental – are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
 
 > ### The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
@@ -112,7 +112,7 @@ But in reality, all official formulas for calculating Work and Energy are absolu
 
 The wrongness of all the official formulas for calculating Work and Energy is a proven fact. 
 
-The fact was proven here: [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
+The fact was proven here: [link](https://github.com/sciZer0/7/tree/main/a).
 
 The whole point about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy -- *and we will see this below*.
 
