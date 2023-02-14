@@ -617,25 +617,17 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>CONCLUSION</h1>
 
-What are the greatest values in the Universe? 
+Bitcoin, absolutely, isn't sound money — because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-These aren't ones like brilliants, gold, buildings or lands. No. 
+And, more importantly, —  because there isn't any pre-programmed decrease of Circulating Supply.
 
-These are virtual ones. Virtuality in turn is just a special sort of materiality.
-
-So, the greatest values in the universe are permissionless virtual tokens with Decreasing Circulation Supply — specifically, those of them which function on the best in-main-aspects blockchains (including such aspects as efficiency and sustainability).
-
-For example, Bitcoin, absolutely, isn't and cannot be the greatest value — since the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
-
-And, more importantly, —  since there isn't any pre-programmed decrease of Circulating Supply.
-
-Plus, additionally, the Bitcoin blockchain has constant fundamental flaws, including the awful Gini and highest efficiency.
+Plus, additionally, the Bitcoin blockchain has irremovable fundamental flaws, including the awful Gini and highest efficiency.
 
 The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
 
 *Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have) — it is the demonstration of domination, superiority.*
 
-By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Even for now, Binance wouldn't allow me to lie about it, and over time, it might become even more clear to everyone.
+By the way, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone.
 
 One Satoshi is like one NFT, much like 1 NFT of the collection of the Bored Ape Yacht Club. 
 
