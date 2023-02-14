@@ -1,6 +1,4 @@
-<h1 align="center">
-  This is the continuation of this paper:
-</h1>
+<h2 align="center">This is the continuation of this paper:</h2>
 
 **Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
@@ -13,13 +11,13 @@ https://github.com/sciZer0/7/tree/main/a
 
 <h1 align="center">_________</h1>
 
-<h1 align="center">
-  The continuation itself:
-</h1>
+<h1 align="center">THE CONTINUATION ITSELF</h1>
 
-<h1 align="center">THIS PART IS UNDER EDITING</h1>
+<p align="center">This part is under editing</p>
 
-## 1.2. Endless Series of Errors in Science
+<br><br>
+
+<h1>1.2. &nbsp Endless Series of Errors in Science</h1>
 
 As we can [see](https://github.com/sciZer0/7/tree/main/a), all the official formulas for calculating Work and Energy – importantly, being fundamental – are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
 
@@ -57,8 +55,9 @@ All these fundamental errors together result in the endless series of errors in 
 2.16. New Law of Conservation of Energy<br>
 
 --
+<br>
+<h1>2.1. &nbsp Work and Energy in the Most General Sense</h1>
 
-## 2.1. Work and Energy in the Most General Sense
 
 In modern science, the whole logic about Work and Energy is absolutely wrong, so we need to start from the very beginning, from defining Work and Energy in the most general sense.
 
@@ -98,9 +97,11 @@ And of course,
 
 > **Work and Energy have the same unit of measure.**
 
---
 
-## 2.2. New Law of Conservation of Energy
+
+--
+<br>
+<h1>2.2. &nbsp New Law of Conservation of Energy</h1>
 
 The official law of Conservation of Energy is: 
 
@@ -133,8 +134,9 @@ Importantly,
 *More on this all below.*
 
 --
+<br>
+<h1>2.3. &nbsp Concept of Organism and its Hand</h1>
 
-## 2.3. Concept of Organism and its Hand
 
 Let's consider the 3 cases simultaneously:
 
@@ -184,9 +186,10 @@ In each of the 3 cases,
 
 Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 
---
 
-## 2.4. Target for each Force
+--
+<br>
+<h1>2.4. &nbsp Target for each Force</h1>
 
 Each Force has its target.
 
@@ -200,9 +203,11 @@ Summarizing,
 
 > ### Target Acceleration is the acceleration that Force, while it is pushing an object of a certain mass, is striving to give to the pushed object.
 
---
 
-## 2.5. New Formula for Force
+
+--
+<br>
+<h1>2.5. &nbsp New Formula for Force</h1>
 
 The New Formula for Force is:
 
@@ -223,9 +228,13 @@ In my opinion,
 
 the New Formula for Force is exactly the true Newton's Formula for Force that he implyed.
 
---
 
-## 2.7. New Universal Formula for Work and Energy
+
+
+--
+<br>
+<h1>2.6. &nbsp New Universal Formula for Work and Energy</h1>
+
 
 The New Universal Formula for Work and Energy is:
 
@@ -247,11 +256,14 @@ and also that
 
 the formula doesn't result in zero when Real Acceleration of the pushed object is being equal to zero.
 
---
---
---
 
-## 2.8. New Concept of Force or Work
+
+
+
+--
+<br>
+<h1>2.7. &nbsp New Concept of Force and Work</h1>
+
 
 The magnitude of Force means the amountof Energy (resource/effort) that Organism is putting into the pushing for a second
 
