@@ -72,11 +72,11 @@ Let’s call any system that can do Work “Organism”.
 
 In its turn, a system is a collection of elements or components that function together.
 
-*Of course, instead of the "Organism" word we might use the "System" word itself, the reason for the choice will be clear a bit below.*
+*Of course, instead of the "Organism" word we might use the "System" word itself, the reason for the "Organism" choice will be clear a bit below.*
 
 So, 
 
-> **Organism is any system that can be doing Work.**
+> **Organism is any system that can do Work.**
 
 In my opinion, in the most general sense,
 
