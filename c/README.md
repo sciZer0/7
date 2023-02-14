@@ -190,11 +190,13 @@ Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 
 Each Force has its target.
 
-For example, the target for Gravitational Force (Invisible Hand) -- while it is pushing an object -- is to give the pushed object the downward Acceleration of 9.8 (m/s²). 
+For example, the target for Gravitational Force (Invisible Hand) – while it is pushing an object – is to give the pushed object the downward Acceleration of 9.8 (m/s²). 
 
-Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” associated with the given Force, Gravitational Force.
+Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” associated with the given Force, – Gravitational Force.
 
 Target Acceleration is THE feature/attribute/characteristic of each Force.
+
+Summarizing,
 
 > ### Target Acceleration is the acceleration that Force, while it is pushing an object of a certain mass, is striving to give to the pushed object.
 
@@ -219,7 +221,7 @@ the "Target" in the formula is namely Target Acceleration associated with the gi
 
 In my opinion,
 
-the New Formula for Force is the true Newton's Formula for Force that he implyed.
+the New Formula for Force is exactly the true Newton's Formula for Force that he implyed.
 
 --
 
