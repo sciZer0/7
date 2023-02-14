@@ -424,10 +424,12 @@ and we might, for example, just drop out the Solana's stake-weighted selection a
 </b>
 <br><br>
 
-<i>
+
+Importantly, even say 3 honest nodes (validators) are enough for the Vote (Solana) blockchain to function, maintaining the bandwidth of 50,000 TPS. So a 50 fold margin of safety (150 Validators) might be  the sufficient condition for the blockchain to be considered sustainable.
+
 There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely sustainable, meaning, extremely hard, at best impossible, to stop.
-</i>
-<br><br>
+
+
 Actually, these 150 extremely-decentralized (extremely-autonomous) Validators – which are extremely motivated to work honestly and which are selected/rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
 <br><br>
 These 150 Validators might be enough and to spare.
