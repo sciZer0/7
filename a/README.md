@@ -1,13 +1,13 @@
 Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
-New Formula for Force<br>
-New Formula for Work<br>
-New Formula for Energy<br>
-New Formula for Power<br>
-Time is always absolute<br>
+· New Formula for Force<br>
+· New Formula for Work<br>
+· New Formula for Energy<br>
+· New Formula for Power<br>
+· Time is always absolute<br>
 ---
 
-
+<br><br>
 <b>Table of Contents</b>
 * FIRST OF ALL<br>
 * EASY TO UNDERSTAND<br>
@@ -396,9 +396,9 @@ Throughout this paper, we will consider each of these cases:
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-For now, let's consider CASE #3 where the official formula for Force works correctly.
+For now, let's consider CASE #2 where the official formula for Force works correctly.
 
-CASE #3
+CASE #2
 
 A 20 kg object (metal solid object) is free-falling during 30 seconds.
 
@@ -414,7 +414,7 @@ In this case, during every moment, Gravitational Force (Invisible hand) is pushi
 
 We want to calculate Force (Gravitational Force) pushing the 20 kg object.
 
-ATTENTION: The official Newton’s formula for calculating Force works absolutely correctly in CASE #1.
+ATTENTION: The official Newton’s formula for calculating Force works absolutely correctly in CASE #2.
 
 Let’s take a close look at what is happening there, at what is going on.
 
