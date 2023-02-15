@@ -94,7 +94,7 @@ EEMGs can also be used on the BFR and Mars.
 
 About patenting EEMG
 
-Importantly, I don’t want to patent EEMG. I just want my discoveries to get the world’s attention and then I will share my knowledge about making NGEGs with the world for free. This way no one will have an advantage over others. All people (incl. all businesses) will be in equal conditions to freely start making myriads of EEMGs and so civilization will get the powerful push for the accelerated progress.
+Importantly, I don’t want to patent EEMG. I just want my discoveries to get the world’s attention and then I will share my knowledge about making EEMG with the world for free. This way no one will have an advantage over others. All people (incl. all businesses) will be in equal conditions to freely start making myriads of EEMGs and so civilization will get the powerful push for the accelerated progress.
 
 ______
 
