@@ -193,6 +193,11 @@ BLOCKCHAIN</b>
 </h2>
 <p>&nbsp</p>
 
+
+<h1 align="center">THE VOTE BLOCKCHAIN</h1>
+<p align="center">In More Detail</p>
+
+<br>
 <p>
 <b>
 This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
