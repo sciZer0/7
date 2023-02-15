@@ -8,10 +8,10 @@ Everything is discussable
 <br>
 
 <p align="right"><b>
-Each blockchain
-existing in 2023<br>
-is doomed
-by design<br>
+Probably,<br> 
+each blockchain<br>
+existing in 2023 is<br>
+doomed by design<br>
 </b></p>
 <br>
 
