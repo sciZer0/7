@@ -1,11 +1,13 @@
 <h1 align="center">This is the continuation of this paper:</h1>
 
-**Fundamental Errors in Science and New Discoveries Changing All Science:<br>
+Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
 New Formula for Force<br>
 New Formula for Work<br>
 New Formula for Energy<br>
-New Formula for Power<br>**
+New Formula for Power<br>
+Time is absolute<br>
+---
 
 https://github.com/sciZer0/7/tree/main/a
 
