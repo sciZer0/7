@@ -1,4 +1,4 @@
-<h2 align="center">This is the continuation of this paper:</h2>
+<h1 align="center">This is the continuation of this paper:</h1>
 
 **Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
@@ -32,7 +32,7 @@ But there is another fundamental errors:
 
 All these fundamental errors together result in the endless series of errors in science.
 
----
+<br><br>
 
 ### DISCOVERY #2
 *NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER*
@@ -54,8 +54,7 @@ All these fundamental errors together result in the endless series of errors in 
 2.15. New Formula for Power<br>
 2.16. New Law of Conservation of Energy<br>
 
---
-<br>
+
 <h1>2.1. &nbsp Work and Energy in the Most General Sense</h1>
 
 
@@ -99,7 +98,7 @@ And of course,
 
 
 
---
+
 <br>
 <h1>2.2. &nbsp New Law of Conservation of Energy</h1>
 
@@ -133,7 +132,9 @@ Importantly,
 
 *More on this all below.*
 
---
+
+
+
 <br>
 <h1>2.3. &nbsp Concept of Organism and its Hand</h1>
 
@@ -187,7 +188,8 @@ In each of the 3 cases,
 Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
 
 
---
+
+
 <br>
 <h1>2.4. &nbsp Target for each Force</h1>
 
@@ -205,7 +207,7 @@ Summarizing,
 
 
 
---
+
 <br>
 <h1>2.5. &nbsp New Formula for Force</h1>
 
@@ -231,7 +233,7 @@ the New Formula for Force is exactly the true Newton's Formula for Force that he
 
 
 
---
+
 <br>
 <h1>2.6. &nbsp New Universal Formula for Work and Energy</h1>
 
@@ -260,7 +262,7 @@ the formula doesn't result in zero when Real Acceleration of the pushed object i
 
 
 
---
+
 <br>
 <h1>2.7. &nbsp New Concept of Force and Work</h1>
 
@@ -279,8 +281,8 @@ The Dimensional Formula for the “Energy” is as follows below:
 
 “Energy” = Newton * second = kilogram * meter / second
 
---
 
+<br>
 # 2.10. Static Mechanical Work
 
 Let's again consider the 3 cases simultaneously:
