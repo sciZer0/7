@@ -226,7 +226,7 @@ Target — Target for the given Force: Target Acceleration (meter/second²: m/s�
 
 Please pay attention that
 
-the "Target" in the formula is namely Target Acceleration associated with the given Force, but never Real Acceleration of the pushed object.
+the "Target" in the formula is namely Target Acceleration associated with the given Force, but <b>never</b> Real Acceleration of the pushed object.
 
 In my opinion,
 
@@ -250,15 +250,13 @@ W — Target Work of Organism associated with Force pushing an object (kg * m / 
 E — Energy being spent on Target Work (kg * m / s);<br>
 m — Mass of the pushed object (kg);<br>
 Target — Target for the given Force: Target Acceleration (m/s²);<br>
-t — Time of pushing the object (s).<br>
+t — Time of pushing the object (s).<br><br>
+
 
 Please pay attention that
 
-the "Target" in the formula is namely Target Acceleration associated with the given Force, but never Real Acceleration of the pushed object,
-
-and also that
-
-the formula doesn't result in zero when Real Acceleration of the pushed object is being equal to zero.
+* the "Target" in the formula is namely Target Acceleration associated with the given Force, but <b>never</b> Real Acceleration of the pushed object;
+* the formula doesn't result in zero when Real Acceleration of the pushed object is being equal to zero.
 
 
 
