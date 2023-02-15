@@ -168,7 +168,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <p align="center">
 In fact,<br>
-there are another<br> 
+there are also another<br> 
 fundamental problems.
 </p>
 
@@ -620,23 +620,27 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 
 
-<h1>CONCLUSION</h1>
+<h1>About Bitcoin</h1>
 
 Bitcoin, absolutely, isn't sound money because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-More importantly, because there isn't any pre-programmed decrease of Circulating Supply.
+And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
 
 Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws, including the awful Gini and highest inefficiency.
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or NFTs of a collection have, and which is the flexing — the ultimate way to flex.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or a set of NFTs of an art  collection have, and which is the flexing — the ultimate way to flex.
 
-*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a token proving your involvement in a unique (meaning historical) event. This is in a way the demonstration of domination, superiority.*
+*Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a thing (token) proving your involvement in a unique (meaning historical) event. This is in a way the demonstration of domination, superiority. And of course, this does not exclude making money through reselling the thing (token) to a more stupid sucker.*
 
 Probably, there is no other value in the Bitcoin blockchain but its unique status of the 1st cryptocurrency.
 
-Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins might have a more price.
+Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, it might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
-One Satoshi is like one NFT, much like a specific NFT of the collection of the Crypto Punks. 
+
+
+<h1>CONCLUSION</h1>
+
+As mentioned above, there are even more of fundamental problems than described here.
 
 Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
