@@ -116,7 +116,7 @@ The wrongness of all the official formulas for calculating Work and Energy is a 
 
 The fact was proven here: [link](https://github.com/sciZer0/7/tree/main/a).
 
-The whole wrongness about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form of Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be easily converted back to Energy (resource) – if such a back-convertation is ever possible. *And we will see this below*.
+The whole point about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form of Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be easily converted back to Energy (resource) – if such a back-convertation is ever possible. *And we will see this below*.
 
 The New Law of Conservation of Energy is:
 
