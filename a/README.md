@@ -56,7 +56,7 @@ As a result, among other things, I got the following:
 * New Formula for Work<br>
 * New Formula for Energy<br>
 * New Formula for Power<br>
-* Time is absolute<
+* Time is absolute
 
 Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, the discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
