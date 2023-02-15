@@ -107,7 +107,7 @@ But the real reason is not Gravitational Force  -- not Work of Gravitational For
 
 The real reason is Inertia. 
 
-But science absolutely fails to understand this.
+But modern science absolutely fails to understand this.
 
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
