@@ -104,7 +104,7 @@ And of course,
 <br>
 <h1>2.2. &nbsp New Law of Conservation of Energy</h1>
 
-The official law of Conservation of Energy is: 
+The current official law of Conservation of Energy is: 
 
 *Energy can neither be destroyed nor created — only converted from one form of Energy to another.*
 
@@ -116,11 +116,11 @@ The wrongness of all the official formulas for calculating Work and Energy is a 
 
 The fact was proven here: [link](https://github.com/sciZer0/7/tree/main/a).
 
-The whole point about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy – *and we will see this below*.
+The whole wrongness about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form of Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be easily converted back to Energy (resource) – if such a back-convertation is ever possible. *And we will see this below*.
 
 The New Law of Conservation of Energy is:
 
-> **In some cases, Energy can neither be destroyed nor created — only converted from one form of Energy to another, but in another cases, Energy can be destroyed or can be taken for free.**
+> **In some cases, Energy can neither be destroyed nor created by an agent  — only converted from one form of Energy to another, but in another cases, Energy can be destroyed – at least for the agent – or can be taken by the agent for free.**
 
 *We will see confirmations of the New Law of Conservation of Energy also below.*
 
@@ -269,11 +269,14 @@ Please pay attention that
 
 The magnitude of Force means the amountof Energy (resource/effort) that Organism is putting into the pushing for a second
 
-In turn, the magnitude of Work just means the amount of Energy (resource/effort) that Organism is putting into the pushing either for a second or for a certain number of seconds.
+In turn, the magnitude of Work just means the amount of Energy (resource/effort) that Organism is putting into the pushing for a certain number of seconds.
 
---
 
-## 2.9. New Unit of Measure for Work and Energy
+
+
+<br>
+<h1>2.8. &nbsp New Unit of Measure for Work and Energy</h1>
+
 
 I propose to name the new unit of measure for Work and Energy the “Energy”.
 
@@ -282,8 +285,11 @@ The Dimensional Formula for the “Energy” is as follows below:
 “Energy” = Newton * second = kilogram * meter / second
 
 
+
 <br>
-# 2.10. Static Mechanical Work
+<h1>2.9. &nbsp Static Mechanical Work</h1>
+
+
 
 Let's again consider the 3 cases simultaneously:
 
@@ -338,9 +344,14 @@ The heating-up is also a combination of pushes, because any process of heating u
 
 Importantly, there are Target Works and Non-Target Works.
 
---
 
-## 2.11. Target Works and Non-Target Works
+
+
+
+<br>
+<h1>2.10. &nbsp Target Works and Non-Target Works</h1>
+
+
 
 Target Work is the Work that is the target for Organism to do while working.
 
@@ -427,7 +438,11 @@ In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds
 
 --
 
-## 2.8. New Undertanding about Force, Work and Energy
+
+<br>
+<h1>2.11. &nbsp New Undertanding about Force, Work and Energy</h1>
+
+
 
 Force is the process where Organism, by its Hand, is pushing an outside object in a certain direction during one second, putting a certain non-zero amount of Energy (resource/effort) into the pushing.
 
