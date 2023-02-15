@@ -106,7 +106,7 @@ And of course,
 
 The current official law of Conservation of Energy is: 
 
-*Energy can neither be destroyed nor created — only converted from one form of Energy to another.*
+*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
 
 It looked like all calculations proved this law.
 
@@ -116,11 +116,9 @@ The wrongness of all the official formulas for calculating Work and Energy is a 
 
 The fact was proven here: [link](https://github.com/sciZer0/7/tree/main/a).
 
-The whole point about the law is that official science wrongly considers that Energy is only the thing that can always be converted to another form of Energy, but in reality, Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be easily converted back to Energy (resource) – if such a back-convertation is ever possible. *And we will see this below*.
-
 The New Law of Conservation of Energy is:
 
-> **In some cases, Energy can neither be destroyed nor created by an agent  — only converted from one form of Energy to another, but in another cases, Energy can be destroyed – at least for the agent – or can be taken by the agent for free.**
+> **Energy can neither be created nor destroyed — only converted from one form of Energy to another, and in some cases, Energy can be taken for free.**
 
 *We will see confirmations of the New Law of Conservation of Energy also below.*
 
