@@ -633,9 +633,11 @@ Probably, there is no other value in the Bitcoin blockchain but its unique statu
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price. Over time, it might become even more clear to everyone — earlier Bitcoins might have a more price.
 
-One Satoshi is like one NFT, much like a specific NFT of the collection of the Crypto Punks.  
+One Satoshi is like one NFT, much like a specific NFT of the collection of the Crypto Punks. 
 
-Summarizing, all the fundamental problems of current blockchains can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
+Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
+
+All the fundamental problems of the current Blockchain industry can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 Last but Not Least
 
