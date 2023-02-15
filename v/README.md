@@ -144,7 +144,7 @@ This problem comes from the fact that, for now, in the industry, there is the ma
 
 At the same time, such an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, such an approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
 Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
 
