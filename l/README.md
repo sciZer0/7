@@ -1,8 +1,11 @@
-# Open Letter to Elon Musk
+<h1 align="center">Open Letter to Elon Musk</h1>
+<br>
 
 Hello Elon!
 
 I ask you to help civilization, please do this once again.
+
+
 
 ## The point in short
 
@@ -26,9 +29,9 @@ Importantly, at the start of the process, I also discovered the existence of the
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
-Here is the main article,<br>
+Here is the main paper,<br>
 
-<b>New Discoveries Changing All Science</b><br>
+<b>Fundamental Errors in Science and New Discoveries Changing All Science</b><br>
 https://github.com/sciZer0/7/tree/main/a
 
 Although there are 2 problems, social and engineering.
