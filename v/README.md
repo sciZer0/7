@@ -135,15 +135,18 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 5</h3>
 
-Problem 5 is that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
+Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+
+This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
+
 
 **to increase more and more the number of honest nodes in the blockchain**.
 
 At the same time, such an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, this approach means that increasing overhead (inefficiency) is the goal for each of the existing blockchains.
+Actually, such an approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining extremely-decentralized and extremely-democratic.
+Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
 
 The Vote blockchain ideally solves this problem from day one.
 
