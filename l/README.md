@@ -2,17 +2,13 @@
 
 Hello Elon!
 
-I am a science enthusiast.
-
-My support to all of your efforts.
-
-Elon, I ask you to help civilization, please do this once again.
+I ask you to help civilization, please do this once again.
 
 ## The point in short
 
-All I have is logic.
+I am just a person on the globe and all I have is logic.
 
-Some time ago, just through thinking logically about well-known facts, I made new scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
+The whole thing is that some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
 Among other things as a result I got the following:
 
@@ -20,6 +16,9 @@ Among other things as a result I got the following:
 * New Formula for Work
 * New Formula for Energy
 * New Formula for Power
+* Time is always absolute
+
+
 
 Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, these discoveries directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
