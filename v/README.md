@@ -8,8 +8,10 @@ Everything is discussable
 <br>
 
 <p align="right"><b>
-The Ethereum blockchain<br>
-is doomed by design<br>
+Each blockchain
+existing in 2023<br>
+is doomed
+by design<br>
 </b></p>
 <br>
 
