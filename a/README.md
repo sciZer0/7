@@ -166,7 +166,7 @@ What about official science?
 
 In my opinion, modern science is a fundamentally illogical/wrong thing taken on faith and the scientific system itself is exactly a religious sect.
 
-Specifically, the entire scientific system, because it is exactly a religious sect, is a fully-closed one. The entrance in the system for any new person is ONLY possible on recommendations of members of the religious sect. But receiving those "needed" recommendations (endorsements) is absolutely impossible for any new person when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+Specifically, the entire scientific system, because of being exactly a religious sect, is a fully-closed one. The entrance in the system for any new person is ONLY possible on recommendations of members of the religious sect. But receiving those "needed" recommendations (endorsements) is absolutely impossible for any new person when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, – importantly, and this is always so without allowing any open public discussion.
 
