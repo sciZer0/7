@@ -642,7 +642,7 @@ And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't 
 
 Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws, including the awful Gini and highest inefficiency.
 
-The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, the Mona Lisa painting or a set of NFTs of an art  collection have, and which is the flexing — the ultimate way to flex.
+The whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of an art collection have, and which is the flexing — the ultimate way for people to flex.
 
 *Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you may do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a thing (token) proving your involvement in a unique (meaning historical) event. This is in a way the demonstration of domination, superiority. And of course, this does not exclude making money through reselling the thing (token) to another one.*
 
