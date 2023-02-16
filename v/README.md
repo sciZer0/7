@@ -658,7 +658,7 @@ As mentioned above, there are even more of fundamental problems than described h
 
 Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-All the fundamental problems of the current Blockchain industry can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
+All the fundamental problems of the blockchain industry can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 Last but Not Least
 
