@@ -621,7 +621,15 @@ Eventually, there might probably be people who are searching for the creators el
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
+<h1>About NFTs</h1>
 
+NFTs are here to stay.
+
+NFTs will probable be used for the 3 main cases:
+
+1. a main way for creators (incl. singers, writers) to monetize their works
+2. a main way for states to organize their works
+3. a main way for people to flex (more detail below)
 
 
 
