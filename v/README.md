@@ -11,7 +11,7 @@ Everything is discussable
 Probably,<br> 
 each blockchain<br>
 existing in 2023 is<br>
-doomed by design<br>
+doomed by its design<br>
 </b></p>
 <br>
 
