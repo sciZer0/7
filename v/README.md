@@ -652,7 +652,7 @@ Probably, there is no other value in the Bitcoin blockchain but its unique (hist
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this thing might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
-
+You might re-read this chapter every time when the Bitcoin price goes up.
 
 <h1>CONCLUSION</h1>
 
