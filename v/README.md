@@ -141,12 +141,13 @@ Problem 5 is that increasing the inefficiency (overhead) is the goal for each of
 
 This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
+**the more the blockchain's market capitalization becomes the more of honest nodes must be added**.
 
-**to increase more and more the number of honest nodes in the blockchain**.
+According to this logic, a blockchain with a really huge market capitalization must always strive to have lots of lots of honest nodes.
 
-At the same time, such an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
+At the same time, an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+Actually, the approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
 Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
 
