@@ -132,8 +132,6 @@ There is a lot of other examples.
 
 Importantly, this possibility to take free Energy isn’t new. 
 
-
-
 *We will see confirmations of the New Law of Conservation of Energy also below.*
 
 Importantly, 
