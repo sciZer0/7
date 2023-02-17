@@ -136,13 +136,13 @@ Say, every second your organism is spending a certain amount of Energy. Let’s 
 
 In order to understand how big is this Energy that your organism evey second is taking for free, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
 
-The problem with Energy that a human’s organism takes from breathing is just that the organism cannot store this Energy unlike that Energy that the organism takes from food.
+One of the problems about Energy that a human’s organism takes from breathing is that the organism cannot store this Energy unlike that Energy that the organism takes from food.
 
-Importantly, the possibility to take free Energy isn’t new. 
+Importantly, the possibility itself to take free Energy isn’t new. 
 
 *We will see confirmations of the New Law of Conservation of Energy below.*
 
-Importantly, 
+Also importantly, 
 
 * there are Target Works and Non-Target Works;
 
