@@ -130,7 +130,7 @@ Say, every second your organism is spending a certain amount of Energy. Let’s 
 
 This split can be 10% and 90%, 5% and 95%, or other, I just don't know exactly.
 
-In order to try to understand how big is this Energy that your organism evey second is taking for free from breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
+In order to try to understand how big is this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
 
 There are the 2 problems about Energy that a human’s organism takes for free from breathing:
 
