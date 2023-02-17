@@ -155,9 +155,9 @@ Also importantly,
 
 * there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
-* some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
+* some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – can work with an efficiency of more than 100%; 
 
-For example, an Electromagnet connected to an Electrical Source can additionally take in free Energy from the surrounding space and can really work with an efficiency of more than 100%
+For example, an Electromagnet connected to an Electrical Source can additionally take in free Energy from the surrounding space and can work with an efficiency of more than 100%
 
 *More on this all below.*
 
