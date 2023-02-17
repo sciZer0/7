@@ -145,6 +145,8 @@ There are the 2 problems about Energy that a human’s organism takes for free f
 
 Just think about the fact that a regular human has to work during their life to have food which is just a very small share of Energy needed every second to live.
 
+Moreover, in a wide sense, the whole world's profit is only possible because we people can take free Energy (in various forms), otherwise this would be a zero-sum game.
+
 Very importantly, the possibility itself to take free Energy isn’t new. 
 
 *We will see confirmations of the New Law of Conservation of Energy below.*
