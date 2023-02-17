@@ -102,7 +102,7 @@ And of course,
 
 
 <br>
-<h1>2.2. &nbsp New Law of Conservation of Energy</h1>
+<h1>2.2. &nbsp New Law of Conservation of Energy & Free Energy</h1>
 
 The current official law of Conservation of Energy is: 
 
@@ -130,9 +130,17 @@ In this case, the solar panel is just a tool to take free Energy from the enviro
 
 There is a lot of other examples.
 
-Importantly, this possibility to take free Energy isn’t new. 
+For example, when you breathe in the air you also are taking free Energy from the environment — from the surrounding space — from the Universe. 
 
-*We will see confirmations of the New Law of Conservation of Energy also below.*
+Say, every second your organism is spending a certain amount of Energy. Let’s take this amount as 100%. The thing is that about just 10% of this Energy your organism is taking from food (which might be not for free). And about 90% of this Energy your organism is taking for free -  through breathing.
+
+In order to understand how big is this Energy that your organism evey second is taking for free, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
+
+The problem with Energy that a human’s organism takes from breathing is just that the organism cannot store this Energy unlike that Energy that the organism takes from food.
+
+Importantly, the possibility to take free Energy isn’t new. 
+
+*We will see confirmations of the New Law of Conservation of Energy below.*
 
 Importantly, 
 
@@ -140,7 +148,7 @@ Importantly,
 
 * there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
-* some devices (for example, <b>an Electromagnet connected to an electrical source</b>) – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
+* some devices (one of examples is <b>an Electromagnet connected to an electrical source</b>) – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
 
 *More on this all below.*
 
