@@ -132,7 +132,7 @@ This split can be 10% and 90%, 5% and 95%, or other, I just don't know exactly.
 
 In order to try to understand how big is this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
 
-There are the 2 problems about Energy that a human’s organism takes for free from breathing:
+There are the 2 problems with Energy that a human’s organism takes for free through breathing:
 
 * the organism cannot store this Energy unlike that Energy that the organism takes from food
 * some organs are arranged to mostly take Energy generated only from food.
@@ -152,8 +152,6 @@ Very importantly, the possibility itself to take free Energy isn’t new.
 *We will see confirmations of the New Law of Conservation of Energy below.*
 
 Also importantly, 
-
-* there are Target Works and Non-Target Works;
 
 * there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
