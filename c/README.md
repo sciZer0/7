@@ -122,11 +122,11 @@ The New Law of Conservation of Energy is:
 
 Importantly, this possibility itself to take Energy for free isn’t new per se.
 
-This is exactly the thing we already are doing, when using the sun, wind, hydro and thermal power stations, for example. 
+This is exactly the thing we already are doing when using the sun, wind, hydro or thermal power stations, for example. 
 
-At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us free Energy.
+At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us completely free Energy.
 
-In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the Universe. At some time point, this tool can fully pay for itself and further, every moment next, can give us completely free Energy.
+In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the Universe. At some time point, this tool can fully pay for itself and further, every moment next, can give us completely free Energy.
 
 There is a lot of other examples.
 
@@ -148,7 +148,9 @@ Also importantly,
 
 * there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
 
-* some devices (one of examples is <b>an Electromagnet connected to an electrical source</b>) – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
+* some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
+
+For example, an Electromagnet connected to an electrical source can additionally take in free Energy from the surrounding space and really can work with an efficiency of more than 100%
 
 *More on this all below.*
 
