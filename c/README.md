@@ -122,7 +122,7 @@ The New Law of Conservation of Energy is:
 
 Importantly, this possibility itself to take Energy for free isn’t new per se.
 
-We take free Energy in many cases, we just don't understand it.
+We take free Energy in many cases, we just don't understand this.
 
 For example, when you breathe in the air you are taking free Energy from the environment — from the surrounding space — from the Universe. 
 
