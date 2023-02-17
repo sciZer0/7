@@ -130,7 +130,7 @@ In this case, the solar panel is just a tool to take free Energy from the enviro
 
 There is a lot of other examples.
 
-Importantly, this possibility itself to take free Energy isn’t new per se. 
+Importantly, this possibility to take free Energy isn’t new. 
 
 
 
