@@ -40,7 +40,7 @@ All these fundamental errors together result in the endless series of errors in 
 *NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER*
 
 2.1. Work and Energy in the Most General Sense<br>
-2.2. New Law of Conservation of Energy & Free Energy<<br>
+2.2. New Law of Conservation of Energy & Free Energy<br>
 2.3. Concept of Organism and its Hand<br>
 2.4. Target for each Force<br>
 2.5. New Formula for Force<br>
