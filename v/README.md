@@ -652,6 +652,8 @@ Probably, there is no other value in the Bitcoin blockchain but its unique (hist
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this thing might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
+Probably, one Satoshi is like one NFT, much like one NFT of an art collection. 
+
 By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.
 
 <h1>CONCLUSION</h1>
