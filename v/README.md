@@ -625,11 +625,11 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 NFTs are here to stay.
 
-NFTs will probably be used for the 3 main cases:
+In about 50 years, NFTs will probably be used for the 3 main cases:
 
-1. a way for creators (incl. singers, writers) to monetize their works
-2. a way for entities (incl. game companies, universities, states) to organize their works
-3. a way for people to flex (more on it below)
+1. a main way for creators (incl. singers, writers) to monetize their works
+2. a main way for entities (incl. companies, universities, states) to organize their works
+3. a main way for people to flex (more on it below)
 
 
 
