@@ -627,9 +627,9 @@ NFTs are here to stay.
 
 NFTs will probably be used for the 3 main cases:
 
-1. a main way for creators (incl. singers, writers) to monetize their works
-2. a main way for entities (incl. states, game companies) to organize their works
-3. a main way for people to flex (more on it below)
+1. a way for creators (incl. singers, writers) to monetize their works
+2. a way for entities (incl. game companies, universities, states) to organize their works
+3. a way for people to flex (more on it below)
 
 
 
@@ -652,7 +652,7 @@ Probably, there is no other value in the Bitcoin blockchain but its unique (hist
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this thing might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
-You might re-read this chapter every time when the Bitcoin price goes up.
+By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.
 
 <h1>CONCLUSION</h1>
 
