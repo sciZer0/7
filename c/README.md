@@ -143,6 +143,8 @@ There are the 2 problems about Energy that a human’s organism takes for free f
 * the organism cannot store this Energy unlike that Energy that the organism takes from food
 * some organs are arranged to mostly take Energy generated only from food.
 
+Just think about the fact that a regular human has to work during their life to have food which is just a very small share of Energy needed every second to live.
+
 Very importantly, the possibility itself to take free Energy isn’t new. 
 
 *We will see confirmations of the New Law of Conservation of Energy below.*
@@ -155,7 +157,7 @@ Also importantly,
 
 * some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – really can work with an efficiency of more than 100%; 
 
-For example, an Electromagnet connected to an electrical source can additionally take in free Energy from the surrounding space and can really work with an efficiency of more than 100%
+For example, an Electromagnet connected to an Electrical Source can additionally take in free Energy from the surrounding space and can really work with an efficiency of more than 100%
 
 *More on this all below.*
 
