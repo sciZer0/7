@@ -126,7 +126,7 @@ This is exactly the thing we already are doing, when using the sun, wind, hydro 
 
 At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us free Energy.
 
-In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the universe. At some time point, a solar panel can fully pay for itself and further, every moment next, can give us free Energy.
+In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the Universe. At some time point, this tool can fully pay for itself and further, every moment next, can give us completely free Energy.
 
 There is a lot of other examples.
 
