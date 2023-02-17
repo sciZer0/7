@@ -120,6 +120,20 @@ The New Law of Conservation of Energy is:
 
 > **Energy can neither be created nor destroyed — only converted from one form of Energy to another, and in some cases, Energy can be taken for free.**
 
+Importantly, this possibility itself to take Energy for free isn’t new per se.
+
+This is exactly the thing we already are doing, when using the sun, wind, hydro and thermal power stations, for example. 
+
+At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us free Energy.
+
+In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the universe. At some time point, a solar panel can fully pay for itself and further, every moment next, can give us free Energy.
+
+There is a lot of other examples.
+
+Importantly, this possibility itself to take free Energy isn’t new per se. 
+
+
+
 *We will see confirmations of the New Law of Conservation of Energy also below.*
 
 Importantly, 
