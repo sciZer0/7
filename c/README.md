@@ -122,30 +122,30 @@ The New Law of Conservation of Energy is:
 
 Importantly, this possibility itself to take Energy for free isn’t new per se.
 
-This is exactly the thing we already are doing when using the sun, wind, hydro or thermal power stations, for example. 
+We take free Energy in many cases, we just don't understand it.
 
-At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us completely free Energy.
-
-In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the Universe. At some time point, this tool can fully pay for itself and further, every moment next, can give us completely free Energy.
-
-There is a lot of other examples.
-
-For example, when you breathe in the air you also are taking free Energy from the environment — from the surrounding space — from the Universe. 
+For example, when you breathe in the air you are taking free Energy from the environment — from the surrounding space — from the Universe. 
 
 Say, every second your organism is spending a certain amount of Energy. Let’s take this amount as 100%. The thing is that about just 10% of this Energy your organism is taking from food (which might be not for free). And about 90% of this Energy your organism is taking for free -  through breathing.
 
 This split can be 10% and 90%, 5% and 95%, or other, I just don't know exactly.
 
-In order to understand how big is this Energy that your organism evey second is taking for free from breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
+In order to try to understand how big is this Energy that your organism evey second is taking for free from breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
 
 There are the 2 problems about Energy that a human’s organism takes for free from breathing:
 
 * the organism cannot store this Energy unlike that Energy that the organism takes from food
 * some organs are arranged to mostly take Energy generated only from food.
 
-Just think about the fact that a regular human has to work during their life to have food which is just a very small share of Energy needed every second to live.
+We also take free Energ when we use the sun, wind, hydro or thermal power stations, for example.
 
-Moreover, in a wide sense, the whole world's profit is only possible because we people can take free Energy (in various forms), otherwise this would be a zero-sum game.
+At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us completely free Energy.
+
+In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the Universe. At some time point, this tool can fully pay for itself and further, every moment next, can give us completely free Energy.
+
+And there is a lot of other examples.
+
+Moreover, in a wide sense, the whole world's profit is only possible because we people can take free Energy in various forms, otherwise this would be a zero-sum game.
 
 Very importantly, the possibility itself to take free Energy isn’t new. 
 
