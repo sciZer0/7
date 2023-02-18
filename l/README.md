@@ -106,4 +106,4 @@ Elon please conduct your own research and investigation (I will answer all quest
 
 Help civilization.
 
-theOlegGor@gmail.com
+ thescizer0@gmail.com
