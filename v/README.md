@@ -438,8 +438,13 @@ Importantly, even 3 honest nodes (validators) are enough for such a Solana-type 
 
 There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely sustainable, meaning, extremely hard, at best impossible, to stop.
 
+<i><b>
+Importantly, increasing decentralization (increasing the number of nodes) all time  shouldn’t  be the goal, because decentralization is just a tool for a blockchain to be unstoppable. So unstoppableness is the goal.
+<br><br>
+At the same time, the main principle of efficiency is that you must never do more than enough – and exactly this way each blockchain must work.
+</b></i>
 
-Actually, these 150 extremely-decentralized (extremely-autonomous) Validators – which are extremely motivated to work honestly and which are selected/rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
+Actually, these 150 sufficiently-decentralized (sufficiently-autonomous) Validators – which are extremely motivated to work honestly and which are selected and rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
 <br><br>
 These 150 Validators might be enough and to spare.
 <br><br>
