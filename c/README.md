@@ -122,7 +122,7 @@ The New Law of Conservation of Energy is:
 
 Importantly, this possibility itself to take Energy for free isn’t new per se.
 
-We take free Energy in many cases, we just don't understand this.
+We take free Energy in many cases, people just don't understand this.
 
 For example, when you breathe in the air you are taking free Energy from the environment — from the surrounding space — from the Universe. 
 
@@ -130,12 +130,14 @@ Say, every second your organism is spending a certain amount of Energy. Let’s 
 
 This split can be 10% and 90%, 5% and 95%, or other, I just don't know exactly.
 
-In order to try to understand how big is this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
+In order to try to understand how big is the share of this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
 
-There are the 2 problems with Energy that a human’s organism takes for free through breathing:
+There are although 2 problems with Energy that a human’s organism takes for free through breathing:
 
 * the organism cannot store this Energy unlike that Energy that the organism takes from food
 * some organs are arranged to mostly take Energy generated only from food.
+
+You just have to understand that when breathing a human takes Energy for free.
 
 We also take free Energ when we use the sun, wind, hydro or thermal power stations, for example.
 
@@ -153,11 +155,11 @@ Very importantly, the possibility itself to take free Energy isn’t new.
 
 Also importantly, 
 
-* there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, they are Energy-Non-Isolated;
+* there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, these systems are Energy-Non-Isolated;
 
-* some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can for free take in Energy from the surrounding space – can work with an efficiency of more than 100%; 
+* some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can, for free, take in Energy from the surrounding space – can work with an efficiency of more than 100%; 
 
-For example, an Electromagnet connected to an Electrical Source can additionally take in free Energy from the surrounding space and can work with an efficiency of more than 100%
+For example, an Electromagnet connected to an Electrical Source can additionally take in free Energy from the surrounding space and through this can work with an efficiency of more than 100%.
 
 *More on this all below.*
 
