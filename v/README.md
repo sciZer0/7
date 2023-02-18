@@ -282,7 +282,8 @@ At best, such an extremely-deflationary nature of tokenomics should result in a 
 
 The blockchain’s democratic system consists of the following elements:
 
-* Automatic & Non-Automatic Proposals (inbuilt)
+* Automatic Proposals (inbuilt)
+* Non-Automatic Proposals (inbuilt)
 * Competitive Quadratic Voting (inbuilt)
 * Hyde Park
  
