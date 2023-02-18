@@ -521,8 +521,6 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
 
-Each voting on a proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
-
 The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 > <b>The best decisions must overcome the Voting Power of rivals</b>.
@@ -575,6 +573,12 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 * proposal to appoint a person (possibly anonymous) to the position of Contributor
 * proposal to dismiss a person (possibly anonymous) from the position of Contributor
+
+* <b>special proposal</b> to instantly dismiss a person (possibly anonymous) from the position of Contributor
+
+Voting on a regular proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
+
+Voting on a special proposal lasts 2 hours (9,000 slots, each Slot is 0.4 second).
 
 <p><i><b>Any suggestions on Proposals and voting conditions are welcome.</b></i></p>
 
@@ -638,20 +642,22 @@ In about 50 years, NFTs will probably be used for the 3 main cases:
 
 1. a main way for creators (incl. singers, writers) to monetize their works
 2. a main way for entities (incl. companies, universities, states) to organize their works
-3. a main way for people to flex (more on it below)
+3. a main way for people to flex (a bit more on it below)
 
 
 
 
 <h1>About Bitcoin</h1>
 
-Bitcoin, absolutely, isn't sound money because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+Bitcoin now isn't really a fixed-supply currency because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
 
 Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws, including the awful Gini and highest inefficiency.
 
-Also, most bitcoin trading takes place on centralized exchanges, which makes it all — according to the main point of blockchain technology — absurd.
+Lightning requires running a light node from a user or putting trust in, which won't work or is absurd, respectively.
+
+Also, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
 
 Probably, the whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of an art collection have, and which is the flexing — the ultimate way for people to flex.
 
@@ -680,6 +686,6 @@ Last but Not Least
 There is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
 
 <p>&nbsp</p>
-This is just a proposal which might be discussed. The proven fact is here:<br>
+This is just an idea which might be discussed. The proven fact is here:<br>
 https://github.com/sciZer0/7/tree/main/a
 <p>&nbsp</p>
