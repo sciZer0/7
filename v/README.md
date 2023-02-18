@@ -676,4 +676,6 @@ Last but Not Least
 There is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
 
 <p>&nbsp</p>
+This is just a proposal which might be discussed. The proven fact is here:<br>
+https://github.com/sciZer0/7/tree/main/a
 <p>&nbsp</p>
