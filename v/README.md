@@ -430,12 +430,11 @@ The hypothesis/idea is that
 
 * <b>then the wide majority of (or even all) Validators in the list will work honestly</b>, 
 <b>
-and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, and replace it with a random number selection algorithm — to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, — and replace it with a random number selection algorithm to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 </b>
 <br><br>
 
-
-Importantly, even say 3 honest nodes (validators) are enough for the Vote (Solana) blockchain to function, maintaining the bandwidth of 50,000 TPS. So a 50 fold margin of safety (150 Validators) might be  the sufficient condition for the blockchain to be considered sustainable.
+Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this 50 fold margin of safety (150 Validators) might be  the sufficient condition for the blockchain to be considered sustainable.
 
 There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely sustainable, meaning, extremely hard, at best impossible, to stop.
 
