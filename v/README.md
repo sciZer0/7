@@ -418,7 +418,7 @@ The hypothesis/idea is that
 
 * when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the extremely generous Automated Donations (~ <b>$3 million annually</b>) just for working honestly, and
+* when each Validator in the list is receiving the extremely generous Automated Donations (~ <b>$3 million per year</b>) just for working honestly, and
 
 * when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
@@ -478,7 +478,7 @@ From the start, on the Vote Blockchain, there are 150 positions of Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each Contributor receives the extremely generous Automated Donations from Voters (~ $3 million annually).
+Each Contributor receives the extremely generous Automated Donations from Voters (~ $3 million per year).
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -491,7 +491,7 @@ Each applicant must find a way to prove their qualification/usefulness for the V
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
-*Also, some number of Contributors (say 10) might be entities (Public Addresses with multisigs) for funding some public/common goods.*
+*Some number of Contributors (say 10) might be entities (Public Addresses with multisigs) for funding some public/common goods, including coordinating protocol maintenance and upgrades, and funding documentation and research.*
 
 *The first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
@@ -653,11 +653,11 @@ Bitcoin now isn't really a fixed-supply currency because the Bitcoin blockchain 
 
 And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
 
-Plus, additionally, the Bitcoin blockchain has the irremovable fundamental flaws, including the awful Gini and highest inefficiency.
+Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the awful Gini and highest inefficiency. 
 
-Lightning requires running a light node from a user or putting trust in, which won't work or is absurd, respectively.
+Importantly, lightning requires from a regular user either running a light node or putting trust in, which respectively either won't work or — according to the main point of blockchain technology — is absurd.
 
-Also, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
+Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
 Probably, the whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of an art collection have, and which is the flexing — the ultimate way for people to flex.
 
@@ -686,6 +686,6 @@ Last but Not Least
 There is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
 
 <p>&nbsp</p>
-This is just an idea which might be discussed. The proven fact is here:<br>
+This is just an idea which might be discussed. The great fact is here:<br>
 https://github.com/sciZer0/7/tree/main/a
 <p>&nbsp</p>
