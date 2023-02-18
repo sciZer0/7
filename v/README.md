@@ -478,22 +478,24 @@ From the start, on the Vote Blockchain, there are 150 positions of Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each Contributor, in equal size - if compared to other Contributors, receives the extremely generous Automated Donations (~ $3 million annually) from Voters.
+Each Contributor receives the extremely generous Automated Donations from Voters (~ $3 million annually).
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
-* as a Validator, and 
-* as a Developer.
+* as a Validator (node running)
+* as a Developer (protocol maintenance and upgrades).
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each applicant must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Contributor and can use Hyde Park for this.
+Each applicant must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Contributor and can use <b>Hyde Park</b> for this.
 
-Each person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
+At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
+
+*Also, some number of Contributors (say 10) might be entities (Public Addresses with multisigs) for funding some public/common goods.*
 
 *The first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
-*Some Contributors might also be just Public Addresses with multisigs for funding some public/common goods.*
+
 
 
 
@@ -508,7 +510,7 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  – either increase or decrease –  through Competitive Quadratic Voting.
+At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  through democratic voting (Competitive Quadratic Voting).
 
 
 
@@ -523,7 +525,7 @@ Each voting on a proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 secon
 
 The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
-> The best decisions must overcome the Voting Power of rivals.
+> <b>The best decisions must overcome the Voting Power of rivals</b>.
 
 For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
