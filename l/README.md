@@ -104,6 +104,6 @@ These discoveries highly need to be commonly known.
 
 Elon please conduct your own research and investigation (I will answer all questions and am ready for any open public discussion), help announce the discoveries to advance all science on the planet and cardinally accelerate the advent of sustainable Energy on Earth and Mars.
 
-Help civilization.
+Please help civilization.
 
  thescizer0@gmail.com
