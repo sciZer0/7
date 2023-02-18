@@ -78,13 +78,13 @@ So,
 
 > **Organism is any system that can do Work.**
 
-In my opinion, in the most general sense,
+The New Definition of Work in the most general sense is:
 
-> **Work is any activity of Organism that is spending Energy (some resource).**
+> **Work is any activity of Organism that is spending Energy (resource).**
 
 In other words,
 
-Work is any activity that is spending Energy (some resource).
+Work is any activity that is spending Energy (resource).
 
 On the other hand, 
 
