@@ -94,9 +94,9 @@ Problem 2 follows from Problem 1.
 
 Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
 
-For reference,
+*For reference,*
 
-Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.
+*Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.*
 
 Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
 
@@ -655,13 +655,13 @@ And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't 
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the awful Gini and highest inefficiency. 
 
-Importantly, lightning requires from a regular user either running a light node or putting trust in, which respectively either won't work or — according to the main point of blockchain technology — is absurd.
+Importantly, lightning requires the regular user to either run a lightning node or trust, which respectively either won't work or — according to the main point of blockchain technology — is absurd.
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
 Probably, the whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of an art collection have, and which is the flexing — the ultimate way for people to flex.
 
-<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a thing (token) proving your involvement with a unique (sometimes historical) event. This is a way for people to demonstrate their domination, superiority. And of course, this does not exclude making money through reselling the thing (token) to another one.</b></i>
+<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other ones since you can do (have) the thing everyone else cannot do (have). For example, this may happen through spending significant money on a thing (token) proving your involvement with a unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And of course, this does not exclude making money through reselling the thing (token) to another one.</b></i>
 
 Probably, there is no other value in the Bitcoin blockchain but its unique (historical) status of the 1st cryptocurrency.
 
