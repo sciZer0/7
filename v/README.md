@@ -270,10 +270,10 @@ Gas Fees are paid in the Vote token (in Hands).
 
 All Gas fees (100%) are burned. 
 
-This all results in decreasing the Vote token's Circulating Supply.
+This all results in decreasing the Vote token's Circulating Supply from day one.
 
 <i><b>
-Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
+Decreasing Circulating Supply (incl. stopping the printing) is the impossible thing for each of the existing blockchains.
 
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
