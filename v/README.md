@@ -661,7 +661,7 @@ Importantly, lightning requires the regular user to either run a lightning node 
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
-Probably, the whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of an art collection have, and which is the flexing — the ultimate way for people to flex.
+Probably, the whole point of Bitcoin as a blockchain, thanks to its unique status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can do (have) the thing other people cannot do (have). For example, this may happen through spending significant money on a thing (token) proving your involvement with a unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And of course, this does not exclude making money through reselling the thing (token) to another one.</b></i>
 
