@@ -95,9 +95,9 @@ About patenting EEMG
 
 Importantly, I don’t want to patent EEMG. I just want my discoveries to get the world’s attention and then I will share my knowledge about making EEMG with the world for free. This way no one will have an advantage over others. All people (incl. all businesses) will be in equal conditions to freely start making myriads of EEMGs and so civilization will get the powerful push for the accelerated progress.
 
-______
+_
 
-Now I send the information about the discoveries, in addition to physics scientists, to scientists from other fields and plus to this, opinion leaders (including writers, publicists, journalists, bloggers).
+Now I send the information about the discoveries, in addition to physics scientists, to scientists from other fields and plus opinion leaders (including writers, publicists, journalists, bloggers).
 
 These discoveries highly need to be commonly known.
 
