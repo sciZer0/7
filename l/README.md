@@ -81,7 +81,7 @@ EEMG is the Next-Generation Generator of Electrical Energy.
   <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/G.png"/>
 </p>
 
-<i>In my opinion, today all existing Electric Generators and Electric Motors (which have Electromagnets and work on the principle of Electromagnetic Induction) have one common construction mistake that does not allow them to work with an efficiency of more than 100%.</i>
+<i>Today, all existing Electric Generators and Electric Motors (which have Electromagnets and work on the principle of Electromagnetic Induction) have one common construction mistake that does not allow them to work with an efficiency of more than 100%.</i>
 
 EEMG is the Next Generation Electric Generator that works with an efficiency of much more than 100%.
 
