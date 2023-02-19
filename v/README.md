@@ -410,45 +410,43 @@ Hypothesis/Idea
 
 The hypothesis/idea is that 
 
-* when the list of all current Validators (possibly anonymous) is known (Solana's approach), and
+1. when the list of all current Validators (possibly anonymous) is known (Solana's approach), and
 
-* when the list is limited to 150 Validators, and
+2.  when the list is limited to 150 Validators, and
 
-* when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
+3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
-* when each Validator in the list doesn't need to have any money and put it as the stake, and 
+4. when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-* when each Validator in the list is receiving the extremely generous Automated Donations (~ <b>$3 million per year</b>) just for working honestly, and
+5. when each Validator in the list is receiving the extremely generous Automated Donations (~ <b>$3 million per year</b>) just for working honestly, and
 
-* when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
+6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
-* when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and replaced with a Validator from the waiting list, and
+7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and replaced with a Validator from the waiting list, and
 
-* when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
+8. when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
-* <b>then we might consider there is very huge incentives for each Validator to work honestly</b>, and 
+9. <b>then we might consider there is very huge incentives for each Validator to work honestly</b>, and 
 
-* <b>then the wide majority of (or even all) Validators in the list will work honestly</b>, 
+<b>then the wide majority of (or even all) Validators in the list will work honestly.</b> 
 <b>
-and we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, — and replace it with a random number selection algorithm to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+And we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, — and replace it with a random number selection algorithm to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 </b>
 <br><br>
 
-Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this 50 fold margin of safety (150 Validators) might be  the sufficient condition for the blockchain to be considered sustainable.
+Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this 50 fold margin of safety (of 150 Validators) might be  the sufficient condition for the blockchain to be considered sustainable.
 
-There are about 195 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely sustainable, meaning, extremely hard, at best impossible, to stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely-sustainable, meaning, extremely hard, at best impossible, to stop.
 
 <i><b>
-Importantly, increasing decentralization (increasing the number of nodes) all time  shouldn’t  be the goal, because decentralization is just a tool for a blockchain to be unstoppable. So unstoppableness is the goal.
+It is important to keep in mind, increasing decentralization (increasing the number of nodes) all time  shouldn’t  be the goal, because decentralization is just a tool for a blockchain to be unstoppable. So unstoppableness is the goal.
 <br><br>
 At the same time, the main principle of efficiency is that you must never do more than enough – and exactly this way each blockchain must work.
 </b></i>
 
-Actually, these 150 sufficiently-decentralized (sufficiently-autonomous) Validators – which are extremely motivated to work honestly and which are selected and rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
+Actually, these 150 extremely-decentralized (extremely-autonomous) Validators – which are extremely motivated to work honestly and which are selected and rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
 <br><br>
-These 150 Validators might be enough and to spare.
-<br><br>
-As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than the Bitcoin blockchain.
+As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than, for example, the Bitcoin blockchain.
 <br><br>
 
 
@@ -472,9 +470,13 @@ So we can surely reach true-decentralization of the extremely-high level for the
 
 <h1>6 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain.
+Contributors are people who may be contributing to the Vote blockchain and receive the extremely generous Automated Donations from Voters.
 
-From the start, on the Vote Blockchain, there are 150 positions of Contributors.
+On the Vote Blockchain, there are the minimum and maximum for the number of positions of Contributor.
+
+The minimum is 150 positions.
+
+At the start, the maximum is 160 positions and this number can be changed through democratic voting (Competitive Quadratic Voting).
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
@@ -491,7 +493,7 @@ Each applicant must find a way to prove their qualification/usefulness for the V
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
-*Some number of Contributors (say 10) might be entities (Public Addresses with multisigs) for funding some public/common goods, including coordinating protocol maintenance and upgrades, and funding documentation and research.*
+*Some number of positions of Contributor (say 10) might be taken by specific entities (Public Addresses with multisigs) for funding some public/common goods, including coordinating protocol maintenance and upgrades, and funding documentation and research.*
 
 *The first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
@@ -679,11 +681,13 @@ Importantly, each blockchain existing in 2023 is fundamentally unable to solve t
 
 All the fundamental problems of the blockchain industry can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
-And this is just a matter of time that some initiative group of people will create a blockchain of that sort.
+And the closest targets might be free transactions and free exchanges.
+
+This is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
 Last but Not Least
 
-There is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
+In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>.
 
 <p>&nbsp</p>
 This is just an idea which might be discussed. The great fact is here:<br>
