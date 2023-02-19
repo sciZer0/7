@@ -690,6 +690,6 @@ Last but Not Least
 In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>, not to mention Layer 2 solutions.
 
 <p>&nbsp</p>
-This is just an idea which might be discussed. The great fact is here:<br>
+This is just an idea which might be discussed. The great facts are here:<br>
 https://github.com/sciZer0/7/tree/main/a
 <p>&nbsp</p>
