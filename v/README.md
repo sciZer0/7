@@ -205,13 +205,13 @@ the fundamental problems.
  
 <p>&nbsp</p>
 
-<h2 align="center">
+<h3 align="center">
 Meet the FIRST<br>
 EXTREMELY-DECENTRALIZED<br>
 EXTREMELY-SUSTAINABLE<br>
 & EXTREMELY-EFFICIENT<br> 
 BLOCKCHAIN</b>
-</h2>
+</h3>
 <p>&nbsp</p>
 
 
