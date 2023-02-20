@@ -54,7 +54,7 @@ In an Inflationary Economy, there is nothing new.
 
 All that the Inflationary Economy (endless emissions of standard tokens) can give us are bubbles which will inevitably burst out.
 
-The Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. Although, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+The Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 Moreover, the greatest values in the Universe are not fixed-supply tokens, but decreasing-supply tokens.
 
