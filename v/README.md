@@ -46,7 +46,7 @@ The main point of blockchain technology is to allow people to build permissionle
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make the systems as fast and efficient as possible.
+On the other hand, the main task of developers is to build/make such systems as fast and efficient as possible.
 
 <b>About the Inflationary Economy</b>
 
@@ -54,7 +54,7 @@ In an Inflationary Economy, there is nothing new.
 
 All that the Inflationary Economy (endless emissions of standard tokens) can give us are bubbles which will inevitably burst out.
 
-The Bitcoin token is allegedly considered a fixed-supply token. Although, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+The Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. Although, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 Moreover, the greatest values in the Universe are not fixed-supply tokens, but decreasing-supply tokens.
 
@@ -67,7 +67,7 @@ This paper proposes an idea of a new blockchain which from day one is simultaneo
 * extremely-sustainable
 * extremely-efficient
 * with 50,000 TPS
-* with Decreasing Circulating Supply
+* with a Decreasing-Supply Token
 * with the ideal Gini coefficient
 * with 1 million users
 
@@ -87,7 +87,7 @@ Blockchains</h2>
 
 <h3 align="center">Problem 1</h3>
 
-Problem 1 is that we (people) build blockchains the same way as we built states: 
+Problem 1 is that we — people — build blockchains the same way as we built states: 
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
@@ -239,7 +239,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 * extremely-sustainable
 * extremely-efficient
 * with 50,000 TPS
-* with Decreasing Circulating Supply
+* with a Decreasing-Supply Token
 * with the ideal Gini coefficient
 * with 1 million users
 <p>&nbsp</p>
@@ -292,7 +292,7 @@ All Gas fees (100%) are burned.
 This all results in decreasing the Vote token's Circulating Supply from day one.
 
 <i><b>
-Decreasing Circulating Supply (incl. stopping the printing) is the impossible thing for each of the existing blockchains.
+Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
 
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
