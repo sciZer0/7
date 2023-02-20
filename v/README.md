@@ -682,7 +682,7 @@ And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't 
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and highest inefficiency. As Vitalik said about the Gini of Bitcoin, — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b>
 
-Importantly, lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
+The allegedly incredibly promising Lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
