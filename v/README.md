@@ -52,7 +52,7 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 In an Inflationary Economy, there is nothing new.
 
-All that the Inflationary Economy (endless emissions of standard tokens) can give us are bubbles, each of which will inevitably burst.
+All that the Inflationary Economy (endless emissions of regular tokens) can give us are bubbles, each of which will inevitably burst.
 
 The Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
