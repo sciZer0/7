@@ -712,7 +712,7 @@ And this is just a matter of time that some initiative group of people will crea
 
 Last but Not Least
 
-In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>. Importantly, even <b>sharding sucks</b>, not to mention Layer 2 solutions built over sharding.
+In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>. Not to mention Layer 2 solutions built over sharding.
 
 <p>&nbsp</p>
 Anyway, this is just an idea and opinions which might be discussed. The greatest undeniable facts are here:<br>
