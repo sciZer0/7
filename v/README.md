@@ -28,18 +28,37 @@ And of course, we should be forming a Creator Donation Culture for giving thanks
 
 Summarizing, when people create something not good enough, there must be absolute freedom for everyone to try to surpass it – to improve it.
 
+
+
  
 <p>&nbsp</p>
- <h1 align="center">THE VOTE BLOCKCHAIN</h1>
+<h1 align="center">THE VOTE BLOCKCHAIN</h1>
+ 
+ 
  
 <p>&nbsp</p>
- <h2 align="center">Abstract</h2>
+<h2 align="center">Abstract</h2>
+
+<b>About Blockchain Technology</b>
+
  
 The main point of blockchain technology is to allow people to build permissionless ownership systems being extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make the systems as fast and efficient as possible.
+
+<b>About the Inflationary Economy</b>
+
+In an Inflationary Economy, there is nothing new.
+
+All that the Inflationary Economy (endless emissions of standard tokens) can give us are bubbles which will inevitably burst out.
+
+The Bitcoin token is allegedly considered a fixed-supply token. Although, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+
+Moreover, the greatest values in the Universe are not fixed-supply tokens, but decreasing-supply tokens.
+
+<b>About a New Blockchain</b>
 
 This paper proposes an idea of a new blockchain which from day one is simultaneously:
 
