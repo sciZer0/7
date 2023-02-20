@@ -399,7 +399,7 @@ At any given Slot, in the list, there is only one Validator (called leader-Valid
 
 Only the leader-Validator can create the block and stream it to other Validators.
 
-All other Validators are only verifying the work of the leader-Validator, and then they send their successful verifications back to the Leader.
+All other Validators are only verifying the work of the leader-Validator, and then they send their successful verifications – as their votes – back to the Leader.
 
 In other words, all other Validators are voting – each successful verification of the block by a Validator serves as one vote for the consensus algorithm.
 
