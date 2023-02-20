@@ -165,7 +165,7 @@ Problem 5 is that increasing the inefficiency (overhead) is the goal for each of
 
 This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
-**the more the blockchain's market capitalization becomes the more of honest nodes must be added — in order for the blockchain to be considered secure.**.
+**the more the blockchain's market capitalization becomes the more of honest nodes must be added in the blockchain — in order for the blockchain to be considered sufficiently sustainable and secure.**.
 
 According to this logic, a blockchain with a really huge market capitalization must always strive to have lots of lots of honest nodes.
 
@@ -173,7 +173,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, the approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, truly-decentralized way being more efficient to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
+Ideally, a blockchain must use another, truly-decentralized way being more efficient to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic, extremely-sustainable and secure.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -464,7 +464,7 @@ Importantly, even 3 honest nodes (validators) are enough for such a Solana-type 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely-sustainable, meaning, extremely hard, at best impossible, to stop.
 
 <i><b>
-It is important to keep in mind, increasing decentralization (increasing the number of nodes) all time  shouldn’t  be the goal, because decentralization is just a tool for a blockchain to be unstoppable. So unstoppableness is the goal.
+It is important to note, increasing decentralization (increasing the number of nodes) all time  shouldn’t  be the goal, because decentralization is just a tool for a permissionless blockchain to be unstoppable. So unstoppableness is the goal.
 <br><br>
 At the same time, the main principle of efficiency is that you must never do more than enough – and exactly this way each blockchain must work.
 </b></i>
@@ -715,6 +715,6 @@ Last but Not Least
 In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>. Even <b>sharding sucks</b>, not to mention Layer 2 solutions built over sharding.
 
 <p>&nbsp</p>
-This is just an idea which might be discussed. The great facts are here:<br>
+Anyway, this is just an idea which might be discussed. The great facts are here:<br>
 https://github.com/sciZer0/7/tree/main/a
 <p>&nbsp</p>
