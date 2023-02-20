@@ -692,7 +692,7 @@ Probably, the whole point of Bitcoin as a blockchain, thanks to its unique statu
 
 Probably, there is no other value in the Bitcoin blockchain but its unique (historical) status of the 1st cryptocurrency.
 
-Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this thing might become even more clear to everyone — earlier Bitcoins might also have a more price.
+Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
 Probably, one Satoshi is like one NFT — much like one NFT of a unique art collection. 
 
