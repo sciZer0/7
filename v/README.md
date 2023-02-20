@@ -173,7 +173,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, the approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, more efficient, truly-decentralized way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
+Ideally, a blockchain must use another, truly-decentralized way being more efficient to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
 
 The Vote blockchain ideally solves this problem from day one.
 
