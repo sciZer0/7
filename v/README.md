@@ -128,7 +128,24 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Problem 3 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
+Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+
+Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
+
+The Vote blockchain ideally solves this problem from day one.
+
+*The solution is described below.*
+
+
+
+
+
+
+
+
+<h3 align="center">Problem 4</h3>
+
+Problem 4 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
 
 For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. No one of them is able to truly start decreasing its Circulating Supply.
 
@@ -138,18 +155,6 @@ The Vote blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
-
-
-
-<h3 align="center">Problem 4</h3>
-
-Problem 4 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
-
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
-
-The Vote blockchain ideally solves this problem from day one.
-
-*The solution is described below.*
 
 
 
