@@ -48,7 +48,9 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 
 On the other hand, the main task of developers is to build/make such systems as fast and efficient as possible.
 
-<b>About the Inflationary Economy</b>
+
+
+<b>About the Greatest Values</b>
 
 In an Inflationary Economy, there is nothing new.
 
