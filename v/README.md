@@ -326,7 +326,12 @@ Decreasing Circulating Supply is the impossible thing for each of the existing b
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
-<h1>5 &nbsp Voting System</h1>
+<h1>5 &nbspVoting System</h1>
+
+
+The Vote Blockchain is a DAO-style  blockchain leveraging all benefits of DAO.
+
+Including such ones as voting on funding common goods and retaining the Voter's personal achievements in the  SBT/NFT.
 
 The blockchain’s democratic system consists of the following elements:
 
