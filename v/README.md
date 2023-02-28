@@ -73,7 +73,7 @@ Why all the problems of Bitcoin – including the awful Gini and inefficiency �
 
 This is becouse Bitcoin was  the first decentralized token and the creator should use only durable solutions – not simultaneously efficient but only durable.
 
-Including, in order for the project to get started, the creator should create unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. *More on this below.*
+Including, in order for the Bitcoin blockchain to get started, the creator should create unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. *More on this below.*
 
 Now, we have the possibility to find and use both dural and  efficient solutions.
 
