@@ -54,11 +54,11 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 <b>About the Greatest Values</b>
 
-In Inflationary Economy, there is nothing new.
+In Inflationary Economy, there is nothing new and nothing valuable.
 
 All that Inflationary Economy (endless emissions of regular tokens) can give us is bubbles, each of which will inevitably burst.
 
-The Bitcoin token, on the other hand, is allegedly considered a non-inflationary token — like a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — like a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 Moreover, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
 
