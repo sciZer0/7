@@ -52,13 +52,13 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 <b>About the Greatest Values</b>
 
-In an Inflationary Economy, there is nothing new.
+In Inflationary Economy, there is nothing new.
 
-All that the Inflationary Economy (endless emissions of regular tokens) can give us are bubbles, each of which will inevitably burst.
+All that Inflationary Economy (endless emissions of regular tokens) can give us are bubbles, each of which will inevitably burst.
 
-The Bitcoin token, on the other hand, is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+The Bitcoin token, on the other hand, is allegedly considered a non-inflationary token — like a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-Moreover, the greatest values in the Universe are not fixed-supply tokens, but decreasing-supply tokens.
+Moreover, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
 
 <b>About a New Blockchain</b>
 
@@ -66,17 +66,17 @@ This paper proposes an idea of a new blockchain which from day one is simultaneo
 
 * extremely-decentralized
 * extremely-democratic
-* extremely-sustainable
+* extremely-sustainable ***
 * extremely-efficient
 * with 50,000 TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
 * with 1 million users
 
- <p>&nbsp</p>
- 
 
+*** – extremely-sustainable (at best, normally, and probably at worst)
 
+<p>&nbsp</p>
 
 <h2 align="center">
 Six Fundamental<br>
@@ -89,7 +89,7 @@ Blockchains</h2>
 
 <h3 align="center">Problem 1</h3>
 
-Problem 1 is that we — people — build blockchains the same way as we built states: 
+Problem 1 is that we people build blockchains the same way as we built states: 
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
@@ -111,7 +111,7 @@ For reference, Solana's routine – on its best times – was about 30 million t
 
 <h3 align="center">Problem 2</h3>
 
-Problem 2 follows from Problem 1.
+Problem 2 comes from Problem 1.
 
 Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
 
@@ -254,7 +254,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 
 
 
-**Motto: Like Others Just Better**
+**Motto: Like Bitcoin Just Better**
 
 
 
