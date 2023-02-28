@@ -50,6 +50,8 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 
 
+
+
 <b>About the Greatest Values</b>
 
 In Inflationary Economy, there is nothing new.
@@ -59,6 +61,23 @@ All that Inflationary Economy (endless emissions of regular tokens) can give us 
 The Bitcoin token, on the other hand, is allegedly considered a non-inflationary token — like a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 Moreover, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
+
+
+
+<b>Predefined Problems of Bitcoin </b>
+ 
+
+Why all the problems of Bitcoin – including the awful Gini and inefficiency – were predefined?
+
+This is becouse Bitcoin was  the first decentralized token and the creator should use only durable solutions – not simultaneously efficient but only durable.
+
+Including, in order for the project to get started, the creator should create unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. *More on this below.*
+
+Now, we have the possibility to find and use both dural and  efficient solutions.
+
+
+
+
 
 <b>About a New Blockchain</b>
 
