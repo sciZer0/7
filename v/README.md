@@ -58,7 +58,7 @@ In Inflationary Economy, there is nothing new.
 
 All that Inflationary Economy (endless emissions of regular tokens) can give us is bubbles, each of which will inevitably burst.
 
-Meaning, in Inflationary Economy, there is also nothing valuable.
+Meaning, in Inflationary Economy, there also is nothing valuable.
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — like a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
