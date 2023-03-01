@@ -54,13 +54,11 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 <b>About the Greatest Values</b>
 
-In Inflationary Economy, there is nothing new.
+In Inflationary Economy, there is nothing new and valuable.
 
 All that Inflationary Economy (endless emissions of regular tokens) can give us is bubbles, each of which will inevitably burst.
 
-Meaning, in Inflationary Economy, there also is nothing valuable.
-
-On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — like a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 Moreover, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
 
@@ -68,14 +66,13 @@ Moreover, the greatest values in the Universe are not the fixed-supply tokens, b
 
 <b>Predefined Problems of Bitcoin </b>
  
-
-Why all the problems of Bitcoin – including the awful Gini and inefficiency – were predefined?
+Why all the fundamental problems of Bitcoin – including the awful Gini and inefficiency – were predefined?
 
 This is becouse Bitcoin was  the first decentralized token and the creator had to use only durable solutions – not simultaneously efficient but only durable.
 
 Including, in order for the Bitcoin blockchain to get started, the creator had to create the unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. *More on this below.*
 
-Now, we have the possibility to find and use both dural and  efficient solutions.
+Now, we have the possibility to find and use both durable and  efficient solutions.
 
 
 
@@ -151,9 +148,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in gas prices which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in translation fees which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
-Ideally, network congestions, inevitably leading to an increase in gas prices, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
+Ideally, network congestions, inevitably leading to an increase in transaction fees, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -170,7 +167,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 4 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
 
-For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. No one of them is able to truly start decreasing its Circulating Supply.
+For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. No one of them is really able to truly start decreasing its Circulating Supply.
 
 Ideally, a blockchain must start decreasing its Circulating Supply from day one.
 
