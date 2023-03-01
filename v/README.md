@@ -49,7 +49,7 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 On the other hand, the main task of developers is to build/make such systems as fast and efficient as possible.
 
 
-
+Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, both permissionlessness and sustainability are precisely the goal. And of course, permissionlessness is just another word for censorship-resistance.
 
 
 <b>About the Greatest Values</b>
