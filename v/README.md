@@ -72,7 +72,7 @@ This is becouse Bitcoin was  the first decentralized token and the creator had t
 
 Including, in order for the Bitcoin blockchain to get started, the creator had to create the unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. *More on this below.*
 
-Now, we have the possibility to find and use both durable and  efficient solutions.
+Fortunately, now we have the possibility to find and use solutions both durable and efficient simultaneously.
 
 
 
