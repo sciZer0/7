@@ -70,11 +70,11 @@ Why all the fundamental problems of Bitcoin – including the awful Gini and ine
 
 This is becouse Bitcoin was  the first decentralized token and the creator had to use only reliable solutions – not simultaneously efficient but only reliable.
 
-Including, in order for the Bitcoin blockchain to get started, the creator had to create the unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. *More on this below.*
+Including, in order for the Bitcoin blockchain to get started, the creator had to create the unproportionally big rewards for the most earliest adopters (miners), predefining the awful Gini. 
 
 Fortunately, we now have the opportunity to find and use solutions that are both reliable and efficient, simultaneously.
 
-
+*More detail on fundamental problems of current blockchains, and solutions below.*
 
 
 <b>About a New Blockchain</b>
