@@ -68,9 +68,9 @@ Moreover, the greatest values in the Universe are not the fixed-supply tokens, b
  
 Why were all the fundamental problems of Bitcoin – including the awful Gini and inefficiency – predefined?
 
-This is because Bitcoin was the first decentralized token and the creator had to use only reliable solutions – not necessarily simultaneously efficient but necessarily reliable.
+This is because Bitcoin was the first decentralized token and the creator had to use only reliable solutions – not necessarily simultaneously efficient but necessarily extremely-reliable.
 
-Including, in order for the Bitcoin blockchain to get started, the creator had to implement the unproportionally big rewards for the most earliest adopters (miners) — predefining the awful Gini — and also the reliable but unfortunately extremely-inefficient consensus.
+Including, in order for the Bitcoin blockchain to get started, the creator had to use the at-start reliable insensitives system, implementing the unproportionally big rewards for the most earliest adopters (miners) and predefining the awful Gini — and also the reliable but extremely-inefficient consensus.
 
 Fortunately, we now have the opportunity to find and use solutions that are both reliable and efficient, simultaneously.
 
