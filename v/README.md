@@ -74,7 +74,6 @@ Including, in order for the Bitcoin blockchain to get started, the creator had t
 
 Fortunately, we now have the opportunity to find and use solutions that are both reliable and efficient, simultaneously.
 
-*More detail on fundamental problems of current blockchains, and solutions below.*
 
 
 <b>About a New Blockchain</b>
