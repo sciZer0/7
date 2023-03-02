@@ -542,12 +542,12 @@ Each applicant must find a way to prove their qualification/usefulness for the V
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-Some number of positions of Contributor (say 10) might be taken by specific entities (Public Addresses with multisigs) for funding some public/common goods, including 
+*Some number of positions of Contributor (say 10) might be taken by specific entities (Public Addresses with multisigs) for funding some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-The first 15 persons are appointed to the positions of Contributor by an initiative group.
+*The first 15 persons are appointed to the positions of Contributor by an initiative group.*
 
 
 
