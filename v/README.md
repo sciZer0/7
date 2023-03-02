@@ -46,7 +46,7 @@ The main point of blockchain technology is to allow people to build permissionle
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make such systems as fast and efficient as possible.
+On the other hand, the main task of developers is to build/make such systems as fast, reliable, scalable  and, of course, efficient as possible.
 
 
 Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, both permissionlessness and sustainability are precisely the goal. And of course, permissionlessness is just another word for censorship-resistance.
