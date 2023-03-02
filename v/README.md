@@ -66,7 +66,7 @@ Moreover, the greatest values in the Universe are not the fixed-supply tokens, b
 
 <b>Predefined Problems of Bitcoin </b>
  
-Why all the fundamental problems of Bitcoin – including the awful Gini and inefficiency – were predefined?
+Why were all the fundamental problems of Bitcoin – including the awful Gini and inefficiency – predefined?
 
 This is becouse Bitcoin was  the first decentralized token and the creator had to use only reliable solutions – not simultaneously efficient but only reliable.
 
