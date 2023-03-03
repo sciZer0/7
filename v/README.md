@@ -18,7 +18,7 @@ doomed by its design<br>
 
 
 
-# Our Ideology, First
+# Our Ideology First
 
 Every code created must be open and free – including, each code which happens to be known must be free.<br>
 
