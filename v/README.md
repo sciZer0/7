@@ -735,13 +735,9 @@ And this is just a matter of time that some initiative group of people will crea
 
 Last but Not Least
 
-Here are the 2 things to keep in mind,
-
-(1)
 In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>. Not to mention Layer 2 solutions built over sharding.
 
-(2)
-In order for a token to have a very high price this doesn't require the token to trade on the centralized exchanges a lot which now is a mainstream belief, but instead, only requires people (holders) not to sell the token at a low price. This is easy for people to do,  when they understand the value of the token and when they either got the token for free or invest a sum of money they can afford to lose.
+
 
 <p>&nbsp</p>
 Anyway, this is just an idea and opinions which might be discussed. The greatest undeniable facts are here:<br>
