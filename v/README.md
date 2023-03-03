@@ -684,6 +684,10 @@ Eventually, there might probably be people who are searching for the creators el
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
+<h1>About DeFi</h1>
+
+In DeFi as it is made now, there is one fundamental problem. DeFi should be made in another way in order to solve the problem. And this is beyond the scope of this article.
+
 <h1>About NFTs</h1>
 
 NFTs are here to stay.
