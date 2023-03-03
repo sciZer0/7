@@ -46,7 +46,7 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, scalable  and, of course, efficient as possible.
 
-*Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, permissionlessness implies trustlessness.*
+*Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, these both, permissionlessness and sustainability imply trustlessness.*
 
 
 
@@ -97,7 +97,9 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 <h2 align="center">
 Six Fundamental<br>
 Problems of All Current<br>
-Blockchains</h2>
+Blockchains Compared<br>
+to the Vote Blockchain
+</h2>
 
 
 
