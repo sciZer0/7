@@ -326,8 +326,6 @@ At best, such an extremely-deflationary nature of tokenomics should result in a 
 
 The Vote Blockchain is a DAO-style  blockchain leveraging all benefits of DAO culture.
 
-Including such ones as voting on funding common goods and retaining the Voter's personal achievements in the  SBT/NFT.
-
 The blockchain’s democratic system consists of the following elements:
 
 * Automatic Proposals (inbuilt)
@@ -340,7 +338,7 @@ The enormous benefit from voting, among others, is that the more tokens are bein
  
 From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
  
-Importantly, even though the main principle of democracy is that each Voter has absolute freedom to either vote or not vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulation supply significantly.
+Importantly, even though the main principle of democracy is that each Voter has absolute freedom to either vote or not vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote Token.
 </b></i>
 
 
