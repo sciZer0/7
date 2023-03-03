@@ -713,7 +713,7 @@ Probably, the whole point of Bitcoin as a blockchain, thanks to its unique statu
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling a unique thing (token) to another one.</b></i>
 
-Probably, there is no other value in the Bitcoin blockchain but its unique (historical) status of the 1st cryptocurrency.
+Probably, there is no other value in the Bitcoin blockchain but its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is a NFT.
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
