@@ -18,7 +18,7 @@ doomed by its design<br>
 
 
 
-# Our Ideology
+# Our Ideology, First
 
 Every code created must be open and free – including, each code which happens to be known must be free.<br>
 
@@ -76,7 +76,7 @@ Fortunately, we now have the opportunity to find and use solutions that are both
 
 <b>About a New Blockchain</b>
 
-This paper proposes an idea of a new layer 1 blockchain which from day one is simultaneously:
+This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
 
 * extremely-decentralized
 * extremely-democratic
@@ -321,7 +321,9 @@ At best, such an extremely-deflationary nature of tokenomics should result in a 
 <h1>5 &nbspVoting System</h1>
 
 
-The Vote Blockchain is a DAO-style  blockchain leveraging all benefits of DAO culture.
+The Vote blockchain operates based on direct vote by token holders.
+
+This is a DAO-style blockchain leveraging all benefits of DAO culture.
 
 The blockchain’s democratic system consists of the following elements:
 
