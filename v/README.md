@@ -28,7 +28,7 @@ And of course, we should be forming a Creator Donation Culture for giving thanks
 
 Summarizing, when people create something not good enough, there must be absolute freedom for everyone to surpass it – to improve it.
 
-*Plus, this is important to keep in mind, by recognizing that the Bitcoin blockchain will forever be  the most successful one in the crypto industry, we refuse our civilization to have the ability to progress.*
+*Plus, this is important to keep in mind, by recognizing that the Bitcoin blockchain will forever be  the most successful one in the crypto industry, we deny our civilization the ability to progress.*
 
  
 <p>&nbsp</p>
