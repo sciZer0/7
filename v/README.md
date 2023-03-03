@@ -78,7 +78,7 @@ Fortunately, we now have the opportunity to find and use solutions that are both
 
 <b>About a New Blockchain</b>
 
-This paper proposes an idea of a new blockchain which from day one is simultaneously:
+This paper proposes an idea of a new layer 1 blockchain which from day one is simultaneously:
 
 * extremely-decentralized
 * extremely-democratic
