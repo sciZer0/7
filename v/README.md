@@ -62,9 +62,9 @@ Moreover, the greatest values in the Universe are not the fixed-supply tokens, b
 
 
 
-<b>Predefined Problems of Bitcoin </b>
+<b>About Fundamental Problems of Bitcoin </b>
  
-Why were all the fundamental problems of Bitcoin – including the terrible Gini and inefficiency – predefined?
+Why were all fundamental problems of Bitcoin – including the terrible Gini and inefficiency – predefined?
 
 This is because Bitcoin was the first decentralized token and the creator had to use only reliable solutions – not necessarily simultaneously efficient but necessarily extremely-reliable.
 
@@ -90,11 +90,13 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 
 *** – extremely-sustainable (at best, normally, and probably at worst)
 
-<p>&nbsp</p>
+<b>About Fundamental Problems of All Current Blockchains</b>
+
+
 
 <h2 align="center">
 Six Fundamental<br>
-Problems of Current<br>
+Problems of All Current<br>
 Blockchains</h2>
 
 
