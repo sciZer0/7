@@ -709,21 +709,25 @@ And moreover, in about 50 years, NFTs will most likely be used for these 3 main 
 
 <h1>About Bitcoin</h1>
 
+Of course, the Bitcoin blockchain is both permissionless and extremely-sustainable. But extremely-sustainable so far.
+
 As mentioned above, Bitcoin now isn't really a fixed-supply currency because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and highest inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b>
 
-The allegedly incredibly promising Lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
+The allegedly incredibly-promising Lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
-Probably, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be just the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
+For new blockchains, there is a lot of room to improve, and surpassing is possible.
+
+Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling a unique thing (token) to another one.</b></i>
 
-Probably, there is no other value in the Bitcoin blockchain but its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is a NFT.
+Probably, the whole value of Bitcoin as a blockchain — if compared to new more advanced blockchains — is more about its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is a NFT.
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
