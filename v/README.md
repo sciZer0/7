@@ -473,7 +473,7 @@ The hypothesis/idea is that
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
-7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and, by Voters through democratic voting (Competitive Quadratic Voting), is replaced with a Validator from the waiting list, and
+7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and may, by Voters through democratic voting (Competitive Quadratic Voting) be replaced with a Validator from the waiting list, and
 
 8. when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
@@ -717,7 +717,7 @@ Also, more importantly, Bitcoin, absolutely, isn't ultra sound money because the
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and highest inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b>
 
-Some people say like Bitcoin has the value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add the value to a blockchain because inefficient  consensus does never increase the consumer value of the Blockchain.
+Some say like Bitcoin has the value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add the value to a blockchain because inefficient  consensus does never increase the consumer value of the Blockchain.
 
 The allegedly incredibly-promising Lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
