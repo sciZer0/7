@@ -343,7 +343,7 @@ From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Au
  
 Importantly, even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 
-And of course, there will be such things as voting on funding common goods and retaining the Voter's personal achievements by the  SBT/NFT — and a lot of other good things.
+And of course, there will be such things as voting on funding common goods and retaining the Voter's personal achievements by the  SBT/NFT — and a lot of other things.
 </b></i>
 
 
