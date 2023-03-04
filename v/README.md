@@ -191,9 +191,9 @@ According to this logic, a blockchain with a really huge market capitalization m
 
 At the same time, an increase in a number of nodes doesn't increase the blockchain's bandwidth proportionally, if ever.
 
-Actually, the approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, truly-decentralized way being more efficient to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic, extremely-sustainable and secure.
+Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic, extremely-sustainable and secure.
 
 The Vote blockchain ideally solves this problem from day one.
 
