@@ -722,7 +722,7 @@ Also, more importantly, Bitcoin, absolutely, isn't ultra sound money because the
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and highest inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b>
 
-Some believe that Bitcoin has the value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add the value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
+Some believe that Bitcoin has its value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add the value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
 The allegedly incredibly-promising Lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
@@ -734,7 +734,7 @@ Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (his
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling a unique thing (token) to another one.</b></i>
 
-So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains — might be more about its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is a NFT.
+So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is a NFT.
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
