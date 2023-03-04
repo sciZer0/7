@@ -721,9 +721,9 @@ The allegedly incredibly-promising Lightning requires the regular user to either
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
-For new blockchains, there is a lot of room to improve, and the surpassing is possible.
+For new blockchains, there is a lot of room to improve, and surpassing the Bitcoin blockchain is possible and inevitable.
 
-Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
+Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might become more clear and might be more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling a unique thing (token) to another one.</b></i>
 
