@@ -90,7 +90,7 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 
 *** – extremely-sustainable (at best, normally, and probably at worst)
 
-<b>About Fundamental Problems of All Current Blockchains</b>
+<b>About Fundamental Problems of All Current Blockchains in More Detail</b>
 
 
 
