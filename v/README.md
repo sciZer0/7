@@ -473,7 +473,7 @@ The hypothesis/idea is that
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
-7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and replaced with a Validator from the waiting list, and
+7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and, by Voters through democratic voting (Competitive Quadratic Voting), is replaced with a Validator from the waiting list, and
 
 8. when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
