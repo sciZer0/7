@@ -751,11 +751,9 @@ Importantly, each blockchain existing in 2023 is fundamentally unable to solve t
 
 All the fundamental problems of the blockchain industry can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
-Among the closest targets might be things even more ambitious than ones mentioned here.
-
 And this is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
-Last but Not Least
+**Last but Not Least**
 
 In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>. Not to mention Layer 2 solutions built over sharding.
 
