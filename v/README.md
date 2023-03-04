@@ -762,6 +762,6 @@ In a world of exchanges and aggregators of exchanges, there is one thing to alwa
 
 
 <p>&nbsp</p>
-Also, I have a lot of another ideas, additionally. Anyway, this all is just ideas and opinions that might be discussed. The greatest undeniable facts are here:<br>
+Plus, I have a lot of another ideas, additionally. Anyway, this all is just ideas and opinions that might be discussed. The greatest undeniable facts are here:<br>
 https://github.com/sciZer0/7/tree/main/a
 <p>&nbsp</p>
