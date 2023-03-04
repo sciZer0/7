@@ -713,7 +713,7 @@ Of course, the Bitcoin blockchain is both permissionless and extremely-sustainab
 
 As mentioned above, Bitcoin now isn't really a fixed-supply currency because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-And of course, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
+Also, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and highest inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b>
 
@@ -721,7 +721,7 @@ The allegedly incredibly-promising Lightning requires the regular user to either
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
-For new blockchains, there is a lot of room to improve, and surpassing is possible.
+For new blockchains, there is a lot of room to improve, and the surpassing is possible.
 
 Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
 
