@@ -690,11 +690,12 @@ Eventually, there might probably be people who are searching for the creators el
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
-
+<br><br><br>
+SOME OF MY THOUGHTS 
 
 <h1>About DeFi</h1>
 
-In DeFi as it is made now, there are also fundamental problems. Specifically, 2 problems.  In order to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
+In DeFi as it is made now, there are also fundamental problems. Specifically, 2 ones.  In order to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
 
 
 
