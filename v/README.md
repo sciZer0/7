@@ -692,7 +692,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 <h1>About DeFi</h1>
 
-In DeFi as it is made now, there is one fundamental problem. DeFi should be made in another way in order to solve the problem. And this is beyond the scope of this paper.
+In DeFi as it is made now, there are also fundamental problems. In order to solve these problems DeFi should be made in another way, and this is beyond the scope of this paper.
 
 <h1>About NFTs</h1>
 
