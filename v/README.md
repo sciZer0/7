@@ -325,12 +325,14 @@ Decreasing Circulating Supply is the impossible thing for each of the existing b
 At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
+
+
 <h1>5 &nbspVoting System</h1>
 
 
 The Vote blockchain operates based on direct vote by token holders.
 
-This is a DAO-style blockchain leveraging all benefits and all the best practices of DAO culture.
+This is a DAO-style blockchain leveraging all benefits and all the best practices of the DAO culture.
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -340,7 +342,7 @@ The blockchain’s democratic system consists of the following elements:
 * Hyde Park
  
 <i><b>
-The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation.
+The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens in real circulation — and this is without using any inflating practice that, for example, traditional staking always does.
  
 From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
  
