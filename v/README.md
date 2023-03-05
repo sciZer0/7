@@ -75,7 +75,7 @@ Including, in order for the Bitcoin blockchain to get started, the creator at st
 
 Fortunately, we now have the opportunity to find and use solutions that are both reliable and efficient, simultaneously.
 
-*Plus, to all Bitcoiners, this is important to keep in mind that by assuming that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
+*To all Bitcoiners, this is important to keep in mind that by assuming that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
 <b>About a New Blockchain</b>
 
