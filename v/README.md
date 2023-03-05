@@ -332,7 +332,7 @@ At best, such an extremely-deflationary nature of tokenomics should result in a 
 
 The Vote blockchain operates based on direct vote by token holders.
 
-This is a DAO-style blockchain leveraging all benefits and all the best practices of the DAO culture.
+This is a DAO-style blockchain leveraging all benefits and all the best practices of DAOs.
 
 The blockchain’s democratic system consists of the following elements:
 
