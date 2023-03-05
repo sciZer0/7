@@ -698,7 +698,15 @@ SOME OF MY THOUGHTS
 
 <h1>About DeFi</h1>
 
-In DeFi as it is made now, there are also fundamental problems. Specifically, 2 ones.  In order to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
+In DeFi as it is being made for now, there are also fundamental problems. 
+
+Specifically, these 2 ones,
+
+* for now, state and logic of a DApp are in the same place, so a code bug can (often does) result in losing funds
+
+* for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds.
+
+In order to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
 
 
 
