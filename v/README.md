@@ -39,6 +39,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 
 <b>About Blockchain Technology</b>
 
+First of all, if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
  
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
@@ -46,9 +47,9 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, scalable  and, of course, efficient as possible.
 
-*Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, these both, permissionlessness and sustainability imply trustlessness.*
+Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, these both, permissionlessness and sustainability imply trustlessness.
 
-
+The industry needs the locomotive blockchain in order for everything else to be built on and around it. And it is not the Bitcoin blockchain and not the Ethereum Blockchain, it is something fundamentally new.
 
 <b>About the Greatest Values</b>
 
