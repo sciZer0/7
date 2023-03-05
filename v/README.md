@@ -47,7 +47,7 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, scalable  and, of course, efficient as possible.
 
-Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, these both, permissionlessness and sustainability imply trustlessness.
+Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, both these ones, permissionlessness and sustainability imply trustlessness.
 
 Surely, for now, the industry needs the really locomotive blockchain in order for everything else to be built on and around it. And it is not the Bitcoin blockchain and not the Ethereum Blockchain or any other blockchain you know, it is something fundamentally new.
 
