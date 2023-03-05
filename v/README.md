@@ -698,9 +698,9 @@ SOME OF MY THOUGHTS
 
 <h1>About DeFi</h1>
 
-In DeFi as it is being made for now, there are also fundamental problems. 
+In DeFi as it is being made for now, there are also big problems that are fundamental. 
 
-Specifically, these 2 fundamental problems,
+Specifically, there are these 2 fundamental problems,
 
 * for now, state and logic of a DApp are in the same place, so a code bug can (often does) result in losing funds of users
 
