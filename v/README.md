@@ -43,6 +43,8 @@ First of all, if you don't want to make/participate in a revolution in economy a
  
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
+Specifically, permissionless ownership systems about storing and transferring value.
+
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, scalable  and, of course, efficient as possible.
