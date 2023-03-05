@@ -700,11 +700,11 @@ SOME OF MY THOUGHTS
 
 In DeFi as it is being made for now, there are also fundamental problems. 
 
-Specifically, these 2 ones,
+Specifically, these 2 fundamental problems,
 
-* for now, state and logic of a DApp are in the same place, so a code bug can (often does) result in losing funds
+* for now, state and logic of a DApp are in the same place, so a code bug can (often does) result in losing funds of users
 
-* for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds.
+* for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds of users.
 
 In order to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
 
