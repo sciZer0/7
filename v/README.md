@@ -153,7 +153,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in translation fees which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
 Ideally, network congestions, inevitably leading to an increase in transaction fees, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
