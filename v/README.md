@@ -49,7 +49,9 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly these both ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, these both, permissionlessness and sustainability imply trustlessness.
 
-The industry needs the locomotive blockchain in order for everything else to be built on and around it. And it is not the Bitcoin blockchain and not the Ethereum Blockchain, it is something fundamentally new.
+Surely, the industry needs the really locomotive blockchain in order for everything else to be built on and around it. And it is not the Bitcoin blockchain and not the Ethereum Blockchain, it is something fundamentally new.
+
+
 
 <b>About the Greatest Values</b>
 
