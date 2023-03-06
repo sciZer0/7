@@ -61,7 +61,7 @@ Specifically, permissionless ownership systems about storing and transferring va
 
 Importantly, if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
 
-The revolution is there because no today's state would like to allow you to get permissionless access to value.
+The revolution, because no today's state would like to allow you to get permissionless access to value.
 
 But if you are ready to get permission access to value, you don't need a blockchain.
 
