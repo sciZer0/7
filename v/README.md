@@ -55,11 +55,13 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 
 <b>About Blockchain Technology</b>
 
-First of all, if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
- 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
 Specifically, permissionless ownership systems about storing and transferring value.
+
+The main rule is that if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
+
+This is because no today's state would like to allow you to get permissionless access to value.
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
