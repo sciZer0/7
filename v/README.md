@@ -193,7 +193,7 @@ Problem 5 is that increasing the inefficiency (overhead) is the goal for each of
 
 This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
-**the more the blockchain's market capitalization becomes the more of honest nodes must be added in the blockchain — in order for the blockchain to be considered sufficiently sustainable and secure.**.
+**the more the blockchain's market capitalization becomes the more of honest nodes must be added in the blockchain — in order for the blockchain to be considered sufficiently sustainable/secure.**.
 
 According to this logic, a blockchain with a really huge market capitalization must always strive to have lots of lots of honest nodes.
 
@@ -201,7 +201,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable.
+Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable/secure.
 
 The Vote blockchain ideally solves this problem from day one.
 
