@@ -59,15 +59,17 @@ The main point of blockchain technology is to allow people to build permissionle
 
 Specifically, permissionless ownership systems about storing and transferring value.
 
-The main rule is that if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
+Importantly, if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
 
-This is because no today's state would like to allow you to get permissionless access to value.
+The revolution is there because no today's state would like to allow you to get permissionless access to value.
+
+But if you are ready to get permission access to value, you don't need a blockchain.
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
 
-Importantly, constantly increasing decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly both these ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, both these ones, permissionlessness and sustainability imply trustlessness.
+By the way, constantly increasing decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly both these ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, both these ones, permissionlessness and sustainability imply trustlessness.
 
 
 
