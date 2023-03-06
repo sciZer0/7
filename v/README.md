@@ -1,5 +1,5 @@
 <h1 align="center">
-IDEA OF NEW BLOCKCHAIN
+IDEA OF A NEW UNBELIEVABLE BLOCKCHAIN
 </h1>
 
 <p align="center">
@@ -37,6 +37,20 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <p>&nbsp</p>
 <h2 align="center">Abstract</h2>
 
+<b>About a New Blockchain</b>
+
+This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
+
+* extremely-decentralized
+* extremely-democratic
+* extremely-sustainable
+* extremely-efficient
+* with 50,000 TPS
+* with a Decreasing-Supply Token
+* with the ideal Gini coefficient
+* with 1 million users
+
+
 <b>About Blockchain Technology</b>
 
 First of all, if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
@@ -50,8 +64,6 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, scalable  and, of course, efficient as possible.
 
 Importantly, decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly both these ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, both these ones, permissionlessness and sustainability imply trustlessness.
-
-Surely, for now, the industry needs the really locomotive blockchain in order for everything else to be built on it or with taking it into account. And it is not the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it is something fundamentally new.
 
 
 
@@ -85,24 +97,7 @@ Fortunately, we now have the opportunity to find and use solutions that are both
 
 
 
-<b>About a New Blockchain</b>
-
-This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
-
-* extremely-decentralized
-* extremely-democratic
-* extremely-sustainable ***
-* extremely-efficient
-* with 50,000 TPS
-* with a Decreasing-Supply Token
-* with the ideal Gini coefficient
-* with 1 million users
-
-
-*** – extremely-sustainable (at best, normally, and probably at worst)
-
 <b>About Fundamental Problems of All Current Blockchains in More Detail</b>
-
 
 
 <h2 align="center">
@@ -238,6 +233,10 @@ each blockchain existing in 2023<br>
 is fundamentally unable to solve<br> 
 the fundamental problems.
 </p>
+
+Surely, for now, the industry needs the really locomotive blockchain in order for everything else to be built on it or with taking it into account. And it is not the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it is something fundamentally new.
+
+
  
 <p>&nbsp</p>
 
