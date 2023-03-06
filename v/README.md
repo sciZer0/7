@@ -87,7 +87,7 @@ A Decreasing-Supply, permissionless, decentralized Token is the thing our civili
  
 Undoubtedly, the creator of Bitcoin, no matter whoever it might be, is outstanding for many reasons.
 
-But why were all fundamental problems of Bitcoin – including the terrible Gini and extremal inefficiency – predefined?
+But why were all fundamental problems of Bitcoin – including the terrible Gini and extremal inefficiency – most likely predefined?
 
 This is because Bitcoin was the first decentralized token and the creator, in order for the Bitcoin blockchain to get started, had to use reliable solutions – not necessarily simultaneously long-termly-efficient but necessarily reliable.
 
