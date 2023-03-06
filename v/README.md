@@ -778,11 +778,6 @@ All the fundamental problems of the blockchain industry can be solved only by ex
 
 And this is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
-**Last but Not Least**
-
-In a world of exchanges and aggregators of exchanges, there is one thing to always keep in mind — the thing was said by the most technically-advanced people in the industry, including Anatoly Yakovenko — <b>sharding sucks</b>. Not to mention Layer 2 solutions built over sharding.
-
-
 
 <p>&nbsp</p>
 Plus, I have a lot of another ideas, additionally. Anyway, this all is just ideas and opinions that might be discussed. The greatest undeniable facts are here:<br>
