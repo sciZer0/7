@@ -45,7 +45,7 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 
 * extremely-decentralized
 * extremely-democratic
-* sufficiently-sustainable
+* extremely-sustainable
 * extremely-efficient
 * with 50,000 TPS
 * with a Decreasing-Supply Token
@@ -57,7 +57,7 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 
 First of all, if you don't want to make/participate in a revolution in economy and ownership, you don't need a blockchain.
  
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are sufficiently-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
 
 Specifically, permissionless ownership systems about storing and transferring value.
 
@@ -91,7 +91,7 @@ But why were all fundamental problems of Bitcoin – including the terrible Gini
 
 This is because Bitcoin was the first decentralized token and the creator, in order for the Bitcoin blockchain to get started, had to use reliable solutions – not necessarily simultaneously long-termly-efficient but necessarily reliable.
 
-Including, in order for the Bitcoin blockchain to get started, the creator at start had to use the extremely-reliable incentive system, implementing the unproportionally big rewards for the most earliest adopters (miners) and hence predefining the terrible Gini — and also to use the sufficiently-reliable but unfortunately long-termly-extremely-inefficient consensus, predefining the long-termly extremal inefficiency of the Bitcoin blockchain.
+Including, in order for the Bitcoin blockchain to get started, the creator at start had to use the extremely-reliable incentive system, implementing the unproportionally big rewards for the most earliest adopters (miners) and hence predefining the terrible Gini — and also to use the extremely-reliable but unfortunately long-termly-extremely-inefficient consensus, predefining the long-termly extremal inefficiency of the Bitcoin blockchain.
 
 Fortunately, we now have the opportunity to find and use solutions that are both long-termly reliable and long-termly efficient, simultaneously.
 
