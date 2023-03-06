@@ -1,5 +1,5 @@
 <h1 align="center">
-IDEA OF A NEW<br>
+IDEA OF An<br>
 UNBELIEVABLE<br>
 BLOCKCHAIN
 </h1>
@@ -39,7 +39,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <p>&nbsp</p>
 <h2 align="center">Abstract</h2>
 
-<b>About a New Blockchain</b>
+<b>About the Unbelievable Blockchain</b>
 
 This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
 
