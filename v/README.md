@@ -1,5 +1,7 @@
 <h1 align="center">
-IDEA OF A NEW UNBELIEVABLE BLOCKCHAIN
+IDEA OF A NEW<br>
+UNBELIEVABLE<br>
+BLOCKCHAIN
 </h1>
 
 <p align="center">
