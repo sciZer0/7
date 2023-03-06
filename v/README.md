@@ -71,7 +71,7 @@ A Decreasing-Supply, permissionless, decentralized Token is the thing our civili
 
 <b>About Fundamental Problems of Bitcoin </b>
  
-Undoubtedly, the creator of Bitcoin, no matter whoever it might be, is or was a genious for many reasons.
+Undoubtedly, the creator of Bitcoin, no matter whoever it might be, is a genious for many reasons.
 
 But why were all fundamental problems of Bitcoin – including the terrible Gini and extremal inefficiency – predefined?
 
