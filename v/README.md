@@ -79,7 +79,7 @@ On the other hand, the Bitcoin token is allegedly considered a non-inflationary 
 
 More importantly, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
 
-A Decreasing-Supply, permissionless, decentralized Token is the thing our civilization has never known and felt before — it is fundamentally even better than digital gold or digital diamonds.
+The Decreasing-Supply, permissionless, decentralized Token is the thing our civilization has never known and felt before — it is fundamentally even better than digital gold or digital diamonds.
 
 
 
