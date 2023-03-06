@@ -255,7 +255,7 @@ BLOCKCHAIN</b>
 <br>
 <p>
 <b>
-This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency, justice and opportunities for developers.
 </b>
 </p>
 <p>&nbsp</p>
