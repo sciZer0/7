@@ -236,6 +236,7 @@ is fundamentally unable to solve<br>
 the fundamental problems.
 </p>
 
+<p>&nbsp</p>
 Surely, for now, the industry needs the really locomotive blockchain in order for everything else to be built on it or with taking it into account. And it is not the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it is something fundamentally new.
 
 
