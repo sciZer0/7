@@ -73,7 +73,7 @@ Importantly, decentralization is not the goal, decentralization is just a tool t
 
 In Inflationary Economy, there is nothing new and valuable.
 
-All that Inflationary Economy (endless emissions of regular tokens) can give us is bubbles, each of which will inevitably burst.
+All that Inflationary Economy (endless emissions of regular tokens) can give us is the depreciation of values and bubbles.
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
