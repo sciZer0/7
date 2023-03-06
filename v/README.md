@@ -87,7 +87,7 @@ Undoubtedly, the creator of Bitcoin, no matter whoever it might be, is outstandi
 
 But why were all fundamental problems of Bitcoin – including the terrible Gini and extremal inefficiency – predefined?
 
-This is because Bitcoin was the first decentralized token and the creator, in order for the Bitcoin blockchain to get started, had to use only reliable solutions – not necessarily simultaneously long-termly-efficient but necessarily extremely-reliable.
+This is because Bitcoin was the first decentralized token and the creator, in order for the Bitcoin blockchain to get started, had to use reliable solutions – not necessarily simultaneously long-termly-efficient but necessarily extremely-reliable.
 
 Including, in order for the Bitcoin blockchain to get started, the creator at start had to use the extremely-reliable incentive system, implementing the unproportionally big rewards for the most earliest adopters (miners) and hence predefining the terrible Gini — and also to use the extremely-reliable but unfortunately long-termly-extremely-inefficient consensus, predefining the long-termly extremal inefficiency of the Bitcoin blockchain.
 
