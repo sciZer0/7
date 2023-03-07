@@ -83,10 +83,9 @@ This might seem that ideally, there should be no variables that might be adjuste
 
 But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. *By the way, the functionality of smart-contracts should be updated in a different way than it is now.*
 
-The constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized/democratic way.
-
 The most right approach is to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
+So the constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized/democratic way.
 
 
 <b>About the Greatest Values</b>
