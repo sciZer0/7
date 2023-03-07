@@ -563,11 +563,9 @@ At the start, the maximum is 150 positions and this number can be changed throug
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Each Contributor receives the extremely generous Automated Donations from Voters (~ $3 million per year).
-
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each applicant must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Contributor and can use <b>Hyde Park</b> for this.
+Each candidate/applicant for a position of Contributor must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Contributor and for this can use <b>Hyde Park</b>.
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
