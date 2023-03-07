@@ -67,7 +67,7 @@ The revolution, because no today's state would like to allow you to get permissi
 
 But if you are ready to get permission access to value, you don't need a blockchain — maybe you need some token with low inflation like BTC or ETH has, but you still don't  need a blockchain.
 
-Bitcoin proves that we can build the extremely-sustainable systems with permissionless access to value.
+Bitcoin proves that we can build extremely-sustainable systems with permissionless access to value.
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
