@@ -81,14 +81,11 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 This might seem that ideally, there should be no variables that might be adjusted or updates of code that might be done in order to change the way the system works.
 
-But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete. Even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. *By the way, the functionality of smart-contracts should be updated in a different way than it is now.*
-
-Actually, limited changeability of codebase is not a bad thing since all we need is trustlessness, permissionlessness and sustainability, and we can get this all thanks to decentralization — so even with changeability, having a right approach, we can access, for example, trustless token transferring, trustless liquidity providing and trustless token swapping.
-
-The right approach is to provide extremal decentralization/democracy when realizing limited changeability.
+But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. *By the way, the functionality of smart-contracts should be updated in a different way than it is now.*
 
 The constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized/democratic way.
 
+The most right approach is to provide extremal decentralization/democracy when realizing limited changeability.
 
 
 
