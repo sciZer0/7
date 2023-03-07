@@ -85,7 +85,7 @@ But, unfortunately, total immutability of code is an impossible thing in the mod
 
 Actually, limited changeability of codebase is not a bad thing since all we need is trustlessness, permissionlessness and sustainability, and we can get this all thanks to decentralization — even with changeability, having the right approach, we can access, for example, trustless token transferring, trustless liquidity providing and trustless token swapping.
 
-Extremal decentralization with limited changeability is the answer and solution.
+Extremal decentralization when realizing limited changeability is the answer and solution.
 
 The constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized way.
 
