@@ -84,7 +84,7 @@ Actually, limited changeability of codebase is not a bad thing since all we need
 
 Extremal decentralization is the answer and solution.
 
-The construction (codebase) can have variables when values of these variables are changed only in an extremely decentralized way.
+The constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized way.
 
 
 
