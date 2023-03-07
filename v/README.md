@@ -405,7 +405,7 @@ Importantly, even though not each Voter might vote, and plus, a Voter might spen
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $576 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion — as rewards for block and transaction fees.*
 
 This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
 
@@ -416,9 +416,9 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current true-decentralization isn't the one of the extremely-high level but at the same time is extremely expensive.
+As we can see, current decentralization isn't the one of the extremely-high level but at the same time is extremely expensive.
 
-We can reach true-decentralization of the extremely-high level for the extremely-low costs.
+We can reach extremal decentralization and extremal sustainability for extremely-low costs.
 
 
 
@@ -535,7 +535,7 @@ As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> mor
 
  
 <br>
-So we can surely reach true-decentralization of an extremely-high level and extremal sustainability for extremely-low costs.
+So we can surely reach extremal decentralization and extremal sustainability for extremely-low costs.
 <br><br>
 
 
