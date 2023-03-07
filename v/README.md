@@ -763,14 +763,13 @@ Also, more importantly, Bitcoin, absolutely, isn't ultra sound money because the
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b> Although, nearly the same might be said about Ethereum.
 
-
-Some believe that Bitcoin has its value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
-
 The allegedly incredibly-promising Lightning requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
 Additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — absurd.
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
+
+Some believe that Bitcoin has its value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
 Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
 
