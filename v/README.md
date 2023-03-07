@@ -79,7 +79,7 @@ By the way, permissionlessness is just another word for censorship-resistance, a
 
 <b>About Immutability</b>
 
-Ideally, there should be "no variables that can be tweaked or knobs that can be turned to change the way the system works".
+Ideally, there should be no variables that might be adjusted or code updates to change the way the system works.
 
 But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete — even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. By the way, the functionality of smart-contracts should be updated in a different way than it is now.
 
