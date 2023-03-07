@@ -554,15 +554,15 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 * as a Validator (node running)
 * as a Developer (protocol maintenance and upgrades).
 
-On the Vote Blockchain, there are the maximum for the number of positions of Contributor.
+On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum is 150 positions and this number can be changed through democratic voting (Competitive Quadratic Voting).
+At the start, the maximum number is 150 (positions) and this number can be changed through democratic voting (Competitive Quadratic Voting).
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each candidate/applicant for a position of Contributor must find a way to prove their qualification/usefulness for the Vote blockchain in order to become Contributor and for this can use <b>Hyde Park</b>.
+Each candidate/applicant for a position of Contributor must find a way to prove their qualification and usefulness for the Vote blockchain in order to become Contributor and for this can use <b>Hyde Park</b>.
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
