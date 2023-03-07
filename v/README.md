@@ -418,7 +418,7 @@ Also, for reference,
 
 As we can see, current decentralization isn't the one of the extremely-high level but at the same time is extremely expensive.
 
-We can reach extremal decentralization and extremal sustainability for extremely-low costs.
+We can reach extremal decentralization and sustainability for extremely-low costs.
 
 
 
@@ -525,17 +525,16 @@ Importantly, even 3 honest nodes (validators) are enough for such a Solana-type 
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely-sustainable, meaning, extremely hard, at best impossible, to stop.
 
-Actually, these 150 extremely-decentralized (extremely-autonomous) Validators – which are extremely motivated to work honestly and which are selected and rotated through democratic, massive voting – might be  the sufficient condition for a blockchain to be considered extremely-decentralized and extremely-sustainable.
-<br><br>
+
 As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than, for example, the Bitcoin blockchain.
-<br><br>
+
 
 
 > <p>&nbsp &nbsp More than <b>170 times (16,800.00%) more efficient than the Bitcoin blockchain</b>
 
  
 <br>
-So we can surely reach extremal decentralization and extremal sustainability for extremely-low costs.
+So we can surely reach extremal decentralization and sustainability for extremely-low costs.
 <br><br>
 
 
