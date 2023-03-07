@@ -526,13 +526,10 @@ Importantly, even 3 honest nodes (validators) are enough for such a Solana-type 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely-sustainable, meaning, extremely hard, at best impossible, to stop.
 
 
-As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> more efficient than, for example, the Bitcoin blockchain.
+As a result, the blockchain might be extremely efficient.
 
+*If to spouse that such a blockchain's market capitalization would be $20 trillion, the overall costs would still be just under the same $500 million (3*150=450). Accounting for a high bandwidth of, say, 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, say, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.*
 
-
-> <p>&nbsp &nbsp More than <b>170 times (16,800.00%) more efficient than the Bitcoin blockchain</b>
-
- 
 <br>
 So we can surely reach extremal decentralization and sustainability for extremely-low costs.
 <br><br>
