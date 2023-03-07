@@ -550,22 +550,20 @@ So we can surely reach extremal decentralization and sustainability for extremel
 
 <h1>6 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receive the extremely generous Automated Donations from Voters.
-
-On the Vote Blockchain, there are the minimum and maximum for the number of positions of Contributor.
-
-The minimum is 150 positions.
-
-At the start, the maximum is 160 positions and this number can be changed through democratic voting (Competitive Quadratic Voting).
-
-Each Contributor is a person (possibly anonymous) with their Public Address.
-
-Each Contributor receives the extremely generous Automated Donations from Voters (~ $3 million per year).
+Contributors are people who may be contributing to the Vote blockchain and receive the extremely generous Automated Donations from Voters — <b> ~ $3 million per year per person</b>.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
 * as a Validator (node running)
 * as a Developer (protocol maintenance and upgrades).
+
+On the Vote Blockchain, there are the maximum for the number of positions of Contributor.
+
+At the start, the maximum is 150 positions and this number can be changed through democratic voting (Competitive Quadratic Voting).
+
+Each Contributor is a person (possibly anonymous) with their Public Address.
+
+Each Contributor receives the extremely generous Automated Donations from Voters (~ $3 million per year).
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
@@ -574,12 +572,12 @@ Each applicant must find a way to prove their qualification/usefulness for the V
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-*Some number of positions of Contributor (say 10) might be taken by specific entities (Public Addresses with multisigs) for funding some public/common goods,*
+*Some additional number of positions of Contributor (say 10) might be taken by specific people's entities (Public Addresses with multisigs) for funding some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be an enough number to start the blockchain  and make the fair airdrop. After making the airdrop, it might be possible to form a final list of 150 Contributors along the way — through democratic voting (Competitive Quadratic Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be an enough number to start the blockchain  and make the fair airdrop, and after which, it might be possible to form a final list of 150 Contributors along the way — through democratic voting (Competitive Quadratic Voting).*
 
 
 
