@@ -85,7 +85,7 @@ But, unfortunately, total immutability of code is an impossible thing in the mod
 
 The constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized/democratic way.
 
-The most right approach is to provide extremal decentralization/democracy when realizing limited changeability.
+The most right approach is to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
 
 
