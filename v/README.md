@@ -79,13 +79,13 @@ By the way, permissionlessness is just another word for censorship-resistance, a
 
 <b>About Immutability</b>
 
-This might seem that ideally, there should be no variables that might be adjusted or updates of code to change the way the system works.
+This might seem that ideally, there should be no variables that might be adjusted or updates of code that might be done in order to change the way the system works.
 
-But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete — even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. By the way, the functionality of smart-contracts should be updated in a different way than it is now.
+But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete — even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. *By the way, the functionality of smart-contracts should be updated in a different way than it is now.*
 
-Actually, limited changeability of codebase is not a bad thing since all we need is trustlessness, permissionlessness and sustainability, and we can get this all thanks to decentralization — even with changeability, having the right approach, we can access, for example, trustless token transferring, trustless liquidity providing and trustless token swapping.
+Actually, limited changeability of codebase is not a bad thing since all we need is trustlessness, permissionlessness and sustainability, and we can get this all thanks to decentralization — so even with changeability, having a right approach, we can access, for example, trustless token transferring, trustless liquidity providing and trustless token swapping.
 
-Extremal decentralization when realizing limited changeability is the answer and solution.
+The right approach is to provide extremal decentralization when realizing limited changeability.
 
 The constitution (codebase) can have variables when values of these variables are changed only in an extremely decentralized way.
 
