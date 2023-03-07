@@ -102,23 +102,9 @@ The Decreasing-Supply, permissionless, decentralized Token is the thing our civi
 
 
 
-<b>About Fundamental Problems of Bitcoin </b>
- 
-Undoubtedly, the creator of Bitcoin, no matter whoever it might be, is outstanding for many reasons.
-
-But why were many fundamental problems of Bitcoin – including the terrible Gini and extremal inefficiency – most likely predefined?
-
-This is because Bitcoin was the first decentralized token and the creator, in order for the Bitcoin blockchain to get started, had to use reliable solutions – not necessarily simultaneously long-termly-efficient but necessarily reliable.
-
-Including, in order for the Bitcoin blockchain to get started, the creator at start had to use the extremely-reliable incentive system, implementing the unproportionally big rewards for the most earliest adopters (miners) and hence predefining the terrible Gini — and also to use the extremely-reliable but unfortunately long-termly-extremely-inefficient consensus, predefining the long-termly extremal inefficiency of the Bitcoin blockchain.
-
-Fortunately, we now have the opportunity to find and use solutions that are both long-termly reliable and long-termly efficient, simultaneously.
-
-*To Bitcoin maximalists, this is important to keep in mind that by assuming that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
 
-
-<b>About Fundamental Problems of All Current Blockchains in More Detail</b>
+<b>About Fundamental Problems of All Current Blockchains</b>
 
 
 <h2 align="center">
