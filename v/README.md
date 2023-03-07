@@ -535,7 +535,7 @@ As a result, the blockchain might be more than <b>170 times (16,800.00%)</b> mor
 
  
 <br>
-So we can surely reach true-decentralization of an extremely-high level (extremal sustainability) for extremely-low costs.
+So we can surely reach true-decentralization of an extremely-high level and extremal sustainability for extremely-low costs.
 <br><br>
 
 
