@@ -81,7 +81,7 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 This might seem that ideally, there should be no variables that might be adjusted or updates of code that might be done in order to change the way the system works.
 
-But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. *By the way, the functionality of smart-contracts should be updated in a different way than it is now.*
+But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains.
 
 The most right approach is to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
