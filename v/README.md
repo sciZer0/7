@@ -530,7 +530,7 @@ As a result, the blockchain might be extremely efficient.
 
 <i>If to spouse that such a blockchain's market capitalization would be $20 trillion, the overall costs would still be just under the same $500 million (3*150=450). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
-<br>
+
 So we can surely reach extremal decentralization and sustainability for extremely-low costs.
 <br><br>
 
@@ -547,7 +547,7 @@ So we can surely reach extremal decentralization and sustainability for extremel
 
 <h1>6 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receive the extremely generous Automated Donations from Voters — <b> ~ $3 million per year per person</b>.
+Contributors are people who may be contributing to the Vote blockchain and daily receiving the extremely generous Automated Donations — <b> ~ $3 million per year per person</b> — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
