@@ -761,7 +761,8 @@ As mentioned above, Bitcoin now isn't really a fixed-supply token because the Bi
 
 Also, more importantly, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
 
-Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b>
+Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b> Although, nearly the same might be said about Ethereum.
+
 
 Some believe that Bitcoin has its value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
