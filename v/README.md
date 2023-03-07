@@ -61,7 +61,7 @@ The main point of blockchain technology is to allow people to build permissionle
 
 Specifically, permissionless ownership systems about storing and transferring value.
 
-Importantly, if you don't want to make/participate in a revolution (in economy, justice and paradigm as whole), you don't need a blockchain.
+Importantly, if you don't want to make/participate in a revolution (in economy, justness and paradigm as whole), you don't need a blockchain.
 
 The revolution, because no today's state would like to allow you to get permissionless access to value.
 
