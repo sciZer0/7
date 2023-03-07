@@ -735,7 +735,7 @@ NFTs are here to stay.
 
 And moreover, in about 50 years, NFTs will most likely be used for these 3 main cases:
 
-1. a main way for creators (incl. singers, writers) to monetize their works
+1. a main way for creators (incl. artists, singers, writers) to monetize their works
 2. a main way for entities (incl. companies, universities, states) to organize their works
 3. a main way for people to flex (a bit more on it below)
 
