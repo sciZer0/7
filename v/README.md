@@ -760,7 +760,7 @@ As we can see, for new blockchains there is a lot of room to improve. Surpassing
 
 Some believe that Bitcoin has its value because Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
-Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection have, and which is the flexing — the ultimate way for people to flex.
+Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection has, and which is the flexing — the ultimate way for people to flex.
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling a unique thing (token) to another one.</b></i>
 
