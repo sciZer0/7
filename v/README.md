@@ -4,10 +4,12 @@ UNBELIEVABLE<br>
 BLOCKCHAIN
 </h1>
 
+
 <p align="center">
-Everything is discussable
+Extremal decentralization
 </p>
 <br>
+
 
 <p align="right"><b>
 Probably,<br> 
@@ -71,7 +73,19 @@ The only way for a blockchain to be extremely-sustainable (really-unstoppable) i
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
 
-By the way, constantly increasing decentralization is not the goal, decentralization is just a tool to reach permissionlessness and sustainability – instead, exactly both these ones, permissionlessness and sustainability are the goal. And of course, permissionlessness is just another word for censorship-resistance, and also of course, both these ones, permissionlessness and sustainability imply trustlessness.
+
+<b>About Immutability</b>
+
+Ideally, there should be "no variables that can be tweaked or knobs that can be turned to change the way the system works".
+
+But, unfortunately, total immutability of code is an impossible thing in the modern world since the project inevitably risks becoming hopelessly obsolete — even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains and moreover smart-contracts being built on these blockchains. By the way, the functionality of smart-contracts should be updated in a different way than it is now.
+
+Actually, limited changeability of codebase is not bad since all we need is trustlessness, permissionlessness and sustainability, and we can get this all thanks to decentralization — even with changeability, having the right approach, we can access trustless token transferring, trustless liquidity providing and trustless token swapping.
+
+Extremal decentralization is the answer and the solution.
+
+The construction (codebase) can have variables when values of the variables are changed only in an extremely decentralized way
+
 
 
 
