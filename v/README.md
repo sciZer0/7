@@ -1,6 +1,6 @@
 <h1 align="center">
 IDEA OF<br>
-AN EXCITING<br>
+THE VOTE<br>
 BLOCKCHAIN
 </h1>
 
@@ -41,7 +41,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <p>&nbsp</p>
 <h2 align="center">Abstract</h2>
 
-<b>About the Exciting Blockchain</b>
+<b>About the Vote Blockchain</b>
 
 This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
 
