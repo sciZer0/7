@@ -410,11 +410,11 @@ The whole trick is that this approach might be efficiently used only by extremel
 <p align="center"><b>For reference, How Solana Works</b></p>
 
 
-At any given moment, the Solana blockchain is storing the full list of all current Validators. 
+At any given moment, the Solana blockchain (each node called Validator) is storing the full list of all current working Validators. 
 
 All the Validators being in the list should have the same hardware capabilities.
 
-Each Validator is a person (possibly anonymous) with their publicly-known Public Address, and exactly this Public Address serves to identify any given Validator in the list.
+Each Validator is a person (possibly anonymous) running Solana' node and having their publicly-known Public Address, and exactly this Public Address serves to identify any given Validator in the list.
 
 <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Full List of All Current Validators:</p>
 
