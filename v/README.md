@@ -54,7 +54,8 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 * with the ideal Gini coefficient
 * with 1 million users
 
-This is all possible thanks, among other things, to leveraging a new approach to consensus.
+This is all possible thanks, among other things, to the use of a new approach to consensus.
+
 
 <b>About Blockchain Technology</b>
 
