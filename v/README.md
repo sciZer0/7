@@ -407,7 +407,7 @@ At the same time, the approach uses Solana's Proof-Of-History mechanism — but 
 The whole trick is that this approach might be efficiently used only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
-<p align="center"><b>For reference, about Solana</b></p>
+<p align="center"><b>For reference, How Solana Works</b></p>
 
 
 At any given moment, the Solana blockchain is storing the full list of all current Validators. 
