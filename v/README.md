@@ -540,7 +540,7 @@ Each candidate/applicant for a position of Contributor must find a way to prove 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-*Some additional number of positions of Contributor (say 10) might be taken by specific people's entities (Public Addresses with multisigs) for funding some public/common goods,*
+*Some additional number of positions of Contributor (say 10) might be taken by specific peopll (Public Addresses with multisigs) for funding some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
