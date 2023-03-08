@@ -1,6 +1,6 @@
 <h1 align="center">
-IDEA OF AN<br>
-UNBELIEVABLE<br>
+IDEA OF A<br>
+MIND-BLOWING<br>
 BLOCKCHAIN
 </h1>
 
@@ -52,7 +52,7 @@ This paper proposes an idea of a new, layer 1, DAO-style blockchain which from d
 * with 50,000 TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
-* with 1 million users
+* with over 1 million users
 
 This is all possible thanks, among other things, to the use of a new approach to consensus.
 
@@ -286,7 +286,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 * with 50,000 TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
-* with 1 million users
+* with over 1 million users
 <p>&nbsp</p>
 
 
@@ -309,9 +309,7 @@ The Hand is the smallest unit of the Vote token.
 
 The whole Maximum Supply (10,000,000 Vote tokens) is created at the Genesis Block.
 
-And right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among 1,000,000 people who become Voters (users).
-
-Through a fair airdrop excluding the multi-accounting.
+And right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among over 1,000,000 people who become Voters (users) — through a fair airdrop excluding the multi-accounting, including every influencer is guaranteed to receive their share.
 
 
 
