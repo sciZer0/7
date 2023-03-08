@@ -469,7 +469,7 @@ Hypothesis/Idea
 
 The hypothesis/idea is that 
 
-1. when the list of all current Validators (possibly anonymous) is known (Solana's approach), and
+1. when the list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
 2.  when the list is limited to 150 Validators, and
 
@@ -481,13 +481,13 @@ The hypothesis/idea is that
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
-7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list and may, by Voters through democratic voting (Competitive Quadratic Voting) be replaced with a Validator from the waiting list, and
+7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list, and
 
 8. when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
-9. <b>then we might consider there is very huge incentives for each Validator to work honestly</b>, and 
+9. <b>then we might suppose there is very huge incentives for each Validator to work honestly</b>, and 
 
-<b>then the wide majority of (or even all) Validators in the list will work honestly.</b> 
+<b>and the wide majority of (or even all) Validators in the list will work honestly.</b> 
 <b>
 And we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, — and replace it with a random number selection algorithm to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
 </b>
