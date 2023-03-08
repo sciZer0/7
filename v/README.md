@@ -441,11 +441,11 @@ Only the leader-Validator can create the block and stream it to other Validators
 
 All other Validators are only verifying the work of the leader-Validator, and then they send their successful verifications – as their "For" votes – back to the Leader.
 
-In other words, all other Validators are voting – each successful verification of the block by a Validator serves as one vote for the consensus algorithm.
+In other words, all other Validators are voting – each successful verification of the block by a Validator serves as one "For" vote for the consensus algorithm.
 
 So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This is a very good thing. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. <i>If this last sentence isn't understandable, relax. Doesn't matter here.</i>
 
-Each leader-Validator is automatically selected (calculated) from the list by a stake-weighted selection algorithm and then is automatically rotated with another Validator in the list, according to the leader schedule, also calculated automatically by the stake-weighted selection algorithm.
+Each leader-Validator is automatically selected from the list and then automatically rotated with another Validator in the list, according to the leader schedule, calculated automatically by the stake-weighted selection algorithm.
 
 
 <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Leader Schedule:</p>
