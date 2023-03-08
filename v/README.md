@@ -485,11 +485,11 @@ The hypothesis/idea is that
 
 8. when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
 
-9. <b>then we might suppose there is very huge incentives for each Validator to work honestly</b>, and 
+9. <b>then we might suppose there are very huge incentives for each Validator to work honestly and and the wide majority of (or even all) Validators in the list will work honestly.</b>
 
-<b>and the wide majority of (or even all) Validators in the list will work honestly.</b> 
+
 <b>
-And we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list, — and replace it with a random number selection algorithm to automatically (1)select (calculate) the leader-Validator from the list and (2)calculate the leader schedule from the list.
+And we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically from the list calculate the Leader Schedule — and replace it with a random number selection algorithm to automatically from the list calculate the leader schedule, providing the same time period in the position of the Leader to all Validators in the list.
 </b>
 <br><br>
 
