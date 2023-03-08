@@ -445,8 +445,7 @@ In other words, all other Validators are voting – each successful verification
 
 So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This is a very good thing. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. <i>If this last sentence isn't understandable, relax. Doesn't matter here.</i>
 
-Each leader-Validator is automatically selected from the list and then automatically rotated with another Validator in the list, according to the leader schedule, calculated automatically by the stake-weighted selection algorithm.
-
+Each Validator is automatically appointed in the position of the Leader and then replaced with another Validator according to the Leader Schedule which is calculated automatically by the stake-weighted selection algorithm.
 
 <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Leader Schedule:</p>
 
