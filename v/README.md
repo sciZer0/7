@@ -41,7 +41,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <p>&nbsp</p>
 <h2 align="center">Abstract</h2>
 
-<b>About the Unbelievable Blockchain</b>
+<b>About the Exciting Blockchain</b>
 
 This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
 
