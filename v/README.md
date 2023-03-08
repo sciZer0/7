@@ -79,7 +79,7 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 The most right approach might be to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
-So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way.
+So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
 
 
 <b>About the Greatest Values</b>
