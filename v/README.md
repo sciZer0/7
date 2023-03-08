@@ -1,6 +1,6 @@
 <h1 align="center">
-IDEA OFAN<br>
-EXCITING<br>
+IDEA OF<br>
+AN EXCITING<br>
 BLOCKCHAIN
 </h1>
 
