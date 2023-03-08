@@ -402,7 +402,7 @@ This new approach allows us to reach consensus extremely efficiently.
 
 The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
-At the same time, the approach includes Solana's Proof-Of-History mechanism — but again, in the  whole, the consensus is happening without stakes.
+At the same time, the approach uses Solana's Proof-Of-History mechanism — but again, consensus is happening without any stakes.
 
 The whole trick is that this approach might be efficiently used only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
 
