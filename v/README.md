@@ -43,7 +43,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 
 <b>About the Vote Blockchain</b>
 
-This paper proposes an idea of a new, layer 1, DAO-style blockchain which from day one is simultaneously:
+This paper proposes an idea of a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
 
 * extremely-decentralized
 * extremely-democratic
