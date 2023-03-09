@@ -300,7 +300,9 @@ The Hand is the smallest unit of the Vote token.
 
 The whole Maximum Supply (10,000,000 Vote tokens) is created at the Genesis Block.
 
-And right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among over 1,000,000 people who become Voters (users) — through a fair airdrop excluding the multi-accounting, including every influencer is guaranteed to receive their share.
+And right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among over 1,000,000 people who become Voters (users).
+
+Through a fair airdrop excluding the multi-accounting.
 
 
 
@@ -350,7 +352,7 @@ The blockchain’s democratic system consists of the following elements:
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked for voting, the less tokens are in real circulation — and this is without using an inflationary practice, unlike traditional staking (incl. staking for POS) which always uses an emission of tokens as an incentive for staking.
 
-From day one, on the Vote blockchain, there are 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
+From day one, on the Vote blockchain, there are over 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
  
 Importantly, even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
