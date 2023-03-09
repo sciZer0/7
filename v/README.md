@@ -471,13 +471,13 @@ The hypothesis/idea is that
 
 1. when the list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
-2.  when the list is limited to 150 Validators, and
+2.  when the list is limited to 250 Validators, and
 
 3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
 4. when each Validator in the list doesn't need to have any money and put it as the stake, and 
 
-5. when each Validator in the list is receiving the extremely generous Automated Donations (~ <b>$3 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving the extremely generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
 
@@ -493,7 +493,7 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 </b>
 <br><br>
 
-Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this 50 fold margin of safety (of 150 Validators, 3*50=150) might be  the sufficient condition for the blockchain to be considered sustainable.
+Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely-sustainable, meaning, extremely hard, at best impossible, to stop.
 
@@ -528,7 +528,7 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 150 (positions) and this number can be changed through democratic voting (Competitive Quadratic Voting).
+At the start, the maximum number is 250 (positions) and this number can be changed through democratic voting (Competitive Quadratic Voting).
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
@@ -539,7 +539,7 @@ Each candidate/applicant for a position of Contributor must find a way to prove 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-*Some additional number of positions of Contributor (say 10) might be taken by specific peopll (Public Addresses with multisigs) for funding some public/common goods,*
+*Some additional number of positions of Contributor might be taken by specific people (Public Addresses with multisigs) for funding some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
