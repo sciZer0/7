@@ -290,13 +290,13 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 
 The whole Maximum Supply is created at the Genesis Block.
 
-Maximum Supply is 10,000,000 Vote tokens.
+The Maximum Supply is 10,000,000 Vote tokens.
 
 Each Vote token is divided into 10,000,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
-There will never be the printing any more.
+There will never be the printing of the Vote token any more.
 
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
