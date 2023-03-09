@@ -288,19 +288,20 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 
 <h1>1 &nbsp Maximum Supply</h1>
 
+The whole Maximum Supply is created at the Genesis Block.
+
 Maximum Supply is 10,000,000 Vote tokens.
 
 Each Vote token is divided into 10,000,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
+There will never be the printing any more.
 
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
 
-The whole Maximum Supply (10,000,000 Vote tokens) is created at the Genesis Block.
-
-And right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among over 1,000,000 people who become Voters (users).
+After creating the Genesis Block right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) for free are equally distributed among over 1,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
@@ -318,8 +319,6 @@ From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, wi
 <h1>4 &nbsp Decreasing Circulating Supply</h1>
 
 The whole Maximum Supply is created at the Genesis Block.
-
-There will never be the printing any more.
 
 Gas Fees are paid in the Vote token (in Hands).
 
