@@ -319,13 +319,11 @@ From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, wi
 
 <h1>4 &nbsp Decreasing Circulating Supply</h1>
 
-The whole Maximum Supply is created at the Genesis Block.
+Transaction Fees are paid in the Vote token (in Hands).
 
-Gas Fees are paid in the Vote token (in Hands).
+All Transaction fees (100%) are burned. 
 
-All Gas fees (100%) are burned. 
-
-This all results in decreasing the Vote token's Circulating Supply from day one.
+This results in decreasing the Vote token's Circulating Supply from day one.
 
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
