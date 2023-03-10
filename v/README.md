@@ -348,9 +348,9 @@ The blockchain’s democratic system consists of the following elements:
 * Hyde Park
  
 <i><b>
-The enormous benefit from voting, among others, is that the more tokens are being staked for voting, the less tokens are in real circulation — and this is without using inflationary practices. 
+The enormous benefit from voting, among others, is that the more tokens are being staked for voting, the less tokens are in real circulation. 
 
-From day one, on the Vote blockchain, there are over 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote. 
+From day one, on the Vote blockchain, there are over 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
  
 Importantly, even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
