@@ -94,7 +94,7 @@ On the other hand, the Bitcoin token is allegedly considered a non-inflationary 
 
 A Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known before.
 
-And such pre-programmed increasing scarcity of a token supply might be better than everything we knew before. 
+And such pre-programmed increasing scarcity of a token's supply might be better than everything we knew before. 
 
 
 <b>About Fundamental Problems of All Current Blockchains</b>
