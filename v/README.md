@@ -561,8 +561,6 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 
 
-
-
 <h1>8 &nbsp Competitive Quadratic Voting</h1>
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
@@ -716,7 +714,7 @@ Of course, for now the Bitcoin blockchain is both permissionless and extremely-s
 
 As mentioned above, Bitcoin now isn't really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-Also, more importantly, Bitcoin, absolutely, isn't ultra sound money because there isn't any pre-programmed decrease of Circulating Supply.
+Also, more importantly, Bitcoin doesn't have any pre-programmed decrease of Circulating Supply.
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency. As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b> Although, nearly the same might be said about Ethereum.
 
