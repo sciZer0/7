@@ -1,9 +1,6 @@
 <h1 align="center">
 IDEA OF A<br>
-MIND-BLOWING<br>
-BLOCKCHAIN WITH<br>
-INCREASING<br>
-SCARCITY 
+MIND-BLOWING 
 </h1>
 
 
@@ -84,7 +81,7 @@ The most right approach might be to provide extremal decentralization/democracy 
 So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
 
 
-<b>About a Token of a New Sort </b>
+<b>About Increasing Scarcity </b>
 
 In Inflationary Economy, there is nothing new and valuable.
 
@@ -94,7 +91,7 @@ On the other hand, the Bitcoin token is allegedly considered a non-inflationary 
 
 A Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known and felt before.
 
-
+Pre-programmed increasing scarcity might be better than everything we knew before. 
 
 
 <b>About Fundamental Problems of All Current Blockchains</b>
