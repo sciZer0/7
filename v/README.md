@@ -82,7 +82,7 @@ The most right approach might be to provide extremal decentralization/democracy 
 So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
 
 
-<b>About the Greatest Values</b>
+<b>About a Token of a New Sort </b>
 
 In Inflationary Economy, there is nothing new and valuable.
 
@@ -90,9 +90,7 @@ All that Inflationary Economy (endless emissions of regular tokens) can finally 
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-More importantly, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
-
-The Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known before — it is fundamentally much better than digital gold.
+A Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known and felt before.
 
 
 
@@ -348,7 +346,7 @@ The blockchain’s democratic system consists of the following elements:
 * Hyde Park
  
 <i><b>
-The enormous benefit from voting, among others, is that the more tokens are being staked for voting, the less tokens are in real circulation — Voters (users) stake their tokens not  in exchange for rewards/interest.  
+The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation — Voters (users) lock up their tokens not in exchange for rewards/interest.  
 
 From day one, on the Vote blockchain, there are over 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
  
