@@ -1,6 +1,6 @@
 <h1 align="center">
 IDEA OF A<br>
-MIND-BLOWINGA<br>
+MIND-BLOWING<br>
 BLOCKCHAIN
 </h1>
 
