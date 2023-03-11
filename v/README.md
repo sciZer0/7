@@ -1,7 +1,9 @@
 <h1 align="center">
-IDEA OF<br>
-THE VOTE<br>
-BLOCKCHAIN
+IDEA OF A<br>
+MIND-BLOWING<br>
+BLOCKCHAIN WITH<br>
+INCREASING<br>
+SCARCITY 
 </h1>
 
 
