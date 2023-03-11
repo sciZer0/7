@@ -1,6 +1,7 @@
 <h1 align="center">
 IDEA OF A<br>
-MIND-BLOWING 
+MIND-BLOWINGA<br>
+BLOCKCHAIN
 </h1>
 
 
@@ -89,9 +90,9 @@ All that Inflationary Economy (endless emissions of regular tokens) can finally 
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-A Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known and felt before.
+A Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known before.
 
-Pre-programmed increasing scarcity might be better than everything we knew before. 
+And such pre-programmed increasing scarcity of a token supply might be better than everything we knew before. 
 
 
 <b>About Fundamental Problems of All Current Blockchains</b>
