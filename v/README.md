@@ -1,5 +1,5 @@
 <h1 align="center">
-IDEA OF A<br>
+IDEA ABOUT A<br>
 MIND-BLOWING<br>
 BLOCKCHAIN
 </h1>
