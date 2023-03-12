@@ -45,10 +45,10 @@ Summarizing, when people create something, there must be absolute freedom for ev
 
 This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
 
-* unprecedentedly-decentralized
-* unprecedentedly-democratic
-* unprecedentedly-sustainable
-* unprecedentedly-efficient
+* extremely-decentralized
+* extremely-democratic
+* extremely-sustainable
+* extremely-efficient
 * with over 50 thousand TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
@@ -77,7 +77,7 @@ This might seem that ideally, in codebase, there should be no variables that mig
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for smart-contracts being built over  and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. 
+By the way, total immutability is especially not good for smart-contracts being built over  and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. 
 
 The most right approach might be to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
@@ -625,6 +625,10 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 Voting on a regular proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
 Voting on a special proposal lasts 2 hours (9,000 slots, each Slot is 0.4 second).
+
+Additionally, in order to be valid, a voting must meet the required 5 percent voter turnout.
+
+
 
 <p><i><b>Any suggestions on Proposals and voting conditions are welcome.</b></i></p>
 
