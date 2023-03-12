@@ -311,7 +311,7 @@ Each social media influencer — who claims their desire — is guaranteed to re
 
 <h1>3 &nbsp Over 50 thousand TPS</h1>
 
-From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
+From day one, the blockchain’s bandwidth is over 50 thousand Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
 
 
