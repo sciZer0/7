@@ -45,10 +45,10 @@ Summarizing, when people create something, there must be absolute freedom for ev
 
 This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
 
-* extremely-decentralized
-* extremely-democratic
-* extremely-sustainable
-* extremely-efficient
+* unprecedentedly-decentralized
+* unprecedentedly-democratic
+* unprecedentedly-sustainable
+* unprecedentedly-efficient
 * with 50,000 TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
