@@ -85,13 +85,15 @@ The most right approach might be to provide extremal decentralization/democracy 
 So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
 
 
-<b>About Increasing of Scarcity </b>
+<b>About the Greatest Values</b>
 
 In Inflationary Economy, there is nothing new and valuable.
 
 All that Inflationary Economy (endless emissions of regular tokens) can finally give us is a devaluation of values and bubbles.
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+
+Moreover, the greatest values in the Universe are not fixed-supply tokens, but decreasing-supply tokens
 
 A Decreasing-Supply, permissionless, decentralized Token with its own dedicated blockchain is the thing our civilization has never known before and is fundamentally much better than digital gold.
 
