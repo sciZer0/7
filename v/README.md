@@ -102,7 +102,7 @@ A **decreasing-supply**, permissionless, decentralized **token** with its own de
 <b>About Fundamental Problems of All Current Blockchains</b>
 
 
-<h2 align="center">f 
+<h2 align="center">
 Six Fundamental<br>
 Problems of All Current<br>
 Blockchains Compared<br>
