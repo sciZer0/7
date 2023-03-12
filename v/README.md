@@ -49,7 +49,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * unprecedentedly-democratic
 * unprecedentedly-sustainable
 * unprecedentedly-efficient
-* with 50,000 TPS
+* with over 50 thousand TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
 * with over 1 million users
@@ -274,7 +274,7 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 * extremely-democratic
 * extremely-sustainable
 * extremely-efficient
-* with 50,000 TPS
+* with over 50 thousand TPS
 * with a Decreasing-Supply Token
 * with the ideal Gini coefficient
 * with over 1 million users
@@ -309,7 +309,7 @@ Each social media influencer — who claims their desire — is guaranteed to re
 
 
 
-<h1>3 &nbsp 50,000 TPS</h1>
+<h1>3 &nbsp Over 50 thousand TPS</h1>
 
 From day one, the blockchain’s bandwidth is 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
