@@ -604,6 +604,8 @@ and,
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
 
+Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
+
 <h1>9 &nbsp Proposals</h1>
 
 On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
@@ -620,14 +622,11 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 * proposal to appoint a person (possibly anonymous) to the position of Contributor
 * proposal to dismiss a person (possibly anonymous) from the position of Contributor
 
-* <b>special proposal</b> to instantly dismiss a person (possibly anonymous) from the position of Contributor
+* <b>emergency proposal</b> to instantly dismiss a person (possibly anonymous) from the position of Contributor
 
 Voting on a regular proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
-Voting on a special proposal lasts 2 hours (9,000 slots, each Slot is 0.4 second).
-
-Additionally, in order to be valid, a voting must meet the required 5 percent voter turnout.
-
+Voting on a emergency proposal lasts 2 hours (9,000 slots, each Slot is 0.4 second).
 
 
 <p><i><b>Any suggestions on Proposals and voting conditions are welcome.</b></i></p>
