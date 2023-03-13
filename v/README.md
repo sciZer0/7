@@ -307,7 +307,9 @@ Each Vote token is divided into 10,000,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
-After creating the Genesis Block, there will never be the printing of the Vote token any more.
+After creating the Genesis Block, no printing of the Vote token is possible.
+
+
 
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
