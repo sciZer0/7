@@ -297,7 +297,9 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 
 <h1>1 &nbsp Maximum Supply</h1>
 
-The whole Maximum Supply is created at the Genesis Block.
+Vote (VOTE) is a native token of the Vote blockchain.
+
+The whole Maximum Supply of the Vote token is created at the Genesis Block.
 
 The Maximum Supply is 10,000,000 Vote tokens.
 
