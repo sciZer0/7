@@ -346,7 +346,7 @@ At best, such an extremely-deflationary nature of tokenomics should result in a 
 <h1>5 &nbspVoting System</h1>
 
 
-The Vote blockchain operates based on direct vote by token holders — meaning, it has a decentralized governance. 
+The Vote blockchain operates based on direct vote by token holders — meaning, it has an extremely-decentralized governance. 
 
 This is a DAO-style blockchain leveraging all benefits and all the best practices of DAOs.
 
