@@ -1,6 +1,6 @@
 <h1 align="center">
 IDEA ABOUT A<br>
-MIND-BLOWING<br>
+UNPRECEDENTED<br>
 BLOCKCHAIN
 </h1>
 
@@ -54,7 +54,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with the ideal Gini coefficient
 * with over 1 million users
 
-This all is possible thanks, among other things, to the use of a new approach to consensus.
+This all, including extremal efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
 
 
 <b>About Blockchain Technology</b>
