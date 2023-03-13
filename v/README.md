@@ -76,7 +76,7 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
-*And of course, this all is a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
+*And also of course, this all is a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
 
 
 <b>About Immutability</b>
@@ -85,7 +85,7 @@ This might seem that ideally, in codebase, there should be no variables that mig
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for smart-contracts being built over  and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. 
+By the way, total immutability is especially not good for smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. 
 
 The most right approach might be to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
