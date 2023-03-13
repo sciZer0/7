@@ -697,7 +697,7 @@ SOME OF MY THOUGHTS
 
 <h1>About DeFi</h1>
 
-In DeFi as it is being made for now, there are also big problems that are fundamental. 
+In DeFi, as it is being made for now, there are also the biggest problems that are fundamental. 
 
 Specifically, there are these 2 fundamental problems,
 
@@ -705,7 +705,7 @@ Specifically, there are these 2 fundamental problems,
 
 * for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds of users.
 
-In order to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
+In order for us to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
 
 
 
