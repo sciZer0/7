@@ -1,5 +1,5 @@
 <h1 align="center">
-IDEA ABOUT A<br>
+IDEA ABOUT AN<br>
 UNPRECEDENTED<br>
 BLOCKCHAIN
 </h1>
@@ -36,7 +36,10 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <p>&nbsp</p>
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
- 
+<p align="center">
+An unprecedented blockchain
+</p>
+<br>
  
 <p>&nbsp</p>
 <h2 align="center">Abstract</h2>
@@ -55,6 +58,10 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with over 1 million users
 
 This all, including extremal efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
+
+*To Bitcoin maximalists, this is important to keep in mind that by assuming that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
+
+
 
 
 <b>About Blockchain Technology</b>
