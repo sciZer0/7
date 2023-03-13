@@ -705,7 +705,7 @@ Specifically, there are these 2 fundamental problems,
 
 * for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds of users.
 
-In order for us to solve these 2 fundamental problems DeFi should be made in another way, and this is beyond the scope of this paper.
+In order for us to solve these 2 fundamental problems, DeFi should be made in another way, and this is beyond the scope of this paper.
 
 
 
