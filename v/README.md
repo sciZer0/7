@@ -6,7 +6,7 @@ BLOCKCHAIN
 
 
 <p align="center">
-Extremal decentralization
+Everything is discussable
 </p>
 <br>
 
