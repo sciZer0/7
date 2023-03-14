@@ -112,7 +112,7 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 
 <h2 align="center">
-Six Fundamental<br>
+Seven Fundamental<br>
 Problems of All Current<br>
 Blockchains Compared<br>
 to the Vote Blockchain
@@ -218,9 +218,23 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
+
 <h3 align="center">Problem 6</h3>
 
-Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
+Problem 6 is that each of the existing blockchain is unable to create the ideal stablecoin — a really decentralized, permissionless, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and where a code bug can never result in losing funds of users, where funds of users are really always safe.
+
+Without the ideal stablecoin, plus having all these unsolvable fundamental problems, getting adoption is really hard, if ever possible.
+
+Ideally, a blockchain must have the ideal stablecoin from day one.
+
+The Vote blockchain ideally solves this problem from day one.
+
+
+
+
+<h3 align="center">Problem 7</h3>
+
+Problem 7 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
 
 Ideally, a blockchain must always create extremely-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system in the long term.
 
