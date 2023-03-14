@@ -41,7 +41,7 @@ An unprecedented blockchain
 </p>
 <br>
  
-<p>&nbsp</p>
+
 <h2 align="center">Abstract</h2>
 
 <b>About the Vote Blockchain</b>
