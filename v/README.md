@@ -265,7 +265,7 @@ With all these fundamental problems that cannot be solved by all the existing bl
 <br>
 <p>
 <b>
-This is a blockchain which is extremely hard to surpass/improve in terms of maximization of decentralization, efficiency and opportunities for developers.
+This is a blockchain which is extremely hard to surpass/improve in each important aspect.
 </b>
 </p>
 <p>&nbsp</p>
