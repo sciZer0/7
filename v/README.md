@@ -256,12 +256,6 @@ With all these fundamental problems that cannot be solved by all the existing bl
  
 <p>&nbsp</p>
 
-<h3 align="center">
-Meet the FIRST<br>
-EXTREMELY-SUSTAINABLE<br>
-& EXTREMELY-EFFICIENT<br> 
-BLOCKCHAIN</b>
-</h3>
 <p>&nbsp</p>
 
 
