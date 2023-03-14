@@ -490,7 +490,7 @@ The hypothesis/idea is that
 
 3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
-4. when each Validator in the list doesn't need to have any money/token and lock up it in the blockchain as their stake, and 
+4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
 5. when each Validator in the list, being a programming engineer, is receiving the extremely generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
 
