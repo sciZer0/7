@@ -224,7 +224,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, over-collateralized, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
 
-Without the ideal stablecoin, plus having all these unsolvable fundamental problems, getting adoption is really hard, if ever possible.
+Without the ideal stablecoin, plus having all these unsolvable fundamental problems, getting adoption for crypto in general is really hard, if ever possible.
 
 Ideally, a blockchain must have the ideal stablecoin from day one.
 
