@@ -72,7 +72,7 @@ Specifically, permissionless ownership systems about storing and transferring va
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
-Also, extremal sustainability for a blockchain implies that it is extremely hard, at best impossible, for any single entity — for any bad actor — to try getting control over the blockchain.
+Also, extremal sustainability for a blockchain implies that it is extremely hard, at best impossible, for any single entity — for any bad actor — to even try getting control over the blockchain.
 
 On the other hand, the main task of developers is to build/make such systems as fast, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
 
