@@ -222,7 +222,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 6</h3>
 
-Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and where a code bug can never result in losing funds of users, where funds of users are really always safe.
+Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, over-collateralized, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
 
 Without the ideal stablecoin, plus having all these unsolvable fundamental problems, getting adoption is really hard, if ever possible.
 
@@ -696,6 +696,21 @@ Eventually, there might probably be people who are searching for the creators el
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
+
+
+
+
+
+<h1>12 &nbsp Ideal Stablecoin</h1>
+ 
+
+From day one, the Vote blockchain has the ideal stablecoin, which is a really decentralized, permissionless, over-collateralized, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
+
+*A bit more detail on this below in the chapter called **About DeFi**.*
+
+
+
+
 
 <br><br><br>
 SOME OF MY THOUGHTS 
