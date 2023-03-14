@@ -52,8 +52,9 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * extremely-democratic
 * extremely-sustainable
 * extremely-efficient
-* with over 50 thousand TPS
+* with over 50,000 TPS
 * with a Decreasing-Supply Token
+* with the ideal stablecoin
 * with the ideal Gini coefficient
 * with over 1 million users
 
@@ -288,8 +289,9 @@ This is a blockchain which is extremely hard to surpass/improve in terms of maxi
 * extremely-democratic
 * extremely-sustainable
 * extremely-efficient
-* with over 50 thousand TPS
+* with over 50,000 TPS
 * with a Decreasing-Supply Token
+* with the ideal stablecoin
 * with the ideal Gini coefficient
 * with over 1 million users
 <p>&nbsp</p>
