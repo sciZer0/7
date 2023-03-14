@@ -393,7 +393,7 @@ Importantly, even though not each Voter might vote, and plus, a Voter might spen
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion — as rewards for block and transaction fees.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion — as rewards for blocks and transaction fees.*
 
 This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
 
