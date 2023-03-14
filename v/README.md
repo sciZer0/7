@@ -86,7 +86,7 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 This might seem that ideally, in codebase, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
-In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable, not to mention codebases of new blockçhains.
+In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is just relative immutability — not to mention codebases of new blockçhains.
 
 By the way, total immutability is especially not good for smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. *A bit more on problems of smart-contracts a bit below.*
 
