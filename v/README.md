@@ -404,9 +404,9 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current decentralization isn't the one of the extremely-high level but at the same time is extremely expensive.
+As we can see, current decentralization isn't the one of an extremely-high level but at the same time is extremely expensive.
 
-We can reach extremal decentralization and sustainability for extremely-low costs.
+The thing is that we can reach extremal decentralization and sustainability for extremely-low costs.
 
 
 
