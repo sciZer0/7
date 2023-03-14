@@ -230,23 +230,12 @@ The Vote blockchain ideally solves this problem from day one.
 
 <p>&nbsp</p>
 
-<p align="center">
-In fact,<br>
-there are also another<br> 
-fundamental problems.
-</p>
 
-<p>&nbsp</p>
+In fact, there are also another fundamental problems.
 
-<p align="center">
-And,<br>
-each blockchain existing in 2023<br>
-is fundamentally unable to solve<br> 
-the fundamental problems.
-</p>
+And, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-<p>&nbsp</p>
-Surely, for now, the industry needs the really locomotive blockchain in order for everything else to be built on it or with taking it into account. And it is not the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it is something fundamentally new.
+Surely, for now, the industry needs the really locomotive blockchain in order for everything else to be built on it or with it taken into account. And it is not the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it is something fundamentally new.
 
 
  
