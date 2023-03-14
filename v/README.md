@@ -183,11 +183,11 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 4</h3>
 
-Problem 4 is the inability of each of the existing blockchains to truly start decreasing its Circulating Supply.
+Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's Circulating Supply.
 
 For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. No one of them is really able to truly start decreasing its Circulating Supply.
 
-Ideally, a blockchain must start decreasing its Circulating Supply from day one.
+Ideally, a blockchain must start decreasing its native token's Circulating Supply from day one.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -222,7 +222,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 6</h3>
 
-Problem 6 is that each of the existing blockchain is unable to create the ideal stablecoin — a really decentralized, permissionless, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and where a code bug can never result in losing funds of users, where funds of users are really always safe.
+Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and where a code bug can never result in losing funds of users, where funds of users are really always safe.
 
 Without the ideal stablecoin, plus having all these unsolvable fundamental problems, getting adoption is really hard, if ever possible.
 
@@ -329,9 +329,9 @@ Each social media influencer — who claims their desire — is guaranteed to re
 
 
 
-<h1>3 &nbsp Over 50 thousand TPS</h1>
+<h1>3 &nbsp Over 50,000 TPS</h1>
 
-From day one, the blockchain’s bandwidth is over 50 thousand Transactions Per Second, with the potential to process 700,000 TPS in the future. 
+From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
 
 
