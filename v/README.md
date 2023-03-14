@@ -516,7 +516,7 @@ Moreover, there are about 200 countries around the world. At best, from one sing
 
 As a result, the blockchain might be extremely efficient.
 
-<i>If to spouse that such a blockchain's market capitalization would be $20 trillion, the overall costs would still be just under the same $500 million per year (3*150=450). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
+<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall costs would still be just the same $500 million per year (2*250=500). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
 So we can surely reach extremal decentralization and sustainability for extremely-low costs.
