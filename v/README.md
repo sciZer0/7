@@ -73,7 +73,7 @@ Specifically, permissionless ownership systems about storing and transferring va
 
 The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make such systems as fast, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
+On the other hand, the main task of developers is to build/make such systems as reliable, fast, secure, decentralized, sustainable  and, of course, efficient as possible.
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
