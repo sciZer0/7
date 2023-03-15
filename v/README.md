@@ -71,7 +71,7 @@ The main point of blockchain technology is to allow people to build permissionle
 
 Specifically, permissionless ownership systems about storing and transferring value.
 
-The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled system – without being under control of any single entity.
+The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled decentralized system – without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make such systems as highly scalable, reliable, fast, secure, decentralized, sustainable  and, of course, efficient as possible.
 
