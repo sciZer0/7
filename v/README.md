@@ -153,6 +153,13 @@ Problem 2 is that on each of the existing blockchains, there is the inequality �
 
 *Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.*
 
+As Vitalik said about the terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?
+
+Although, nearly the same might be said about Ethereum  —  Was Ethereum really a fair launch considering how few people had a chance to even hear about it?
+
+Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the whole initial token emission went to the community.
+
+
 Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
 
 The Vote blockchain ideally solves this problem from day one.
@@ -750,7 +757,7 @@ As mentioned above, Bitcoin now isn't really a fixed-supply token because the Bi
 
 Also, more importantly, Bitcoin doesn't have any pre-programmed decrease of Circulating Supply.
 
-Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency, including extremaly-low bandwidth.  As Vitalik said about the Gini of Bitcoin — <b>was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?</b> Although, nearly the same might be said about Ethereum.
+Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency, including extremaly-low bandwidth.  
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
