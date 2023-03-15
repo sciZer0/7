@@ -37,7 +37,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p align="center">
-An unprecedented blockchain
+unprecedented blockchain
 </p>
 <br>
  
