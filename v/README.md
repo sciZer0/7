@@ -155,7 +155,7 @@ Problem 2 is that on each of the existing blockchains, there is the inequality �
 
 As Vitalik said about the terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?
 
-Although, nearly the same might be said about Ethereum  —  Was Ethereum really a fair launch considering how few people had a chance to even hear about it?
+Although, nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time 1/2 of the supply had already been handed out among less than 7 thousand people by the end of 2014?
 
 Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
