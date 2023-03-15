@@ -714,7 +714,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 From day one, the Vote blockchain has the ideal stablecoin, which is a really decentralized, permissionless, over-collateralized, ultra-stable, safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
 
-The specific details are kept for now.
+Specific details are being held up for now.
 
 *A bit more detail on this below in the chapter called **About DeFi**.*
 
