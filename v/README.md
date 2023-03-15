@@ -28,7 +28,7 @@ Every code created must be open and free – including, each code which happens 
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
-We should form a Creator Donation Culture for giving thanks in tokens to creators of ideas and code.<br>
+We should form Creator Thanksgiving Culture for giving thanks in tokens (donations) to creators of ideas and code.<br>
 
 Summarizing, when people create something, there must be absolute freedom for everyone to surpass it – to improve it.
 
@@ -697,7 +697,7 @@ For example, we might take the code of the Solana blockchain itself as codebase 
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of a Creator Donation Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world might give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations of tokens — including through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world might give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations in tokens — including through buying NFTs of the creators.
 
 <i>
 Eventually, there might probably be people who are searching for the creators eligible for donations, making the lists. 
