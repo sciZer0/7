@@ -58,7 +58,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with the ideal Gini coefficient
 * with over 1 million users
 
-All of it, including extremal efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
+All of it, including extreme efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
 
 *To Bitcoin maximalists, this is important to keep in mind that by assuming that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
@@ -88,7 +88,7 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 By the way, total immutability is especially not good for smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. *A bit more on problems of smart-contracts a bit below.*
 
-The most right approach might be to provide extremal decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
+The most right approach might be to provide extreme decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
 So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
 
@@ -217,7 +217,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-By the way, endless increasing decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and extremal sustainability – and instead, exactly permissionlessness and extremal sustainability, both these ones together, are the goal.
+By the way, endless increasing decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and extreme sustainability – and instead, exactly permissionlessness and extreme sustainability, both these ones together, are the goal.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable (secure).
 
@@ -414,7 +414,7 @@ Also, for reference,
 
 As we can see, current decentralization isn't the one of an extremely-high level but at the same time is extremely expensive.
 
-The thing is that we can reach extremal decentralization and sustainability for extremely-low costs.
+The thing is that we can reach extreme decentralization and sustainability for extremely-low costs.
 
 
 
@@ -526,7 +526,7 @@ As a result, the blockchain might be extremely efficient.
 <i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
-So we can surely reach extremal decentralization and sustainability for extremely-low costs.
+So we can surely reach extreme decentralization and sustainability for extremely-low costs.
 <br><br>
 
 
@@ -760,7 +760,7 @@ As mentioned above, Bitcoin now isn't really a fixed-supply token because the Bi
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decrease of Circulating Supply.
 
-Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extremal inefficiency, including extremaly-low bandwidth.  
+Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extreme inefficiency, including extremaly-low bandwidth.  
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
