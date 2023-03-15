@@ -731,7 +731,7 @@ In DeFi, as it is being made for now, there are also the biggest problems that a
 
 Specifically, there are these 2 fundamental problems,
 
-* for now, state and logic of a DApp are in the same place, so a code bug can (often does) result in losing funds of users
+* for now, state and logic (tokens and code) of a DApp are in the same place: smart-contract, so a code bug can (often does) result in losing funds of users
 
 * for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds of users.
 
