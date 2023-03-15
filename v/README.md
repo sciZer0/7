@@ -28,7 +28,7 @@ Every code created must be open and free – including, each code which happens 
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
-We should form Creator Thanksgiving Culture for giving thanks in tokens (donations) to creators of ideas and code.<br>
+We should form Creator Thanksgiving Culture in order to give thanks in tokens (donations) to creators of ideas and code.<br>
 
 Summarizing, when people create something, there must be absolute freedom for everyone to surpass it – to improve it.
 
