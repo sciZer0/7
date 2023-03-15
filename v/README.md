@@ -157,7 +157,7 @@ As Vitalik said about the terrible Gini of Bitcoin — Was Bitcoin really a fair
 
 Although, nearly the same might be said about Ethereum  —  Was Ethereum really a fair launch considering how few people had a chance to even hear about it?
 
-Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the whole initial token emission went to the community.
+Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
 
 Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
