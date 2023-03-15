@@ -794,6 +794,4 @@ It is just a matter of time that some initiative group of people will create a b
 
 
 <p>&nbsp</p>
-Plus, I have a lot of another ideas, additionally. Anyway, this all is just ideas and opinions that might be discussed. The greatest undeniable facts are here:<br>
-https://github.com/sciZer0/7/tree/main/a
-<p>&nbsp</p>
+
