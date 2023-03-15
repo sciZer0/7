@@ -88,7 +88,7 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 By the way, total immutability is especially not good for smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. *A bit more on problems of smart-contracts a bit below.*
 
-The most right approach might be to provide extreme decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
+As for codebase, the most right approach might be to provide extreme decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
 So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
 
