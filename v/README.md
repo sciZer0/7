@@ -1,6 +1,6 @@
 <h1 align="center">
 IDEA ABOUT<br>
-A PROGRESSIVE<br>
+AN UNORTHODOX<br>
 BLOCKCHAIN
 </h1>
 
@@ -37,7 +37,7 @@ Summarizing, when people create something, there must be absolute freedom for ev
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p align="center">
-Progressive blockchain
+Unorthodox blockchain
 </p>
 <br>
  
