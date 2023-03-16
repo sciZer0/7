@@ -58,7 +58,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with the ideal Gini coefficient
 * with over 1 million users
 
-All of it, including high efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
+All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
 
 *To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
