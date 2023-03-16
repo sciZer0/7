@@ -48,17 +48,17 @@ Unorthodox blockchain
 
 This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
 
-* extremely-decentralized
-* extremely-democratic
-* extremely-sustainable
-* extremely-efficient
+* highly-decentralized
+* highly-democratic
+* highly-sustainable
+* highly-efficient
 * with over 50,000 TPS
 * with a native, Decreasing-Supply Token
 * with the ideal stablecoin
 * with the ideal Gini coefficient
 * with over 1 million users
 
-All of it, including extreme efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
+All of it, including high efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
 
 *To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
@@ -67,11 +67,11 @@ All of it, including extreme efficiency, is possible thanks, among other things,
 
 <b>About Blockchain Technology</b>
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are extremely-sustainable – meaning, whose pre-programmed works are extremely hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are highly hard, at best impossible, to stop.
 
 Specifically, permissionless ownership systems about storing and transferring value.
 
-The only way for a blockchain to be extremely-sustainable (really-unstoppable) is to be a people-ruled decentralized system – without being under control of any single entity.
+The only way for a blockchain to be highly-sustainable (really-unstoppable) is to be a people-ruled decentralized system – without being under control of any single entity.
 
 On the other hand, the main task of developers is to build/make such systems as highly scalable, reliable, fast, secure, decentralized, sustainable  and, of course, efficient as possible.
 
@@ -88,9 +88,9 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 By the way, total immutability is especially not good for smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. *A bit more on problems of smart-contracts and solutions a bit below.*
 
-As for codebase, the most right approach might be to provide extreme decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
+As for codebase, the most right approach might be to provide high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
-So codebase (constitution) can have variables when values of these variables are changed only in an extremely decentralized/democratic way — and can have updates when these updates are accepted also in  an extremely decentralized/democratic way.
+So codebase (constitution) can have variables when values of these variables are changed only in an highly decentralized/democratic way — and can have updates when these updates are accepted also in  an highly decentralized/democratic way.
 
 
 <b>About the Greatest Values</b>
@@ -129,9 +129,9 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-The whole thing is that *– we can see this below –* only an extremely-democratic blockchain is able to be extremely-efficient – plus, remaining extremely-decentralized and extremely-sustainable.
+The whole thing is that *– we can see this below –* only an highly-democratic blockchain is able to be highly-efficient – plus, remaining highly-decentralized and highly-sustainable.
 
-Ideally, blockchains must be extremely-democratic from day one and exactly people (users) must rule the blockchains.
+Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -217,9 +217,9 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-By the way, endless increasing decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and extreme sustainability – and instead, exactly permissionlessness and extreme sustainability, both these ones together, are the goal.
+By the way, endless increasing decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and high sustainability – and instead, exactly permissionlessness and high sustainability, both these ones together, are the goal.
 
-Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining extremely-decentralized, extremely-democratic and extremely-sustainable (secure).
+Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic and highly-sustainable (secure).
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -245,7 +245,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 7 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
 
-Ideally, a blockchain must always create extremely-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system in the long term.
+Ideally, a blockchain must always create highly-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system in the long term.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -273,7 +273,7 @@ With all these fundamental problems that cannot be solved by all the existing bl
 <br>
 <p>
 <b>
-This is a blockchain which is extremely hard to surpass/improve in each important aspect.
+This is a blockchain which is highly hard to surpass/improve in each important aspect.
 </b>
 </p>
 <p>&nbsp</p>
@@ -287,10 +287,10 @@ This is a blockchain which is extremely hard to surpass/improve in each importan
 <p><b>Next-Gen Layer 1 Blockchain</b></p>
 <b>FROM DAY ONE</b><br>
 
-* extremely-decentralized
-* extremely-democratic
-* extremely-sustainable
-* extremely-efficient
+* highly-decentralized
+* highly-democratic
+* highly-sustainable
+* highly-efficient
 * with over 50,000 TPS
 * with a native, Decreasing-Supply Token
 * with the ideal stablecoin
@@ -351,7 +351,7 @@ This results in decreasing the Vote token's Circulating Supply from day one.
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
 
-At best, such an extremely-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
+At best, such an highly-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
 
@@ -359,7 +359,7 @@ At best, such an extremely-deflationary nature of tokenomics should result in a 
 <h1>5 &nbspVoting System</h1>
 
 
-The Vote blockchain operates based on direct vote by token holders — meaning, it has an extremely-decentralized governance. 
+The Vote blockchain operates based on direct vote by token holders — meaning, it has an highly-decentralized governance. 
 
 This is a DAO-style blockchain leveraging all benefits and all the best practices of DAOs.
 
@@ -403,7 +403,7 @@ Importantly, even though not each Voter might vote, and plus, a Voter might spen
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion — as rewards for blocks and transaction fees.*
 
-This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is extremely expensive.
+This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. It is highly expensive.
 
 <p><i>
 Also, for reference,
@@ -412,22 +412,22 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current decentralization isn't the one of an extremely-high level but at the same time is extremely expensive.
+As we can see, current decentralization isn't the one of an highly-high level but at the same time is highly expensive.
 
-The thing is that we can reach extreme decentralization and sustainability for extremely-low costs.
+The thing is that we can reach high decentralization and sustainability for highly-low costs.
 
 
 
 
 ## New Approach to Consensus or Extremely Efficient True-Decentralization
 
-This new approach allows us to reach consensus extremely efficiently.
+This new approach allows us to reach consensus highly efficiently.
 
 The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
 At the same time, the approach uses Solana's Proof-Of-History mechanism — but again, consensus is happening without any stakes.
 
-The whole trick is that this approach might be efficiently used only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole trick is that this approach might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, How Solana Works</b></p>
@@ -500,9 +500,9 @@ The hypothesis/idea is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving the extremely generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving the highly generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
 
-6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these extremely generous Automated Donations, and
+6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
 7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list, and
 
@@ -518,15 +518,15 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 
 Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — extremely-autonomous Validator — and this would make the whole system extremely-sustainable, meaning, extremely hard, at best impossible, to stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly-sustainable, meaning, highly hard, at best impossible, to stop.
 
 
-As a result, the blockchain might be extremely efficient.
+As a result, the blockchain might be highly efficient.
 
 <i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
-So we can surely reach extreme decentralization and sustainability for extremely-low costs.
+So we can surely reach high decentralization and sustainability for highly-low costs.
 <br><br>
 
 
@@ -542,7 +542,7 @@ So we can surely reach extreme decentralization and sustainability for extremely
 
 <h1>6 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receiving daily the extremely generous Automated Donations — <b>in total ~ $3 million per year per person</b> — from Voters.
+Contributors are people who may be contributing to the Vote blockchain and receiving daily the highly generous Automated Donations — <b>in total ~ $3 million per year per person</b> — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -754,15 +754,15 @@ And moreover, in about 50 years, NFTs will most likely be used for these 3 main 
 
 <h1>About Bitcoin</h1>
 
-Of course, for now the Bitcoin blockchain is both permissionless and extremely-sustainable. But, it might have been extremely-sustainable only until some moment.
+Of course, for now the Bitcoin blockchain is both permissionless and highly-sustainable. But, it might have been highly-sustainable only until some moment.
 
 As mentioned above, Bitcoin now isn't really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decrease of Circulating Supply.
 
-Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extreme inefficiency, including extremely-low bandwidth.  
+Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and high inefficiency, including highly-low bandwidth.  
 
-The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
+The allegedly incredibly-promising Lightning, conceived to solve the problem of highly-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
@@ -788,7 +788,7 @@ As mentioned above, there are even more of fundamental problems than described h
 
 Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-All the fundamental problems of the blockchain industry can be solved only by extremely-decentralized and extremely-democratic blockchains, one of which, for example, the Vote blockchain is.
+All the fundamental problems of the blockchain industry can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 It is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
