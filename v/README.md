@@ -772,11 +772,11 @@ Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (his
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling a unique thing (token) to another one.</b></i>
 
-So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is a NFT.
+So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is much like a NFT.
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have a more price.
 
-Probably, one Satoshi is like one NFT — much like one NFT of a unique art collection. 
+Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
 
 By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.
 
