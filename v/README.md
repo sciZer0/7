@@ -60,7 +60,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 
 All of it, including extreme efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
 
-*To Bitcoin maximalists and other religious people, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
+*To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
 
 
