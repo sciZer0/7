@@ -421,11 +421,11 @@ The thing is that we can reach high decentralization and sustainability for high
 
 This new consensus mechanism allows us to reach consensus highly efficiently.
 
-The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
+The new consensus doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
-At the same time, the approach uses Solana's Proof-Of-History mechanism and is much like POS — but again, consensus is happening without any stakes.
+At the same time, the new consensus mechanism uses Solana's Proof-Of-History mechanism and is much like Solana's POS consensus mechanism — but again, consensus is happening without any stakes.
 
-The whole trick is that this approach might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole trick is that this consensus might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
 
 <p align="center"><b>For reference, How Solana Works</b></p>
