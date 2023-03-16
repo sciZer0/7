@@ -30,7 +30,7 @@ Everyone must always feel free to use other people’s ideas and code in order t
 
 We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of ideas and code.<br>
 
-Summarizing, when people create something (ideas/code), there must be absolute freedom for everyone to surpass it — to improve it.
+Summarizing, when people create something (idea/code), there must be absolute freedom for everyone to surpass it — to improve it.
 
 
 <p>&nbsp</p>
