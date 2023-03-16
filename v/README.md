@@ -58,7 +58,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with the ideal Gini coefficient
 * with over 1 million users
 
-All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new approach to consensus.
+All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
 
 *To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
@@ -393,7 +393,7 @@ Importantly, even though not each Voter might vote, and plus, a Voter might spen
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * A Lot of Room To Improve
-* New Approach to Consensus or Extremely Efficient True-Decentralization
+* New Consensus Mechanism or Extremely Efficient True-Decentralization
 
 
 ## A Lot of Room To Improve
@@ -419,13 +419,13 @@ The thing is that we can reach high decentralization and sustainability for high
 
 
 
-## New Approach to Consensus or Extremely Efficient True-Decentralization
+## New Consensus Mechanism or Extremely Efficient True-Decentralization
 
-This new approach allows us to reach consensus highly efficiently.
+This new consensus mechanism allows us to reach consensus highly efficiently.
 
 The approach doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
 
-At the same time, the approach uses Solana's Proof-Of-History mechanism — but again, consensus is happening without any stakes.
+At the same time, the approach uses Solana's Proof-Of-History mechanism and is much like POS — but again, consensus is happening without any stakes.
 
 The whole trick is that this approach might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
