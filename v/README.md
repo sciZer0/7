@@ -516,9 +516,9 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 
 Simply put, we give each Validator extremely generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping-out from the list.
 
-POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing tokens — in the event of automatic stake-slashing. Greed-Pushed Consensus.
+POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing tokens — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing the stream of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. A-lot-of-Greed-Pushed Consensus, and what is good, without a need to stake any tokens.
+New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing the stream of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. A-lot-of-Greed-Driven Consensus.
 
 
 Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
