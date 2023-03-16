@@ -756,7 +756,7 @@ And moreover, in about 50 years, NFTs will most likely be used for these 3 main 
 
 Of course, for now the Bitcoin blockchain is both permissionless and highly-sustainable. But, it might have been highly-sustainable only until some moment — for example, until there is a token with pre-programmed decreasing of supply.
 
-As mentioned above, Bitcoin now isn't really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+So as mentioned above, Bitcoin now isn't really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
