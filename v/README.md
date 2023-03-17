@@ -513,13 +513,11 @@ Simply put, we give each Validator extremely generous incentives to work honestl
 
 POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing tokens — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing the stream of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. A-lot-of-Greed-Driven Consensus.
-
+New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing the huge stream of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.
 
 Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to stop.
-
 
 As a result, the blockchain might be highly efficient.
 
