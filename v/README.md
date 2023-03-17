@@ -524,8 +524,7 @@ Just a small part of the stake<br>
 **Proof Of Future Token Flow**<br>
 **(POFTF)**<br>
 Capital At Risk:<br>
-A whole future huge flow of<br>
-tokens for years
+A whole future huge flow of tokens for years
 
 
 Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
