@@ -67,7 +67,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 <b>About Blockchain Technology</b>
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are highly hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to stop.
 
 Specifically, permissionless ownership systems about storing and transferring value.
 
@@ -271,7 +271,7 @@ With all these fundamental problems that cannot be solved by all the existing bl
 <br>
 <p>
 <b>
-This is a blockchain which is highly hard to surpass/improve in each important aspect.
+This is a blockchain which is extremely-hard to surpass/improve in each important aspect.
 </b>
 </p>
 <p>&nbsp</p>
@@ -412,7 +412,7 @@ Also, for reference,
 
 As we can see, current decentralization isn't the one of an highly-high level but at the same time is highly expensive.
 
-The thing is that we can reach high decentralization and sustainability for highly-low costs.
+The thing is that we can achieve high decentralization and sustainability for extremely-low costs.
 
 
 
@@ -523,7 +523,7 @@ New Consensus: Why would ever a Validator work honestly? It is because he/she is
 
 Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly-sustainable, meaning, highly hard, at best impossible, to stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to stop.
 
 
 As a result, the blockchain might be highly efficient.
@@ -531,7 +531,7 @@ As a result, the blockchain might be highly efficient.
 <i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
-So we can surely reach high decentralization and sustainability for highly-low costs.
+So we can surely achieve high decentralization and sustainability for extremely-low costs.
 <br><br>
 
 
@@ -765,9 +765,9 @@ So, as mentioned above, Bitcoin now isn't really a fixed-supply token because th
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
-Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and high inefficiency, including highly-low bandwidth.  
+Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and high inefficiency, including extremaly-low bandwidth.  
 
-The allegedly incredibly-promising Lightning, conceived to solve the problem of highly-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
+The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
