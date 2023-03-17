@@ -83,6 +83,9 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
+*And also of course, this all is a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
+
+
 
 <b>About Immutability</b>
 
