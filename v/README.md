@@ -54,7 +54,6 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * highly-efficient
 * with over 50,000 TPS
 * with a native, Decreasing-Supply Token
-* with the ideal stablecoin
 * with the ideal Gini coefficient
 * with over 1 million users
 
@@ -118,7 +117,7 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 
 <h2 align="center">
-Seven Fundamental<br>
+Six Fundamental<br>
 Problems of All Current<br>
 Blockchains Compared<br>
 to the Vote Blockchain
@@ -235,22 +234,12 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
+
+
+
 <h3 align="center">Problem 6</h3>
 
-Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, over-collateralized, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
-
-Without the ideal stablecoin, plus having all these unsolvable fundamental problems, getting adoption for crypto in general is really hard, if ever possible.
-
-Ideally, a blockchain must have the ideal stablecoin from day one.
-
-The Vote blockchain ideally solves this problem from day one.
-
-
-
-
-<h3 align="center">Problem 7</h3>
-
-Problem 7 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
+Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
 
 Ideally, a blockchain must always create highly-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system in the long term.
 
@@ -716,22 +705,6 @@ Eventually, there might probably be people who are searching for the creators el
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
-
-
-
-
-
-<h1>12 &nbsp Ideal Stablecoin</h1>
- 
-
-From day one, the Vote blockchain has the ideal stablecoin, which is a really decentralized, permissionless, over-collateralized, ultra-stable, safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
-
-Specific details are being held up for now.
-
-*A bit more detail on this below in the chapter called **About DeFi**.*
-
-
-
 
 
 <br><br><br>
