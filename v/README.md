@@ -80,15 +80,15 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 <b>About Immutability</b>
 
-This might seem that ideally, in codebase, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
+This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but just relative immutability — not to mention codebases of new blockçhains.
 
 By the way, total immutability is especially not good for smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. *A little more on problems of smart-contracts and solutions a bit below.*
 
-As for codebase, the most right approach might be to provide high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
+As for codebase of blockchain, the most right approach might be to provide fully-automated, high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
-So codebase (constitution) can have variables when values of these variables are changed only in an highly decentralized/democratic way — and can have updates when these updates are accepted also in  an highly decentralized/democratic way.
+So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way.
 
 
 <b>About the Greatest Values</b>
