@@ -334,8 +334,6 @@ After creating the Genesis Block right away, through a fair airdrop, all the 10,
 
 Through a fair airdrop excluding the multi-accounting.
 
-Each social media influencer — who claims their desire — is guaranteed to receive their share in the Vote token.
-
 
 
 <h1>3 &nbsp Over 50,000 TPS</h1>
