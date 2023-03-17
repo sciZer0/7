@@ -788,7 +788,7 @@ Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (his
 
 So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning each of the Bitcoin tokens is much like a NFT.
 
-Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have a more price. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have a more price.
+Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
 
 Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
 
