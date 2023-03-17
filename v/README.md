@@ -774,7 +774,7 @@ So, as mentioned above, Bitcoin now isn't really a fixed-supply token because th
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
-Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and high inefficiency, including extremaly-low bandwidth.  
+Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extreme inefficiency, including extremaly-low bandwidth.  
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
