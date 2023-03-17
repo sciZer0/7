@@ -513,7 +513,7 @@ Simply put, we give each Validator extremely generous incentives to work honestl
 
 POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing tokens — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing the huge stream of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.
+New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
 **Proof Of Stakes**<br>
@@ -521,19 +521,18 @@ New Consensus: Why would ever a Validator work honestly? It is because he/she is
 Capital At Risk:<br>
 Just a small part of the stake<br>
 **–-**<br>
-**Proof Of Future Token Flow**<br>
-**(POFTF)**<br>
+**Proof Of Token Flow**<br>
+**(POTF)**<br>
 Capital At Risk:<br>
-A whole future huge flow of tokens for years
+A huge flow of tokens for years<br><br>
 
-
-Importantly, even 3 honest nodes (validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
+Importantly, even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator — and this would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to stop.
 
 As a result, the blockchain might be highly efficient.
 
-<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
+<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of over 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
 So we can surely achieve high decentralization and sustainability for extremely-low costs.
