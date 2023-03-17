@@ -289,7 +289,6 @@ This is a blockchain which is extremely-hard to surpass/improve in each importan
 * highly-efficient
 * with over 50,000 TPS
 * with a native, Decreasing-Supply Token
-* with the ideal stablecoin
 * with the ideal Gini coefficient
 * with over 1 million users
 <p>&nbsp</p>
