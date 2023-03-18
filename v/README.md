@@ -516,13 +516,13 @@ POS Consensus: Why would ever a Validator work honestly? It is because he/she is
 New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
-**Old Consensus**<br>
+**Old Consensus:**<br>
 **Proof Of Stakes**<br>
 **(POS)**<br>
 Capital At Risk:<br>
 Just a small part of stake, if any — or a small amount of reward<br>
 **–-**<br>
-**New Consensus**<br>
+**New Consensus:**<br>
 **Proof Of Token Flow**<br>
 **(POTF)**<br>
 Capital At Risk:<br>
