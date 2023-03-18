@@ -55,7 +55,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with over 50,000 TPS
 * with a native, Decreasing-Supply Token
 * with the ideal Gini coefficient
-* with over 1 million users
+* with over 10 million users
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
 
@@ -290,7 +290,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each importan
 * with over 50,000 TPS
 * with a native, Decreasing-Supply Token
 * with the ideal Gini coefficient
-* with over 1 million users
+* with over 10 million users
 <p>&nbsp</p>
 
 
@@ -318,7 +318,7 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
 
-After creating the Genesis Block right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) are for free equally distributed among over 1,000,000 people who become Voters (users).
+After creating the Genesis Block right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) are for free equally distributed among over 10 million people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting.
 
@@ -366,7 +366,7 @@ The blockchain’s democratic system consists of the following elements:
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation — Voters (users) lock up their tokens not in exchange for rewards/interest.  
 
-From day one, on the Vote blockchain, there are over 1,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
+From day one, on the Vote blockchain, there are over 10 million Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
  
 Importantly, even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
