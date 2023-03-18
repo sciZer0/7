@@ -74,7 +74,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to stop.
 
-Specifically, permissionless ownership systems about storing and transferring tokens (value).
+Specifically, permissionless ownership systems about storing and transferring tokens (values).
 
 The only way for a blockchain to be highly-sustainable (really-unstoppable) is to be a people-ruled decentralized system – without being under control of any single entity.
 
