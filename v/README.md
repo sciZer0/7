@@ -61,6 +61,8 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 *To Bitcoin maximalists — being, in reality, just another sort of religious people — this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
+*All we need is just a new idea, a more great idea.*
+
 *Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?*
 
 <p align="center">
