@@ -153,8 +153,6 @@ For reference, Solana's routine – on its best times – was about 30 million t
 
 <h3 align="center">Problem 2</h3>
 
-Problem 2 comes from Problem 1.
-
 Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
 
 *For reference,*
@@ -199,7 +197,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's Circulating Supply.
 
-For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. But in reality, no one of them and other existing blockchains is able to start decreasing its native token's Circulating Supply.
+For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. At the same time, no one of them or other existing blockchains is able to start decreasing its native token's Circulating Supply.
 
 Ideally, a blockchain must start decreasing its native token's Circulating Supply from day one.
 
@@ -225,7 +223,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-By the way, endless increasing decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and high sustainability – and instead, exactly permissionlessness and high sustainability, both these ones together, are the goal.
+By the way, endless increasing of decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and high sustainability – and instead, exactly permissionlessness and high sustainability, both these ones together, are the goal.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic and highly-sustainable (secure).
 
@@ -305,7 +303,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each importan
 
 Vote (VOTE) is a native token of the Vote blockchain.
 
-The whole Maximum Supply of the Vote token is created at the Genesis Block.
+The Maximum Supply of the Vote token is created at the Genesis Block.
 
 The Maximum Supply is 10,000,000 Vote tokens.
 
@@ -366,7 +364,7 @@ The blockchain’s democratic system consists of the following elements:
 * Hyde Park
  
 <i><b>
-The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation — improperly, Voters (users) lock up their tokens not in exchange for rewards/interest.  
+The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation — importantly, Voters (users) lock up their tokens not in exchange for rewards/interest.  
 
 From day one, on the Vote blockchain, there are over 10 million Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
  
@@ -416,9 +414,9 @@ The thing is that we can achieve high decentralization and sustainability for ex
 
 ## New Consensus Mechanism or Extremely Efficient True-Decentralization
 
-This new consensus mechanism allows us to reach consensus highly efficiently.
+This new consensus mechanism allows us to achieve consensus highly efficiently.
 
-The new consensus doesn't require stakes from Validators (unlike POS) and of course doesn't require doing massive hash-works (unlike POW). 
+The new consensus doesn't require stakes from Validators (unlike POS) and,  of course, doesn't require doing massive hash-works (unlike POW). 
 
 At the same time, the new consensus mechanism uses Solana's Proof-Of-History mechanism and is much like Solana's POS consensus mechanism — but again, consensus is happening without any stakes.
 
@@ -497,7 +495,7 @@ The hypothesis/idea is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving the highly generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving highly-generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -513,7 +511,7 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 </b>
 <br><br>
 
-Simply put, we give each Validator extremely generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping-out from the list.
+Simply put, we give each Validator highly-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping-out from the list.
 
 POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing tokens — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
