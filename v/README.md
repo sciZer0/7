@@ -59,7 +59,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
 
-*To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
+*To Bitcoin maximalists, the main benefit of blockchain technology is not providing a fixed supply token, but a decreasing-supply token. And, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
 *All we need is just a new idea, a more great idea.*
 
@@ -73,6 +73,8 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 
 <b>About Blockchain Technology</b>
+
+
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to stop.
 
@@ -760,6 +762,8 @@ More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing
 Also, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extreme inefficiency, including extremaly-low bandwidth.  
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
+
+By the way, additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — also absurd.
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
