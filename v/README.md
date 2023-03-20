@@ -53,13 +53,15 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * highly-sustainable
 * highly-efficient
 * with over 50,000 TPS
-* with a native, Decreasing-Supply Token
+* with a native, decreasing-supply token
 * with the ideal Gini coefficient
 * with over 10 million users
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
 
-*To Bitcoin maximalists, this is important to keep in mind (1)that creating a fixed-supply token is not the most cool thing blockchain technology is able of, and plus, (2)that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.*
+*To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.*
+
+*All we need is a new, more great idea.*
 
 *Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?*
 
@@ -288,7 +290,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-sustainable
 * highly-efficient
 * with over 50,000 TPS
-* with a native, Decreasing-Supply Token
+* with a native, decreasing-supply token
 * with the ideal Gini coefficient
 * with over 10 million users
 <p>&nbsp</p>
