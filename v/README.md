@@ -59,7 +59,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
 
-*To Bitcoin maximalists, the main benefit of blockchain technology is not providing a fixed-supply token, but a decreasing-supply token. And, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
+*To Bitcoin maximalists, this is important to keep in mind that the main benefit of blockchain technology is not providing a fixed-supply token, but a decreasing-supply token. And, plus, by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress — incl. progress drastically.*
 
 *Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?*
 
