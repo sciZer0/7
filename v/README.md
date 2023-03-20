@@ -761,7 +761,7 @@ Also, the Bitcoin blockchain has the irremovable fundamental flaws, including th
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
-By the way, additionally, most bitcoin trading takes place on centralized exchanges, which also makes this all — according to the main point of blockchain technology — also absurd.
+By the way, additionally, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
