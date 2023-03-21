@@ -749,7 +749,7 @@ So, as mentioned above, Bitcoin now isn't really a fixed-supply token because th
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
-Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than others.
+Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others.
 
 Plus, the Bitcoin blockchain has the irremovable fundamental flaws, including the terrible Gini and extreme inefficiency, including extremaly-low bandwidth.  
 
