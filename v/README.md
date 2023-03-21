@@ -1,6 +1,6 @@
 <h1 align="center">
-IDEA ABOUT<br>
-AN UNORTHODOX<br>
+IDEA ABOUT A<br>
+REVOLUTIONARY<br>
 BLOCKCHAIN
 </h1>
 
@@ -12,7 +12,7 @@ Everything is discussable
 
 
 <p align="right"><b>
-Probably,<br> 
+Absolutely,<br>
 each blockchain<br>
 existing in 2023 is<br>
 doomed by its design<br>
@@ -37,7 +37,7 @@ Summarizing, when people create something that may be digital (incl. idea/code),
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p align="center">
-Unorthodox blockchain
+Revolutionary blockchain
 </p>
 <br>
  
@@ -67,7 +67,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
   <img src="/assets/images/nokia.png"/>
 </p>
 
-
+*Don't be an orthodox person.*
 
 
 <b>About Blockchain Technology</b>
