@@ -61,9 +61,9 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 *To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.*
 
-*All we need is a new, more great idea.*
+*All we need is a new, greater idea. The greater idea than Bitcoin's triple idea of (1) a fixed-supply token,  (2) total immutability of the codebase and (3) robust but extremely-inefficient  consensus — first two ones of which, (1) and (2), by the way, do not even exist in reality at the moment.*
 
-*Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?*
+*Do you remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?*
 
 <p align="center">
   <img src="/assets/images/nokia.png"/>
