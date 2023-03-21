@@ -685,11 +685,13 @@ Hyde Park is a set of internet sites and protocols (incl. Vote.Governance.Forum,
 
 # About Technologies
 
-Thanks to good people, on the table, there already are good blockchain technologies to use.
+Fortunately, on the table, there already are good blockchain technologies to use.
+
+Hypothesis/Idea
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
-For example, we might take the code of the Solana blockchain itself as codebase and combine it with code of some apps on the Solana blockchain, of course, modifying them a bit.
+For example, we might take code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain, of course, modifying them a bit.
 
 
 
