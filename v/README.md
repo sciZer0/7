@@ -62,7 +62,7 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 
 
-<b>About the Orthodox</b>
+<b>About Surpassing Bitcoin</b>
 
 To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
 
@@ -74,9 +74,9 @@ Remember Nokia with one billion customers and the question in Forbes — CAN ANY
 
 Don't be an orthodox person.
 
-For now, Bitcoin has this idealized triple idea of (1) a fixed-supply token,  (2) immutability of the codebase and (3) robust but extremely-inefficient  consensus — first two ones of which, (1) and (2), by the way, do not even exist in reality at the moment.
+For now, Bitcoin just has this idealized triple idea of (1) a fixed-supply token,  (2) immutability of the codebase and (3) robust but extremely-inefficient  consensus — first two ones of which, (1) and (2), by the way, do not even exist in reality at the moment.
 
-All we need is a new, greater idea of a highly-decentralized,  decreasing-supply token with higly-efficient consensus. And here, the Vote blockchain comes into play.
+In order to surpass the Bitcoin blockchain in each key aspect, all we need is a new, greater idea. For example, the idea about a highly-decentralized, decreasing-supply token with higly-efficient consensus. And here, the Vote blockchain comes into play.
 
 
 <b>About the Vote Blockchain</b>
