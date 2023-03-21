@@ -45,6 +45,23 @@ Revolutionary blockchain
 <h2 align="center">Abstract</h2>
 
 
+<b>About the Vote Blockchain</b>
+
+This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
+
+* highly-decentralized
+* highly-democratic
+* highly-sustainable
+* highly-efficient
+* with over 50,000 TPS
+* with a native, decreasing-supply token
+* with the ideal Gini coefficient
+* with over 10 million users
+
+All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
+
+
+
 
 <b>About Blockchain Technology</b>
 
@@ -62,39 +79,6 @@ On the other hand, the main task of developers is to build/make such systems as 
 
 
 
-<b>About Surpassing Bitcoin</b>
-
-To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
-
-Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
-
-<p align="center">
-  <img src="/assets/images/nokia.png"/>
-</p>
-
-Don't be an orthodox person.
-
-For now, Bitcoin just has this idealized triple idea of (1) a fixed-supply token,  (2) immutability of the codebase and (3) robust but extremely-inefficient  consensus — first two ones of which, (1) and (2), by the way, do not even exist in reality at the moment.
-
-In order to surpass the Bitcoin blockchain in each key aspect, all we need is a new, greater idea. For example, the idea about a highly-decentralized, decreasing-supply token with higly-efficient consensus. And here, the Vote blockchain comes into play.
-
-
-<b>About the Vote Blockchain</b>
-
-This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
-
-* highly-decentralized
-* highly-democratic
-* highly-sustainable
-* highly-efficient
-* with over 50,000 TPS
-* with a native, decreasing-supply token
-* with the ideal Gini coefficient
-* with over 10 million users
-
-All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
-
-
 <b>About Immutability</b>
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
@@ -106,6 +90,7 @@ By the way, total immutability is especially not good for codebases of smart-con
 As for codebase of a blockchain, the most right approach might be to provide fully-automated, high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
 So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way.
+
 
 
 <b>About the Greatest Values</b>
@@ -758,7 +743,13 @@ And moreover, in about 50 years, NFTs will most likely be used for these 3 main 
 
 <h1>About Bitcoin</h1>
 
-For sure, for now, the Bitcoin blockchain is both permissionless and highly-sustainable. But, it might have been highly-sustainable "for sure" only for a while until some moment — for example, until there is a token with pre-programmed decreasing of supply.
+To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
+
+Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
+
+<p align="center">
+  <img src="/assets/images/nokia.png"/>
+</p>
 
 So, as mentioned above, Bitcoin now isn't really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
