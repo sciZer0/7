@@ -97,7 +97,7 @@ So codebase (constitution) of a blockchain can have variables when values of the
 
 In Inflationary Economy, there is nothing new and valuable.
 
-All that Inflationary Economy (endless emissions of regular tokens) can finally give us is devaluations of values and bubbles.
+All that Inflationary Economy (endless emissions of regular tokens) can finally give us is devaluations of tokens (values).
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
