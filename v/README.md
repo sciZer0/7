@@ -743,13 +743,7 @@ And moreover, in about 50 years, NFTs will most likely be used for these 3 main 
 
 <h1>About Bitcoin</h1>
 
-To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
-
-Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
-
-<p align="center">
-  <img src="/assets/images/nokia.png"/>
-</p>
+Some believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
 So, as mentioned above, Bitcoin now isn't really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
@@ -765,7 +759,15 @@ By the way, additionally, most bitcoin trading takes place on centralized exchan
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
-Some believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
+To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
+
+Remember Nokia with one billion customers and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
+
+<p align="center">
+  <img src="/assets/images/nokia.png"/>
+</p>
+
+Forecast
 
 Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection has, and which is the flexing — the ultimate way for people to flex.
 
