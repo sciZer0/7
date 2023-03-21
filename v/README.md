@@ -272,7 +272,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
   <img src="/assets/images/vote.png" height="100"><br>
 </p>
 
-<p><b>Next-Gen Layer 1 Blockchain</b></p>
+<p><b>Next-Gen, Layer 1, DAO-style Blockchain</b></p>
 <b>FROM DAY ONE</b><br>
 
 * highly-decentralized
