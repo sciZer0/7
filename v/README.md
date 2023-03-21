@@ -123,7 +123,7 @@ to the Vote Blockchain
 
 <h3 align="center">Problem 1</h3>
 
-Problem 1 is that we people build blockchains the same way as we built states: 
+Fundamental Problem 1 is that we people build blockchains the same way as we built states: 
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
@@ -145,7 +145,7 @@ For reference, Solana's routine – on its best times – was about 30 million t
 
 <h3 align="center">Problem 2</h3>
 
-Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
+Fundamental Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
 
 *For reference,*
 
@@ -170,7 +170,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
+Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
 Ideally, network congestions, inevitably leading to an increase in transaction fees, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
@@ -187,7 +187,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 4</h3>
 
-Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's Circulating Supply.
+Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's Circulating Supply.
 
 For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. At the same time, no one of them or other existing blockchains is able to start decreasing its native token's Circulating Supply.
 
@@ -203,7 +203,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 5</h3>
 
-Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+Fundamental Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
 This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
 
@@ -231,7 +231,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 6</h3>
 
-Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
+Fundamental Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
 
 Ideally, a blockchain must always create highly-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system in the long term.
 
