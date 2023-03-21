@@ -1,7 +1,7 @@
 <h1 align="center">
-IDEA ABOUT A<br>
+IDEA ABOUT<br>
 REVOLUTIONARY<br>
-BLOCKCHAIN
+BLOCKCHAINS
 </h1>
 
 
