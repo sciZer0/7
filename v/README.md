@@ -320,8 +320,6 @@ Through a fair airdrop excluding the multi-accounting, I have an idea on this.
 
 From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
-*It is possible to use, for example, the Solana blockchain's codebase, having  modified it a bit.*
-
 
 
 
