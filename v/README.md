@@ -246,7 +246,7 @@ In fact, there are also another fundamental problems.
 
 And, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-With all these fundamental problems that cannot be solved by all the existing blockchains, it is for sure that for now, the industry highly needs a new, innovative, driving-force blockchain in order to solve all these problems and for everything else to be built on it or with it taken into account. And it cannot already be the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it should be something fundamentally new —  groundbreaking.
+With all these fundamental problems that cannot be solved by EACH of the existing blockchains, it is for sure that for now, the industry highly needs a new, innovative, driving-force blockchain in order to finally solve all these problems and for everything else to be built on it or with it taken into account. And it cannot already be the Bitcoin blockchain or the Ethereum Blockchain or any other blockchain you know, it should be something fundamentally new —  groundbreaking.
 
 
  
