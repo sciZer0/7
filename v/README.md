@@ -45,6 +45,23 @@ Revolutionary blockchain
 <h2 align="center">Abstract</h2>
 
 
+
+<b>About Blockchain Technology</b>
+
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to stop.
+
+Specifically, permissionless ownership systems about storing and transferring tokens (values).
+
+The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously use the public-private key pair authentication mechanism and be a people-ruled, highly-decentralized system – without being under control of any single entity.
+
+On the other hand, the main task of developers is to build/make such systems as fast, scalable, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
+
+*By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
+
+*And also of course, blockchain technology is a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
+
+
+
 <b>About the Orthodox</b>
 
 To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
@@ -76,25 +93,6 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with over 10 million users
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
-
-
-
-<b>About Blockchain Technology</b>
-
-
-
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to stop.
-
-Specifically, permissionless ownership systems about storing and transferring tokens (values).
-
-The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously use the public-private key pair authentication mechanism and be a people-ruled, highly-decentralized system – without being under control of any single entity.
-
-On the other hand, the main task of developers is to build/make such systems as fast, scalable, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
-
-*By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
-
-*And also of course, blockchain technology is a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
-
 
 
 <b>About Immutability</b>
