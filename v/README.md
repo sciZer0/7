@@ -84,9 +84,9 @@ With blockchain technology, people, for the first time ever, get the opportunity
 
 <b>About Today's States</b>
 
-Nearly each of the existing states is anti-people, and to one or another degree, a despotic regime repressing opportunities of people.
+Nearly each of the existing states is anti-people, and to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — control over people.
 
-Politicians are just actors playing their roles in a play called "Democracy".
+Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
 
 The mainstream choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
 
