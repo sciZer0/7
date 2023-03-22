@@ -780,7 +780,7 @@ Already now, the Bitcoin token isn't really fungible: each Bitcoin has its histo
 
 Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
 
-By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.
+*By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.*
 
 
 
