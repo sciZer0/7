@@ -32,7 +32,7 @@ We should form Creator Thanksgiving Culture to give thanks in tokens (donations)
 
 Summarizing above, when people create something digitizable (incl. idea/code), there must be absolute freedom for everyone to surpass it — to improve it.
 
-Plus, importantly, if you wish the roller coaster to users' money then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless cheap exchanges, but if you wish safety to users' money then you must use the blockchain's codebase for solving these fundamental tasks.
+Plus, importantly, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless cheap exchanges, but if you wish safety to users' funds then you must use the blockchain's codebase for solving these fundamental tasks.
 
 
 <p>&nbsp</p>
@@ -741,8 +741,9 @@ Specifically, there are these 2 fundamental problems,
 
 * for now, necessary upgrades of a DApp involve multisigs that can (often does) result in rug-pulling, i.e. again in losing funds of users.
 
-In order for us to solve these 2 fundamental problems, DeFi should be made in another way, and this is beyond the scope of this paper.
+In order for us to solve these 2 fundamental problems, DeFi should be made another way — the only way.
 
+As mentioned above, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless cheap exchanges, but if you wish safety to users' funds then you must use the blockchain's codebase for solving these fundamental tasks.
 
 
 <h1>About NFTs</h1>
