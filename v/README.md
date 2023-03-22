@@ -30,7 +30,9 @@ Everyone must always feel free to use other people’s ideas and code in order t
 
 We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of ideas and code.<br>
 
-Summarizing, when people create something digitizable (incl. idea/code), there must be absolute freedom for everyone to surpass it — to improve it.
+Summarizing above, when people create something digitizable (incl. idea/code), there must be absolute freedom for everyone to surpass it — to improve it.
+
+Plus, importantly, if you want the roller coaster for your money then you use smart contracts for solving fundamental tasks like trastless stablecoins and trastless bridges, but if you want safety for your money then you use the blockchain's codebase for solving these fundamental tasks.
 
 
 <p>&nbsp</p>
