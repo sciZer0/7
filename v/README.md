@@ -12,7 +12,7 @@ Everything is discussable
 
 
 <p align="right"><b>
-Probably,<br>
+For sure,<br>
 each blockchain<br>
 existing in 2023 is<br>
 doomed by its design<br>
