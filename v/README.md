@@ -37,7 +37,8 @@ Summarizing, when people create something digitizable (incl. idea/code), there m
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p align="center">
-Revolutionary blockchain
+One of<br>
+revolutionary blockchains
 </p>
 <br>
  
