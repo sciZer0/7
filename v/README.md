@@ -300,7 +300,7 @@ The Maximum Supply of the Vote token is created at the Genesis Block.
 
 The Maximum Supply is 10,000,000 Vote tokens.
 
-Each Vote token is divided into 10,000,000,000 Hands.
+Each Vote token is divided into 100,000,000 Hands.
 
 The Hand is the smallest unit of the Vote token.
 
