@@ -147,6 +147,9 @@ As said above, even this fundamental error alone destroys the entire concept of 
 
 Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on this below.</i>
 
+**Importantly, with all the official formulas for Energy that are wrong, in fact for now, our civilization doesn't even understand what Energy is.**
+
+
 ## CONTEXT
 
 As said above, there are the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
