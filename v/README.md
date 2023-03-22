@@ -747,7 +747,7 @@ In short, if you wish the roller coaster to users' funds then you use smart cont
 
 NFTs are here to stay.
 
-And moreover, in about 50 years, NFTs will most likely be used for these 3 main cases:
+Moreover, in about 50 years, NFTs will most likely be used for these 3 main cases:
 
 1. a main way for creators (incl. artists, singers, writers) to monetize their works
 2. a main way for entities (incl. companies, universities, states) to organize their works
