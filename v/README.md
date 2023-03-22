@@ -81,6 +81,17 @@ On the other hand, the main task of developers is to build/make such systems as 
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
 
 
+<b>About Today's States</b>
+
+Nearly each of the existing states is anti-people, and to one or another degree, a despotic regime repressing opportunities of people.
+
+Politicians are just actors playing their roles in a play called "Democracy".
+
+Choosing between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
+
+With blockchain technology, we can create outstandingly good conditions for people and businesses simultaneously.
+
+
 
 <b>About Immutability</b>
 
