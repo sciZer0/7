@@ -665,7 +665,7 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 Voting on a regular proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
-Voting on a emergency proposal lasts 2 hours (9,000 slots, each Slot is 0.4 second).
+Voting on a emergency proposal lasts 3 days (648,000 slots, each Slot is 0.4 second).
 
 
 <p><i><b>Any suggestions on Proposals and voting conditions are welcome.</b></i></p>
