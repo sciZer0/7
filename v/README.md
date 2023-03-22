@@ -32,7 +32,7 @@ We should form Creator Thanksgiving Culture to give thanks in tokens (donations)
 
 Summarizing above, when people create something digitizable (incl. idea/code), there must be absolute freedom for everyone to surpass it — to improve it.
 
-Plus, importantly, if you wish the roller coaster to users' money then you use smart contracts for solving fundamental tasks like trustless stablecoins and trustless bridges, but if you wish safety to users' money then you use the blockchain's codebase for solving these fundamental tasks.
+Plus, importantly, if you wish the roller coaster to users' money then you use smart contracts for solving fundamental tasks like trustless stablecoins and trustless bridges, but if you wish safety to users' money then you must use the blockchain's codebase for solving these fundamental tasks.
 
 
 <p>&nbsp</p>
