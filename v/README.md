@@ -76,10 +76,13 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 On the other hand, the main task of developers is to build/make such systems as fast, scalable, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
 
+
+
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
 
+With blockchain technology, people, for the first time ever, get the opportunity to create something that can not be disrupted.
 
 <b>About Today's States</b>
 
