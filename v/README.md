@@ -22,23 +22,6 @@ doomed by its design<br>
 
 
 
-# Elements of New Ideology
-
-With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things becoming known — because technically, anyone can use these same numbers (digitizable things) at their own.
-
-Change or die.
-
-We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.<br>
-
-Including, we should make lists of creators eligible for donations.
-
-Specifically, each code or idea that becomes known must be free.<br>
-
-And, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
-
-Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
-
-In fact, people and businesses will never stop creating new digitizable things even that become instantly known because there is a strong first mover advantage.
 
 <p>&nbsp</p>
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
