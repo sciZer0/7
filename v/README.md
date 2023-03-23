@@ -30,7 +30,7 @@ Change or die.
 
 We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things, incl. to creators of ideas and code. Also, incl. through buying NFTs of the creators.<br>
 
-Specifically, each code or idea which becomes known must be free.<br>
+Specifically, each code or idea that becomes known must be free.<br>
 
 And, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
