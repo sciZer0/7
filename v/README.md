@@ -675,7 +675,6 @@ Voting on a regular proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 se
 Voting on a emergency proposal lasts 3 days (648,000 slots, each Slot is 0.4 second).
 
 
-<p><i><b>Any suggestions on Proposals and voting conditions are welcome.</b></i></p>
 
 
 
@@ -686,6 +685,7 @@ Voting on a emergency proposal lasts 3 days (648,000 slots, each Slot is 0.4 sec
 
 Hyde Park is a set of internet sites and protocols (incl. Vote.Governance.Forum, Twitter, Telegram, Discord, Nostr) that might be used for expressing various opinions and discussing proposals, including, proposals on appointing/dismissing.
 
+<p><i><b>Any improvement proposals on Voting System are welcome.</b></i></p>
 
 
 
