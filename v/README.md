@@ -34,7 +34,7 @@ Specifically, everyone must always feel free to use other people’s ideas and c
 
 Each code which becomes known must be free.<br>
 
-Summarizing above, when people create something digitizable which becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
+Summarizing above, when someone creates something digitizable which becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
 And, people and businesses will never stop creating new digitizable things because there is a strong first mover advantage.
 
