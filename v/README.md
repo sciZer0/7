@@ -354,7 +354,7 @@ This results in decreasing the Vote token's Circulating Supply from day one.
 <i><b>
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
 
-At best, such an highly-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
+At best, such a highly-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
 
 
