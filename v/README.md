@@ -34,7 +34,7 @@ Specifically, everyone must always feel free to use other people’s ideas and c
 
 Every code created must be open and free – including, each code which happens to be known must be free.<br>
 
-Summarizing, when people create something digitizable (incl. ideas/code), there must be absolute freedom for everyone to surpass it — to improve it — on their own.
+Summarizing above, when people create something digitizable (incl. ideas/code), there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
 
 <p>&nbsp</p>
