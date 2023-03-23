@@ -99,7 +99,7 @@ With blockchain technology, we can create outstandingly good conditions for both
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
-In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but just relative immutability — not to mention codebases of new blockçhains.
+In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
 By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. And, on the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, multi-signatures of few people that, in turn, already causes another problems. *A little more on problems of smart-contracts and solutions a bit below.*
 
