@@ -24,7 +24,7 @@ doomed by its design<br>
 
 # Elements of New Ideology
 
-With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things becoming known.
+With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things becoming known — because technically, anyone can use these same numbers (digitizable things) at their own discretion.
 
 Change or die.
 
