@@ -32,7 +32,7 @@ We should form Creator Thanksgiving Culture to give thanks in tokens (donations)
 
 Specifically, each code or idea which becomes known must be free.<br>
 
-And. everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
+And, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
 Summarizing above, when someone creates something new and digitizable which becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
