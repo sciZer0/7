@@ -36,7 +36,7 @@ Every code created must be open and free – including, each code which happens 
 
 Summarizing above, when people create something digitizable (incl. ideas/code), there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
-And, people and companies will never stop inventing new things because there is a strong first mover advantage.
+And, people and businesses will never stop inventing new things because there is a strong first mover advantage.
 
 <p>&nbsp</p>
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
