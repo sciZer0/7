@@ -101,17 +101,7 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 <b>About Fundamental Problems of All Current Blockchains</b>
 
-
-<h2 align="center">
-Six Fundamental<br>
-Problems of All Current<br>
-Blockchains Compared<br>
-to the Vote Blockchain
-</h2>
-
-
-
-
+Below are 6 fundamental problems of all current blockchains compared to the Vote Blockchain.
 
 <h3 align="center">Problem 1</h3>
 
