@@ -22,7 +22,7 @@ doomed by its design<br>
 
 
 
-# Elements of Our Ideology
+# Elements of New Ideology
 
 With blockchain technology, it will be impossible to control creators' ownership over digitizable things.
 
