@@ -71,19 +71,6 @@ With blockchain technology, people, for the first time ever, get the opportunity
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
 
 
-
-<b>About Today's States</b>
-
-Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are powerful tools for these states to do this all.
-
-Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
-
-The mainstream choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
-
-With blockchain technology, we can create outstandingly good conditions for both people and businesses simultaneously.
-
-
-
 <b>About Immutability</b>
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
