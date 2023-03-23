@@ -24,7 +24,7 @@ doomed by its design<br>
 
 # Elements of Our Ideology
 
-With blockchain technology, it will be impossible to control the creator's ownership over digitizable things.
+With blockchain technology, it will be impossible to control the creator's ownership over digitizable things (also incl. buying NFTs of the creator).
 
 Change or die.
 
