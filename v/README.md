@@ -30,11 +30,11 @@ Change or die.
 
 We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things, incl. to creators of ideas and code. Also, incl. through buying NFTs of the creators.<br>
 
-Specifically, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
+Specifically, each code or idea which becomes known must be free.<br>
 
-Each code which becomes known must be free.<br>
+And. everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
-Summarizing above, when someone creates something digitizable which becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
+Summarizing above, when someone creates something new and digitizable which becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
 And, people and businesses will never stop creating new digitizable things because there is a strong first mover advantage.
 
