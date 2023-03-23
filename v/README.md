@@ -24,11 +24,13 @@ doomed by its design<br>
 
 # Elements of New Ideology
 
-With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known.
+With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things becoming known.
 
 Change or die.
 
-We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things, incl. to creators of ideas and code. Also, incl. through buying NFTs of the creators.<br>
+We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.<br>
+
+Including, we should make lists of creators eligible for donations.
 
 Specifically, each code or idea that becomes known must be free.<br>
 
