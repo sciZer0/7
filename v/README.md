@@ -24,11 +24,13 @@ doomed by its design<br>
 
 # Elements of Our Ideology
 
-With blockchain technology, it will be impossible to control the creator's ownership over digitizable things (also incl. buying NFTs of the creator).
+With blockchain technology, it will be impossible to control creators' ownership over digitizable things.
 
 Change or die.
 
-We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things — incl. to creators of ideas and code.<br>Specifically, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
+We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things — incl. to creators of ideas and code — incl. buying NFTs of the creator.<br>
+
+Specifically, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
 Every code created must be open and free – including, each code which happens to be known must be free.<br>
 
