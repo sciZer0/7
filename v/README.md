@@ -24,11 +24,11 @@ doomed by its design<br>
 
 # Our Ideology
 
-Every code created must be open and free – including, each code which happens to be known must be free.<br>
+We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of ideas and code.<br>
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.<br>
 
-We should form Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of ideas and code.<br>
+Every code created must be open and free – including, each code which happens to be known must be free.<br>
 
 Summarizing, when people create something digitizable (incl. idea/code), there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
