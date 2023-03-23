@@ -88,7 +88,7 @@ With blockchain technology, people, for the first time ever, get the opportunity
 
 <b>About Today's States</b>
 
-Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and CBDC are powerful tools for these states to do this all.
+Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are powerful tools for these states to do this all.
 
 Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
 
