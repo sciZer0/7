@@ -166,7 +166,7 @@ Fundamental Problem 2 is that on each of the existing blockchains, there is the 
 
 *For reference,*
 
-*Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an astonishing 0.88.*
+*Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an ASTONISHING 0.88.*
 
 As Vitalik said about the terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?
 
