@@ -24,7 +24,7 @@ doomed by its design<br>
 
 # Elements of New Ideology
 
-With blockchain technology, it will be impossible to control creators' ownership over digitizable things.
+With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things.
 
 Change or die.
 
