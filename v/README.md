@@ -90,7 +90,7 @@ Everyone must always feel free to use other people’s ideas and code in order t
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
-*Importantly, people and businesses will never stop creating/inventing new digitizable things even that become instantly known because there is a strong first mover advantage.*
+*Importantly, people and businesses will never stop or slow down creating/inventing new digitizable things even that become instantly known because there is a strong first mover advantage.*
 
 
 
