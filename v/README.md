@@ -533,7 +533,7 @@ According to mentioned above, even 3 honest nodes (Validators) are enough for su
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their nodes only on separate rigs, not servers of server providers. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to stop.
 
-As a result, the blockchain might be highly efficient.
+As a result, the blockchain might be highly (even extremely) efficient.
 
 <i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of over 50.000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
