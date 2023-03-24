@@ -62,7 +62,7 @@ Specifically, permissionless ownership systems about storing and transferring to
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously (1)use the public-private key pair authentication mechanism and (2)be a people-ruled, highly-decentralized system – without being under control of any single entity.
 
-Nodes (Servers, Validators, Rigs) must be distributed across geographies and jurisdictions, so that the blockchain can remain sustainable throughout even geopolitical events or natural disasters.
+Also, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain sustainable throughout even geopolitical events or natural disasters.
 
 On the other hand, the main task of developers is to build/make such systems highly sustainable, fast, scalable, reliable, secure, decentralized, and of course, as efficient as possible.
 
