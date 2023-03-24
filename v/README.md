@@ -66,11 +66,33 @@ On the other hand, the main task of developers is to build/make such systems hig
 
 Importantly, not an endless increase of decentralization, which is expensive, is the goal, but high sustainability. These are different things.
 
-The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
+The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology. *More on this all below.*
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
+
+
+
+# About New Culture
+
+With blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things thar become known — because technically, anyone can use these same numbers (digitizable things) at their own.
+
+As they say — change or die.
+
+We should form a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.
+
+From the new vision, in particular, each code or idea that becomes known must be free.
+
+Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
+
+Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
+
+Importantly, people and businesses will never stop creating new digitizable things even that become instantly known because there is a strong first mover advantage.
+
+Fortunately, code in the crypto industry, mostly, is already open and free.
+
+*More on this below.*
 
 
 <b>About Immutability</b>
@@ -79,7 +101,7 @@ This might seem that ideally, in codebase of a blockchain, there should be no va
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. And, on the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, multi-signatures of few people that, in turn, already causes another problems. *A little more on problems of smart-contracts and solutions a bit below.*
+By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bugs are discovered in the immutable code, they cannot be fixed and users can lose all of their funds. And, on the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, multi-signatures of few people that, in turn, already causes another problems. *A little more on problems of smart-contracts and solutions below.*
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated, high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
