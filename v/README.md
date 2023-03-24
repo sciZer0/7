@@ -62,7 +62,9 @@ Specifically, permissionless ownership systems about storing and transferring to
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously (1)use the public-private key pair authentication mechanism and (2)be a people-ruled, highly-decentralized system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make such systems highly sustainable, fast, scalable, reliable, secure, decentralized,  and importantly, as efficient as possible.
+On the other hand, the main task of developers is to build/make such systems highly sustainable, fast, scalable, reliable, secure, decentralized, and of course, as efficient as possible.
+
+Importantly, not an endless increase of decentralization, which is expensive, is the goal, but high sustainability. These are different things.
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
