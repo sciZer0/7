@@ -62,7 +62,7 @@ Specifically, permissionless ownership systems about storing and transferring to
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously (1)use the public-private key pair authentication mechanism and (2)be a people-ruled, highly-decentralized system – without being under control of any single entity.
 
-On the other hand, the main task of developers is to build/make such systems as fast, scalable, reliable, secure, decentralized, sustainable  and, of course, efficient as possible.
+On the other hand, the main task of developers is to build/make such systems highly sustainable, fast, scalable, reliable, secure, decentralized,  and, importantly, as efficient as possible.
 
 With blockchain technology, people, for the first time ever, get the opportunity to create something that can not be destroyed.
 
