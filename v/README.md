@@ -94,8 +94,6 @@ Also, when someone creates something new and digitizable which eventually become
 
 *Fortunately, code in the crypto industry, mostly, is already open and free.*
 
-*More on this below.*
-
 
 <b>About Immutability</b>
 
