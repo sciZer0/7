@@ -66,6 +66,8 @@ On the other hand, the main task of developers is to build/make such systems hig
 
 Importantly, not an endless increase of decentralization, which is expensive, is the goal, but high sustainability. These are different things.
 
+The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
+
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
