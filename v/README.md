@@ -78,7 +78,7 @@ The industry highly needs a new universal coefficient that describes the minimum
 
 # About New Culture
 
-Thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things) on a blockchain and then use them on their own.
+Additionally,thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things) on a blockchain and then use them on their own.
 
 As they say — change or die.
 
