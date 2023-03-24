@@ -64,9 +64,9 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Also, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain sustainable even throughout geopolitical events or natural disasters.
 
-On the other hand, the main task of developers is to build/make such systems highly sustainable, fast, scalable, reliable, secure, decentralized, and of course, as efficient as possible.
+On the other hand, the main task of developers is to build/make such systems really sustainable, decentralized, scalable, fast, reliable and secure — plus, of course, AS efficient AS possible.
 
-Importantly, not an endless increase of decentralization, which is expensive, is the goal, but high sustainability. These are different things.
+Importantly, not an endless increase of nodes, which is expensive, is the goal, but high sustainability. These are different things.
 
 The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology. *More on this all below.*
 
