@@ -512,22 +512,22 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 
 Simply put, we give each Validator highly-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping-out from the list.
 
-POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing tokens — in the event of automatic stake-slashing. Greed-Driven Consensus.
+POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
+New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
 **Old Consensus:**<br>
-**Proof Of Stakes**<br>
+**Proof Of Stake**<br>
 **(POS)**<br>
 Capital At Risk:<br>
-Just a small part of stake, if any — or a small amount of reward<br>
-**–-**<br>
+A small part of stake, if any — or a small amount of reward<br>
+**——**<br>
 **New Consensus:**<br>
-**Proof Of Token Flow**<br>
-**(POTF)**<br>
+**Proof Of Stake Flow**<br>
+**(POSF)**<br>
 Capital At Risk:<br>
-A huge flow of tokens for years<br><br>
+A huge flow of stakes/tokens for years<br><br>
 
 According to mentioned above, even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
