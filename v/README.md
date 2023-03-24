@@ -576,7 +576,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be an enough number to start the blockchain  and make the fair airdrop, and after which, it might be possible to form a final list of 150 Contributors along the way — through democratic voting (Competitive Quadratic Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be an enough number to start the blockchain  and make the fair airdrop, and after which, it might be possible to form a full list of 150 Contributors along the way — through democratic voting (Competitive Quadratic Voting).*
 
 
 
