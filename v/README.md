@@ -77,6 +77,18 @@ The industry highly needs a new universal coefficient that describes the minimum
 
 
 
+<b>About Today's States</b>
+
+Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
+
+Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
+
+The mainstream choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
+
+With blockchain technology, we can create outstandingly good conditions for both people and businesses simultaneously.
+
+
+
 # About New Culture
 
 Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, aidios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
