@@ -83,7 +83,7 @@ Each of the wide majority of today's states is anti-people and, to one or anothe
 
 Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
 
-The mainstream choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
+The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
 
 With blockchain technology, we can create outstandingly good conditions for both people and businesses simultaneously.
 
