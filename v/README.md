@@ -125,7 +125,7 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 <b>About Fundamental Problems of All Current Blockchains</b>
 
-Below are 6 fundamental problems of all current blockchains compared to the Vote Blockchain.
+Below are 7 fundamental problems of all current blockchains compared to the Vote Blockchain.
 
 <h3 align="center">Problem 1</h3>
 
@@ -232,19 +232,6 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
-<h3 align="center">Problem 6</h3>
-
-Fundamental Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, over-collateralized, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and multi-signatures, and where a code bug can never result in losing funds of users.
-
-Without the ideal stablecoin, plus having all these unsolvable, unstoppable fundamental problems, getting adoption for crypto in general is extremely-hard, if ever possible.
-
-Ideally, a blockchain must have the ideal stablecoin from day one.
-
-
-
-
-
-
 
 <h3 align="center">Problem 6</h3>
 
@@ -255,6 +242,23 @@ Ideally, a blockchain must always create highly-generous incentives for its vali
 The Vote blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
+
+
+
+
+<h3 align="center">Problem 7</h3>
+
+Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, over-collateralized, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and multi-signatures, and where a code bug can never result in losing funds of users.
+
+Without the ideal stablecoin, plus having all these unsolvable, unstoppable fundamental problems, getting adoption for crypto in general is extremely-hard, if ever possible.
+
+Ideally, a blockchain must have the ideal stablecoin from day one.
+
+The Vote blockchain ideally solves this problem from day one.
+
+*The solution is described below.*
+
+
 
 <p>&nbsp</p>
 
@@ -727,6 +731,20 @@ Eventually, there might probably be people who are searching for the creators el
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
+
+
+
+
+<h1>12 &nbsp Ideal Stablecoin</h1>
+ 
+
+From day one, the Vote blockchain has the ideal stablecoin — a native stablecoin overcollateralized with the blockchain's native-token Vote having Decreasing-Supply.
+
+Specific details about the ideal stablecoin are being held up for now.
+
+*A bit more detail on this below in the chapter called **About DeFi**.*
+
+
 
 
 <br><br><br>
