@@ -65,7 +65,7 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Also, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain sustainable even throughout geopolitical events or natural disasters.
 
-On the other hand, the main task of developers is to build/make such systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible.
+On the other hand, the main task of developers is to really build/make such systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible.
 
 Extremely importantly, not an endless increasing of nodes, which is expensive, is the goal, but high sustainability. These are different things. *More on this below.*
 
