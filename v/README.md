@@ -47,6 +47,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with over 50,000 TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
+* with the ideal stablecoin
 * with over 10 million users
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
@@ -231,6 +232,16 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
+<h3 align="center">Problem 6</h3>
+
+Fundamental Problem 6 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, over-collateralized, ultra-stable and safe stablecoin — meaning, among other things, which never relies on banks and multi-signatures, and where a code bug can never result in losing funds of users.
+
+Without the ideal stablecoin, plus having all these unsolvable, unstoppable fundamental problems, getting adoption for crypto in general is extremely-hard, if ever possible.
+
+Ideally, a blockchain must have the ideal stablecoin from day one.
+
+
+
 
 
 
@@ -288,6 +299,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * with over 50,000 TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
+* with the ideal stablecoin
 * with over 10 million users
 <p>&nbsp</p>
 
@@ -757,7 +769,7 @@ More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing
 
 Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others.
 
-Plus, the Bitcoin blockchain has all these irremovable, unstoppable fundamental flaws, including the absolutely-terrible Gini and extreme inefficiency — including, in turn, extremaly-low bandwidth.
+Plus, the Bitcoin blockchain has all these unsolvable, unstoppable fundamental flaws, including the absolutely-terrible Gini and extreme inefficiency — including, in turn, extremaly-low bandwidth.
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
