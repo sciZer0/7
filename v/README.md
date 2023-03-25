@@ -757,7 +757,7 @@ More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing
 
 Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others.
 
-Plus, the Bitcoin blockchain has all these irremovable, unstoppable fundamental flaws, including the absolutely-terrible Gini and extreme inefficiency, including extremaly-low bandwidth.  
+Plus, the Bitcoin blockchain has all these irremovable, unstoppable fundamental flaws, including the absolutely-terrible Gini and extreme inefficiency — including, in turn, extremaly-low bandwidth.
 
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
