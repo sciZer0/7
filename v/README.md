@@ -222,7 +222,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-By the way, endless increasing of decentralization — endless increasing of the number of nodes — must never be the goal, decentralization is just a tool that should be sufficient to reach permissionlessness and high sustainability – and instead, exactly permissionlessness and high sustainability, both these ones together, are the goal.
+An endless increase of nodes must never be the goal of a blockchain, the number of nodes is just a tool that should be sufficient to achieve permissionlessness and high sustainability – and instead, exactly permissionlessness and high sustainability, both these ones together, are the goal.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic and highly-sustainable (secure).
 
