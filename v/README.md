@@ -57,7 +57,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 <b>About Blockchain Technology</b>
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
 Specifically, permissionless ownership systems about storing and transferring tokens (values).
 
@@ -556,7 +556,7 @@ A huge flow of stakes/tokens for years<br><br>
 
 Importantly, even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS. So this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be  the sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their nodes only on separate rigs, not servers of server providers. And plus, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their nodes only on separate rigs, not servers of server providers. And plus, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
