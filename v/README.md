@@ -235,9 +235,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 6</h3>
 
-Fundamental Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person.
+Fundamental Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person — meaning unclear prospects for the blockchain's sustainability and software development.
 
-Ideally, a blockchain must always create highly-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system in the long term.
+Ideally, a blockchain must always create highly-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system and have strong grounds for software development in the long term.
 
 The Vote blockchain ideally solves this problem from day one.
 
