@@ -771,7 +771,7 @@ SOME OF MY OPINIONS
 
 Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
 
-For a democracy to work well, those who are making the decisions, the average voter, need to know what is going on and to be motivated to make good decisions.
+For a democracy to work well, those who are making the decisions, the average voter, need to know what is going on and to be really motivated to make good decisions.
 
 Absolutely, when you treat people like mushrooms — feed them droppings and keep them in dark — you get the "average voter" awful effect.
 
