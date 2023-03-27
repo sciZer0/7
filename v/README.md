@@ -860,6 +860,8 @@ Already now, the Bitcoin token isn't really fungible: each Bitcoin has its histo
 
 Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
 
+The word's top universities — like Stanford, Harvard, Oxford — might buy earlier Bitcoin tokens as NFTs to prove their status: their domination and superiority.
+
 *By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.*
 
 
