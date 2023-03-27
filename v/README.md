@@ -764,7 +764,7 @@ Specific details about the ideal stablecoin are being held up for now.
 
 
 <br><br><br>
-SOME OF MY OPINIONS
+SOME OTHERS OF MY OPINIONS
 
 <h1>About Democracy</h1>
  
