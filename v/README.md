@@ -67,7 +67,7 @@ Also, nodes must be distributed across geographies and jurisdictions, so that th
 
 On the other hand, the main task of developers is to really build/make such systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible. 
 
-And, the rule of efficiency, you must never do anything more than enough.
+And, the rule of efficiency is that you must never do anything more than enough.
 
 Extremely importantly, not an endless increasing of nodes, which is expensive, is the goal, but high sustainability. These are different things. *More on this below.*
 
