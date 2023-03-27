@@ -829,9 +829,9 @@ By the way, additionally, most bitcoin trading takes place on centralized exchan
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
-And, appeal to Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
+And, an appeal to Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
 
-Remember Nokia with one billion customers, its history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
+Remember Nokia with its one billion customers, history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
 
 <p align="center">
   <img src="/assets/images/nokia.png"/>
