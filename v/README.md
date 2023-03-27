@@ -772,6 +772,11 @@ Specific details about the ideal stablecoin are being held up for now.
 <br><br><br>
 SOME OTHERS OF MY OPINIONS
 
+* About Democrscy
+* About DeFi
+* About NFTs
+* About Bitcoin
+
 <h1>About Democracy</h1>
  
 
