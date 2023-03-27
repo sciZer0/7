@@ -770,7 +770,7 @@ Specific details about the ideal stablecoin are being held up for now.
 
 
 <br><br><br>
-SOME OTHERS OF MY OPINIONS
+<b>SOME OTHERS OF MY OPINIONS</b>
 
 * About Democrscy
 * About DeFi
