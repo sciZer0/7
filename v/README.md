@@ -810,7 +810,7 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 Of course, for now Bitcoin is both permissionless and highly-sustainable.
 
-But, Bitcoin might have been the leader for a while, until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is much better in other key aspects.
+But, Bitcoin might have been the undisputed leader for until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is much better in other key aspects.
 
 
 Some even believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
