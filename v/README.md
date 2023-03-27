@@ -812,7 +812,7 @@ Some even believe Bitcoin has its value because they think Bitcoin is lots of lo
 
 Of course, for now, Bitcoin is both permissionless and highly-sustainable.
 
-But, Bitcoin might have been the undisputed leader until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is really much better in other key aspects.
+But, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token, which is a token with pre-programmed decreasing of supply, with the ideal Gini and which is fundamentally better in other key aspects.
 
 To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
 
