@@ -81,6 +81,12 @@ The industry highly needs a new universal coefficient that describes the minimum
 
 <b>About Today's States</b>
 
+Gensler says that every token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs and finally, there’s a group in the middle and the public is anticipating profits based on that group.
+
+But, according to Gensler's logic, the Bitcoin token is also securites because you can find a website, you can find a group of entrepreneurs and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
+
+In fact, the only reason Gensler puts the Bitcoin blockchain beyond the range is that — and this lies beyond justice and legality — he doesn't feel he is able to affect the Bitcoin blockchain.
+
 Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
 
 Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
