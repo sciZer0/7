@@ -808,13 +808,21 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 <h1>About Bitcoin</h1>
 
-Of course, for now, Bitcoin is both permissionless and highly-sustainable.
-
-But, Bitcoin might have been the undisputed leader for until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is much better in other key aspects.
-
 Some even believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
-As mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+Of course, for now, Bitcoin is both permissionless and highly-sustainable.
+
+But, Bitcoin might have been the undisputed leader until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is reslly much better in other key aspects.
+
+To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
+
+Remember Nokia with its one billion customers, history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
+
+<p align="center">
+  <img src="/assets/images/nokia.png"/>
+</p>
+
+So, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
@@ -828,13 +836,7 @@ By the way, additionally, most bitcoin trading takes place on centralized exchan
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
-And, an appeal to Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
 
-Remember Nokia with its one billion customers, history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
-
-<p align="center">
-  <img src="/assets/images/nokia.png"/>
-</p>
 
 Forecast
 
