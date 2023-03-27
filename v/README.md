@@ -622,7 +622,27 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 
 
 
-<h1>8 &nbsp Competitive Quadratic Voting</h1>
+<h1>8 &nbsp Proposals</h1>
+
+On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
+
+Automatic Proposals happen each 30 days and are the following ones:
+
+* proposal to change – either increase or decrease – the monthly rate of Automated Donations by 5%
+* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1%
+
+Non-Automatic Proposals may start at any moment (Slot) and are the following ones:
+
+* proposal to appoint a person (possibly anonymous) to the position of Contributor
+* proposal to dismiss a person (possibly anonymous) from the position of Contributor
+
+Voting on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
+
+
+
+
+
+<h1>9 &nbsp Competitive Quadratic Voting</h1>
 
 On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
 
@@ -665,27 +685,9 @@ Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the 
 
 Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
 
-<h1>9 &nbsp Proposals</h1>
 
-On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
-Automatic Proposals happen each 30 days and are the following ones:
 
-* proposal to change – either increase or decrease – the monthly rate of Automated Donations by 5%
-* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1%
-* proposal to change – either increase or decrease – the Rent Level by 20%
-* proposal to change – either increase or decrease – the Garbage Level by 20%
-
-Non-Automatic Proposals may start at any moment (Slot) and are the following ones:
-
-* proposal to appoint a person (possibly anonymous) to the position of Contributor
-* proposal to dismiss a person (possibly anonymous) from the position of Contributor
-
-* <b>emergency proposal</b> to instantly dismiss a person (possibly anonymous) from the position of Contributor
-
-Voting on a regular proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
-
-Voting on a emergency proposal lasts 3 days (648,000 slots, each Slot is 0.4 second).
 
 
 
