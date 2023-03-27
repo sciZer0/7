@@ -791,7 +791,7 @@ Specifically, there are these 2 fundamental problems,
 
 In order to solve these 2 fundamental problems, DeFi should be made another way.
 
-In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless trading-fee-free exchanges, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks.
+In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless trading-fee-free exchanges, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks. I have an idea on this.
 
 <h1>About NFTs</h1>
 
@@ -808,10 +808,9 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 <h1>About Bitcoin</h1>
 
-Of course, for now Bitcoin is both permissionless and highly-sustainable.
+Of course, for now, Bitcoin is both permissionless and highly-sustainable.
 
 But, Bitcoin might have been the undisputed leader for until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is much better in other key aspects.
-
 
 Some even believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
@@ -843,7 +842,7 @@ Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (his
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. And plus of course, this does not exclude making money through reselling the unique thing (token) to another one.</b></i>
 
-So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning the Bitcoin tokens are much like NFTs.
+So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens are much like NFTs.
 
 Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
 
