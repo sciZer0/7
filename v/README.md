@@ -789,7 +789,7 @@ Specifically, there are these 2 fundamental problems,
 
 * for now, necessary upgrades of a DApp involve multisigs of a few people that can (often does) result again in losing funds of users.
 
-In order to solve these 2 fundamental problems, DeFi should be made another way — the exclusive way described below.
+In order to solve these 2 fundamental problems, DeFi should be made another way.
 
 In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless trading-fee-free exchanges, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks.
 
