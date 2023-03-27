@@ -742,14 +742,14 @@ For example, we might take code of the Solana blockchain as our codebase and com
 **The Continuation**
 
 
-<h1>11 &nbsp Technologies & Creator Donation Culture</h1>
+<h1>11 &nbsp Technologies & Creator Thanksgiving Culture</h1>
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th where people around the world might give their credits (thanks) to the most useful in-their-opinion creators of ideas and code through direct donations in tokens — including through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th, where people around the world might give their thanks to the most useful in-their-opinion creators of ideas and code through direct donations in tokens — including through buying NFTs of the creators.
 
 <i>
-Eventually, there might probably be people who are searching for the creators eligible for donations, making the lists. 
+Eventually, there might be people who are searching for the creators eligible for donations, making the lists. 
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
