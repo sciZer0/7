@@ -762,7 +762,7 @@ Specific details about the ideal stablecoin are being held up for now.
 
 
 <br><br><br>
-SOME OF MY THOUGHTS 
+SOME OF MY OPINIONS
 
 <h1>About Democracy</h1>
  
@@ -773,7 +773,7 @@ Winston Churchill’s quote sums up the mainstream opinion on what it means to h
 
 For a democracy to work well, those who are making the decisions, the average voter, need to know what is going on and to be motivated to make good decisions.
 
-When you treat people like mushrooms — feed them droppings and keep them in dark — you get the "average voter" awful effect.
+Absolutely, when you treat people like mushrooms — feed them droppings and keep them in dark — you get the "average voter" awful effect.
 
 When you give people real power and information, when people are motivated, when the system is transparent and on blockchain, then there is a big chance we get real democracy working well.
 
