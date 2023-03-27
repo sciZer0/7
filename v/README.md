@@ -323,7 +323,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 
 
 
-**Motto: Like Bitcoin Just Better**
+
 
 
 
