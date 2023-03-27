@@ -262,8 +262,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 7</h3>
 
-Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, over-collateralized, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and multisigs, and where a code bug can never result in losing funds of users.
-
+Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, over-collateralized, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and multisigs of a few people that can (often does) result in losing funds of users.
 Without the ideal stablecoin, plus having all these fundamental problems above, getting adoption for crypto in general is extremely-hard.
 
 Ideally, a blockchain must have the ideal stablecoin from day one.
@@ -789,7 +788,7 @@ Specifically, there are these 2 fundamental problems,
 
 * for now, state and logic (tokens and code) of a DApp are in the same place: smart-contract, so a code bug can (often does) result in losing funds of users
 
-* for now, necessary upgrades of a DApp involve multisigs of a few people that can (often does) result again in losing funds of users.
+* for now, necessary upgrades of a DApp involve multisigs of a few people that can (often does) result in losing funds of users.
 
 In order to solve these 2 fundamental problems, DeFi should be made another way.
 
