@@ -808,9 +808,14 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 <h1>About Bitcoin</h1>
 
-Some believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
+Of course, for now Bitcoin is both permissionless and highly-sustainable.
 
-So, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+But, Bitcoin might have been the leader for a while, until some moment. For example, until there is a much better token, which is a token with pre-programmed decreasing of supply, with the much better Gini and which is much better in other key aspects.
+
+
+Some even believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
+
+As mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
