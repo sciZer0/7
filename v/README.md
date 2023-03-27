@@ -842,6 +842,8 @@ The allegedly incredibly-promising Lightning, conceived to solve the problem of 
 
 By the way, additionally, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
 
+In the future, most likely, the word's top universities — like Stanford, Harvard, Oxford — will buy earlier Bitcoin tokens as NFTs to prove their status, their domination and superiority.
+
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
 
