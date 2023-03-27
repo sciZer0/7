@@ -81,7 +81,7 @@ The industry highly needs a new universal coefficient that describes the minimum
 
 <b>About Today's States</b>
 
-Gensler says that every token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs and finally, there’s a group in the middle and the public is anticipating profits based on that group.
+Gensler says that every blockchain token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs and finally, there’s a group in the middle and the public is anticipating profits based on that group.
 
 But, according to Gensler's logic, the Bitcoin token is also securites because you can find a website, you can find a group of entrepreneurs and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
 
