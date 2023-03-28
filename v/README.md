@@ -270,7 +270,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 7</h3>
 
-Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, over-collateralized, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and multisigs of a few people that can (often does) result in losing funds of users.
+Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and multisigs of a few people that can (often does) result in losing funds of users.
 
 Without the ideal stablecoin, plus having all these fundamental problems above, getting adoption for crypto in general is extremely-hard.
 
