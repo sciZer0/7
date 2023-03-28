@@ -69,9 +69,9 @@ On the other hand, the main task of developers is to really build/make such syst
 
 And, THE rule of efficiency is that you must never do anything more than enough.
 
-Extremely importantly, not an endless increasing of nodes (which is expensive) is the goal, but high sustainability. These are different things. *More on this below.*
+Extremely importantly, not a maximal increase in a number of nodes is the goal of a blockchain, since the number of nodes is just a tool that should be enough to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
 
-The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
+For now, the industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
@@ -244,7 +244,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-An endless increase of nodes must never be the goal of a blockchain, the number of nodes is just a tool that should be sufficient to achieve permissionlessness and high sustainability – and instead, exactly permissionlessness and high sustainability, both these ones together, are the goal.
+Extremely importantly, not a maximal increase in a number of nodes is the goal of a blockchain, since the number of nodes is just a tool that should be enough to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic and highly-sustainable (secure).
 
