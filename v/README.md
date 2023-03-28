@@ -85,7 +85,9 @@ Gensler says that every blockchain token other than bitcoin is securities becaus
 
 But, according to Gensler's logic, the Bitcoin token is also securites because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
 
-In fact, the only reason Gensler puts the Bitcoin blockchain beyond the range is that — this lies beyond justice and legality — he doesn't just feel he is able to harm the Bitcoin blockchain.
+The only reason that Gensler puts the Bitcoin blockchain beyond the range is that — and this lies beyond justice and legality — he cannot harm the Bitcoin blockchain.
+
+Gensler's rule in reality is that if we can harm a blockchain, if needed, we will.
 
 Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
 
