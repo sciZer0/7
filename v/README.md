@@ -87,7 +87,7 @@ But, according to Gensler's logic, the Bitcoin token is also securites because y
 
 The only reason that Gensler puts the Bitcoin blockchain out the range is that — and this lies beyond justice and legality — he thinks he cannot harm the Bitcoin blockchain.
 
-Gensler's rule in reality is that if we think we can harm a blockchain, if needed, we will.
+The Gensler & Co's rule in reality is that if we think we can harm a blockchain, if needed, we will.
 
 Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
 
