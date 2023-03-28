@@ -63,13 +63,13 @@ Specifically, permissionless ownership systems about storing and transferring to
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously (1)use the public-private key pair authentication mechanism and (2)be a people-ruled, highly-decentralized system – without being under control of any single entity.
 
-Also, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain sustainable even throughout geopolitical events or natural disasters.
+Ideally, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain sustainable even throughout geopolitical events or natural disasters.
 
 On the other hand, the main task of developers is to really build/make such systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible. 
 
-And, the rule of efficiency is that you must never do anything more than enough.
+And, THE rule of efficiency is that you must never do anything more than enough.
 
-Extremely importantly, not an endless increasing of nodes, which is expensive, is the goal, but high sustainability. These are different things. *More on this below.*
+Extremely importantly, not an endless increasing of nodes, which is extremely-expensive, is the goal, but high sustainability. These are different things. *More on this below.*
 
 The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
 
@@ -85,9 +85,9 @@ Gensler says that every blockchain token other than bitcoin is securities becaus
 
 But, according to Gensler's logic, the Bitcoin token is also securites because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
 
-The only reason that Gensler puts the Bitcoin blockchain beyond the range is that — and this lies beyond justice and legality — he cannot harm the Bitcoin blockchain.
+The only reason that Gensler puts the Bitcoin blockchain out the range is that — and this lies beyond justice and legality — he thinks he cannot harm the Bitcoin blockchain.
 
-Gensler's rule in reality is that if we can harm a blockchain, if needed, we will.
+Gensler's rule in reality is that if we think we can harm a blockchain, if needed, we will.
 
 Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
 
