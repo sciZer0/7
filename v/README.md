@@ -798,13 +798,15 @@ And, when people have real power and information, when they are motivated, when 
 
 In DeFi, as it is being made for now, there are also the biggest problems that are fundamental. 
 
-For now, state and logic (tokens and code) of each DApp are in the same place: smart-contract, so there are these 2 fundamental problems,
+For now, state and logic (tokens and code) of each DApp are in the same place: smart-contract, so there are these 3 fundamental problems,
 
-* a code bug of each smart-contract can (often does) result in losing funds of users while malicious-exploiting of code 
+* a code bug of each smart-contract can result in losing funds of users because of a malicious-exploiting of code 
 
-* each upgrade of each DApp involve a multi-signature of few people that can (often does) result in losing funds of users while rug-pulling.
+* each upgrade of each DApp involve a multi-signature of few people that can result in losing funds of users because of a rug-pull.
 
-In order to solve these 2 fundamental problems, DeFi should be made another way.
+* each upgrade of each DApp involve a multi-signature of few people that can result in losing funds of users because of a changing of logic the smart-contract work with.
+
+In order to solve these 3 fundamental problems, DeFi should be made another way.
 
 In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless trading-fee-free exchanges, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks. I have an idea on this system.
 
