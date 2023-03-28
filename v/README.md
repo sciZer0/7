@@ -69,7 +69,7 @@ On the other hand, the main task of developers is to really build/make such syst
 
 And, THE rule of efficiency is that you must never do anything more than enough.
 
-Extremely importantly, not an endless increasing of nodes (which is extremely-expensive) is the goal, but high sustainability. These are different things. *More on this below.*
+Extremely importantly, not an endless increasing of nodes (which is expensive) is the goal, but high sustainability. These are different things. *More on this below.*
 
 The industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
 
