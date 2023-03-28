@@ -67,12 +67,6 @@ Ideally, nodes must be distributed across geographies and jurisdictions, so that
 
 On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible. 
 
-And, THE rule of efficiency is that you must never do anything more than enough.
-
-Extremely importantly, not a maximal increase in a number of nodes is the goal of a blockchain, since the number of nodes is just a tool that should be enough to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
-
-For now, the industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since is one-sided because the authors of this coefficient at that moment didn't fully understand the main point of blockchain technology.
-
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
