@@ -123,7 +123,7 @@ This might seem that ideally, in codebase of a blockchain, there should be no va
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. And, on the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, multi-signatures of few people that, in turn, already causes another problems. *A bit more on problems of smart-contracts and solutions below.*
+By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of few people that, in turn, already causes another problems. *A bit more on problems of smart-contracts and solutions below.*
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated, high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
@@ -270,7 +270,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 7</h3>
 
-Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and multisigs of a few people that can (often does) result in losing funds of users.
+Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks and never relies on multi-signatures of few people that can (often does) result in losing funds of users.
 
 Without the ideal stablecoin, plus having all these fundamental problems above, getting adoption for crypto in general is extremely-hard.
 
@@ -609,7 +609,7 @@ Each candidate/applicant for a position of Contributor must find a way to prove 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-*Some additional number of positions of Contributor might be taken by specific people (Public Addresses with multisigs) for funding some public/common goods,*
+*Some additional number of positions of Contributor might be taken by specific people (taken by Public Addresses with multi-signatures) for funding some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
@@ -800,9 +800,9 @@ In DeFi, as it is being made for now, there are also the biggest problems that a
 
 Specifically, there are these 2 fundamental problems,
 
-* for now, state and logic (tokens and code) of a DApp are in the same place: smart-contract, so a code bug can (often does) result in losing funds of users
+* for now, state and logic (tokens and code) of a DApp are in the same place: smart-contract, so a code bug can (often does) result in losing funds of users while exploiting 
 
-* for now, necessary upgrades of a DApp involve multisigs of a few people that can (often does) result in losing funds of users.
+* for now, necessary upgrades of a DApp involve a multi-signature of few people that can (often does) result in losing funds of users while, for example, rug-pulling.
 
 In order to solve these 2 fundamental problems, DeFi should be made another way.
 
