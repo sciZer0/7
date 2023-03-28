@@ -230,7 +230,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up its "51% attack" resistance:
+This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to achieve its "51% attack" resistance:
 
 **the more the blockchain's market capitalization becomes the more nodes must be added in the blockchain — in order for the blockchain to be considered sufficiently sustainable (secure).**.
 
@@ -240,7 +240,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Extremely importantly, not an increase in a number of nodes is the goal of a blockchain, since the number of nodes is just one of tools to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
+Extremely importantly, the number of nodes is just one of tools for a blockchain to achieve permissionlessness and high sustainability — incl. its "51% attack" resistance.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
