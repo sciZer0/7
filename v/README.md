@@ -818,7 +818,7 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 1. a main way for creators (incl. artists, singers, writers) to monetize their works
 2. a main way for entities (incl. companies, universities, states) to organize their works
-3. a main way for people to flex (a bit more on it below)
+3. a main way for everyone to flex (a bit more on it below)
 
 
 
@@ -861,7 +861,7 @@ Forecast
 
 Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection has, and which is the flexing — the ultimate way for people to flex.
 
-<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority — which, in turn, is about the status. And plus, of course, this does not exclude making money through reselling the unique thing (token) to another one.</b></i>
+<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. This is such public relations — this is about the status. And plus, of course, this does not exclude making money through reselling the unique thing (token) to another one.</b></i>
 
 So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens are much like NFTs.
 
