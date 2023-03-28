@@ -109,7 +109,7 @@ We should form a Creator Thanksgiving Culture to give thanks in tokens (donation
 
 From this new vision, in particular, each code or idea that becomes known must be free. *The code in the crypto industry, in the vast majority, is already open and free.*
 
-Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
+Including, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
