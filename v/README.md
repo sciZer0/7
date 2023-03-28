@@ -67,6 +67,8 @@ Ideally, nodes must be distributed across geographies and jurisdictions, so that
 
 On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible. 
 
+Importantly, each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable.
+
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
 *And also of course, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.*
@@ -238,9 +240,9 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Extremely importantly, not a maximal increase in a number of nodes is the goal of a blockchain, since the number of nodes is just a tool that should be enough to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
+Extremely importantly, not an increase in a number of nodes is the goal of a blockchain, since the number of nodes is just one of tools to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
 
-Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic, permissionless, and highly-sustainable.
+Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -322,10 +324,6 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * with the ideal stablecoin
 * with over 10 million users
 <p>&nbsp</p>
-
-
-
-
 
 
 
