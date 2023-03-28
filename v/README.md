@@ -246,7 +246,7 @@ Actually, this approach means that increasing the inefficiency (overhead) is the
 
 Extremely importantly, not a maximal increase in a number of nodes is the goal of a blockchain, since the number of nodes is just a tool that should be enough to achieve permissionlessness and high sustainability. Instead, exactly permissionlessness and high sustainability, both these ones together, are the goal of the blockchain, according to the main point of blockchain technology.
 
-Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic and highly-sustainable (secure).
+Ideally, a blockchain must use another, truly-decentralized, more efficient way to build up its "51% attack" resistance – of course, remaining highly-decentralized, highly-democratic, permissionless, and highly-sustainable.
 
 The Vote blockchain ideally solves this problem from day one.
 
