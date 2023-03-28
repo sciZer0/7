@@ -762,7 +762,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 <h1>12 &nbsp Ideal Stablecoin</h1>
  
 
-From day one, the Vote blockchain has the ideal stablecoin — a native stablecoin overcollateralized with the blockchain's native-token Vote having Decreasing-Supply.
+From day one, the Vote blockchain has the ideal stablecoin — a native stablecoin collateralized with the blockchain's native-token Vote having Decreasing-Supply.
 
 Specific details about the ideal stablecoin are being held up for now.
 
