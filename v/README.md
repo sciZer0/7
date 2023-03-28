@@ -69,7 +69,7 @@ On the other hand, the main task of developers is to really build/make such perm
 
 Each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable .
 
-And, THE rule of efficiency is that you must never do anything more than enough.
+And, THE rule of efficiency is that you must never do more than enough.
 
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
