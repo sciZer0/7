@@ -65,7 +65,9 @@ At the current time, I have written thousands of letters to professors of the wo
 
 So now there is this large social problem about the announcement of these discoveries.
 
-Elon I believe you are different and have the courage to publicly admit the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
+Elon I believe you are different and have the fortitude to publicly admit the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
+
+
 
 ## The Engineering Problem
 
