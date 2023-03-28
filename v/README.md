@@ -65,9 +65,12 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Ideally, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout geopolitical events or natural disasters.
 
-On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, AS efficient AS possible. 
+On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, as efficient as possible. 
 
-Importantly, each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable.
+Each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable .
+
+And, THE rule of efficiency is that you must never do anything more than enough.
+
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
