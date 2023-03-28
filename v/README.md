@@ -371,7 +371,7 @@ From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Secon
 
 Gas Fees are paid in the Vote token (in Hands).
 
-All gas fees (100%) are burned. 
+All gas fees paid (100%) are burned. 
 
 This results in decreasing the Vote token's Circulating Supply from day one.
 
