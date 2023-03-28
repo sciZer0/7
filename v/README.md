@@ -802,9 +802,9 @@ For now, state and logic (tokens and code) of each DApp are in the same place: s
 
 * a code bug of each smart-contract can result in losing funds of users — in a case of an exploit of code 
 
-* each upgrade of each DApp involves a multi-signature of only few people that can result in losing funds of users — in a case of a rug-pull.
+* each upgrade of each DApp involves a multi-signature of only few people that can result in losing funds of users — in a case of an unwelcome change of logic that the smart-contract work with
 
-* each upgrade of each DApp involves a multi-signature of only few people that can result in losing funds of users — in a case of an unwelcome change of logic that the smart-contract work with.
+* each upgrade of each DApp involves a multi-signature of only few people that can result in losing funds of users — in a case of a rug-pull.
 
 In order to solve these 3 fundamental problems, DeFi should be made another way.
 
