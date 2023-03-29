@@ -161,7 +161,7 @@ All that Inflationary Economy (endless emissions of regular tokens) can finally 
 
 On the other hand, the Bitcoin token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-Moreover, the greatest values in the Universe are not the fixed-supply tokens, but the decreasing-supply tokens.
+Moreover, a greater value is not a fixed-supply token but a decreasing-supply token.
 
 A decreasing-supply, permissionless, decentralized token with its own dedicated blockchain is the thing that our civilization has never known before and fundamentally is much better than "digital gold" or "ultra sound money".
 
