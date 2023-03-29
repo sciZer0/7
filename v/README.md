@@ -36,7 +36,7 @@ revolutionary blockchains
 <h2 align="center">Abstract</h2>
 
 
-<b>About the Vote Blockchain</b>
+<h3>About the Vote Blockchain</h3>
 
 This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
 
@@ -56,7 +56,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
 
 
 
-<b>About Blockchain Technology</b>
+### About Blockchain Technology
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
@@ -81,7 +81,7 @@ Absolutely, blockchain technology causes a paradigm revolution because no today'
 
 
 
-<b>About Today's States</b>
+### About Today's States
 
 Gensler says that every blockchain token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle and the public is anticipating profits based on that group.
 
@@ -101,7 +101,7 @@ With blockchain technology, we can create outstandingly good conditions for both
 
 
 
-# About New Culture
+### About New Culture
 
 Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, aidios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
 
@@ -119,7 +119,7 @@ Also, when someone creates something new and digitizable which eventually become
 
 
 
-<b>About Immutability</b>
+### About Immutability
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
@@ -133,7 +133,7 @@ So codebase (constitution) of a blockchain can have variables when values of the
 
 
 
-<b>About the Greatest Values</b>
+### About the Greatest Values
 
 In Inflationary Economy, there is nothing new and valuable.
 
@@ -147,7 +147,7 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 
 
-<b>About Fundamental Problems of All Current Blockchains</b>
+### About Fundamental Problems of All Current Blockchains
 
 Below are 7 fundamental problems of all current blockchains compared to the Vote Blockchain.
 
