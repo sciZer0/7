@@ -882,7 +882,7 @@ Some even believe Bitcoin has its value because they think Bitcoin is lots of lo
 
 As mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
+More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of supply.
 
 Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others.
 
