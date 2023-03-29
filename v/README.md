@@ -547,7 +547,7 @@ Each Validator is automatically appointed in the position of the Leader and then
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
-Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake – and, theoretically, might be dropped out of the list.
+Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake – and, theoretically, might be dropped from the list.
 
 Technically, even 3 honest nodes (Validators) are enough for the Solana blockchain to function normally, maintaining the bandwidth of over 50,000 TPS.
 
@@ -567,9 +567,9 @@ The hypothesis/idea is that
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
-7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped out of the list, and
+7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped from the list, and
 
-8. when any suspicious Validator may also be dropped out of the list by Voters through democratic voting (Competitive Quadratic Voting),
+8. when any suspicious Validator may also be dropped from the list by Voters through democratic voting (Competitive Quadratic Voting),
 
 <b>then we might suppose there are very huge incentives for each Validator to work honestly and most likely the wide majority of (or even all) Validators in the list will work honestly.</b>
 
@@ -579,11 +579,11 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 </b>
 <br><br>
 
-Simply put, we give each Validator highly-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping-out from the list.
+Simply put, we give each Validator highly-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping from the list.
 
 POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping-out from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
+New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
 **Old Consensus:**<br>
@@ -640,7 +640,7 @@ Any person (Public Address) is appointed to the position of Contributor only by 
 
 Each candidate/applicant for a position of Contributor must find a way to prove their qualification and usefulness for the Vote blockchain in order to become Contributor and for this can use <b>Hyde Park</b>.
 
-At any moment, a person  (Public Address) being in the position of Contributor may be dropped out of the position by Voters through democratic voting (Competitive Quadratic Voting).
+At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
 *Some additional number of positions of Contributor might be taken by specific people (taken by Public Addresses with multi-signatures) for funding some public/common goods,*
