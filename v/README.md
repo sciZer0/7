@@ -899,8 +899,6 @@ By the way, additionally, most bitcoin trading takes place on centralized exchan
 
 Forecast
 
-As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
-
 For now, Bitcoin is both permissionless and highly-sustainable.
 
 And, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in other key aspects.
