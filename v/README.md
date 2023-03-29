@@ -859,7 +859,9 @@ For now, state and logic (tokens and code) of each DApp are in the same place: s
 
 In order to solve these 3 fundamental problems, DeFi should be made another way.
 
-In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks —  like really-trustless stablecoins, really-trustless bridges and really-trustless trading-fee-free exchanges. *I have an idea on this system.*
+In short, if you wish users' funds to be at the roller coaster then you use smart contracts for solving fundamental tasks, but if you wish users' funds to be safe then you use the blockchain's codebase (which protects the funds with cryptography) for solving the fundamental tasks — like safe, trustless stablecoins; safe, trustless bridges and safe, trustless trading-fee-free exchanges. *I have an idea on this system.*
+
+
 
 <h1>About NFTs</h1>
 
