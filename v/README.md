@@ -49,6 +49,7 @@ revolutionary blockchains
    - About Bitcoin
 * CONCLUSION 
 
+<br><br>
 
 <h2 align="center">Abstract</h2>
 
