@@ -57,7 +57,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
    - About Today's States
    - About New Ideology
    - About Immutability
-   - About the Greatest Values
+   - About the Greatest Value
    - About Fundamental Problems of All Current Blockchains
 * The Vote Blockchain in more detail 
 * Some Other Thoughts</b>
@@ -153,7 +153,7 @@ So codebase (constitution) of a blockchain can have variables when values of the
 
 
 
-### About the Greatest Values
+### About the Greatest Value
 
 In Inflationary Economy, there is nothing new and valuable.
 
