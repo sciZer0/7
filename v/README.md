@@ -92,7 +92,7 @@ And, THE rule of efficiency is that you must never do more than enough.
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
-*Alonely, permissionlessness implies anonymity, at least in the sense that it is not required for token owners to provide state-issued identity documents like IDs or driver's licenses.*
+*Alonely, permissionlessness implies anonymity, at least in the sense that it is not required for token owners to provide any state-issued identity documents like IDs or driver's licenses.*
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
