@@ -878,11 +878,11 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 Of course, for now, Bitcoin is both permissionless and highly-sustainable.
 
-But, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in other key aspects.
+And, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in other key aspects.
 
 Some believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
-So, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+As mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of Supply.
 
@@ -893,8 +893,6 @@ Plus, the Bitcoin blockchain has all these unsolvable, unstoppable fundamental f
 The allegedly incredibly-promising Lightning, conceived to solve the problem of extremely-low bandwidth, requires the regular user to either run a lightning node or trust the one who is running a lightning node, which respectively either won't work with the regular user  or — according to the main point of blockchain technology — is absurd.
 
 By the way, additionally, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
-
-In the future, most likely, the word's top universities — like Stanford, Harvard, Oxford — will buy earlier Bitcoin tokens as NFTs to prove their status, their domination and superiority.
 
 As we can see, for new blockchains there is a lot of room to improve. Surpassing the Bitcoin blockchain is possible and inevitable.
 
@@ -914,7 +912,9 @@ Probably, one Satoshi is much like one NFT — much like one NFT of a unique art
 
 The word's top universities like Stanford, Harvard, Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
-To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
+To Bitcoin maximalists
+
+This is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
 
 Remember Nokia with its one billion customers, history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
 
