@@ -45,9 +45,10 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * highly-sustainable
 * highly-efficient
 * with over 50,000 TPS
-* with a native, decreasing-supply token
-* with the ideal Gini coefficient
-* with the ideal stablecoin
+* with native, decreasing-supply token
+* with ideal Gini coefficient
+* with ideal stablecoin
+* with trading-fee-free exchange 
 * with over 10 million users
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
