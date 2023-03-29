@@ -643,11 +643,6 @@ Each candidate/applicant for a position of Contributor must find a way to prove 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-*Some additional number of positions of Contributor might be taken by specific people (taken by Public Addresses with multi-signatures) for funding some public/common goods,*
-
-* funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
-* funding documentation and research.
-
 *The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be an enough number to start the blockchain  and make the fair airdrop, and after which, it might be possible to form a full list of 150 Contributors along the way — through democratic voting (Competitive Quadratic Voting).*
 
 
@@ -663,6 +658,12 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
 At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  through democratic voting (Competitive Quadratic Voting).
 
+*Some additional number of positions of Contributor might be taken by specific people (taken by Public Addresses with multi-signatures) for funding some public/common goods,*
+
+* funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
+* funding documentation and research.
+
+*Also, the same way treasury funds can be formed.*
 
 
 
@@ -802,7 +803,7 @@ Specific details about the ideal stablecoin are being held up for now.
 *A bit more detail on it below in the chapter called **About DeFi**.*
 
 
-<h1>12 &nbsp Ideal Exchange</h1>
+<h1>13 &nbsp Ideal Exchange</h1>
 
 From day one, the Vote blockchain has the ideal exchange — a really decentralized, permissionless, trustless, trading-fee-free and importantly, safe exchange — meaning, among other things, which never relies on multi-signatures, and where state and logic of the dApp aren't in the same place.
 
