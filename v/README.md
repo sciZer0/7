@@ -32,11 +32,28 @@ revolutionary blockchains
 </p>
 <br>
  
+<b>CONTENTS</b>
+* Abstract 
+   - About the Vote Blockchain
+   - About Blockchain Technology
+   - About Today's States
+   - About New Ideology
+   - About Immutability
+   - About the Greatest Values
+   - About Fundamental Problems of All Current Blockchains
+* The Vote Blockchain in more detail 
+* Some Others of My Thoughts</b>
+   - About Democracy
+   - About DeFi
+   - About NFTs
+   - About Bitcoin
+* CONCLUSION 
+
 
 <h2 align="center">Abstract</h2>
 
 
-<h3>About the Vote Blockchain</h3>
+### About the Vote Blockchain
 
 This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain which from day one is simultaneously:
 
@@ -785,9 +802,9 @@ Specific details about the ideal stablecoin are being held up for now.
 
 
 <br><br><br>
-<b>SOME OTHERS OF MY OPINIONS</b>
+### Some Others of My Thoughts
 
-* About Democrscy
+* About Democracy
 * About DeFi
 * About NFTs
 * About Bitcoin
