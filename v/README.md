@@ -621,6 +621,10 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 **The Continuation**
 
+
+
+
+
 <h1>6 &nbsp Contributors</h1>
 
 Contributors are people who may be contributing to the Vote blockchain and receiving daily the highly generous Automated Donations — <b>in total ~ $3 million per year per person</b> — from Voters.
@@ -643,7 +647,7 @@ Each candidate/applicant for a position of Contributor must find a way to prove 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position by Voters through democratic voting (Competitive Quadratic Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be an enough number to start the blockchain  and make the fair airdrop, and after which, it might be possible to form a full list of 150 Contributors along the way — through democratic voting (Competitive Quadratic Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 150 Contributors through democratic voting (Competitive Quadratic Voting).*
 
 
 
@@ -656,14 +660,16 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the donors (Voters) can monthly change the rate by 5%  through democratic voting (Competitive Quadratic Voting).
+At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the rate may monthly be charged by 5% by the donors (Voters) through democratic voting (Competitive Quadratic Voting).
 
-*Some additional number of positions of Contributor might be taken by specific people (taken by Public Addresses with multi-signatures) for funding some public/common goods,*
+
+
+*Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*Also, the same way treasury funds can be formed.*
+*Also, the same way treasury funds can be formed up.*
 
 
 
