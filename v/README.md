@@ -68,7 +68,7 @@ Ideally, nodes must be distributed across geographies and jurisdictions, so that
 
 On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, as efficient as possible. 
 
-Each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable.
+Importantly, each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable.
 
 And, THE rule of efficiency is that you must never do more than enough.
 
