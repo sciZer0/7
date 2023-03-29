@@ -126,7 +126,7 @@ As they say — change or die.
 
 We should form a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
 
-From this new vision, in particular, each code or idea that becomes known must be free. *The code in the crypto industry, in the vast majority, is already open and free.*
+From this new vision, in particular, each code or idea that becomes known must be free. *Code and ideas in the crypto industry, in the vast majority, are already open and free.*
 
 Including, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
 
