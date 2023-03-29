@@ -48,7 +48,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with native, decreasing-supply token
 * with ideal Gini coefficient
 * with ideal stablecoin
-* with trading-fee-free exchange 
+* with ideal exchange 
 * with over 10 million users
 
 All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
@@ -75,7 +75,7 @@ And, THE rule of efficiency is that you must never do more than enough.
 
 *By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
 
-*Alonely, permissionlessness implies anonymity, at least in the sense that it is not required to provide government-issued identity documents like IDs or driver's licenses.*
+*Alonely, permissionlessness implies anonymity, at least in the sense that it is not required for token owners to provide state-issued identity documents like IDs or driver's licenses.*
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
