@@ -859,7 +859,7 @@ For now, state and logic (tokens and code) of each DApp are in the same place: s
 
 In order to solve these 3 fundamental problems, DeFi should be made another way.
 
-In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks like trustless stablecoins, trustless bridges and trustless trading-fee-free exchanges, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks. I have an idea on this system.
+In short, if you wish the roller coaster to users' funds then you use smart contracts for solving fundamental tasks, but if you wish safety to users' funds then you use the blockchain's codebase for solving these fundamental tasks —  like really-trustless stablecoins, really-trustless bridges and really-trustless trading-fee-free exchanges. *I have an idea on this system.*
 
 <h1>About NFTs</h1>
 
@@ -876,19 +876,11 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 
 <h1>About Bitcoin</h1>
 
-Some even believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
-
 Of course, for now, Bitcoin is both permissionless and highly-sustainable.
 
-But, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token: a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in other key aspects.
+But, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in other key aspects.
 
-To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
-
-Remember Nokia with its one billion customers, history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
-
-<p align="center">
-  <img src="/assets/images/nokia.png"/>
-</p>
+Some believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
 So, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
@@ -921,6 +913,14 @@ Already now, the Bitcoin token isn't really fungible: each Bitcoin has its histo
 Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
 
 The word's top universities like Stanford, Harvard, Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
+
+To Bitcoin maximalists, this is important to keep in mind that by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress, incl. progress drastically.
+
+Remember Nokia with its one billion customers, history for decades and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
+
+<p align="center">
+  <img src="/assets/images/nokia.png"/>
+</p>
 
 *By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.*
 
