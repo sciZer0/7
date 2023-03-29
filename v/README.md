@@ -101,7 +101,7 @@ With blockchain technology, we can create outstandingly good conditions for both
 
 
 
-### About New Culture
+### About New Ideology
 
 Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, aidios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
 
