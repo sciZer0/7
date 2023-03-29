@@ -115,7 +115,7 @@ Politicians are just actors playing their roles in a play called "Democracy" and
 
 The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
 
-With blockchain technology, we can create outstandingly good conditions for both people and businesses simultaneously.
+With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously.
 
 
 
@@ -823,7 +823,7 @@ On the other hand, absolutely, when you treat people like mushrooms — feed the
 
 And, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
 
-With revolutionary blockchains, we can create new states — communities first, lands last — which, in turn, can create outstandingly good conditions for both people and businesses simultaneously.
+With blockchain technology, we can create new, really-democratic states which, in turn, can create outstandingly-good conditions for both people and businesses simultaneously.
 
 
 
