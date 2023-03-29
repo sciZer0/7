@@ -60,7 +60,7 @@ All of it, including high (even extreme) efficiency, is possible thanks, among o
    - About the Greatest Values
    - About Fundamental Problems of All Current Blockchains
 * The Vote Blockchain in more detail 
-* Some Others of My Thoughts</b>
+* Some Other Thoughts</b>
    - About Democracy
    - About DeFi
    - About NFTs
@@ -802,10 +802,22 @@ Specific details about the ideal stablecoin are being held up for now.
 *A bit more detail on it below in the chapter called **About DeFi**.*
 
 
+<h1>12 &nbsp Ideal Exchange</h1>
+
+From day one, the Vote blockchain has the ideal exchange — a really decentralized, permissionless, trustless, trading-fee-free and importantly, safe exchange — meaning, among other things, which never relies on multi-signatures, and where state and logic of the dApp aren't in the same place.
+
+Specific details about the ideal stablecoin are being held up for now.
+
+*A bit more detail on it below in the chapter called **About DeFi**.*
+
+
+
+
+
 
 
 <br><br><br>
-### Some Others of My Thoughts
+### Some Other Thoughts
 
 * About Democracy
 * About DeFi
