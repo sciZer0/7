@@ -918,6 +918,11 @@ Over time, this point might become even more clear to everyone — earlier Bitco
 
 The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
+As for literally transferring value, the Bitcoin token might have a better life only as a native, wrapped token on an advanced blockchain — bridged, of course, through a native trustless bridge. 
+
+Specifically, the Vote blockchain would be good for this as a revolutionary, advanced blockchain.
+
+This Bitcoin token might be really-fungible, really-fast, without those flaws and with all the fundamental problems solved.
 
 
 To Bitcoin maximalists
@@ -932,11 +937,6 @@ Remember Nokia with one billion customers, history for decades, and the question
   <img src="/assets/images/nokia.png"/>
 </p>
 
-As for literally transferring value, the Bitcoin token might have a better life only as a native, wrapped token on an advanced blockchain — bridged, of course, through a native trustless bridge. 
-
-Specifically, the Vote blockchain would be good for this as a revolutionary, advanced blockchain.
-
-This Bitcoin token might be really-fungible, really-fast, without those flaws and with all the fundamental problems solved.
 
 
 <h1>CONCLUSION</h1>
