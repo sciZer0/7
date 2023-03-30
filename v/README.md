@@ -899,25 +899,11 @@ The allegedly incredibly-promising Lightning, conceived to solve the problem of 
 
 By the way, additionally, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
 
+For now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
 
 
-Forecast
 
-For now, Bitcoin is both permissionless and highly-sustainable.
 
-And, Bitcoin might have been the undisputed leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in other key aspects.
-
-Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection has, and which is the flexing — the ultimate way for people to flex.
-
-<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. This is such public relations — this is about the status. And plus, of course, this does not exclude making money through reselling the unique thing (token) to someone else.</b></i>
-
-So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens are much like NFTs.
-
-Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
-
-Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
-
-The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
 To Bitcoin maximalists
 
@@ -931,7 +917,8 @@ Remember Nokia with one billion customers, history for decades, and the question
   <img src="/assets/images/nokia.png"/>
 </p>
 
-*By the way, you might re-read this chapter every time when the Bitcoin price goes up or down.*
+The Bitcoin token might have a perpetual life — not the leadership but just a life — only as a native, wrapped Bitcoin token on an advanced blockchain — bridged, of course, through a native trustless bridge. This token might be really-fungible, really-fast and with all the fundamental problems solved.
+
 
 
 
