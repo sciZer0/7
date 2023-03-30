@@ -725,14 +725,14 @@ For example, if a vote on a certain proposal has accumulated in total:
 
 then,
 
-<p>the Voting Margin is 16.67%  &nbsp (3,500,000,000 / 3,000,000,000 - 1) * 100 = 16.67</p>
+<p>the Voting Margin is 16.67%<br>
+(3,500,000,000 / 3,000,000,000 - 1) * 100 = 16.67</p>
 
 and,
 
 16.67% > 15%.
 
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
-
 
 Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
 
