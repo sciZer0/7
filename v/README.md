@@ -770,13 +770,13 @@ Hyde Park is a set of internet sites and protocols (incl. Vote.Governance.Forum,
 
 # About Technologies
 
-Fortunately, on the table, there already are good blockchain technologies to use.
+On the table, there already are good blockchain technologies to use.
 
 Hypothesis/Idea
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
-For example, we might take code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain, of course, modifying them a bit.
+For example, we might take code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain, modifying this a bit.
 
 
 
@@ -789,10 +789,10 @@ For example, we might take code of the Solana blockchain as our codebase and com
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th, where people around the world might give their thanks to the most useful in-their-opinion creators of ideas and code through direct donations in tokens — including through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th, where people around the world might give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code)  — including through buying NFTs of the creators.
 
 <i>
-Eventually, there might be people who are searching for the creators eligible for donations, making the lists. 
+Eventually, there might be people on social networks who are searching for the creators eligible for donations, making the lists. 
 <br><br>
 Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
