@@ -849,7 +849,7 @@ As mentioned above, Bitcoin for now isn't and a lot of time further also won't b
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of supply.
 
-Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others.
+Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others in terms of immutability of code.
 
 Plus, the Bitcoin blockchain has all these unsolvable, unstoppable fundamental flaws, including the absolutely-terrible Gini and extreme inefficiency — including, in turn, extremaly-low bandwidth.
 
@@ -870,9 +870,7 @@ Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (his
 
 So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens are much like NFTs.
 
-Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
-
-Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices
+Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
 
 The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
