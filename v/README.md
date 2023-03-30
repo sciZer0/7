@@ -41,8 +41,8 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with over 50,000 TPS
 * with native, decreasing-supply token
 * with ideal Gini coefficient
-* with ideal stablecoin
-* with ideal exchange 
+* with native, ultra-stable stablecoin
+* with native, trading-fee-free exchange 
 * with over 10 million users
 
 
@@ -167,9 +167,9 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 
 
-### About Fundamental Problems of All Current Blockchains
+### About Some Fundamental Problems of All Current Blockchains
 
-Below are 8 fundamental problems of all current blockchains compared to the Vote Blockchain.
+Below are 5 fundamental problems of all current blockchains compared to the Vote Blockchain.
 
 <h3 align="center">Problem 1</h3>
 
@@ -277,43 +277,6 @@ The Vote blockchain ideally solves this problem from day one.
 
 
 
-<h3 align="center">Problem 6</h3>
-
-Fundamental Problem 6 is that on each of the existing blockchains, there are low incentives for its validators and developers if calculated per person — meaning unclear prospects for the blockchain's sustainability and software development.
-
-Ideally, a blockchain must always create highly-generous incentives for its validators and developers when calculated per person — in order to be a more sustainable working system and have strong grounds for software development in the long term.
-
-The Vote blockchain ideally solves this problem from day one.
-
-*The solution is described below.*
-
-
-
-
-<h3 align="center">Problem 7</h3>
-
-Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, ultra-stable and importantly, safe stablecoin — meaning, among other things, which never relies on banks or multi-signatures, and where state and logic of the dApp aren't in the same place.
-
-Without the ideal stablecoin, plus having all these fundamental problems above, getting adoption for crypto in general is extremely-hard.
-
-Ideally, a blockchain must have the ideal stablecoin from day one.
-
-The Vote blockchain ideally solves this problem from day one.
-
-*The solution is described below.*
-
-
-
-
-<h3 align="center">Problem 8</h3>
-
-Fundamental Problem 8 is that each of the existing blockchain is fundamentally unable to create the ideal exchange — a really decentralized, permissionless, trustless, trading-fee-free and importantly, safe exchange — meaning, among other things, which never relies on multi-signatures, and where state and logic of the dApp aren't in the same place.
-
-Ideally, a blockchain must have the ideal exchange from day one.
-
-The Vote blockchain ideally solves this problem from day one.
-
-*The solution is described below.*
 
 
 
