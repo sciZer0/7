@@ -45,9 +45,7 @@ This paper proposes an idea about a next-gen, layer 1, DAO-style blockchain whic
 * with ideal exchange 
 * with over 10 million users
 
-
-
-All of it, including high (even extreme) efficiency, is possible thanks, among other things, to the use of a new consensus mechanism.
+Specifically, high (even extreme) efficiency is possible thanks to the use of a new consensus mechanism.
 
  <br><br>
 <b>CONTENTS</b>
@@ -291,7 +289,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 7</h3>
 
-Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, ultra-stable, and importantly, safe stablecoin — meaning, among other things, which never relies on banks, and which is upgradable but never relies on multi-signatures of only few people.
+Fundamental Problem 7 is that each of the existing blockchain is fundamentally unable to create the ideal stablecoin — a really decentralized, permissionless, trustless, ultra-stable, and importantly, safe stablecoin — meaning, among other things, which never relies on banks, and code of which is decentralizedly-upgradable but which never relies on multi-signatures of only few people.
 
 Without the ideal stablecoin, plus having all these fundamental problems above, getting adoption for crypto in general is extremely-hard.
 
@@ -306,7 +304,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 8</h3>
 
-Fundamental Problem 8 is that each of the existing blockchain is fundamentally unable to create the ideal exchange — a really decentralized, permissionless, trustless, trading-fee-free and importantly, safe exchange — meaning, among other things, which is upgradable but never relies on multi-signatures of only few people.
+Fundamental Problem 8 is that each of the existing blockchain is fundamentally unable to create the ideal exchange — a really decentralized, permissionless, trustless, trading-fee-free and importantly, safe exchange — meaning, among other things, code of which is decentralizedly-upgradable but which never relies on multi-signatures of only few people.
 
 Ideally, a blockchain must have the ideal exchange from day one.
 
