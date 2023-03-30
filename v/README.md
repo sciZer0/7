@@ -914,9 +914,9 @@ So, the whole value of Bitcoin as a blockchain — if compared to new, more adva
 
 Probably, one Satoshi is much like one NFT — much like one NFT of a unique art collection. 
 
-The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
-
 Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices
+
+The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
 
 
