@@ -899,7 +899,7 @@ The allegedly incredibly-promising Lightning, conceived to solve the problem of 
 
 By the way, additionally, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
 
-Additionally, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. 
+And, for now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. 
 
 
 
