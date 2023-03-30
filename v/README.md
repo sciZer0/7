@@ -852,19 +852,19 @@ With blockchain technology, we can create new, really-democratic states which, i
 
 <h1>About DeFi</h1>
 
-In DeFi, as it is being made for now, there are also the biggest problems that are fundamental. 
+In DeFi, as it is being made for now on a majority of blockchains, there is the biggest problem that is fundamental:
 
-For now, state and logic (tokens and code) of each DApp are in the same place: smart-contract, so there are these 3 fundamental problems,
+* each upgrade of each dApp involves a multi-signature of only few people that can result in losing funds of users — in a case of a rug-pull or code-bug by the holders of the multi-signature.
 
-* a code bug of each smart-contract can result in losing funds of users — in a case of an exploit of code 
+In order to solve this fundamental problem, DeFi for fundamental tasks should be made another way.
 
-* each upgrade of each DApp involves a multi-signature of only few people that can result in losing funds of users — in a case of an unwelcome change of logic that the smart-contract work with
+In short, if you wish users' funds to be at the roller coaster then you use smart contracts for solving fundamental tasks, but if you wish users' funds to be in more safety then you use the blockchain's codebase for solving the fundamental tasks — like 
 
-* each upgrade of each DApp involves a multi-signature of only few people that can result in losing funds of users — in a case of a rug-pull.
+* trustless stablecoins
+* trustless bridges
+* trustless trading-fee-free exchanges.
 
-In order to solve these 3 fundamental problems, DeFi should be made another way.
-
-In short, if you wish users' funds to be at the roller coaster then you use smart contracts for solving fundamental tasks, but if you wish users' funds to be safe then you use the blockchain's codebase (which protects the funds with cryptography) for solving the fundamental tasks — like safe, trustless stablecoins; safe, trustless bridges and safe, trustless trading-fee-free exchanges. *I have an idea on this system.*
+*I have an idea on this system.*
 
 
 
