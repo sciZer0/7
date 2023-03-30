@@ -162,7 +162,7 @@ A decreasing-supply, permissionless, decentralized token with its own dedicated 
 
 
 
-### About Some Fundamental Problems of All Current Blockchains
+### About Fundamental Problems of All Current Blockchains
 
 Below are 5 fundamental problems of all current blockchains compared to the Vote Blockchain.
 
@@ -225,9 +225,6 @@ Ideally, network congestions, inevitably leading to an increase in transaction f
 The Vote blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
-
-
-
 
 
 
