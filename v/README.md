@@ -923,7 +923,9 @@ To Bitcoin maximalists
 
 Of course, there is inertia in society and you can console yourself with the network effect and Lindy effect.
 
-But, remember Nokia with one billion customers, history for decades, and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
+But by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress.
+
+Remember Nokia with one billion customers, history for decades, and the question in Forbes — CAN ANYONE CATCH THE CELL PHONE KING?
 
 <p align="center">
   <img src="/assets/images/nokia.png"/>
