@@ -390,7 +390,7 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 After creating the Genesis Block right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) are for free equally distributed among over 10 million people becoming Voters (users).
 
-Through a fair airdrop excluding the multi-accounting, I have an idea on this.
+Through a fair airdrop excluding the multi-accounting. *I have an idea on this.*
 
 
 
