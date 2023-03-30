@@ -916,7 +916,7 @@ Remember Nokia with one billion customers, history for decades, and the question
   <img src="/assets/images/nokia.png"/>
 </p>
 
-The Bitcoin token might have a perpetual life — not the leadership but just a life — only as a native, wrapped Bitcoin token on an advanced blockchain — bridged, of course, through a native trustless bridge. This token might be really-fungible, really-fast and with all the fundamental problems solved.
+The Bitcoin token might have a perpetual life — not the leadership but just a life — only as a native, wrapped token on an advanced blockchain — bridged, of course, through a native trustless bridge. This Bitcoin token might be really-fungible, really-fast and with all the fundamental problems solved.
 
 
 
