@@ -860,9 +860,9 @@ In order to solve this fundamental problem, DeFi for fundamental tasks should be
 
 In short, if you wish users' funds to be at the roller coaster then you use smart contracts for solving fundamental tasks, but if you wish users' funds to be in more safety then you use the blockchain's codebase for solving the fundamental tasks — like 
 
-* trustless stablecoins
-* trustless bridges
-* trustless trading-fee-free exchanges.
+* native trustless stablecoins
+* native trustless bridges
+* native trustless trading-fee-free exchanges.
 
 *I have an idea on this system.*
 
@@ -899,8 +899,7 @@ The allegedly incredibly-promising Lightning, conceived to solve the problem of 
 
 By the way, additionally, most bitcoin trading takes place on centralized exchanges, which makes this all — according to the main point of blockchain technology — also absurd.
 
-For now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
-
+Additionally, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. 
 
 
 
