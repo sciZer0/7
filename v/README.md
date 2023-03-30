@@ -667,8 +667,22 @@ At the start, the monthly rate of Automated Donations is 0.05% from each public 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*Also, the same way treasury funds can be formed up.*
+Treasury funds can be formed up the same way.
 
+*About Accounts*
+
+*Like on the Solana blockchain,
+on the Vote blockchain, accounts are much like files with additional features.*
+
+*Also, like on the Solana blockchain, on the Vote blockchain,  accounts store state between transactions.*
+
+*Accounts are held in validator memory and pay "rent" to stay there.*
+
+*The security model enforces that an account's state can only be modified by the account's Owner program.*
+
+*There is a special type of accounts — Protocol/User-controlled accounts.*
+
+*Hence, both the protocol (codebase) and the user with the private key are the owners of the account and can control the state of the account — can debit the account.*
 
 
 <h1>8 &nbsp Proposals</h1>
