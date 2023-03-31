@@ -801,7 +801,7 @@ On the other hand, absolutely, when you treat people like mushrooms — feed the
 
 And, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
 
-With blockchain technology, we can create new, really-democratic states which, in turn, can create outstandingly-good conditions for both people and businesses simultaneously.
+With blockchain technology, we can create new, really-democratic states with outstandingly-good conditions for both people and businesses simultaneously.
 
 
 
