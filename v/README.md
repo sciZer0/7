@@ -258,6 +258,9 @@ The Vote blockchain ideally solves this problem from day one.
 <p>&nbsp</p>
 
 
+
+
+
 In fact, there are also another fundamental problems.
 
 And, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
@@ -322,7 +325,7 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
 
-After creating the Genesis Block right away, through a fair airdrop, all the 10,000,000 Vote tokens (100%) are for free equally distributed among over 10 million people becoming Voters (users).
+After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are for free equally distributed among more than 10 million people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting. *I have an idea on this.*
 
