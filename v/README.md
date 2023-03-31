@@ -493,7 +493,7 @@ Each Validator is a person (possibly anonymous) running their Solana node and ha
 
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
-|       1     |     we3we3we3we3we3we3we   |
+|       1     |     banjo3banjo3banjo3ba   |
 |       1     |     eag1eeag1eeag1eeag1e   |
 |       1     |     zabu6zabu6zabu6zabu6   |
 |       1     |     krypto4krypto4krypto   |
