@@ -442,7 +442,7 @@ Additionally, in order for a vote to be valid, it must meet the required 5% vote
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * A Lot of Room To Improve
-* New Consensus Mechanism or Extremely Efficient True-Decentralization
+* New Consensus Mechanism or Extremely-Efficient True-Decentralization
 
 
 ## A Lot of Room To Improve
@@ -468,7 +468,7 @@ The thing is that we can achieve high decentralization and sustainability for ex
 
 
 
-## New Consensus Mechanism or Extremely Efficient True-Decentralization
+## New Consensus Mechanism or Extremely-Efficient True-Decentralization
 
 This new consensus mechanism allows us to achieve consensus highly efficiently.
 
