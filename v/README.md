@@ -488,7 +488,7 @@ All the Validators being in the list should have the same hardware capabilities.
 
 Each Validator is a person (possibly anonymous) running their Solana node and having their publicly-known Public Address. And exactly this Public Address serves to identify any given Validator in the list.
 
-<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Full List of All Current Validators:</p>
+<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp List of All Validators:</p>
 
 
 |    Stake    | Public Address of Validator|
