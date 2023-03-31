@@ -57,7 +57,6 @@ Specifically, high (even extreme) efficiency is possible thanks to the use of a 
 * The Vote Blockchain in more detail 
 * Some Other Thoughts</b>
    - About Democracy
-   - About DeFi
    - About NFTs
    - About Bitcoin
 * CONCLUSION 
@@ -158,7 +157,7 @@ On the other hand, the Bitcoin token is allegedly considered a non-inflationary 
 
 Moreover, a greater value is not a fixed-supply token but a decreasing-supply token.
 
-A decreasing-supply, permissionless, decentralized token with its own dedicated blockchain is the thing that our civilization has never known before and fundamentally is much better than "digital gold" or "ultra sound money".
+A decreasing-supply, permissionless, decentralized token with its own dedicated blockchain is the thing that is fundamentally much better than "digital gold" or "ultra sound money".
 
 
 
@@ -799,24 +798,6 @@ On the other hand, absolutely, when you treat people like mushrooms — feed the
 
 And, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
 
-
-
-
-<h1>About DeFi</h1>
-
-In DeFi, as it is being made for now on a majority of blockchains, there is the biggest problem that is fundamental:
-
-* each upgrade of each dApp involves a multi-signature of only few people that can result in losing funds of users — in a case of a rug-pull or code-bug by the holders of the multi-signature.
-
-In order to solve this fundamental problem, DeFi for fundamental tasks should be made another way.
-
-In short, if you wish users' funds to be at the roller coaster then you use smart contracts for solving fundamental tasks, but if you wish users' funds to be in more safety then you use the blockchain's codebase for solving the fundamental tasks — like 
-
-* native trustless stablecoins
-* native trustless bridges
-* native trustless trading-fee-free exchanges.
-
-*I have an idea on this system.*
 
 
 
