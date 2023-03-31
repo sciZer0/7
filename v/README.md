@@ -203,8 +203,6 @@ Although nearly the same might be said about Ethereum — Was Ethereum really a 
 
 Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
-Young generations, when informed, won't mostly agree with such levels of the Gini.
-
 The inequality Gini coefficient of any other of the existing blockchains isn't much better, if any better.
 
 Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
