@@ -384,7 +384,7 @@ On the Vote blockchain, a vote on each proposal lasts 30 days (6,480,000 slots, 
 
 And, there is a specific voting system: Competitive Quadratic Voting.
 
-The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+The "competitive" word means that while voting on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 > <b>The best decisions must overcome the Voting Power of rivals</b>.
 
