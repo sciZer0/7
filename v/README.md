@@ -238,7 +238,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Extremely importantly, the number of nodes is just one of tools for a blockchain to achieve permissionlessness and high sustainability including the "51% attack" resistance.
+Extremely importantly, increasing the number of nodes is just one of tools for a blockchain to achieve permissionlessness and high sustainability, including the "51% attack" resistance.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
