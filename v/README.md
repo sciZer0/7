@@ -50,7 +50,7 @@ Specifically, high (even extreme) efficiency is possible thanks to the use of a 
 * Abstract 
    - About Blockchain Technology
    - About Today's States
-   - About New Ideology
+   - About New Culture
    - About Immutability
    - About the Greatest Value
    - About Fundamental Problems of All Current Blockchains
