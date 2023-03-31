@@ -95,27 +95,9 @@ Absolutely, blockchain technology causes a paradigm revolution because no today'
 
 
 
-### About Today's States
-
-Gensler says that every blockchain token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle and the public is anticipating profits based on that group.
-
-But, according to Gensler's logic, the Bitcoin token is also securites because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
-
-The only reason that Gensler puts the Bitcoin blockchain out the range is that — and this lies beyond justice and legality — he thinks he cannot harm the Bitcoin blockchain.
-
-The Gensler & Co's rule in reality is that if we think we can harm a blockchain, if needed, we will do/try it.
-
-Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
-
-Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
-
-The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
-
-With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously.
 
 
-
-### About New Ideology
+### About New Culture 
 
 Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, aidios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
 
@@ -133,7 +115,7 @@ Also, when someone creates something new and digitizable which eventually become
 
 
 
-### About Immutability
+### About Immutability 
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
