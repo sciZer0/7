@@ -388,7 +388,7 @@ The "competitive" word means that on each proposal, competitive Voters may place
 
 > <b>The best decisions must overcome the Voting Power of rivals</b>.
 
-For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+For example, while voting on a certain proposal, some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
 
