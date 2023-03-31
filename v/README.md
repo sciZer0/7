@@ -354,7 +354,7 @@ At best, such a highly-deflationary nature of tokenomics should result in a grea
 <h1>5 &nbspVoting System</h1>
 
 
-The Vote blockchain has an highly-decentralized governance and operates based on direct vote by token holders. 
+The Vote blockchain has an highly-decentralized multimillion governance and operates based on direct votes by token holders, Voters. 
 
 This is a DAO-style blockchain leveraging all benefits and all the best practices of DAOs.
 
@@ -372,6 +372,59 @@ From day one, on the Vote blockchain, there are over 10 million Voters and a lot
  
 Importantly, even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
+
+
+
+
+<h1>6 &nbsp Competitive Quadratic Voting</h1>
+
+
+
+On the Vote blockchain, a vote on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
+
+And, there is a specific voting system: Competitive Quadratic Voting.
+
+The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+
+> <b>The best decisions must overcome the Voting Power of rivals</b>.
+
+For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
+
+The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
+
+For example, 
+
+* if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
+* if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
+* if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
+
+and so on.
+
+At the last Slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets are also summarized.
+
+Plus, each decision is made by a margin of at least 15% – in other words, the Mandatory Margin is 15%.
+
+For example, if a vote on a certain proposal has accumulated in total:
+
+* FOR: 3,500,000,000 Voting Power<br>
+
+* AGAINST: 3,000,000,000 Voting Power
+
+then,
+
+<p>the Voting Margin is 16.67%<br>
+(3,500,000,000 / 3,000,000,000 - 1) * 100 = 16.67</p>
+
+and,
+
+16.67% > 15%.
+
+Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
+
+Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
+
+
+
 
 
 
@@ -559,7 +612,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 
 
-<h1>6 &nbsp Contributors</h1>
+<h1>7 &nbsp Contributors</h1>
 
 Contributors are people who may be contributing to the Vote blockchain and receiving daily the highly generous Automated Donations — <b>in total ~ $3 million per year per person</b> — from Voters.
 
@@ -586,7 +639,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 
 
-<h1>7 &nbsp Automated Donations</h1>
+<h1>8 &nbsp Automated Donations</h1>
 
 Automated Donations are an element of a Creator Donation Culture.
 
@@ -621,7 +674,7 @@ on the Vote blockchain, accounts are much like files with additional features.*
 *Hence, both the protocol (codebase) and the user with the private key are the owners of the account and can control the state of the account — can debit the account.*
 
 
-<h1>8 &nbsp Proposals</h1>
+<h1>9 &nbsp Proposals</h1>
 
 On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
@@ -634,61 +687,6 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 * proposal to appoint a person (possibly anonymous) to the position of Contributor
 * proposal to dismiss a person (possibly anonymous) from the position of Contributor
-
-Voting on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
-
-
-
-
-
-<h1>9 &nbsp Competitive Quadratic Voting</h1>
-
-On the Vote blockchain, there is Competitive Quadratic Voting, a specific voting system.
-
-The "competitive" word means that on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
-
-> <b>The best decisions must overcome the Voting Power of rivals</b>.
-
-For example, while voting on a proposal — on appointing a certain person (Public Address) to the position of Contributor — some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
-
-The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
-
-For example, 
-
-* if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
-* if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
-* if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
-
-and so on.
-
-At the last Slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets are also summarized.
-
-Plus, each decision is made by a margin of at least 15% – in other words, the Mandatory Margin is 15%.
-
-For example, if a vote on a certain proposal has accumulated in total:
-
-* FOR: 3,500,000,000 Voting Power<br>
-
-* AGAINST: 3,000,000,000 Voting Power
-
-then,
-
-<p>the Voting Margin is 16.67%<br>
-(3,500,000,000 / 3,000,000,000 - 1) * 100 = 16.67</p>
-
-and,
-
-16.67% > 15%.
-
-Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
-
-Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
-
-
-
-
-
-
 
 
 
