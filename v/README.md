@@ -388,7 +388,7 @@ The "competitive" word means that on each proposal, competitive Voters may place
 
 > <b>The best decisions must overcome the Voting Power of rivals</b>.
 
-The "quadratic" word, in its turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
+The "quadratic" word, in turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
 
 For example, 
 
