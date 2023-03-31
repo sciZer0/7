@@ -49,7 +49,6 @@ Specifically, high (even extreme) efficiency is possible thanks to the use of a 
 <b>CONTENTS</b>
 * Abstract 
    - About Blockchain Technology
-   - About Today's States
    - About New Culture
    - About Immutability
    - About the Greatest Value
