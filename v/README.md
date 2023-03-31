@@ -493,14 +493,14 @@ Each Validator is a person (possibly anonymous) running their Solana node and ha
 
 |    Stake    | Public Address of Validator|
 | ----------- | ---------------------------|
-|       1     |     pumbaaxk3q32fg1n5zet   |
-|       1     |     eag1e1j3rg9y3h5kh8rl   |
-|       1     |     zazuph19rg463k9dkn2a   |
-|       1     |     jaqee3hm8fy6fg1n9kes   |
-|       1     |     ninja1b7mg8y3h9kh82n   |
-|       1     |     scrat3hk23v5fd3a9dut   |
-|       1     |     panda3hk8f56js1n9zet   |
-|       1     |     vixeyygfpsdkfse59hde   |
+|       1     |     we3we3we3we3we3we3we   |
+|       1     |     eag1eeag1eeag1eeag1e   |
+|       1     |     zabu6zabu6zabu6zabu6   |
+|       1     |     krypto4krypto4krypto   |
+|       1     |     ninja7ninja7ninja7ni   |
+|       1     |     montra8montra8montra   |
+|       1     |     panda5panda5panda5pa   |
+|       1     |     gex2gex2gex2gex2gex2   |
 
 
 </p>
@@ -523,14 +523,14 @@ Each Validator is automatically appointed in the position of the Leader and then
 
 |    Slot     | Public Address of Leader|
 | ----------- | ------------------------|
-|       1     |  Ninja1b7Mg8Y3H9kh82n   |
-|       2     |  Ninja1b7Mg8Y3H9kh82n   |
-|       3     |  Ninja1b7Mg8Y3H9kh82n   |
-|       4     |  Ninja1b7Mg8Y3H9kh82n   |
-|       5     |  Panda3hk8f56JS1N9zet   |
-|       6     |  Panda3hk8f56JS1N9zet   |
-|       7     |  Panda3hk8f56JS1N9zet   |
-|       8     |  Panda3hk8f56JS1N9zet   |
+|       1     |  panda5panda5panda5pa   |
+|       2     |  panda5panda5panda5pa   |
+|       3     |  panda5panda5panda5pa   |
+|       4     |  panda5panda5panda5pa   |
+|       5     |  montra8montra8montra   |
+|       6     |  montra8montra8montra   |
+|       7     |  montra8montra8montra   |
+|       8     |  montra8montra8montra   |
 
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
