@@ -791,11 +791,11 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 
 Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
 
-For a democracy to work well, those who are making the decisions, the average voter, need to 
+The thing is that for a democracy to work well, those who are making the decisions, the average voter, need to 
 
 1. have real power to change things
 2. know what is going on
-3. be really motivated
+3. be really motivated.
 
 On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
 
