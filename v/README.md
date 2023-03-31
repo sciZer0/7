@@ -496,8 +496,8 @@ Each Validator is a person (possibly anonymous) running their Solana node and ha
 |       1     |     banjo3banjo3banjo3ba   |
 |       1     |     eag1eeag1eeag1eeag1e   |
 |       1     |     zabu6zabu6zabu6zabu6   |
-|       1     |     krypto4krypto4krypto   |
-|       1     |     ninja7ninja7ninja7ni   |
+|       1     |     samurai4samurai4samu   |
+|       1     |     venus7venus7venus7ve   |
 |       1     |     montra8montra8montra   |
 |       1     |     panda5panda5panda5pa   |
 |       1     |     gex2gex2gex2gex2gex2   |
@@ -531,7 +531,30 @@ Each Validator is automatically appointed in the position of the Leader and then
 |       6     |  montra8montra8montra   |
 |       7     |  montra8montra8montra   |
 |       8     |  montra8montra8montra   |
-
+|       9     |  banjo3banjo3banjo3ba   |
+|      10     |  banjo3banjo3banjo3ba   |
+|      11     |  banjo3banjo3banjo3ba   |
+|      12     |  banjo3banjo3banjo3ba   |
+|      13     |  gex2gex2gex2gex2gex2   |
+|      14     |  gex2gex2gex2gex2gex2   |
+|      15     |  gex2gex2gex2gex2gex2   |
+|      16     |  gex2gex2gex2gex2gex2   |
+|      17     |  zabu6zabu6zabu6zabu6   |
+|      18     |  zabu6zabu6zabu6zabu6   |
+|      19     |  zabu6zabu6zabu6zabu6   |
+|      20     |  zabu6zabu6zabu6zabu6   |
+|      21     |  venus7venus7venus7ve   |
+|      22     |  venus7venus7venus7ve   |
+|      23     |  venus7venus7venus7ve   |
+|      24     |  venus7venus7venus7ve   |
+|      25     |  eag1eeag1eeag1eeag1e   |
+|      26     |  eag1eeag1eeag1eeag1e   |
+|      27     |  eag1eeag1eeag1eeag1e   |
+|      28     |  eag1eeag1eeag1eeag1e   |
+|      29     |  samurai4samurai4samu   |
+|      30     |  samurai4samurai4samu   |
+|      31     |  samurai4samurai4samu   |
+|      32     |  samurai4samurai4samu   |
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
