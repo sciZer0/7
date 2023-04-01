@@ -358,9 +358,9 @@ At best, such a highly-deflationary nature of tokenomics should result in a grea
 <h1>5 &nbspVoting System</h1>
 
 
-The Vote blockchain has a highly-decentralized multimillion governance and operates based on direct votes by token holders, Voters. 
+The Vote blockchain has a highly-decentralized governance and operates mostly automatically and partly based on decisions made by token holders, Voters. 
 
-This is a DAO-style blockchain leveraging all benefits and all the best practices of DAOs.
+This is a DAO-style blockchain leveraging all benefits and the best practices of DAOs.
 
 The blockchain’s democratic system consists of the following elements:
 
@@ -369,15 +369,6 @@ The blockchain’s democratic system consists of the following elements:
 * Competitive Quadratic Voting (inbuilt)
 * Hyde Park
  
-<i><b>
-The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation — importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
-
-From day one, on the Vote blockchain, there are over 10 million Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
- 
-Importantly, even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
-</b></i>
-
-
 
 
 <h1>6 &nbsp Competitive Quadratic Voting</h1>
@@ -426,7 +417,13 @@ Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the 
 Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
 
 
+<i><b>
+The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation. Also importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
 
+From day one, on the Vote blockchain, there are over 10 million Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
+ 
+Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
+</b></i>
 
 
 
@@ -516,7 +513,7 @@ All other Validators are only verifying the work of the leader-Validator, and th
 
 In other words, all other Validators are voting – each successful verification of the block by a Validator serves as one "For" vote for the consensus algorithm.
 
-So the creation of the block by the Leader and the verification of the block by other Validators are happening in parallel. This is a very good thing. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. <i>If this last sentence isn't understandable, relax. Doesn't matter here.</i>
+So the creation of the block by the leader-Validator and the verification of the block by other Validators are happening in parallel. This is a very good thing. And this becomes possible thanks to the Proof-Of-History mechanism which just helps replace the communication overhead with cheap local calculations. <i>If this last sentence isn't understandable, relax. Doesn't matter here.</i>
 
 Each Validator is automatically appointed in the position of the Leader and then replaced with another Validator according to the Leader Schedule which is automatically calculated from the list by the stake-weighted selection algorithm.
 
