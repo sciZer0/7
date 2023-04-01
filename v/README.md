@@ -56,6 +56,7 @@ Specifically, high (even extreme) efficiency is possible thanks to the use of a 
 * The Vote Blockchain in more detail 
 * Some Other Thoughts</b>
    - About Democracy
+   - About Nakamoto Coefficient
    - About NFTs
    - About Bitcoin
 * CONCLUSION 
@@ -780,6 +781,7 @@ Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, fo
 ### Some Other Thoughts
 
 * About Democracy
+* About Nakamoto Coefficient
 * About DeFi
 * About NFTs
 * About Bitcoin
