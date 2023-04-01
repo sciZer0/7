@@ -506,7 +506,7 @@ Each Validator is a person (possibly anonymous) running their Solana node and ha
 
 </p>
 
-Also, time is splitted into Slots, each Slot is 400 milliseconds.
+Also, time is splitted into Slots, each Slot is 0.4 second.
 
 At any given Slot, in the list, there is only one Validator (called leader-Validator or Leader) which is creating the block.
 
