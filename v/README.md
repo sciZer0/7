@@ -801,7 +801,7 @@ The thing is that for a democracy to work well, those who are making the decisio
 
 On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
 
-And, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
+And, when people have real power and information, when they are motivated, when the system is transparent and on highly-decentralized blockchain, then there is a big chance we get a real democracy working well.
 
 
 
