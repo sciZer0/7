@@ -667,6 +667,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 
 
+
 <h1>8 &nbsp Automated Donations</h1>
 
 Automated Donations are an element of a Creator Donation Culture.
@@ -676,6 +677,9 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
+
+
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be 470 vacant positions), all Automated Donations intended for the vacant positions are burned.*
 
 
 *Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
