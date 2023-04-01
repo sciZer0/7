@@ -568,13 +568,13 @@ The hypothesis/idea is that
 
 1. when the list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
-2.  when the list is limited to 250 Validators, and
+2.  when the list is limited to 500 Validators, and
 
 3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving highly-generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (~ <b>$1 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -590,7 +590,7 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 </b>
 <br><br>
 
-Simply put, we give each Validator highly-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping from the list.
+Simply put, we give each Validator very-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping from the list.
 
 POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
@@ -609,9 +609,9 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of stakes/tokens for years<br><br>
 
-Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 83 fold margin of safety (of 250 Validators, 250/3=83.33) might be the sufficient condition for the blockchain to be considered sustainable.
+Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 166 fold margin of safety of 500 Validators (500/3>166) might be the sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their nodes only on separate rigs, not servers of server providers. And plus, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 2 Validators — highly-autonomous Validators. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And plus, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
@@ -638,7 +638,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 <h1>7 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receiving daily the highly generous Automated Donations — <b>in total ~ $3 million per year per person</b> — from Voters.
+Contributors are people who may be contributing to the Vote blockchain and receiving daily the very-generous Automated Donations — <b>in total ~ $1 million per year per person</b> — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -647,7 +647,7 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 250 (positions) and this number can be changed through democratic voting (Competitive Quadratic Voting).
+At the start, the maximum number is 500 (positions) and this number can be changed through democratic voting (Competitive Quadratic Voting).
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
