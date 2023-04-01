@@ -827,7 +827,7 @@ As mentioned above, Bitcoin for now isn't and a lot of time further also won't b
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of supply.
 
-Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than many others in terms of immutability of code.
+Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique in terms of immutability of codebase.
 
 Plus, the Bitcoin blockchain has all these unsolvable, unstoppable fundamental flaws, including the absolutely-terrible Gini and extreme inefficiency — including, in turn, extremaly-low bandwidth.
 
