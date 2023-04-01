@@ -423,7 +423,7 @@ and,
 
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
-Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
+Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout — for votes on some special sorts of proposals, 50%.
 
 
 
@@ -650,7 +650,8 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 500 (positions) and this number can be changed through democratic voting (Competitive Quadratic Voting).
+At the start, the maximum number is 500 (positions) and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). In order for a vote on the given sort of proposal to be valid, it must meet the required 50% voter turnout.
+
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
@@ -674,7 +675,7 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5%, by the donors (Voters) through democratic voting (Competitive Quadratic Voting).
+At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
 
 
 
