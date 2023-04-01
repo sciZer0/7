@@ -675,7 +675,7 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
+At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
 
 
 *Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
