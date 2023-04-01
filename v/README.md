@@ -383,7 +383,7 @@ Importantly, even though not each Voter might vote, and plus, a Voter might spen
 
 
 
-On the Vote blockchain, a vote on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
+On the Vote blockchain, each vote on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
 And, there is a specific voting system: Competitive Quadratic Voting.
 
