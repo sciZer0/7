@@ -833,7 +833,9 @@ Some even believe Bitcoin has its value because they think Bitcoin is lots of lo
 
 On the other hand, the customer value of a blockchain only relies on how BIG are problems that the blockchain solves.
 
-As mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+Fortunately, Bitcoin is both permissionless and highly-sustainable.
+
+But, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of supply.
 
@@ -848,9 +850,7 @@ By the way, additionally, most bitcoin trading takes place on centralized exchan
 
 Forecast
 
-For now, Bitcoin is both permissionless and highly-sustainable.
-
-And, Bitcoin might have been the leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in a lot of other key aspects.
+Bitcoin might have been the leader until some moment. For example, until there is a fundamentally better token — a token with pre-programmed decreasing of supply, with the ideal Gini, and which is fundamentally much better in a lot of other key aspects.
 
 Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection has, and which is the flexing — the ultimate way for people to flex.
 
