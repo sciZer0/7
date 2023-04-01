@@ -423,7 +423,7 @@ and,
 
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
-Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout — for votes on some special sorts of proposals, 50%.
+Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
 
 
 
@@ -650,19 +650,19 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 500 (positions) and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). In order for a vote on the given proposal to be valid, it must meet the required 50% voter turnout.
+At the start, the maximum number is 500 (positions) and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
 
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to become Contributor and can use <b>Hyde Park</b>.
+Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to become Contributor, and he/she can use <b>Hyde Park</b>.
 
-At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position by Voters through democratic voting (Competitive Quadratic Voting).
+At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Quadratic Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 150 Contributors through democratic voting (Competitive Quadratic Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 500 Contributors through democratic voting (Competitive Quadratic Voting).*
 
 
 
@@ -676,7 +676,6 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
 At the start, the monthly rate of Automated Donations is 0.05% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
-
 
 
 *Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
