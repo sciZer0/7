@@ -878,6 +878,8 @@ All the fundamental problems of the blockchain industry can be solved only by hi
 It is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
 <p>&nbsp</p>
-*Additionally, I have a lot of other ideas — incl. ideas about safer DeFi: stablecoins, exchanges and bridges..*
+
+
+*Additionally, I have a lot of other ideas — incl. ideas about safer DeFi: stablecoins, exchanges and bridges.*
 <p>&nbsp</p>
 
