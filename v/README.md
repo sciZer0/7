@@ -831,9 +831,9 @@ Of course, Bitcoin is special.
 
 Some even believe Bitcoin has its value because they think Bitcoin is lots of lots of pure energy converted into a digital monetary instrument via the mining process. But in reality, inefficient (expensive) consensus does never add value to a blockchain because inefficient  consensus does never increase the consumer value of the blockchain.
 
-On the other hand, the customer value of a blockchain only relies on how BIG are problems that the blockchain solves.
+Instead, the customer value of a blockchain only relies on how BIG are problems that the blockchain solves.
 
-Fortunately, for now, Bitcoin is both permissionless and highly-sustainable.
+Fortunately, for now, the Bitcoin blockchain is both permissionless and highly-sustainable.
 
 But, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
