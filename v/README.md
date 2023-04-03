@@ -750,7 +750,7 @@ Hypothesis/Idea
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
-For example, we might take code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain, modifying this a bit.
+For example, we might take core code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain, modifying this a bit.
 
 
 
