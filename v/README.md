@@ -554,7 +554,7 @@ Each Validator is automatically appointed in the position of the Leader and then
 |      31     |  samurai4samurai4samu   |
 |      32     |  samurai4samurai4samu   |
 
-The Leader Schedule itself is calculated far in advance of the slots it assigns.
+The Leader Schedule is calculated far in advance of the slots it appoints Leaders in.
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
