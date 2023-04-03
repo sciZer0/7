@@ -568,13 +568,13 @@ The hypothesis/idea is that
 
 1. when the list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
-2.  when the list is limited to 500 Validators, and
+2.  when the list is limited to 250 Validators, and
 
 3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (~ <b>$1 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
 
@@ -609,13 +609,13 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of stakes/tokens for years<br><br>
 
-Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 166 fold margin of safety of 500 Validators (500/3>166) might be the sufficient condition for the blockchain to be considered sustainable.
+Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 83 fold margin of safety of 250 Validators (250/3>83.33) might be the sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 2 Validators — highly-autonomous Validators. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And plus, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
-<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (1*500=500). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
+<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
 So we can surely achieve high decentralization and sustainability for extremely-low costs.
@@ -638,7 +638,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 <h1>7 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receiving daily the very-generous Automated Donations — <b>in total ~ $1 million per year per person</b> — from Voters.
+Contributors are people who may be contributing to the Vote blockchain and receiving daily the very-generous Automated Donations — <b>in total ~ $2 million per year per person</b> — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -647,7 +647,7 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 500 (positions) and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
+At the start, the maximum number is 250 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
 
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
@@ -659,7 +659,7 @@ Each candidate/applicant for a position of Contributor have to find a way to pro
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Quadratic Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 500 Contributors through democratic voting (Competitive Quadratic Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 250 Contributors through democratic voting (Competitive Quadratic Voting).*
 
 
 
@@ -676,7 +676,7 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
 
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be 470 vacant positions), all Automated Donations intended for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be 470 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
 
 *Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
@@ -685,6 +685,8 @@ At the start, the monthly rate of Automated Donations is 0.08% from each public 
 * funding documentation and research.
 
 Treasury funds can be formed up the same way.
+
+The specific numbers — about a number of Contributors and a size of yearly personal compensations like 250 (2*250=500), or 500 (1*500=500), or totally others ones —  are discussable.
 
 *About Accounts*
 
