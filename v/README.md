@@ -88,9 +88,7 @@ On the other hand, the main task of developers is to really build/make such perm
 
 Importantly, each blockchain must be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
-And, <b>the rule</b> of efficiency is that you must never do more than enough.
-
-*By the way, permissionlessness is just another word for censorship-resistance, and of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
+And, <b>the main rule</b> of efficiency is that you must never do more than enough.
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
