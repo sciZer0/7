@@ -558,7 +558,7 @@ The Leader Schedule is calculated far in advance of the slots it appoints Leader
 
 Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
-Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake – and, theoretically, might be dropped from the list.
+Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake.
 
 Technically, even 3 honest nodes (Validators) are enough for the Solana blockchain to function normally, maintaining the bandwidth of over 50,000 TPS.
 
