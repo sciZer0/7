@@ -764,7 +764,7 @@ For example, we might take core code of the Solana blockchain as our codebase an
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30th, where people around the world might give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code)  — including through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30, where people around the world might give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code)  — including through buying NFTs of the creators.
 
 <i>
 Eventually, there might be people on social networks who are searching for the creators eligible for donations, making the lists. 
