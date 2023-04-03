@@ -893,6 +893,6 @@ It is just a matter of time that some initiative group of people will create a b
 <p>&nbsp</p>
 
 
-*Additionally, I have a lot of other ideas — incl. ideas about safer DeFi: stablecoins, exchanges and bridges.*
+*Additionally, I have a lot of other ideas — incl. ideas about stablecoins, exchanges and bridges.*
 <p>&nbsp</p>
 
