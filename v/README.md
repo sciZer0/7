@@ -686,8 +686,6 @@ At the start, the monthly rate of Automated Donations is 0.08% from each public 
 
 Treasury funds can be formed up the same way.
 
-The specific numbers — about a number of Contributors and a size of yearly personal compensations like 250 (2*250=500), or 500 (1*500=500), or totally others ones —  are discussable.
-
 *About Accounts*
 
 *Like on the Solana blockchain,
