@@ -76,7 +76,11 @@ The main point of blockchain technology is to allow people to build permissionle
 
 Specifically, permissionless ownership systems about storing and transferring tokens (values).
 
-The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously (1)use the public-private key pair authentication mechanism and (2)be a people-ruled, highly-decentralized system of independent nodes  – without being under control of any single entity.
+The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
+
+* use the public-private key pair authentication mechanism
+
+* be a people-ruled, highly-decentralized system of many incentivized nodes — not to mention, not being under control of any single entity.
 
 Ideally, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout geopolitical events or natural disasters.
 
@@ -676,7 +680,7 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
 
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be 470 vacant positions), all Automated Donations collected for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
 
 *Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
