@@ -859,11 +859,11 @@ Bitcoin might have been the leader until some moment. For example, until there i
 
 Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (historical) status of the 1st cryptocurrency, might be more clear and more about the same point that, for example, a Leonardo da Vinci's painting or a set of NFTs of a unique art collection has, and which is the flexing — the ultimate way for people to flex.
 
-<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. This is such public relations — this is about the status. And plus, of course, this does not exclude making money through reselling the unique thing (token) to another one.</b></i>
+<i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you have the thing other people cannot or don't understand the need to have. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. This is such public relations — this is about the status. And plus, of course, this does not exclude making money through reselling the unique thing (token) to another one.</b></i>
 
 So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens might be much like NFTs.
 
-Already now, the Bitcoin token isn't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
+Already now, Bitcoin tokens aren't really fungible: each Bitcoin has its history, story and fate, meaning, its price — for example, more clean Bitcoins have more prices. Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
 
 The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
