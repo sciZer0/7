@@ -861,7 +861,7 @@ Over time, the whole point of Bitcoin as a blockchain, thanks to its unique (his
 
 <i><b>Flexing as a culture, in a broad sense, might be described as showing that you are better than other people since you can have the thing other people cannot. For example, this may happen through spending significant money on a unique thing (token) proving your involvement with some unique (sometimes historical) event. Essentially, this is a way for anyone to demonstrate their domination, superiority. This is such public relations — this is about the status. And plus, of course, this does not exclude making money through reselling the unique thing (token) to another one.</b></i>
 
-So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens are much like NFTs.
+So, the whole value of Bitcoin as a blockchain — if compared to new, more advanced blockchains going to come — might be more about its unique (historical) status of the 1st cryptocurrency, meaning Bitcoin tokens might be much like NFTs.
 
 Over time, this point might become even more clear to everyone — earlier Bitcoins might also have more prices.
 
