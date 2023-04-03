@@ -82,7 +82,7 @@ Ideally, nodes must be distributed across geographies and jurisdictions, so that
 
 On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, as efficient as possible. 
 
-Importantly, each blockchain must be AS efficient AS possible — of course, remaining permissionless and highly-sustainable.
+Importantly, each blockchain must be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
 And, THE rule of efficiency is that you must never do more than enough.
 
@@ -176,11 +176,11 @@ Fundamental Problem 2 is that on each of the existing blockchains, there is the 
 
 *For reference,*
 
-*Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an ASTONISHING 0.88.*
+*Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an <b>astonishing</b> 0.88.*
 
-As Vitalik said about the absolutely-terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time 1/4 of the supply had already been handed out by the end of 2010?
+As Vitalik said about the absolutely-terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time <b>1/4</b> of the supply had already been handed out by the end of 2010?
 
-Although nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time 1/2 of the supply had already been handed out among less than 7 thousand people by the end of 2014?
+Although nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time <b>1/2</b> of the supply had already been handed out among less than 7 thousand people by the end of 2014?
 
 Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
