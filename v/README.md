@@ -768,7 +768,7 @@ As an element of Creator Thanksgiving Culture, we establish a new fete day — C
 <i>
 Eventually, there might be people on social networks who are searching for the creators eligible for donations, making the lists. 
 <br><br>
-Some of the first names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
+Some of names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 </i>
 
 
