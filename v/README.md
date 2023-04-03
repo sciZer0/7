@@ -838,13 +838,13 @@ Some even believe Bitcoin has its value because they think Bitcoin is lots of lo
 
 On the other hand, the customer value of a blockchain only relies on how big are problems that the blockchain solves, and how small are flaws the blockchain has.
 
-Fortunately, for now, the Bitcoin blockchain is both permissionless and highly-sustainable. It gets totally along with the main point of blockchain technology.
+The Bitcoin blockchain, for now, is both permissionless and highly-sustainable, and it gets totally along with the main point of blockchain technology — to start with.
 
 But, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
 More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of supply.
 
-Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique in terms of immutability of codebase.
+Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than others in terms of immutability of codebase.
 
 Plus, the Bitcoin blockchain has all those other unsolvable, unstoppable fundamental problems (flaws), including the absolutely-terrible Gini and extreme inefficiency — including, in turn, extremaly-low bandwidth.
 
