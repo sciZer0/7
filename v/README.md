@@ -38,10 +38,10 @@ This paper proposes an idea about a next-gen, layer-1, DAO-style blockchain whic
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-* with over 50 thousand TPS
+* with over 50,000 TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
-* with over 1 billion users
+* with over 1,000,000,000 users
 
 Specifically, high (even extreme) efficiency is possible thanks to the use of a new consensus mechanism.
 
@@ -302,10 +302,10 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-* with over 50 thousand TPS
+* with over 50,000 TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
-* with over 1 billion users
+* with over 1,000,000,000 users
 <p>&nbsp</p>
 
 
@@ -335,7 +335,7 @@ Through a fair airdrop excluding the multi-accounting. *I have an idea on this.*
 
 
 
-<h1>3 &nbsp Over 50 Thousand TPS</h1>
+<h1>3 &nbsp Over 50,000 TPS</h1>
 
 From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
@@ -423,7 +423,7 @@ Additionally, in order for a vote to be valid, it must meet the required 5% vote
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation. Also importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
 
-From day one, on the Vote blockchain, there are over 1 billion Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
+From day one, on the Vote blockchain, there are over 1,000,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
  
 Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
