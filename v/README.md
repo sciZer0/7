@@ -38,10 +38,10 @@ This paper proposes an idea about a next-gen, layer-1, DAO-style blockchain whic
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-* with over 50,000 TPS
+* with over 50 thousand TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
-* with over 10 million users
+* with over 1 billion users
 
 Specifically, high (even extreme) efficiency is possible thanks to the use of a new consensus mechanism.
 
@@ -124,7 +124,7 @@ This might seem that ideally, in codebase of a blockchain, there should be no va
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete. So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only few people that, in turn, already causes another problems. *A bit more on problems of smart-contracts and solutions below.*
+By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only few people that, in turn, already causes another problems.
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated, high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
@@ -168,7 +168,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <i>
 <b>
-For reference, the Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million per day — with the potential to process 60 billion transactions per day in the future. So massive daily votes (by, say, even 50 million voters) aren't any problem now in terms of technology.
+For reference, the Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million per day — with the potential to process 60 billion transactions per day in the future. So massive votes aren't any problem now in terms of technology.
 </b></i>
 
 
@@ -302,10 +302,10 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-* with over 50,000 TPS
+* with over 50 thousand TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
-* with over 10 million users
+* with over 1 billion users
 <p>&nbsp</p>
 
 
@@ -329,13 +329,13 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 <h1>2 &nbsp Unprecedented Full-Scale Distribution</h1>
 
-After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are for free equally distributed among more than 10 million people who become Voters (users).
+After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are for free equally distributed among more than 1 billion people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting. *I have an idea on this.*
 
 
 
-<h1>3 &nbsp Over 50,000 TPS</h1>
+<h1>3 &nbsp Over 50 Thousand TPS</h1>
 
 From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
@@ -423,7 +423,7 @@ Additionally, in order for a vote to be valid, it must meet the required 5% vote
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation. Also importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
 
-From day one, on the Vote blockchain, there are over 10 million Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
+From day one, on the Vote blockchain, there are over 1 billion Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
  
 Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
