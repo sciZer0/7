@@ -788,7 +788,6 @@ Some of names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
 
 * About Democracy
 * About Nakamoto Coefficient
-* About DeFi
 * About NFTs
 * About Bitcoin
 
