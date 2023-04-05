@@ -590,7 +590,7 @@ The hypothesis/idea is that
 
 
 <b>
-And we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically from the list calculate the Leader Schedule — and replace it with a random number selection algorithm to automatically from the list calculate the leader schedule, providing the same time period in the position of the Leader to all Validators in the list.
+And we might, for example, just drop out the Solana's stake-weighted selection algorithm, used to automatically from the list calculate the Leader Schedule — and replace it with a random number selection algorithm to automatically from the list calculate the leader schedule, providing nearly the same time period in the position of the Leader to all Validators in the list.
 </b>
 <br><br>
 
