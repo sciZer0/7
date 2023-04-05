@@ -813,8 +813,7 @@ And, when people have real power and information, when they are motivated, when 
 
 # About Nakamoto Coefficient
 
-For now, the industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since it is one-sided because the authors of this coefficient at the moment of the creation didn't fully understand the main point of blockchain technology.
-
+For now, the industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. The Nakamoto coefficient is not good for this since it is one-sided — doesn't comprehensively take into account the main point of blockchain technology.
 
 
 # About NFTs
