@@ -869,7 +869,7 @@ The word's top universities like Stanford, Harvard or Oxford might buy earlier B
 
 To Bitcoin maximalists
 
-Of course, there is inertia in society and you can console yourself with the network effect and Lindy effect.
+Of course, in society there is inertia and you can console yourself with the network effect and Lindy effect.
 
 But by believing that the Bitcoin blockchain will forever be the most successful one in the crypto industry, you deny the ability of our civilization to progress.
 
