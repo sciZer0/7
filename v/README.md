@@ -678,7 +678,7 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to become Contributor, and he/she can use <b>Hyde Park</b>.
+Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using various off-chain and on-chain credentials to provide their social graph in a privacy-preserving manner, and also using **Hyde Park**.
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Quadratic Voting).
 
@@ -774,7 +774,7 @@ Hypothesis/Idea
 
 The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
-For example, we might take core code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain, modifying this a bit.
+For example, we might take core code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain — of course, modifying this all a bit.
 
 
 
@@ -787,12 +787,12 @@ For example, we might take core code of the Solana blockchain as our codebase an
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30, where people around the world might give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code). Also, through buying NFTs of the creators. 
-<i>
-Eventually, there might be people on social networks who are searching for the creators eligible for donations, making the lists. 
-<br><br>
-Some of names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
-</i>
+As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30, where people around the world may give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code). Also, through buying NFTs of the creators. 
+
+
+*Eventually, there might be people on social networks who are searching for creators eligible for donations, making the lists.*
+
+*Some of names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.*
 
 
 
