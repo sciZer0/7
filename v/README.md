@@ -258,7 +258,7 @@ This problem comes from the fact that, for now, in the industry, there is the ma
 
 According to this logic, a blockchain with a really huge market capitalization must always strive to have lots of lots of honest nodes.
 
-At the same time, an increase in a number of nodes doesn't increase the blockchain's (or shard's) bandwidth proportionally, if ever.
+At the same time, an increase in a number of nodes doesn't increase the blockchain's (shard's) bandwidth proportionally, if ever.
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
