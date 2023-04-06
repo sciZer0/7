@@ -678,7 +678,7 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using various off-chain and on-chain credentials to provide their social graph in a privacy-preserving manner, and also using **Hyde Park**.
+Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native identity to prove their social graph in a privacy-preserving manner, and also using **Hyde Park**.
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Quadratic Voting).
 
@@ -826,7 +826,7 @@ The thing is that for a democracy to work well, those who are making the decisio
 
 On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
 
-And, when people have real power and information, when they are motivated, when the system is transparent and on highly-decentralized blockchain, then there is a big chance we get a real democracy working well.
+And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
 
 
 
