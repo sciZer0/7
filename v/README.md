@@ -116,7 +116,7 @@ Politicians are just actors playing their roles in a play called "Democracy" and
 
 The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
 
-With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously — incl. cardinal cut of tax burden (-90%), cancelation of all traditional taxes and introduction of only the self-collected, privacy-friendly taxes.
+With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously — incl. cardinal cut of tax burden (-90%), cancelation of all traditional taxes and introduction of only the self-collected, privacy-preserving taxes.
 
 
 
@@ -678,7 +678,7 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
 
-Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native identity to prove their social graph in a privacy-preserving manner, and also using **Hyde Park**.
+Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native identity to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Quadratic Voting).
 
