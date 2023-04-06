@@ -700,7 +700,7 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
 
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
 
 *Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
@@ -726,7 +726,7 @@ on the Vote blockchain, accounts are much like files with additional features.*
 *Hence, both the protocol (codebase) and the user with the private key are the owners of the account and can control the state of the account — can debit the account.*
 
 
-<h1>9 &nbsp Proposals</h1>
+<h1>9 &nbsp Voting Proposals</h1>
 
 On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
