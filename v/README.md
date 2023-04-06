@@ -93,7 +93,7 @@ And, <b>the main rule</b> of efficiency is that you must never do more than enou
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
-With blockchain technology, people for the first time ever have gotten the tool to build something that cannot be destroyed — incl. cannot be destroyed by states.
+With blockchain technology, people for the first time ever have gotten the tool to build something that cannot be destroyed — incl. by states.
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
