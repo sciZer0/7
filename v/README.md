@@ -91,7 +91,7 @@ Importantly, each blockchain must be <b>as</b> efficient <b>as</b> possible — 
 
 And, <b>the main rule</b> of efficiency is that you must never do more than enough.
 
-*By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and sustainability, both these ones together, imply trustlessness.*
+*By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
 With blockchain technology, people for the first time ever have gotten the tool to build something that cannot be destroyed — incl. by states.
 
