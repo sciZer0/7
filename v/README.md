@@ -49,6 +49,7 @@ Specifically, high (even extreme) efficiency is possible thanks to the use of a 
 <b>CONTENTS</b>
 * Abstract 
    - About Blockchain Technology
+   - About Today's States
    - About New Culture
    - About Immutability
    - About the Greatest Values
@@ -99,6 +100,25 @@ With blockchain technology, people for the first time ever have gotten the tool 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
 
+### About Today's States
+
+The most powerful state in the world — by its reps —  says that every blockchain token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle and the public is anticipating profits based on that group.
+
+But, according to this logic, the Bitcoin token is also securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
+
+The only reason that the most powerful state puts the Bitcoin blockchain out of the range/scope is that — and this lies beyond justice and legality — they think they cannot harm the Bitcoin blockchain.
+
+In reality,  the rule of them is the following, 
+
+if we think we can harm a blockchain, if needed, we will do/try it.
+
+Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
+
+Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
+
+The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
+
+With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously — incl. cardinal cut of tax burden (-90%) and introduction of only the self-collected, privacy-friendly taxes.
 
 
 
