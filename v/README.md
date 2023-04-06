@@ -106,7 +106,7 @@ The most powerful state in the world — by its reps —  says that every blockc
 
 But, according to this logic, the Bitcoin token is also securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
 
-The only reason that the most powerful state puts the Bitcoin blockchain out of the range/scope is that — and this lies beyond justice and legality — they think they cannot harm the Bitcoin blockchain.
+The only reason that the most powerful state puts the Bitcoin blockchain out of the range/scope is that — and this lies beyond justice and legality — "they" think they cannot harm the Bitcoin blockchain.
 
 In reality,  the rule of them is the following, 
 
