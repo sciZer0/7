@@ -483,7 +483,7 @@ Also, for reference,
 * about 90% of the Ethereum hashrate is controlled by 16 miner pools.
 </i></p>
 
-As we can see, current decentralization isn't the one of a highly-high level but at the same time is highly expensive.
+As we can see, current decentralization isn't the one of a highly-high level but at the same time is highly-expensive.
 
 The thing is that we can achieve high decentralization and sustainability for extremely-low costs.
 
@@ -618,7 +618,7 @@ Simply put, we give each Validator very-generous incentives to work honestly and
 
 POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. A lot bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
+New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. Much bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
 **Old Consensus:**<br>
@@ -633,9 +633,9 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of stakes/tokens for years<br><br>
 
-Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 83 fold margin of safety of 250 Validators (250/3>83.33) might be the sufficient condition for the blockchain to be considered sustainable.
+Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 83 fold margin of safety of 250 Validators (250/3>83.33) might be a sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And plus, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
