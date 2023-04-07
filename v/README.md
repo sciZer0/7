@@ -440,7 +440,7 @@ and,
 
 Since the Voting Margin of 16.67% is more than the Mandatory Margin of 15%, the decision is made.
 
-Additionally, in order for a vote to be valid, it must meet the required 5% voter turnout.
+Additionally, in order for a vote to be valid, it must meet the required 1% voter turnout.
 
 
 <i><b>
