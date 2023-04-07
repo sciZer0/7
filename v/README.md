@@ -195,7 +195,7 @@ For reference, the Solana blockchain, at its best times, processed about 30 mill
 
 <h3 align="center">Problem 2</h3>
 
-Fundamental Problem 2 is that on each of the existing blockchains, there is great inequality — the most tokens of the blockchain are distributed to a small number of people.
+Fundamental Problem 2 is that on each of the existing blockchains, there is great inequality — meaning, the most tokens of the blockchain are distributed to a small number of people.
 
 *For reference,*
 
