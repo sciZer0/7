@@ -193,11 +193,11 @@ For reference, the Solana blockchain, at its best times, processed about 30 mill
 
 <h3 align="center">Problem 2</h3>
 
-Fundamental Problem 2 is that on each of the existing blockchains, there is the inequality – great inequality.
+Fundamental Problem 2 is that on each of the existing blockchains, there is great inequality — the most tokens of the blockchain are distributed to a small number of people.
 
 *For reference,*
 
-*Wealth in crypto-land is more concentrated than in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an <b>astonishing</b> 0.88.*
+*Wealth in crypto-land is more concentrated than even in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an <b>astonishing</b> 0.88.*
 
 As Vitalik said about the absolutely-terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time <b>1/4</b> of the supply had already been handed out by the end of 2010?
 
