@@ -594,7 +594,7 @@ The hypothesis/idea is that
 
 1. when the list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
-2.  when the list is limited to 250 Validators, and
+2.  when the list is limited to 300 Validators, and
 
 3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
 
@@ -635,9 +635,9 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of stakes/tokens for years<br><br>
 
-Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 83 fold margin of safety of 250 Validators (250/3>83.33) might be a sufficient condition for the blockchain to be considered sustainable.
+Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 100 fold margin of safety of 300 Validators (300/3=100) might be a sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1 Validator — highly-autonomous Validator. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1-2 Validator/s — highly-autonomous Validator/s. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
@@ -673,7 +673,7 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 250 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
+At the start, the maximum number is 300 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
 
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
