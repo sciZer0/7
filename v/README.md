@@ -688,25 +688,26 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 <h1>8 &nbsp Automated Donations</h1>
 
 
-*About Accounts*
 
-*Like on the Solana blockchain,
-on the Vote blockchain, accounts are much like files with additional features.*
+*For reference, how accounts work on Solana*
 
-*Also, like on the Solana blockchain, on the Vote blockchain,  accounts store state between transactions.*
+*On the Solana blockchain, accounts are much like files with additional features.*
+
+*Axcounts store state between transactions.*
 
 *Accounts are held in validator memory and pay "rent" to stay there.*
 
 *The security model enforces that an account's state can only be modified by the account's Owner program.*
 
-*There is a special type of accounts — Protocol/User-controlled accounts.*
+*In other words, only the owning program is capable of modifying the account. *
+
+*On the Vote Blockchain, there is a special type of accounts — Protocol/User-controlled accounts.*
 
 *Hence, both the protocol (codebase) and the user with the private key are the owners of the account and can control the state of the account — can debit the account.*
 
+On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
 Automated Donations are an element of a Creator Donation Culture.
-
-On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
