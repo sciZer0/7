@@ -600,7 +600,7 @@ The hypothesis/idea is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (~ <b>$2 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (<b>$1.5 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
 
@@ -641,7 +641,7 @@ Moreover, there are about 200 countries around the world. At best, from one sing
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
-<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just the same $500 million (2*250=500). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
+<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be just under $500 million (1.5*300=450). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
 So we can surely achieve high decentralization and sustainability for extremely-low costs.
@@ -664,7 +664,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 <h1>7 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receiving daily the very-generous Automated Donations — <b>in total ~ $2 million per year per person</b> — from Voters.
+Contributors are people who may be contributing to the Vote blockchain and receiving daily the very-generous Automated Donations — <b>in total ~ $1.5 million per year per person</b> — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
