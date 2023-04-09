@@ -703,7 +703,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 On the Vote Blockchain, there is a special type of accounts — Protocol/User-controlled accounts.
 
-*Hence, both the protocol (codebase) and the user with the private key are the owners of the account and can control the state of the account — can debit the account.*
+*Hence, both the protocol (codebase) and an user with their private key are the owners of such an account and can control the state of the account — can debit the account.*
 
 Also, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
