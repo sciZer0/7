@@ -392,42 +392,32 @@ The blockchain’s democratic system consists of the following elements:
 
 * Automatic Proposals (inbuilt)
 * Non-Automatic Proposals (inbuilt)
-* Competitive Quadratic Voting (inbuilt)
+* Competitive Voting (inbuilt)
 * Hyde Park
  
 
 
-<h1>6 &nbsp Competitive Quadratic Voting</h1>
+<h1>6 &nbsp Competitive Voting</h1>
 
 
 
 On the Vote blockchain, each vote on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
-And, there is a specific voting system: Competitive Quadratic Voting.
+And, there is a specific voting system: Competitive mVoting.
 
 The "competitive" word means that while voting on each proposal, competitive Voters may place their bets simultaneously: some number of Voters may be placing their FOR bets, and simultaneously, some number of Voters may be placing their AGAINST bets.
 
 > <b>The best decisions must overcome the Voting Power of rivals</b>.
 
-The "quadratic" word, in turn, means that the Voting Power of each bet is calculated as a square root of the number of tokens.
-
-For example, 
-
-* if Voter’s bet is 1 Hand, the Voting Power of this bet is 1
-* if Voter’s bet is 100 Hands, the Voting Power of this bet is 10
-* if Voter’s bet is 1,000,000 Hands, the Voting Power of this bet is 1,000
-
-and so on.
-
-At the last Slot (during each voting), the Voting Power of all the FOR bets are summarized and the Voting Power of all the AGAINST bets are also summarized.
+At the last Slot (during each voting), all votes are summarized — all "FOR" bets are summarized and all "AGAINST" bets are also summarized.
 
 Plus, each decision is made by a margin of at least 15% – in other words, the Mandatory Margin is 15%.
 
 For example, if a vote on a certain proposal has accumulated in total:
 
-* FOR: 3,500,000,000 Voting Power<br>
+* FOR: 3,500,000,000 Votes<br>
 
-* AGAINST: 3,000,000,000 Voting Power
+* AGAINST: 3,000,000,000 Votes
 
 then,
 
@@ -596,7 +586,7 @@ The hypothesis/idea is that
 
 2.  when the list is limited to 300 Validators, and
 
-3. when each Validator is added in the list by Voters through democratic voting (Competitive Quadratic Voting), and
+3. when each Validator is added in the list by Voters through democratic voting (Competitive Voting), and
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
@@ -606,7 +596,7 @@ The hypothesis/idea is that
 
 7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped from the list, and
 
-8. when any suspicious Validator may also be dropped from the list by Voters through democratic voting (Competitive Quadratic Voting),
+8. when any suspicious Validator may also be dropped from the list by Voters through democratic voting (Competitive Voting),
 
 <b>then we might suppose there are very huge incentives for each Validator to work honestly and most likely the wide majority of (or even all) Validators in the list will work honestly.</b>
 
@@ -673,19 +663,19 @@ Each Contributor may only be contributing in the Vote blockchain in these two ro
 
 On the Vote Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 300 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Quadratic Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
+At the start, the maximum number is 300 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
 
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
-Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Quadratic Voting).
+Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Voting).
 
 Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native identity (SBTs) to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
 
-At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Quadratic Voting).
+At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 250 Contributors through democratic voting (Competitive Quadratic Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 250 Contributors through democratic voting (Competitive Voting).*
 
 
 
@@ -699,7 +689,7 @@ On the Vote Blockchain, there are Automated Donations for donating tokens to Con
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
-At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Quadratic Voting). 
+At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
 
 
 *Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
