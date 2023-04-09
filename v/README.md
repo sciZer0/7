@@ -45,6 +45,10 @@ This paper proposes an idea about a next-gen, layer-1, DAO-style blockchain whic
 
 Specifically, high (even extreme) efficiency is possible thanks to the use of a new consensus mechanism.
 
+In turn, the new consensus mechanism supposes heavy involvement of SBTs — Soul-Bonded Tokens.
+
+
+
  <br><br>
 <b>CONTENTS</b>
 * Abstract 
