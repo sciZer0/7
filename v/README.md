@@ -112,7 +112,7 @@ In reality,  the rule of them is the following,
 
 if we think we can harm a blockchain, if needed, we will do/try it.
 
-Each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
+Arguably, each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
 
 Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
 
