@@ -717,7 +717,7 @@ At the start, the monthly rate of Automated Donations is 0.08% from each public 
 *Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 270 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
 
-*Of course, some additional number of positions of Contributor (say, 10 positions) might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
+*Of course, some number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
