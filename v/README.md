@@ -140,7 +140,7 @@ Also, when someone creates something new and digitizable which eventually become
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
-In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete, and being extremely-vulnerable due to possible code bugs.
+In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete and plus, being extremely-vulnerable to possible code bugs.
 
 So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
@@ -909,6 +909,6 @@ It is just a matter of time that some initiative group of people will create a b
 <p>&nbsp</p>
 
 
-*Additionally, I have a lot of other ideas — incl. ideas about stablecoins, exchanges and bridges.*
+*Additionally, I have a lot of other ideas — incl. ideas about stablecoins, exchanges, bridges and tokenized code (tokenized commits).*
 <p>&nbsp</p>
 
