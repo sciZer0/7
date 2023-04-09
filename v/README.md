@@ -714,7 +714,7 @@ Automated Donations are an automated inbuilt feature of the Vote blockchain.
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
 
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 270 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
 
 *Of course, some additional number of positions of Contributor (say, 10 positions) might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
