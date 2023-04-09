@@ -687,24 +687,6 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 <h1>8 &nbsp Automated Donations</h1>
 
-Automated Donations are an element of a Creator Donation Culture.
-
-On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
-
-Automated Donations are an automated inbuilt feature of the Vote blockchain.
-
-At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
-
-
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
-
-
-*Some additional number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
-
-* funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
-* funding documentation and research.
-
-Treasury funds can be formed up the same way.
 
 *About Accounts*
 
@@ -720,6 +702,30 @@ on the Vote blockchain, accounts are much like files with additional features.*
 *There is a special type of accounts — Protocol/User-controlled accounts.*
 
 *Hence, both the protocol (codebase) and the user with the private key are the owners of the account and can control the state of the account — can debit the account.*
+
+
+Automated Donations are an element of a Creator Donation Culture.
+
+On the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
+
+Automated Donations are an automated inbuilt feature of the Vote blockchain.
+
+At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
+
+
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 220 vacant positions), all Automated Donations collected for the vacant positions are burned.*
+
+
+*Of course, some additional number of positions of Contributor (say, 10 positions) might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
+
+* funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
+* funding documentation and research.
+
+*Treasury funds can be formed up the same way.*
+
+*Importantly, there is also a way to guarantee each Contributor a compensation (Automated Donations) of $1-140m per year, with keeping the overall cost cap of also under $500m per year for the blockchain in total.*
+
+
 
 
 <h1>9 &nbsp Voting Proposals</h1>
