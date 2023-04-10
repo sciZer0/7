@@ -594,7 +594,7 @@ The hypothesis/idea is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (<b>$1.5 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (<b>≈$1.5 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
 
@@ -629,7 +629,7 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of stakes/tokens for years<br><br>
 
-Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 100 fold margin of safety of 300 Validators (300/3=100) might be a sufficient condition for the blockchain to be considered sustainable.
+Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this 100 fold margin of safety of 300 Validators (300/3=100) might be a sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 1-2 Validator/s — highly-autonomous Validator/s. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
