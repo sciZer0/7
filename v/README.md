@@ -594,7 +594,7 @@ Hypothesis/Idea
 
 The hypothesis/idea is that 
 
-1. when the list of all working Validators (possibly anonymous) is known (Solana's approach), and
+1. when a list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
 2.  when the list is limited to 500 Validators, and
 
