@@ -849,7 +849,7 @@ The Nakamoto coefficient is not good for this since it is one-sided — doesn't 
 
 # About NFTs
 
-NFTs are here to stay.
+NFTs (incl. SBTs) are here to stay.
 
 Moreover, in about 50 years, NFTs will most likely be used for these 3 main cases:
 
