@@ -369,13 +369,18 @@ From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Secon
 
 <h1>4 &nbsp Decreasing Circulating Supply</h1>
 
-Gas Fees are paid in the Vote token (in Hands).
+Gas Fee are paid by Account Owners to process  transactions (instructions) on the blockchain.
 
-All gas fees paid (100%) are burned. 
+Rents are paid by Account Owners to keep accounts' data stored on the blockchain. 
 
-This results in decreasing the Vote token's Circulating Supply from day one.
+Gas Fees and Rents are paid in the Vote token (in Hands).
+
+All the Gas Fees and Rents paid (100%) are burned. 
+
 
 <i><b>
+This approach results in decreasing the Vote token's Circulating Supply from day one.
+
 Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
 
 At best, such a highly-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
@@ -594,7 +599,7 @@ The hypothesis/idea is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (<b>~$1.5 million per year</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (<b>≈$1.5 million per year</b>) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
 
