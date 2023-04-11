@@ -118,7 +118,7 @@ Politicians are just actors playing their roles in a play called "Democracy" and
 
 The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
 
-With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously — incl. cardinal cut of tax burden (-95%), cancelation of all traditional taxes and introduction of only the self-collected, privacy-preserving taxes.
+With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously — incl. cardinal cut of tax burden (-95%), cancelation of all traditional taxes and introduction of only a small set of the self-collected, privacy-preserving taxes.
 
 
 
