@@ -898,7 +898,7 @@ Already now, Bitcoin tokens aren't really fungible: each Bitcoin has its history
 The word's top universities like Stanford, Harvard or Oxford might buy earlier Bitcoin tokens as NFTs — along with their purchase of other NFTs  — to prove their status: their domination and superiority in understanding innovations.
 
 
-To Bitcoin maximalists
+To Bitcoin Maximalists
 
 Of course, in society there is inertia and you can console yourself with the network effect and Lindy effect.
 
