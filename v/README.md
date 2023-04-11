@@ -666,7 +666,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 <h1>7 &nbsp Contributors</h1>
 
-Contributors are people who may be contributing to the Vote blockchain and receiving daily the very-generous Automated Donations — <b>in total ~ $1 million per year per person</b> — from Voters.
+Contributors are people who may be contributing to the Vote blockchain and receiving daily very-generous Automated Donations — <b>in total ~ $1 million per year per person</b> — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
