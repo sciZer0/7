@@ -137,7 +137,7 @@ all scientists (all existing science textbooks), for now, CORRECTLY consider tha
 
 BUT at the same time, all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SPENDING their Energy (Resource) on this Work!
 
-But in my opinion, the person on the right (holding the 20 kg object motionless in the air) is also doing Mechanical Work (Static Mechanical Work) and is spending their Energy (Resource) on this Work. And lmoreover, the person on the right is doing a bigger amount of Mechanical Work than the person on the left. Plus, the person on the right is spending a bigger amount of their Energy (Resource) on Mechanical Work than the person on the left is doing.
+But in my opinion, the person on the right (holding the 20 kg object motionless in the air) is also doing Mechanical Work (Static Mechanical Work) and is spending their Energy (Resource) on this Work. Moreover, the person on the right is doing a bigger amount of Mechanical Work than the person on the left. Plus, the person on the right is spending a bigger amount of their Energy (Resource) on Mechanical Work than the person on the left is doing.
 
 Due to this fundamental error — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now have been falling out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
