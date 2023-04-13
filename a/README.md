@@ -424,7 +424,7 @@ So.
 
 At the beginning of the 1st second of the free-falling, Velocity of this pushed 20 kg object (v) is 0 (m/s), and next the object starts free-falling.
 
-Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. uniformly during any fiven second.
+Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. uniformly during any given second.
 
 So at the beginning of the 2nd second of the free-falling, Velocity of the pushed object (v) becomes 9.8 (m/s). <i>We (people) know all exact numbers about “free-falling“ by well-known experiments.</i>
 
