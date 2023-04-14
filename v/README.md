@@ -47,6 +47,8 @@ Specifically, high (even **extreme**) efficiency is possible thanks to the use o
 
 In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge Proor (ZKP or simply ZK) technologies.
 
+A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion.
+
 
 
  <br><br>
