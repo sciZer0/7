@@ -70,11 +70,15 @@ At best, thanks to the discoveries,<br>
 
 * we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
+
+
+
+
 ## FUNDAMENTAL ERRORS IN SCIENCE
 
 <i>This part is mostly for experts, so if you are a normal person you might just skip it and go straight to the next part called CONTEXT</i>
 
-In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental errors that I discovered.
+In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental errors that were discovered.
 
 #### ONE OF SUFFICIENT FUNDAMENTAL ERRORS IN SCIENCE
 
