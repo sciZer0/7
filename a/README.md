@@ -88,7 +88,7 @@ The error is based on the fact that science fails to even understand what is THE
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
@@ -105,7 +105,7 @@ In particular, the apple is moving the shorter distance of 4.9 meters during the
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
@@ -453,7 +453,7 @@ an so on.
 
 <p align="center">
   <img src="/assets/images/0.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
@@ -462,7 +462,7 @@ As we can see, during any given second Velocity of the pushed 20 kg object is ev
 
 <p align="center">
   <img src="/assets/images/18.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments and simple<br>
    calculations</i>
@@ -576,7 +576,7 @@ As we already know, during any given second the Velocity of the pushed 20 kg obj
 
 <p align="center">
   <img src="/assets/images/18.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments and simple<br>
    calculations</i>
@@ -589,7 +589,7 @@ The Distance (D) moved by the pushed object during any given second is as follow
 
 <p align="center">
   <img src="/assets/images/21.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments and simple<br>
    calculations</i>
@@ -605,7 +605,7 @@ Distance (D) during the 5th second is 44.1 meters.
 
 <p align="center">
   <img src="/assets/images/22.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 
@@ -800,7 +800,7 @@ In particular, the 20 kg object is moving the shorter distance of 4.9 meters dur
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
-  <i>We (people) know all these exact<br> 
+  <i>We people know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
