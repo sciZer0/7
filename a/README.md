@@ -93,13 +93,13 @@ The error is based on the fact that science fails to even understand what is THE
    well-known experiments</i>
 </p>
 
-So, for example, science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
+So, for example, science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size.
 
 <p align="center">
   <img src="/assets/images/2.png"/>
 </p>
 
-in particular, the apple is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
+In particular, the apple is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
 
 The difference in the distances is 9.8 meters (14.7 - 4.9 = 9.8).
 
