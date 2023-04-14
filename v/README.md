@@ -53,7 +53,6 @@ In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs
 <b>CONTENTS</b>
 * Abstract 
    - About Blockchain Technology
-   - About Today's States
    - About New Culture
    - About Immutability
    - About the Greatest Values
