@@ -45,7 +45,7 @@ Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style b
 * with the ideal Gini coefficient
 * with over 100,000,000 users
 
-Specifically, high (even **extreme**) efficiency is possible thanks to the use of a new consensus mechanism.
+In particular, high (even **extreme**) efficiency is possible thanks to the use of a new consensus mechanism.
 
 In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge Proof (ZKP or simply ZK) technologies.
 
