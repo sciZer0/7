@@ -34,7 +34,7 @@ revolutionary blockchains
 
 A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion.
 
-This paper proposes an idea about a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
+Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
 * highly-decentralized
 * highly-democratic
