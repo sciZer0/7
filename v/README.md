@@ -695,7 +695,7 @@ On the Vote Blockchain, there is a special type of accounts — Protocol/User-co
 
 Also, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
-Automated Donations are an element of a Creator Donation Culture.
+Automated Donations are an element of a Creator Thanksgiving Culture.
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
