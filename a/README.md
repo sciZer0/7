@@ -101,6 +101,13 @@ So, for example, science fails to even understand what is the real reason that a
 
 In particular, the apple is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
 
+<p align="center">
+  <img src="/assets/images/1.png"/><br>
+  <i>We (people) know all these exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments</i>
+</p>
+
 The difference in the distances is 9.8 meters (14.7 - 4.9 = 9.8).
 
 Unfortunately, science mistakenly believes that the real reason for the difference in the distances is Gravitational Force -- Work of Gravitational Force.
