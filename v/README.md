@@ -32,6 +32,8 @@ revolutionary blockchains
 </p>
 <br>
 
+A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion.
+
 This paper proposes an idea about a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
 * highly-decentralized
@@ -46,8 +48,6 @@ This paper proposes an idea about a next-gen, layer-1, DAO-style blockchain whic
 Specifically, high (even **extreme**) efficiency is possible thanks to the use of a new consensus mechanism.
 
 In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge Proor (ZKP or simply ZK) technologies.
-
-A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion.
 
 
 
