@@ -77,9 +77,9 @@ In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs
 
 ### About Blockchain Technology
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
+The main point of blockchain technology is to allow people to build **permissionless ownership systems** that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
-Specifically, permissionless ownership systems about storing and transferring tokens (values).
+Specifically, **permissionless ownership systems** about storing and transferring tokens (values).
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
 
@@ -93,32 +93,13 @@ On the other hand, the main task of developers is to really build/make such perm
 
 Importantly, each blockchain must be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
-And, <b>the main rule</b> of efficiency is that you must never do more than enough.
+And, **the main rule of efficiency** is that you must never do more than enough.
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
-
-### About Today's States
-
-The most powerful state in the world — by its reps —  says that every blockchain token other than bitcoin is securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle and the public is anticipating profits based on that group.
-
-But, according to this logic, the Bitcoin token is also securities because you can find a website, you can find a group of entrepreneurs, and finally, there’s a group in the middle (core devs and miners) and the public is anticipating profits based on that group.
-
-The only reason that the most powerful state puts the Bitcoin blockchain out of the range/scope is that — and this lies beyond justice and legality — "they" think they cannot harm the Bitcoin blockchain.
-
-In reality,  the rule of them is the following, 
-
-if we think we can harm a blockchain, if needed, we will do/try it.
-
-Arguably, each of the wide majority of today's states is anti-people and, to one or another degree, a despotic regime repressing opportunities of people and wanting to only strengthen its power — its control over people. COVID, financial crisis, and coming CBDC are just some of powerful tools for these states to do this all.
-
-Politicians are just actors playing their roles in a play called "Democracy" and pretending they want to improve people's lives.
-
-The mainstream "left"/"right" choice between 2 political buttons — the "people" button (blue) and the "businesses" button (red) — is a false choice, enforced choice.
-
-With blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously — incl. cardinal cut of tax burden (-95%), cancelation of all traditional taxes and introduction of only a small set of the self-collected, privacy-preserving taxes.
+Also, with blockchain technology, we can create outstandingly-good conditions for people and businesses simultaneously — incl. cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small set of the self-collected, privacy-preserving taxes.
 
 
 
