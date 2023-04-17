@@ -32,7 +32,7 @@ revolutionary blockchains
 </p>
 <br>
 
-A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion — being especially-suitable for mass adoption.
+Any of revolutionary blockchains might be the 1st one to achieve the market capitalization of $20 trillion — being especially-suitable for mass adoption.
 
 Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
@@ -100,7 +100,7 @@ And, the main rule of efficiency is that you must never do more than enough.
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
-Also, with blockchain technology, we can create outstandingly-good conditions for people and businesses simultaneously — for example, including cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small set of innovative taxes (self-collected, privacy-preserving taxes).
+Also, with blockchain technology, we can create outstandingly-good conditions for both people and businesses simultaneously(!) — including, for example, cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small set of innovative taxes (self-collected, privacy-preserving taxes).
 
 
 
