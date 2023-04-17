@@ -667,12 +667,14 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Voting).
 
-Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native identity (SBTs) to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
+Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native,decentralized identity (SBTs) to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
+
+*Decentralized identity (DI) is likely to play an increasingly important role in Web3's evolution.*
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 250 Contributors through democratic voting (Competitive Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 500 Contributors through democratic voting (Competitive Voting).*
 
 
 
