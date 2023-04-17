@@ -90,17 +90,17 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout geopolitical events or natural disasters.
 
-On the other hand, the main task of developers is to really build/make such permissionless systems highly sustainable, decentralized, scalable, fast, reliable, secure — and plus, of course, as efficient as possible. 
+On the other hand, the main task of developers is to really build/make such permissionless systems highly-sustainable and plus, of course, as efficient as possible. 
 
 Importantly, each blockchain must be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
-And, **the main rule of efficiency** is that you must never do more than enough.
+And, the main rule of efficiency is that you must never do more than enough.
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
-Also, with blockchain technology, we can create outstandingly-good conditions for people and businesses simultaneously — incl. cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small set of innovative taxes (self-collected, privacy-preserving taxes).
+Also, with blockchain technology, we can create outstandingly-good conditions for people and businesses simultaneously — for example, including cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small set of innovative taxes (self-collected, privacy-preserving taxes).
 
 
 
