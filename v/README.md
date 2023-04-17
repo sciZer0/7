@@ -32,14 +32,14 @@ revolutionary blockchains
 </p>
 <br>
 
-A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion.
+A blockchain of this sort might be the 1st one to achieve the market capitalization of $20 trillion — being especially-suitable for mass adoption.
 
 Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
 * highly-decentralized
 * highly-democratic
 * highly-sustainable
-* highly-efficient
+* highly-efficient 
 * with over 50,000 TPS
 * with a native, decreasing-supply token
 * with the ideal Gini coefficient
@@ -47,7 +47,7 @@ Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style b
 
 In particular, high (even **extreme**) efficiency is possible thanks to the use of a new consensus mechanism.
 
-In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge Proof (ZKP or simply ZK) technologies.
+In turn, the new consensus mechanism involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
 
 
@@ -78,9 +78,9 @@ In turn, the new consensus mechanism involves the use of Soul-Bound Tokens (SBTs
 
 ### About Blockchain Technology
 
-The main point of blockchain technology is to allow people to build **permissionless ownership systems** that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning, whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
-Specifically, **permissionless ownership systems** about storing and transferring tokens (values).
+Specifically, permissionless ownership systems about storing and transferring tokens (values).
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
 
