@@ -379,9 +379,7 @@ At best, such a highly-deflationary nature of tokenomics should result in a grea
 <h1>5 &nbspVoting System</h1>
 
 
-The Vote blockchain has a highly-decentralized governance and operates mostly automatically and partly based on decisions made by token holders, Voters. 
-
-In order to create a sturdy governance, on the blockchain there have been established broad governance token holder participation, resistance to various governance attack vectors — incl.  resistance to capture by whales — transparency of information, and alignment of incentives to maintain the blockchain’s long-term sustainability.
+The Vote blockchain has a highly-decentralized governance.
 
 This is a DAO-style blockchain leveraging all benefits and the best practices of DAOs.
 
