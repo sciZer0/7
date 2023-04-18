@@ -186,13 +186,13 @@ Plus, Garbage-Collecting technologies help reduce the blockchain's storage of n
 
 <h3 align="center">Problem 2</h3>
 
-Fundamental Problem 2 is that on each of the existing blockchains, there is the great inequality — meaning, the most tokens of the blockchain are distributed to a small number of people.
+Fundamental Problem 2 is that on each of the existing blockchains, there is the great unfairness — meaning, the most tokens of the blockchain are distributed to a small number of people.
 
 *For reference,*
 
 *Wealth in crypto-land is more concentrated than even in North Korea where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite unequal US): the Gini coefficient for Bitcoin is an <b>astonishing</b> 0.88.*
 
-As Vitalik said about the absolutely-terrible Gini of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time <b>1/4</b> of the supply had already been handed out by the end of 2010?
+As Vitalik said about the great unfairness of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time <b>1/4</b> of the supply had already been handed out by the end of 2010?
 
 Although nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time <b>1/2</b> of the supply had already been handed out among less than 7 thousand people by the end of 2014?
 
