@@ -196,7 +196,7 @@ As Vitalik said about the great unfairness of Bitcoin — Was Bitcoin really a f
 
 Although nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time <b>1/2</b> of the supply had already been handed out among less than 7 thousand people by the end of 2014?
 
-Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
+Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
 The initial token distribution and inequality Gini coefficient aren't much better, if any better, on any other of the existing blockchains.
 
