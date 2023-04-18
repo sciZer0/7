@@ -198,9 +198,11 @@ Although nearly the same might be said about Ethereum — Was Ethereum really a 
 
 Another example, SOL tokens — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
-The inequality Gini coefficient of any other of the existing blockchains isn't much better, if any better.
+The initial token distribution and inequality Gini coefficient aren't much better, if any better, on any other of the existing blockchains.
 
-Ideally, a blockchain must have the ideal Gini coefficient of 0 from day one.
+In fact, the awful initial token distribution and the awful Gini are precisely the ones that will never allow any of the existing blockchains to really get mass adoption.
+
+Ideally, a blockchain must have the extremely-wide initial token distribution and the ideal Gini coefficient of 0 from day one.
 
 The Vote blockchain ideally solves this problem from day one.
 
