@@ -200,7 +200,7 @@ Another example, SOL tokens — the Solana blockchain — entered the market onl
 
 The initial token distribution and inequality Gini coefficient aren't much better, if any better, on any other of the existing blockchains.
 
-In fact, this will never allow any of the existing blockchains to really get mass adoption.
+Predominantly, precisely the great unfairness will most prevent each of the existing blockchains from getting mass adoption in the long term.
 
 Ideally, a blockchain must have the extremely-wide initial token distribution and the ideal Gini coefficient of 0 from day one.
 
