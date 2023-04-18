@@ -132,7 +132,7 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only few people that, in turn, already causes another problems. So DeFi has to be done in an absolutely another way. *I have an idea about this.*
+By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only a few people that, in turn, already causes another problems. So DeFi has to be done in an absolutely another way. *I have an idea about this.*
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated, high decentralization/democracy when realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
