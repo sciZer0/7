@@ -336,13 +336,11 @@ In the given case, your hand is pushing the wall.
   <i>Your hand is pushing the wall</i>
 </p>
 
-It means your hand creates Force and, simply saying, your pushing hand here is Force.
-
 Now, let’s take, for example, Gravitational Force which is familiar to everyone.
 
 But what is Gravitational Force?
 
->Remarkably, science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
+>Remarkably, science doesn’t even attempt to answer: what is Gravitational Force? All that modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
 
 For example, when you let an apple out of your hand,
 
