@@ -919,6 +919,6 @@ It is just a matter of time that some initiative group of people will create a b
 <p>&nbsp</p>
 
 
-*Additionally, I have a lot of other ideas — incl. ideas about stablecoins, exchanges, bridges and tokenized commits (tokenized code).*
-<p>&nbsp</p>
+*Additionally, I have a lot of other ideas — incl. ideas about DeFi in general, and also about stablecoins, exchanges, bridges and tokenized commits (tokenized code).*
+
 
