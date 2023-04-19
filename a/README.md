@@ -363,7 +363,8 @@ So, for the sake of simplicity, Gravitational Force (F) might be imagined by us 
 <p align="center">
   <img src="/assets/images/12.png"/><br>
   <i>The apple being pushed by<br>
-     Gravitational Force (Invisible Hand)</i>
+     Gravitational Force<br>
+     (Invisible Hand)</i>
 </p>
 
 Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and this Invisible Hand during every moment is pushing the apple downwards.
@@ -375,7 +376,8 @@ And now, we might already say that during every moment, Gravitational Force (Inv
 <p align="center">
   <img src="/assets/images/13.png"/><br>
   <i>The apple being pushed by<br>
-     Invisible Hand (Gravitational Force)</i>
+     Gravitational Force<br>
+     (Invisible Hand)</i>
 </p>
 
 So, when you let an apple out of your hand, the apple starts moving downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing the apple downwards.
