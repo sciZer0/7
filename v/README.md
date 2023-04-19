@@ -207,7 +207,7 @@ The initial token distribution and inequality Gini coefficient aren't much bette
 
 Precisely the great unfairness might most prevent each of the existing blockchains from getting mass adoption in the long term.
 
-Ideally, a blockchain must have executed extremely-wide initial token distribution and have the ideal Gini coefficient of 0 from day one.
+Ideally, a blockchain must have executed very wide initial token distribution and have the ideal Gini coefficient of 0 from day one.
 
 The Vote blockchain ideally solves this problem from day one.
 
