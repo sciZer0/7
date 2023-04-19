@@ -76,7 +76,7 @@ At best, thanks to the discoveries,<br>
 
 ## FUNDAMENTAL ERRORS IN SCIENCE
 
-<i>This part is mostly for experts, so if you are a normal person you might just skip it and go straight to the next part called CONTEXT</i>
+<i>This chapter is mostly for experts, so if you are a normal person you might just skip it and go straight to the next chapter called CONTEXT</i>
 
 In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental errors that were discovered.
 
