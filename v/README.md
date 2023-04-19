@@ -104,7 +104,7 @@ Absolutely, blockchain technology causes a paradigm revolution because no today'
 
 Also, with blockchain technology, it is possible to establish highly-efficient states creating outstandingly-good conditions for both people and businesses simultaneously — including, for example, cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small number of innovative taxes (self-collected, privacy-preserving ones).
 
-
+<br>
 
 
 
@@ -124,6 +124,8 @@ Also, when someone creates something new and digitizable which eventually become
 
 *Importantly, people and businesses will never stop or slow down creating/inventing new digitizable things even that become instantly known because there is a strong first mover advantage.*
 
+<br>
+
 
 
 ### About Immutability 
@@ -140,6 +142,8 @@ As for codebase of a blockchain, the most right approach might be to provide ful
 
 So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way.
 
+<br>
+
 
 
 ### About the Greatest Values
@@ -153,6 +157,10 @@ On the other hand, the Bitcoin blockchain's native token is allegedly considered
 Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
 
 Fundamentally, the latter concept is  much better than  any of the two already known ones: digital gold and ultra sound money.
+
+<br>
+
+
 
 
 ### About Fundamental Problems of All Current Blockchains
