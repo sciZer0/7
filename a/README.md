@@ -93,7 +93,7 @@ The error is based on the fact that science fails to even understand what is THE
    well-known experiments</i>
 </p>
 
-*For non-experts it is important to keep in mind that when we people consider Gravitational Force (Work of Gravitational Force) and Free-Falling in general, we do not take into account the air resistance, which, of course, slows down Velocity of any free-falling object.*
+*For non-experts it is important to keep in mind that when we people consider Gravitational Force (Work of Gravitational Force) and Free-Falling in general, we do not take into account the air resistance.*
 
 For example, science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size.
 
@@ -457,6 +457,10 @@ an so on.
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
+
+
+*It is important to keep in mind that when we people consider Gravitational Force (Work of Gravitational Force) and Free-Falling in general, we do not take into account the air resistance.*
+
 
 As we can see, during any given second Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
 
