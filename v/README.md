@@ -150,7 +150,7 @@ On the other hand, the Bitcoin blockchain's native token is allegedly considered
 
 Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
 
-The new concept of a native, decreasing-supply, permissionless, decentralized token with a huge user base is fundamentally much better than the known concept of "digital gold" or "ultra sound money".
+The new concept of a native, decreasing-supply, permissionless token with a huge user base is fundamentally much better than the known concept of "digital gold" or "ultra sound money".
 
 
 
