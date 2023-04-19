@@ -93,7 +93,7 @@ The error is based on the fact that science fails to even understand what is THE
    well-known experiments</i>
 </p>
 
-*For non-experts it is important to keep in mind that when we people consider Gravitational Force (Work of Gravitational Force) and the free-falling in general, we do not take into account the air resistance, which, of course,  slows down Velocity of any free-falling object.*
+*For non-experts it is important to keep in mind that when we people consider Gravitational Force (Work of Gravitational Force) and Free-Falling in general, we do not take into account the air resistance, which, of course, slows down Velocity of any free-falling object.*
 
 For example, science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size.
 
