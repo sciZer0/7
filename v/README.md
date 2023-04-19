@@ -356,7 +356,7 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 Through a fair airdrop excluding the multi-accounting. 
 
-*I have an idea on how to for cheap get over 100 ,000,000 unique people with their Public Addresses.*
+*I have an idea on how to cheaply get over 100,000,000 unique people with their Public Addresses, and how about 2,000,000 people of them might become a powerful driving-force of the blockchain.*
 
 
 <h1>3 &nbsp Over 50,000 TPS</h1>
