@@ -378,7 +378,7 @@ And now, we might already say that during every moment, Gravitational Force (Inv
      Invisible Hand (Gravitational Force)</i>
 </p>
 
-Let’s repeat it once again, when you let an apple out of your hand, the apple starts moving downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing the apple downwards.
+So, when you let an apple out of your hand, the apple starts moving downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing the apple downwards.
 
 But, for example, in cosmos far away from all planets, there is no Gravitational Force (Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
 
