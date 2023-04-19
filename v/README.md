@@ -50,7 +50,7 @@ In turn, the new consensus mechanism involves — among other things — the use
 
 
  <br><br>
-<b>CONTENTS</b>
+<b>TABLE OF CONTENTS</b>
 * Abstract 
    - About Blockchain Technology
    - About New Culture
