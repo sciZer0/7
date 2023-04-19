@@ -21,7 +21,7 @@ doomed by its design<br>
 
 >O Go:
 
->If you want a native token of a blockchain to get the market capitalization and adoption unseen before, necessarily do — among the other things — the following: hand this token out to lots of lots of people for free and make it valuable through a pre-programmed mechanism of decreasing its supply.
+>If you want a native token of a blockchain to get the market capitalization and adoption unseen before, necessarily do — among the other things — the following: hand first this token out to lots of lots of people for free and then make it valuable through a pre-programmed mechanism of decreasing its supply.
 
 
 
