@@ -172,7 +172,7 @@ Below are 5 fundamental problems of all current blockchains compared to the Vote
 
 <h3 align="center">Problem 1</h3>
 
-Fundamental Problem 1 is that we people build blockchains the same way as we built states: 
+Fundamental Problem 1 is that people build blockchains the same way as they built states in the past: 
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
