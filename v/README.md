@@ -718,9 +718,7 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 *As mentioned above, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.*
 
-*Automated Donations are an element of a Creator Thanksgiving Culture.*
-
-*Automated Donations are an automated inbuilt feature of the Vote blockchain.*
+*Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Vote blockchain.*
 
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
 
