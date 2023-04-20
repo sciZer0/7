@@ -692,22 +692,25 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 <h1>8 &nbsp Automated Donations</h1>
 
 
+<p align="center"><b>For reference, how accounts work on Solana</p>
 
-*For reference, how accounts work on Solana*
+On the Solana blockchain, accounts are much like files with additional features.
 
-*On the Solana blockchain, accounts are much like files with additional features.*
+Accounts store states of accounts — i.e. store their own states.
 
-*Accounts store state between transactions.*
+Accounts are held in validator memory and pay "rent" to stay there.*
 
-*Accounts are held in validator memory and pay "rent" to stay there.*
+The security model enforces that an account's state can only be modified/controlled by a special inbuilt program — System Program.  The System Program has been built in Solana's codebase.
 
-*The security model enforces that an account's state can only be modified by the account's Owner program.*
+In other words, all accounts, by default, are owned by the special inbuilt program, the System Program, and only this special program is capable of modifying/controlling the account's state.
 
-*In other words, only the owning program is capable of modifying the account.*
+On the Vote Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
 
-On the Vote Blockchain, there is a special type of accounts — Protocol/User-controlled accounts.
+The state of such an account (PUCA) is modified/controlled by 2 special inbuilt programs —  System Program 1 and System Program 2.
 
-*Hence, both the protocol (codebase) and an user with their private key are the owners of such an account and can control the state of the account — can debit the account.*
+System Program 1 is completely the same as Solana's System Program is.
+
+System Program 2 is a special inbuilt code that modifies/controls the account's state according to the Automated Donations Program — which, in turn, features the rate of Automated Donations.
 
 Also, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
