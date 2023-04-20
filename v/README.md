@@ -694,6 +694,8 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 <p align="center"><b>For reference, How Accounts Work On Solana</b></p>
 
+Solana’s account model is much more complicated than, for example, the Ethereum's account model. 
+
 On the Solana blockchain, accounts are much like files with additional features.
 
 Accounts store states of accounts — i.e. store their own states.
@@ -729,7 +731,7 @@ At the start, the monthly rate of Automated Donations is 0.08% from each public 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*Treasury funds, theoretically, might be formed up the same way.*
+*Treasury funds, theoretically, might also be formed up the same way.*
 
 
 
