@@ -710,7 +710,7 @@ On the Vote Blockchain, there is a special type of account — Protocol&User Con
 
 The state of such an account (PUCA) is modified/controlled by 2 special inbuilt programs —  System Program 1 and System Program 2.
 
-System Program 1 is completely the same as Solana's System Program is.
+System Program 1 is a special inbuilt code that modifies/controls the account's state, and is completely the same as Solana's System Program.
 
 System Program 2 is a special inbuilt code that modifies/controls the account's state according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
