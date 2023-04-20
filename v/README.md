@@ -98,7 +98,6 @@ And, the main rule of efficiency is that you must never do more than enough.
 
 Absolutely, blockchain technology causes a paradigm revolution because no today's state would like to allow people to get permissionless access to value.
 
-Also, with blockchain technology, it is possible to establish highly-efficient states creating outstandingly-good conditions for both people and businesses simultaneously — including, for example, cardinal cut of tax burden (-95%), cancellation of all traditional taxes and introduction of only a small number of innovative taxes (self-collected, privacy-preserving ones).
 
 <br>
 
