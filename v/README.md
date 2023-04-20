@@ -692,17 +692,19 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 <h1>8 &nbsp Automated Donations</h1>
 
 
-<p align="center"><b>For reference, how accounts work on Solana</p>
+<p align="center"><b>For reference, how accounts work on Solana</b></p>
 
 On the Solana blockchain, accounts are much like files with additional features.
 
 Accounts store states of accounts — i.e. store their own states.
 
-Accounts are held in validator memory and pay "rent" to stay there.*
+Accounts are held in validator memory and pay "rent" to stay there.
 
 The security model enforces that an account's state can only be modified/controlled by a special inbuilt program — System Program.  The System Program has been built in Solana's codebase.
 
 In other words, all accounts, by default, are owned by the special inbuilt program, the System Program, and only this special program is capable of modifying/controlling the account's state.
+
+<br>
 
 On the Vote Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
 
@@ -710,16 +712,15 @@ The state of such an account (PUCA) is modified/controlled by 2 special inbuilt 
 
 System Program 1 is completely the same as Solana's System Program is.
 
-System Program 2 is a special inbuilt code that modifies/controls the account's state according to the Automated Donations Program — which, in turn, features the rate of Automated Donations.
+System Program 2 is a special inbuilt code that modifies/controls the account's state according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
-Also, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
+Yes, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
 
 Automated Donations are an element of a Creator Thanksgiving Culture.
 
 Automated Donations are an automated inbuilt feature of the Vote blockchain.
 
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
-
 
 *Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 270 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
