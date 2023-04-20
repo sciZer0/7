@@ -678,7 +678,7 @@ Any person (Public Address) is appointed to the position of Contributor only by 
 
 Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native,decentralized identity (SBTs) to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
 
-*Decentralized identity (DI) is likely to play an increasingly important role in Web3's evolution.*
+*Decentralized Identity (DI) combined with Zero-Knowledge (ZK) technologies might  play an increasingly important role in Web3's evolution.*
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
@@ -714,15 +714,15 @@ System Program 1 is completely the same as Solana's System Program is.
 
 System Program 2 is a special inbuilt code that modifies/controls the account's state according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
-Yes, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.
+*As mentioned above, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.*
 
-Automated Donations are an element of a Creator Thanksgiving Culture.
+*Automated Donations are an element of a Creator Thanksgiving Culture.*
 
-Automated Donations are an automated inbuilt feature of the Vote blockchain.
+*Automated Donations are an automated inbuilt feature of the Vote blockchain.*
 
 At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 270 vacant positions), all Automated Donations collected for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 470 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
 
 *Of course, some number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
