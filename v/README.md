@@ -710,7 +710,7 @@ In other words, all accounts, by default, are owned by the special inbuilt progr
 
 On the Vote Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
 
-The state of such an account (PUCA) is modified/controlled by the 2 special inbuilt programs — System Program 1 and System Program 2.
+The state of such an account (PUCA) is modified/controlled by the two special inbuilt programs — System Program 1 and System Program 2.
 
 System Program 1 is a special inbuilt code that modifies/controls the account's state, and is completely the same as Solana's System Program.
 
