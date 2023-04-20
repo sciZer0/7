@@ -692,7 +692,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 <h1>8 &nbsp Automated Donations</h1>
 
 
-<p align="center"><b>For reference, how accounts work on Solana</b></p>
+<p align="center"><b>For reference, How Accounts Work On Solana</b></p>
 
 On the Solana blockchain, accounts are much like files with additional features.
 
@@ -724,15 +724,14 @@ At the start, the monthly rate of Automated Donations is 0.08% from each public 
 
 *Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 470 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
-
 *Of course, some number of positions of Contributor might be taken by specific persons and working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*Treasury funds can be formed up the same way.*
+*Treasury funds, theoretically, might be formed up the same way.*
 
-*Importantly, there is also a way to guarantee each Contributor a compensation (Automated Donations) of $1-140m per year, with keeping the overall cost cap of also under $500m per year for the blockchain in total.*
+
 
 
 
