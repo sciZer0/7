@@ -626,10 +626,10 @@ Capital At Risk:<br>
 A small part of stake, if any — or a small amount of reward<br>
 **——**<br>
 **New Consensus:**<br>
-**Proof Of Stake Flow**<br>
-**(POSF)**<br>
+**Proof Of Token Flow**<br>
+**(POTF)**<br>
 Capital At Risk:<br>
-A huge flow of stakes/tokens for years<br><br>
+A huge flow of tokens/stakes for years<br><br>
 
 Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 166 fold margin of safety of 500 Validators (500/3=166.67) might be a sufficient condition for the blockchain to be considered sustainable.
 
