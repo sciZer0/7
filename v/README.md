@@ -698,7 +698,7 @@ Solana’s account model is much more complicated than, for example, the Ethereu
 
 On the Solana blockchain, accounts are much like files with additional features.
 
-Accounts store states of accounts — i.e. store their own states.
+Accounts store their own states, incl. balances.
 
 Accounts are held in validator memory and pay "rent" to stay there.
 
@@ -710,11 +710,11 @@ In other words, all accounts, by default, are owned by the special inbuilt progr
 
 On the Vote Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
 
-The state of such an account (PUCA) is modified/controlled by 2 special inbuilt programs —  System Program 1 and System Program 2.
+The state of such an account (PUCA) is modified/controlled by the 2 special inbuilt programs — System Program 1 and System Program 2.
 
 System Program 1 is a special inbuilt code that modifies/controls the account's state, and is completely the same as Solana's System Program.
 
-System Program 2 is a special inbuilt code that modifies/controls the account's state according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
+System Program 2 is a special inbuilt code that modifies/controls the account's state only according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
 *As mentioned above, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.*
 
