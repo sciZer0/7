@@ -263,7 +263,7 @@ At the same time, an increase in a number of nodes doesn't increase the blockcha
 
 Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-Extremely importantly, increasing the number of nodes is just one of possible ways for a blockchain to achieve permissionlessness and high sustainability, including the "51% attack" resistance.
+Extremely importantly, increasing the number of nodes is just one of possible ways for a blockchain to achieve permissionlessness and high sustainability incl. the "51% attack" resistance.
 
 Ideally, a blockchain must use another, truly-decentralized, more efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
@@ -845,7 +845,11 @@ And, when people have real power and information, when they are motivated, when 
 
 For now, the industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. 
 
-The Nakamoto coefficient is not good for this since it is one-sided — doesn't comprehensively take into account the main point of blockchain technology, incl. doesn't take into account all possible decentralized ways for blockchains to achieve high-sustainability.
+The Nakamoto coefficient is not good for this since it is one-sided — doesn't comprehensively take into account the main point of blockchain technology.
+
+As a result, the Nakamoto coefficient doesn't take into account all possible decentralized ways for a blockchain to achieve permissionlessness and high sustainability incl. the "51% attack" resistance.
+
+
 
 
 
