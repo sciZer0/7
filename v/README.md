@@ -1,4 +1,4 @@
-⁷<h1 align="center">
+<h1 align="center">
 IDEA ABOUT<br>
 REVOLUTIONARY<br>
 BLOCKCHAINS
