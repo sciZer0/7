@@ -720,7 +720,7 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 *Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Vote blockchain.*
 
-At the start, the monthly rate of Automated Donations is 0.08% from each public address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
+At the start, the monthly rate of Automated Donations is 0.08% from each Public Address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
 
 *Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 470 vacant positions), all Automated Donations collected for the vacant positions are burned.*
 
