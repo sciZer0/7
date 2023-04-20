@@ -39,8 +39,8 @@ Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style b
 * highly-sustainable
 * highly-efficient 
 * with over 50,000 TPS
-* with a native, decreasing-supply token
-* with over 100,000,000 native token owners 
+* with the native, decreasing-supply token
+* with over 100,000,000 owners of the native token
 * with the ideal Gini coefficien
 
 In particular, high (even **extreme**) efficiency is possible thanks to the use of a new consensus mechanism.
@@ -326,7 +326,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-efficient
 * with over 50,000 TPS
 * with a native, decreasing-supply token
-* with over 100,000,000 native token owners
+* with over 100,000,000 owners of the native token
 * with the ideal Gini coefficien
 
 <p>&nbsp</p>
