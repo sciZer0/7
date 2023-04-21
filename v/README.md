@@ -30,9 +30,11 @@ revolutionary blockchains
 </p>
 <br>
 
-This revolutionary blockchain, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow lots of lots of people from around the world to make life-changing money from investing no money. 
+This paper proposes an idea about revolutionary blockchains.
 
-Specifically, this paper proposes an idea about a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
+Specifically, this paper proposes an idea about the revolutionary blockchain which, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow lots of lots of people from around the world to make life-changing money from investing no money. 
+
+It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
 * highly-decentralized
 * highly-democratic
