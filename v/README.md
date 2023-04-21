@@ -155,9 +155,9 @@ On the other hand, the Bitcoin blockchain's native token is allegedly considered
 
 Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
 
-When it comes to the Ethereum blockchain, it is important to understand that Ethereum Improvement Proposal 1559 doesn't decrease the blockchain's total supply. 
+When it comes to the Ethereum blockchain, it is important to understand that Ethereum Improvement Proposal 1559 doesn't decrease the native token's total supply. 
 
-This all means that the new concept of the native, decreasing total-supply token is fundamentally much better than Bitcoin's concept of **digital gold**, and plus, of course, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of tokenomics on all other blockchains.
+This all means that the new concept of the native, decreasing total-supply token is fundamentally much better than Bitcoin's concept of **digital gold**, and also, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of tokenomics on all other blockchains.
 
 <br>
 
@@ -228,6 +228,8 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in its turn, always leads to an increase in an amount of tokens that the servants (miners/validators) receive.
 
+*For example, Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal directly makes miners interested in network congestions, which still, thanks to the proposal, inevitably lead to increases in miners' rewards.*
+
 Ideally, network congestions, inevitably leading to an increase in transaction fees, must never lead to an increase in the amount of tokens that the servants (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The Vote blockchain ideally solves this problem from day one.
@@ -242,9 +244,11 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's total supply.
 
-As mentioned above, Ethereum Improvement Proposal 1559, for example, doesn't really decrease the blockchain's total supply. 
+*For example, Ethereum Improvement Proposal 1559, as mentioned above, doesn't decrease the native token's total supply.* 
 
-The Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. In fact, no one of the existing blockchains is able to start decreasing its native token's total supply.
+*So the Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  of course, never.*
+
+Importantly, no one of the existing blockchains is able to start decreasing its native token's total supply.
 
 Ideally, a blockchain must start decreasing its native token's total supply from day one.
 
