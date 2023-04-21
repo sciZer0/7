@@ -30,9 +30,9 @@ revolutionary blockchains
 </p>
 <br>
 
-Generally, this article pushes the idea of ​​revolutionary blockchains that are highly-sustainable and highly-efficient simultaneously.
+Generally, this paper pushes the idea of ​​revolutionary blockchains that are highly-sustainable and highly-efficient simultaneously.
 
-Specifically, this paper proposes an idea about the revolutionary blockchain that, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow lots of lots of people from around the world to make life-changing money from investing no money. 
+Specifically, this paper proposes an idea about the revolutionary blockchain that, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and finally allow at least 100,000,000 people from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
