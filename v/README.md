@@ -155,8 +155,7 @@ On the other hand, the Bitcoin blockchain's native token is allegedly considered
 
 Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
 
-When it comes to ethery, it is important to understand thatEthereum Improvement Proposal 1559 doesn't decrease the blockchain's total supply. 
-
+When it comes to the Ethereum blockchain, it is important to understand that Ethereum Improvement Proposal 1559 doesn't decrease the blockchain's total supply. 
 
 This all means that the new concept of the native, decreasing total-supply token is fundamentally much better than Bitcoin's concept of **digital gold**, and plus, of course, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of tokenomics on all other blockchains.
 
