@@ -111,7 +111,9 @@ Additionally, thanks to blockchain technology, it will technically be impossible
 
 As they say — change or die.
 
-Due to this new Creator-paradigm, we should shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
+Idea/Hypothesis
+
+The idea/hypothesis is that due to this new Creator-paradigm, we should shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
 
 From this new vision, in particular, each code or idea that becomes known must be free. *Code and ideas in the crypto industry, in the vast majority, are already open and free.*
 
@@ -460,7 +462,7 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 
 <p>&nbsp</p>
 
-<h1 align="center">Hypotheses, Ideas</h1>
+<h1 align="center">Idea/Hypothesis</h1>
 
 * A Lot of Room To Improve
 * New Approach to Consensus Mechanism or Extremely-Efficient True-Decentralization
@@ -585,9 +587,9 @@ Plus, any Validator being in the list, just trying to do something wrong, will b
 
 Technically, even 3 honest nodes (Validators) are enough for the Solana blockchain to function normally, maintaining the bandwidth of over 50,000 TPS.
 
-Hypothesis/Idea
+Idea/Hypothesis
 
-The hypothesis/idea is that 
+The idea/hypothesis is that 
 
 1. when a  list of all working Validators (possibly anonymous) is known (Solana's approach), and
 
@@ -769,16 +771,16 @@ Hyde Park is a set of internet sites and protocols (incl. Vote.Governance.Forum,
 **To be continued a bit below...**
 <p>&nbsp</p>
 
-<h1 align="center">Hypotheses, Ideas</h1>
+<h1 align="center">Idea/Hypothesis</h1>
 
 
 # About Technologies
 
 On the table, there already are good blockchain technologies to use.
 
-Hypothesis/Idea
+Idea/Hypothesis
 
-The hypothesis/idea is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
+The idea/hypothesis is that we might take some existing blockchain technologies — some of the most advanced blockchain technologies — and combine them.
 
 For example, we might take core code of the Solana blockchain as our codebase and combine it with code of some dApps on the Solana blockchain — of course, modifying this all a bit.
 
