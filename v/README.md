@@ -615,18 +615,16 @@ And we might, for example, just drop out the Solana's stake-weighted selection a
 
 Simply put, we give each Validator very-generous incentives to work honestly and replace the automatic stake-slashing — in case the Validator tries doing something wrong — with the automatic dropping from the list.
 
-POS Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
+Old Approach: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Consensus: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. Much bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
+New Approach: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. Much bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
-**Old Consensus:**<br>
-**Proof Of Stake**<br>
-**(POS)**<br>
+**Old Approach:**<br>
 Capital At Risk:<br>
 A small part of stake, if any — or a small amount of reward<br>
 **——**<br>
-**New Consensus:**<br>
+**New Approach:**<br>
 **Proof Of Token Flow**<br>
 **(POTF)**<br>
 Capital At Risk:<br>
