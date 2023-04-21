@@ -397,9 +397,9 @@ This is a DAO-style blockchain leveraging all benefits and the best practices of
 
 The blockchain’s democratic system consists of the following elements:
 
+* Competitive Voting (inbuilt)
 * Automatic Proposals (inbuilt)
 * Non-Automatic Proposals (inbuilt)
-* Competitive Voting (inbuilt)
 * Hyde Park
  
 
