@@ -45,9 +45,9 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * with over 100,000,000 owners of the native token
 * with the ideal Gini coefficien
 
-In particular, high (even **extreme**) efficiency is possible thanks to the use of a new consensus mechanism.
+In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to the POS consensus mechanism.
 
-In turn, the new consensus mechanism involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+In turn, the new approach involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
 
 
