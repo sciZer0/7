@@ -242,9 +242,9 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's total supply.
 
-For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. In fact, no one of the existing blockchains is able to truly start decreasing its native token's total supply.
-
 As mentioned above, Ethereum Improvement Proposal 1559, for example, doesn't really decrease the blockchain's total supply. 
+
+The Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. In fact, no one of the existing blockchains is able to start decreasing its native token's total supply.
 
 Ideally, a blockchain must start decreasing its native token's total supply from day one.
 
