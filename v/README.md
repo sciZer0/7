@@ -32,7 +32,7 @@ revolutionary blockchains
 
 Generally, this paper pushes the idea of ​​revolutionary blockchains that are highly-sustainable and highly-efficient simultaneously.
 
-Specifically, this paper proposes an idea about the revolutionary blockchain that, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and finally allow at least 100,000,000 people from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
+Specifically, this paper proposes an idea about the revolutionary blockchain that, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least 100,000,000 people from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
@@ -113,7 +113,7 @@ As they say — change or die.
 
 Idea/Hypothesis
 
-The idea/hypothesis is that due to this new Creator-paradigm, we should shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
+The idea/hypothesis is that due to this new Creator-paradigm, we might shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
 
 From this new vision, in particular, each code or idea that becomes known must be free. *Code and ideas in the crypto industry, in the vast majority, are already open and free.*
 
