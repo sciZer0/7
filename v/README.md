@@ -43,9 +43,9 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * with over 50,000 TPS
 * with the native, decreasing-supply token
 * with over 100,000,000 owners of the native token
-* with the ideal Gini coefficien
+* with the ideal Gini coefficient 
 
-In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to the POS consensus mechanism.
+In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms.
 
 In turn, the new approach involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -328,7 +328,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * with over 50,000 TPS
 * with a native, decreasing-supply token
 * with over 100,000,000 owners of the native token
-* with the ideal Gini coefficien
+* with the ideal Gini coefficient 
 
 <p>&nbsp</p>
 
@@ -463,7 +463,7 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 <h1 align="center">Hypotheses, Ideas</h1>
 
 * A Lot of Room To Improve
-* New Consensus Mechanism or Extremely-Efficient True-Decentralization
+* New Approach to Consensus Mechanism or Extremely-Efficient True-Decentralization
 
 
 ## A Lot of Room To Improve
@@ -489,13 +489,13 @@ The thing is that we can achieve high decentralization and sustainability for ex
 
 
 
-## New Consensus Mechanism or Extremely-Efficient True-Decentralization
+## New Approach to Consensus Mechanism or Extremely-Efficient True-Decentralization
 
-This new consensus mechanism allows us to achieve consensus highly efficiently.
+This new approach allows us to achieve consensus highly efficiently.
 
-The new consensus doesn't require stakes from Validators (unlike POS) and,  of course, doesn't require doing massive hash-works (unlike POW). 
+Unlike the traditional approach to POS, the new approach doesn't require stakes from Validators, and,  of course, doesn't require doing massive hash-works unlike POW. 
 
-At the same time, the new consensus mechanism uses Solana's Proof-Of-History mechanism and is much like Solana's POS consensus mechanism — but again, consensus is happening without any stakes.
+At the same time, the new approach uses Solana's Proof-Of-History mechanism and is much like Solana's POS consensus mechanism — but again, consensus is happening without any stakes.
 
 The whole trick is that this consensus might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
