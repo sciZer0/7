@@ -361,7 +361,8 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 Through a fair airdrop excluding the multi-accounting. 
 
-This distribution mechanism provides the ideal Gini coefficient at day one and further the best Gini coefficient in the industry.
+This distribution mechanism provides the ideal Gini coefficient at day one, and the best Gini coefficient in the industry further.
+
 
 *I have an idea on how to cheaply get over 100,000,000 unique people with their Public Addresses, and how about 2,000,000 of those people might become an especially powerful driving force of the blockchain.*
 
