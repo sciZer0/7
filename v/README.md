@@ -268,7 +268,9 @@ Actually, this approach means that increasing the inefficiency (overhead) is the
 
 Extremely importantly, increasing the number of nodes is just one of possible ways for a blockchain to achieve permissionlessness and high sustainability incl. the "51% attack" resistance.
 
-Ideally, a blockchain must use another, truly-decentralized, more efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
+Compared to other possible approaches, the old approach is much like adding to your car a 70th wheel, simultaneously dreaming about adding a 205th wheel.
+
+Ideally, a blockchain must use another, truly-decentralized, highly-efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
 The Vote blockchain ideally solves this problem from day one.
 
