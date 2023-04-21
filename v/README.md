@@ -41,7 +41,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * highly-sustainable
 * highly-efficient 
 * with over 50,000 TPS
-* with the native, decreasing-supply token
+* with the native, decreasing total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
 
@@ -155,7 +155,10 @@ On the other hand, the Bitcoin blockchain's native token is allegedly considered
 
 Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
 
-Meaning, the latter concept is fundamentally much better than Bitcoin's concept of **digital gold**, and plus, of course, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains.
+When it comes to ethery, it is important to understand thatEthereum Improvement Proposal 1559 doesn't decrease the blockchain's total supply. 
+
+
+This all means that the new concept of the native, decreasing total-supply token is fundamentally much better than Bitcoin's concept of **digital gold**, and plus, of course, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of tokenomics on all other blockchains.
 
 <br>
 
@@ -238,11 +241,13 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 4</h3>
 
-Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's supply.
+Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's total supply.
 
-For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. In fact, no one of the existing blockchains is able to start decreasing its native token's supply.
+For example, the Bitcoin blockchain will stop its printing only at 2140 (in 118 years), and the Ethereum blockchain – maybe at one day in the future. In fact, no one of the existing blockchains is able to truly start decreasing its native token's total supply.
 
-Ideally, a blockchain must start decreasing its native token's supply from day one.
+As mentioned above, Ethereum Improvement Proposal 1559, for example, doesn't really decrease the blockchain's total supply. 
+
+Ideally, a blockchain must start decreasing its native token's total supply from day one.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -330,7 +335,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-sustainable
 * highly-efficient
 * with over 50,000 TPS
-* with a native, decreasing-supply token
+* with the native, decreasing total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
 
