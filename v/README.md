@@ -30,7 +30,7 @@ revolutionary blockchains
 </p>
 <br>
 
-This paper proposes an idea about revolutionary blockchains in general.
+Generally, this article pushes the idea of ​​revolutionary blockchains that are highly-sustainable and highly-efficient.
 
 Specifically, this paper proposes an idea about the revolutionary blockchain that, being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow lots of lots of people from around the world to make life-changing money from investing no money. 
 
@@ -493,9 +493,9 @@ The thing is that we can achieve high decentralization and sustainability for ex
 
 This new approach allows us to achieve consensus highly efficiently.
 
-Unlike the traditional approach to POS, the new approach doesn't require stakes from Validators, and,  of course, doesn't require doing massive hash-works unlike POW. 
+Unlike the traditional approach to PoS, the new approach doesn't require stakes from Validators, and,  of course, doesn't require doing massive hash-works unlike PoW. 
 
-Specifically in this paper as an example, the new approach uses Solana's Proof-Of-History mechanism and is much like Solana's POS consensus mechanism — but again, consensus is happening without any stakes.
+Specifically in this paper as an example, the new approach uses Solana's Proof-Of-History mechanism and is much like Solana's PoS consensus mechanism — but again, consensus is happening without any stakes.
 
 The whole trick is that this consensus might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
@@ -625,8 +625,6 @@ Capital At Risk:<br>
 A small part of stake, if any — or a small amount of reward<br>
 **——**<br>
 **New Approach:**<br>
-**Proof Of Token Flow**<br>
-**(POTF)**<br>
 Capital At Risk:<br>
 A huge flow of tokens/stakes for years<br><br>
 
