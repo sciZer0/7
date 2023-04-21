@@ -43,7 +43,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * with over 50,000 TPS
 * with the native, decreasing-supply token
 * with over 100,000,000 owners of the native token
-* with the ideal Gini coefficient 
+* with the best Gini coefficient 
 
 In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms.
 
@@ -213,7 +213,7 @@ The initial token distribution and inequality Gini coefficient aren't much bette
 
 Precisely the great unfairness might most prevent each of the existing blockchains from getting mass adoption in the long term.
 
-Ideally, a blockchain must have executed very wide initial token distribution, and also have the ideal Gini coefficient of 0 from day one.
+Ideally, a blockchain must have executed very wide initial token distribution, and also have the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry further.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -332,7 +332,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * with over 50,000 TPS
 * with a native, decreasing-supply token
 * with over 100,000,000 owners of the native token
-* with the ideal Gini coefficient 
+* with the best Gini coefficient 
 
 <p>&nbsp</p>
 
@@ -361,8 +361,7 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 Through a fair airdrop excluding the multi-accounting. 
 
-This distribution mechanism provides the ideal Gini coefficient at day one, and the best Gini coefficient in the industry further.
-
+This distribution mechanism provides the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry further.
 
 *I have an idea on how to cheaply get over 100,000,000 unique people with their Public Addresses, and how about 2,000,000 of those people might become an especially powerful driving force of the blockchain.*
 
