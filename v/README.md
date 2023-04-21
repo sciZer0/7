@@ -149,11 +149,11 @@ In Inflationary Economy, there is nothing new and valuable.
 
 All that Inflationary Economies (endless emissions of regular tokens) can finally give us is devaluations of tokens (values).
 
-On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
+On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
 
 Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
 
-Fundamentally, the latter concept is  much better than  any of the two already known ones: digital gold and ultra sound money.
+Meaning, the latter concept is fundamentally much better than Bitcoin's concept of **digital gold**, and plus, of course, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains.
 
 <br>
 
