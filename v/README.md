@@ -682,8 +682,7 @@ Each candidate/applicant for a position of Contributor have to find a way to pro
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's mainnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 500 Contributors through democratic voting (Competitive Voting).*
-
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to have formed a full list of 500 Contributors through democratic voting (Competitive Voting) by the moment of the launch of the mainnet.*
 
 
 
@@ -721,7 +720,7 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 At the start, the monthly rate of Automated Donations is 0.08% from each Public Address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start, there may be up to 470 vacant positions: 500-30=470), all Automated Donations collected for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 470 vacant positions: 500-30=470), all Automated Donations collected for the vacant positions are burned.*
 
 *Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
