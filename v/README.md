@@ -41,7 +41,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * highly-sustainable
 * highly-efficient 
 * with over 50,000 TPS
-* with the native, decreasing total-supply token
+* with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
 
@@ -338,7 +338,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-sustainable
 * highly-efficient
 * with over 50,000 TPS
-* with the native, decreasing total-supply token
+* with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
 
