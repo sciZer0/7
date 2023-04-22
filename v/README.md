@@ -25,8 +25,7 @@ doomed by its design<br>
 <h1 align="center">THE VOTE BLOCKCHAIN</h1>
  
 <p align="center">
-One of<br>
-revolutionary blockchains
+In Brief<br>
 </p>
 <br>
 
