@@ -119,7 +119,7 @@ It will be impossible to fight this trend.
 
 As they say — change or die.
 
-From that new perspective/vision, it is in the interests of our civilization to make the most of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known. 
+From that new perspective/vision, it is in the interests of our civilization to make the most out of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known. 
 
 So in particular, each code or idea that happens to be known must be free. *By the way, in the crypto industry, code and ideas that have already become known, in the vast majority, are already open and free.*
 
@@ -129,7 +129,7 @@ Also, when someone creates something new and digitizable which eventually become
 
 Importantly, people and businesses will never stop or even slow down creating new digitizable things (incl. ideas and code) because creativity is in the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
 
-In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to the creators of these digitizable things. Including, through buying NFTs of the creators. *More on this below.*
+In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to the creators of these digitizable things. Including, through buying NFTs of the creators. *A bit more on this below.*
 
 <br>
 
