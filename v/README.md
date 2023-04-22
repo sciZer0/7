@@ -25,7 +25,7 @@ doomed by its design<br>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
  
 <p align="center">
-In Brief<br>
+Brief Announcement<br>
 </p>
 <br>
 
