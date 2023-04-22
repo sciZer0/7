@@ -25,13 +25,12 @@ doomed by its design<br>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
  
 <p align="center">
-Announcement<br>
 In Brief<br>
 </p>
 <br>
 
 
-This paper proposes an idea about a revolutionary, layer-1 blockchain with a big user base from day one, and with a new token-distribution mechanism providing the best Gini coefficient in the industry.
+This paper proposes an idea about a revolutionary, layer-1 blockchain with a big, multi-million user base from day one, and with a new token-distribution mechanism providing the best Gini coefficient in the industry.
 
 Also for the first time in the industry, the blockchain has the native, decreasing-total-supply token, and plus, is highly-sustainable and highly-efficient simultaneously.
 
@@ -48,7 +47,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
 
-In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms, Proof-of-Stake-Flow (PoSF).
+In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms — called **Proof-of-Stake-Flow** (PoSF).
 
 In turn, the new approach involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -649,6 +648,8 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of tokens/stakes for years<br><br>
 
+This new approach to consensus might be called **Proof-of-Stake-Flow** (PoSF).
+
 Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 166 fold margin of safety of 500 Validators (500/3=166.67) might be a sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 2-3 Validator/s — highly-autonomous Validator/s. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
@@ -676,7 +677,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 
 
-<h1>7 &nbsp Contributors</h1>
+<h2>7 &nbsp Contributors</h2>
 
 Contributors are people who may be contributing to the Vote blockchain and receiving daily very-generous Automated Donations — <b>in total ~ $1 million per year per person</b> — from Voters.
 
@@ -703,10 +704,10 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 *The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to have formed a full list of 500 Contributors through democratic voting (Competitive Voting) by the moment of the launch of the mainnet.*
 
+<br>
 
 
-
-<h1>8 &nbsp Automated Donations</h1>
+<h2>8 &nbsp Automated Donations</h2>
 
 
 <p align="center"><b>For reference, How Accounts Work On Solana</b></p>
@@ -751,9 +752,9 @@ At the start, the monthly rate of Automated Donations is 0.08% from each Public 
 
 
 
+<br>
 
-
-<h1>9 &nbsp Voting Proposals</h1>
+<h2>9 &nbsp Voting Proposals</h2>
 
 On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
@@ -771,8 +772,8 @@ Non-Automatic Proposals may start at any moment (Slot) and are the following one
 
 
 
-
-<h1>10 &nbsp Hyde Park</h1>
+<br>
+<h2>10 &nbsp Hyde Park</h2>
 
 Hyde Park is a set of internet sites and protocols (incl. Vote.Governance.Forum, Twitter, Telegram, Discord, Nostr) that might be used for expressing various opinions and discussing proposals, including, proposals on appointing/dismissing.
 
@@ -810,7 +811,7 @@ For example, we might take core code of the Solana blockchain as our codebase an
 **The Continuation**
 
 
-<h1>11 &nbsp Technologies & Creator Thanksgiving Culture</h1>
+<h2>11 &nbsp Technologies & Creator Thanksgiving Culture</h2>
 
 From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
 
