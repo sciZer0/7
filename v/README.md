@@ -117,11 +117,13 @@ For example, if the uploader wants, he/she can give permissionlessness access to
 
 It will be impossible to fight this trend.
 
-From this new vision, it is in the interests of our civilization to consider it acceptable to give all people equal access to those digitizable things that become known. 
+As they say — change or die.
 
-So in particular, each code or idea that becomes known must be free. *By the way, code and ideas in the crypto industry, in the vast majority, are already open and free.*
+From that new perspective/vision, it is in the interests of our civilization to make the most of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known. 
 
-Everyone must always feel free to use other people’s ideas and code (already become known) in order to make the lives of lots of lots of people better.
+So in particular, each code or idea that becomes known must be free. *By the way, in the crypto industry, code and ideas that are known, in the vast majority, are already open and free.*
+
+Everyone must always feel free to use other people’s ideas and code (which have already become known) in order to make the lives of lots of lots of people better.
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
