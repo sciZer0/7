@@ -31,7 +31,7 @@ revolutionary blockchains
 <br>
 
 
-This paper proposes an idea about a revolutionary blockchain with a big user base from day one, and a new token-distribution mechanism providing the best Gini coefficient in the industry.
+This paper proposes an idea about a revolutionary blockchain with a big user base from day one, and with a new token-distribution mechanism providing the best Gini coefficient in the industry.
 
 Also for the first time in the industry, the blockchain has the native, decreasing-total-supply token, and plus, is highly-sustainable and highly-efficient simultaneously.
 
