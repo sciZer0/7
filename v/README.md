@@ -48,7 +48,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
 
-In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms.
+In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms, Proof-of-Stake-Flow (PoSF).
 
 The narrative of the blockchain also involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
