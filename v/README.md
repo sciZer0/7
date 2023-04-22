@@ -109,11 +109,17 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 ### About New Culture 
 
+*You might, if wanted, just skip this chapter.*
+
 Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, audios, texts, programs) on a blockchain and then use them the way they want.
 
-For example, if the uploader wants, he/she can give permissionlessness access to the digitizable things to all people, and no one can forbid people to get these things when they want.
+For example, if the uploader wants, he/she can give permissionlessness access to those uploaded digitizable things to all people, and no one can forbid people to use these things (videos, audios, texts, programs) when they want.
 
-From this new vision, in particular, each code or idea that becomes known must be free. *By the way, code and ideas in the crypto industry, in the vast majority, are already open and free.*
+It will be impossible to fight this trend.
+
+From this new vision, it is in the interests of our civilization to consider it acceptable to give all people equal access to those digitizable things that become known. 
+
+So in particular, each code or idea that becomes known must be free. *By the way, code and ideas in the crypto industry, in the vast majority, are already open and free.*
 
 Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
 
