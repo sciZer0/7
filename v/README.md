@@ -22,9 +22,10 @@ doomed by its design<br>
 
 
 <p>&nbsp</p>
-<h1 align="center">THE VOTE BLOCKCHAIN</h1>
+<h2 align="center">THE VOTE BLOCKCHAIN</h2>
  
 <p align="center">
+Announcement<br>
 In Brief<br>
 </p>
 <br>
@@ -315,7 +316,7 @@ With all these fundamental problems that cannot be solved by EACH of the existin
 <p>&nbsp</p>
 
 
-<h1 align="center">THE VOTE BLOCKCHAIN</h1>
+<h2 align="center">THE VOTE BLOCKCHAIN</h2>
 <p align="center">In More Detail</p>
 
 <br>
@@ -348,7 +349,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 
 
 
-<h1>1 &nbsp Maximum Supply</h1>
+<h2>1 &nbsp Maximum Supply</h2>
 
 Vote (VOTE) is a native token of the Vote blockchain.
 
@@ -363,9 +364,9 @@ The Hand is the smallest unit of the Vote token.
 After creating the Genesis Block, no printing of the Vote token is possible.
 
 
+<br>
 
-
-<h1>2 &nbsp Fair Full-Scale Distribution</h1>
+<h2>2 &nbsp Fair Full-Scale Distribution</h2>
 
 After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are for free equally distributed among over 100,000,000 people who become Voters (users).
 
@@ -375,15 +376,19 @@ This distribution mechanism provides the ideal Gini coefficient of 0 at day one,
 
 *I have an idea on how to cheaply get over 100,000,000 unique people with their Public Addresses, and how about 2,000,000 of those people might become an especially powerful driving force of the blockchain.*
 
+<br>
 
-<h1>3 &nbsp Over 50,000 TPS</h1>
+
+
+<h2>3 &nbsp Over 50,000 TPS</h2>
 
 From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
 
+<br>
 
 
 
-<h1>4 &nbsp Decreasing Circulating Supply</h1>
+<h2>4 &nbsp Decreasing Circulating Supply</h2>
 
 Gas Fee are paid by Account Owners to process transactions (instructions) on the blockchain.
 
@@ -401,10 +406,10 @@ Decreasing Circulating Supply is the impossible thing for each of the existing b
 
 At best, such a highly-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
 
+<br>
 
 
-
-<h1>5 &nbspVoting System</h1>
+<h2>5 &nbspVoting System</h2>
 
 
 The Vote blockchain has a highly-decentralized governance.
@@ -418,9 +423,9 @@ The blockchain’s democratic system consists of the following elements:
 * Non-Automatic Proposals (inbuilt)
 * Hyde Park
  
+<br>
 
-
-<h1>6 &nbsp Competitive Voting</h1>
+<h2>6 &nbsp Competitive Voting</h2>
 
 
 
