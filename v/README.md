@@ -887,7 +887,7 @@ Moreover, in about 50 years, NFTs will most likely be used for these 3 main case
 2. a main way for entities (incl. companies, universities, states) to organize their works
 3. a main way for anyone to flex (a bit more on it below)
 
-There will be total tokenization of "real-world" things. Nearly everything valuable will be tokenized through NFTs.
+There will be total tokenization of the "real-world" things. Nearly everything valuable (incl. products of production) will be tokenized through NFTs.
 
 
 # About Bitcoin
