@@ -121,7 +121,7 @@ As they say — change or die.
 
 From that new perspective/vision, it is in the interests of our civilization to make the most of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known. 
 
-So in particular, each code or idea that becomes known must be free. *By the way, in the crypto industry, code and ideas that are known, in the vast majority, are already open and free.*
+So in particular, each code or idea that happens to be known must be free. *By the way, in the crypto industry, code and ideas that have already become known, in the vast majority, are already open and free.*
 
 Everyone must always feel free to use other people’s ideas and code (which have already become known) in order to make the lives of lots of lots of people better.
 
