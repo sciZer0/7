@@ -50,7 +50,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 
 In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms, Proof-of-Stake-Flow (PoSF).
 
-The narrative of the blockchain also involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+In turn, the new approach involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
 
 
@@ -124,7 +124,7 @@ Including, everyone must always feel free to use other people’s ideas and code
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
-*Importantly, people and businesses will never stop or even slow down creating/inventing new digitizable things (incl. ideas and code) because there is a big probability of getting a strong first mover advantage.*
+Importantly, people and businesses will never stop creating new digitizable things (incl. ideas and code) because creativity is the basis of human nature and plus there is a big probability of getting a strong first mover advantage.
 
 <br>
 
