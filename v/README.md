@@ -31,11 +31,11 @@ revolutionary blockchains
 <br>
 
 
-This paper proposes an idea about a revolutionary blockchain with a big user base from day one.
+This paper proposes an idea about a revolutionary blockchain with a big user base from day one and the native-token distribution mechanism providing the best Gini coefficient in the industry.
 
-The blockchain has the native, decreasing-total-supply token, and importantly, is highly-sustainable and highly-efficient simultaneously.
+The blockchain has the native, decreasing-total-supply token, and plus, is highly-sustainable and highly-efficient simultaneously.
 
-Also having other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
+Having also other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
@@ -50,7 +50,7 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 
 In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanisms.
 
-In turn, the new approach involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+The narrative of the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
 
 
