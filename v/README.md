@@ -123,7 +123,7 @@ Including, everyone must always feel free to use other people’s ideas and code
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
-*Importantly, people and businesses will never stop or slow down creating/inventing new digitizable things (incl. ideas and code) because there is a strong first mover advantage.*
+*Importantly, people and businesses will never stop or even slow down creating/inventing new digitizable things (incl. ideas and code) because there is a big probability of getting a strong first mover advantage.*
 
 <br>
 
@@ -215,7 +215,7 @@ Another example, the SOL token — the Solana blockchain — entered the market 
 
 The initial token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
 
-Precisely the great unfairness might most prevent each of the existing blockchains from getting mass adoption in the long term.
+Precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
 Ideally, a blockchain must have executed very wide initial token distribution, and also have the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry further.
 
