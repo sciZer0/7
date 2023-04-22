@@ -32,7 +32,9 @@ revolutionary blockchains
 
 Generally, this paper pushes the idea of ​​revolutionary blockchains that are highly-sustainable and highly-efficient simultaneously.
 
-Specifically, this paper proposes an idea about a revolutionary blockchain with the native, decreasing-total-supply token. The blockchain, having unprecedented advantages and being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
+Specifically, this paper proposes an idea about a revolutionary blockchain with the native, decreasing-total-supply token. 
+
+The blockchain, having unprecedented advantages and being especially-suitable for mass adoption, might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
@@ -131,7 +133,7 @@ Also, when someone creates something new and digitizable which eventually become
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
-In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete, and plus risks becoming extremely-vulnerable to possible code bugs.
+In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete, and also risks becoming extremely-vulnerable to possible code bugs.
 
 So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
