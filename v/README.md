@@ -33,9 +33,9 @@ revolutionary blockchains
 
 This paper proposes an idea about a revolutionary blockchain with a big user base from day one and the native-token distribution mechanism providing the best Gini coefficient in the industry.
 
-The blockchain has the native, decreasing-total-supply token, and plus, is highly-sustainable and highly-efficient simultaneously.
+For the first time in the industry, the blockchain has the native, decreasing-total-supply token, and plus, is highly-sustainable and highly-efficient simultaneously.
 
-Having also other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
+Also having other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
