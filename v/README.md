@@ -121,11 +121,11 @@ From this new vision, it is in the interests of our civilization to consider it 
 
 So in particular, each code or idea that becomes known must be free. *By the way, code and ideas in the crypto industry, in the vast majority, are already open and free.*
 
-Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
+Everyone must always feel free to use other people’s ideas and code (already become known) in order to make the lives of lots of lots of people better.
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
-Importantly, people and businesses will never stop creating new digitizable things (incl. ideas and code) because creativity is in the basis of human and business nature, and on top of that, there is a strong possibility that the creator will still be able to realize the first mover advantage.
+Importantly, people and businesses will never stop or even slow down creating new digitizable things (incl. ideas and code) because creativity is in the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
 
 In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to the creators of these digitizable things. Including, through buying NFTs of the creators. *More on this below.*
 
