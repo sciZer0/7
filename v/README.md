@@ -109,21 +109,19 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 ### About New Culture 
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, audios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, audios, texts, programs) on a blockchain and then use them the way they want.
 
-As they say — change or die.
+For example, if the uploader wants, he/she can give permissionlessness access to the digitizable things to all people, and no one can forbid people to get these things when they want.
 
-Idea/Hypothesis
+From this new vision, in particular, each code or idea that becomes known must be free. *By the way, code and ideas in the crypto industry, in the vast majority, are already open and free.*
 
-The idea/hypothesis is that due to this new Creator-paradigm, we might shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
-
-From this new vision, in particular, each code or idea that becomes known must be free. *Code and ideas in the crypto industry, in the vast majority, are already open and free.*
-
-Including, everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
+Everyone must always feel free to use other people’s ideas and code in order to make the lives of lots of lots of people better.
 
 Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
 Importantly, people and businesses will never stop creating new digitizable things (incl. ideas and code) because creativity is the basis of human nature and plus there is a big probability of getting a strong first mover advantage.
+
+And, we might shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
 
 <br>
 
