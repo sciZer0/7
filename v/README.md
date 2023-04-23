@@ -124,7 +124,7 @@ From that new perspective/vision, it is in the interests of our civilization to 
 
 So in particular, each code or idea that becomes known must be free. **By the way, in the crypto industry, code and ideas that have already become known, in the vast majority, are already open and free.**
 
-Everyone must always feel free to use other people’s ideas and code (which have already become known) in order to make the lives of lots of lots of people better.
+Everyone must always feel free to use other people’s available ideas and code in order to make the lives of lots of lots of people better.
 
 Of course, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
