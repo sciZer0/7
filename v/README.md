@@ -33,7 +33,7 @@ This paper proposes an idea about a revolutionary, layer-1 blockchain, the nativ
 
 The blockchain has a new token-distribution mechanism providing it the best Gini coefficient in the industry.
 
-Thanks to burning all transaction fees, the blockchain has the most desirable and simultaneously impossible thing in the industry: the total-supply of the native token is constantly decreasing from day one.
+Thanks to burning all Gas Fees, the blockchain has the most desirable and simultaneously impossible thing in the industry: the total-supply of the native token is constantly decreasing from day one.
 
 Plus, being highly-decentralized, the blockchain is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
