@@ -114,7 +114,7 @@ Additionally, thanks to blockchain technology, it will technically be impossible
 
 It is because technically, anyone can upload those digitizable things: videos, audios, texts, programs (being in reality just numbers) on a blockchain and then allow all people to freely access these things (these numbers).
 
-For example, if the uploader wants, he/she can give permissionless access to the uploaded digitizable things to all people, and no one can prevent people from using these things (videos, audios, texts, programs) when they want.
+For example, if the uploader wants, he/she can give permissionless access to those uploaded digitizable things to all people, and no one can prevent people from using these things (videos, audios, texts, programs) when they want.
 
 It will be impossible to fight this trend.
 
