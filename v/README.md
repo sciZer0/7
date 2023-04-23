@@ -31,7 +31,7 @@ Brief Introduction<br>
 
 This paper proposes an idea about a revolutionary, layer-1 blockchain which already at the start has a big, multi-million user base, and leverages a new token-distribution mechanism providing the blockchain the best Gini coefficient in the industry.
 
-Also for the first time ever in the industry, the blockchain has the native token, the total-supply of which is decreasing from day one.
+Also for the first time ever in the industry, the blockchain has the native token (**VTT**), the total-supply of which is decreasing from day one.
 
 Plus, being highly-decentralized, the blockchain is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
@@ -380,15 +380,13 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 
 <h2>1 &nbsp Maximum Supply</h2>
 
-Vote (VOTE) is a native token of the Vote blockchain.
+The Vote token (**VTT**) is a native token of the Vote blockchain.
 
-The Maximum Supply of the Vote token is created at the Genesis Block.
+The Maximum Supply of the Vote token is created at the Genesis Block, and is 10,000,000 **VTT**.
 
-The Maximum Supply is 10,000,000 Vote tokens.
+Each Vote token is divided into 100,000,000 **Hands**.
 
-Each Vote token is divided into 100,000,000 Hands.
-
-The Hand is the smallest unit of the Vote token.
+The Hand (**Hand**) is the smallest unit of the Vote token.
 
 After creating the Genesis Block, no printing of the Vote token is possible.
 
