@@ -37,9 +37,9 @@ The blockchain has a new token-distribution mechanism providing it the best Gini
 
 Thanks to burning all transaction fees, the blockchain has the most desirable and simultaneously impossible thing in the industry: the native token's total-supply is constantly decreasing from day one.
 
-Plus, being highly-decentralized, the blockchain is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
+The blockchain, being highly-decentralized, is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
-Having also other unprecedented advantages and being especially-suitable for mass adoption, the native token of the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
+Having also other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 The Vote blockchain is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
