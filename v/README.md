@@ -62,7 +62,7 @@ The narrative being defined by the blockchain also involves — among other thin
    - About the Greatest Values
    - About Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain in more detail** 
-* *Some Other Thoughts*
+* **Some Other Thoughts**
    - *About Democracy*
    - *About Nakamoto Coefficient*
    - *About Bitcoin*
