@@ -19,7 +19,9 @@ doomed by its design<br>
 </b></p>
 <br>
 
+*For reference*
 
+*The native token of a blockchain is the blockchain's foundational token. Every blockchain has its own native token. For example, the native token of the Bitcoin blockchain is Bitcoin, the native token of the Ethereum blockchain is Ethereum, the native token of the Solana blockchain is Solana, and so on.*
 
 <p>&nbsp</p>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
