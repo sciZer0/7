@@ -31,7 +31,7 @@ Brief Introduction<br>
 
 This paper proposes an idea about a revolutionary, layer-1 blockchain which already at the start has a **100 million user base**, and leverages a new token-distribution mechanism providing the blockchain the best Gini coefficient in the industry.
 
-Also for the first time ever, the blockchain does have the most desirable and simultaneously impossible thing in the industry: the blockchain does has the **native token**, the total-supply of which is constantly decreasing from day one.
+Also for the first time ever, the blockchain has the most desirable and simultaneously impossible thing in the industry: the blockchain does has the **native token**, the total-supply of which is constantly decreasing from day one.
 
 Plus, being highly-decentralized, the blockchain is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
