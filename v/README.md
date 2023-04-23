@@ -112,7 +112,7 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because â€
 
 *You might, if wanted, just skip this chapter.*
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things that become known.
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things (incl. videos, audios, texts, programs) if/when they become known.
 
 It is because technically, anyone will be able to upload any known digitizable things: videos, audios, texts, programs (being in reality just digits) on a blockchain and then allow people to **permissionlessly** access/use these things (digits) when they want.
 
