@@ -30,9 +30,9 @@ Brief Introduction<br>
 <br>
 
 
-This paper proposes an idea about a revolutionary, layer-1 blockchain with a big, multi-million user base from day one, and with a new token-distribution mechanism providing the best Gini coefficient in the industry.
+This paper proposes an idea about a revolutionary, layer-1 blockchain which has a big, multi-million user base already at the start, and a new token-distribution mechanism providing the best Gini coefficient in the industry.
 
-Also for the first time ever, the blockchain has the native, decreasing-total-supply token, and plus, is highly-sustainable and unbelievably highly-efficient simultaneously.
+Also for the first time ever, the blockchain has the native token, total-supply of which is decreasing from day one and plus, the blockchain is highly-sustainable and unbelievably highly-efficient simultaneously.
 
 Having also other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
