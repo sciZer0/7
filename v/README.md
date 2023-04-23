@@ -57,6 +57,7 @@ The narrative being defined by the blockchain also involves — among other thin
 * Abstract 
    - About Blockchain Technology
    - About New Culture
+   - About NFTs
    - About Immutability
    - About the Greatest Values
    - About Fundamental Problems of All Current Blockchains
@@ -64,7 +65,6 @@ The narrative being defined by the blockchain also involves — among other thin
 * Some Other Thoughts</b>
    - About Democracy
    - About Nakamoto Coefficient
-   - About NFTs
    - About Bitcoin
 * CONCLUSION 
 
@@ -130,11 +130,32 @@ Of course, when someone creates something new and digitizable which eventually b
 
 Importantly, people and businesses will never stop or even slow down creating new digitizable things because creativity is in the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
 
-In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Including, through buying NFTs of the creators. *A bit more on this below.*
+In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Including, through buying NFTs of the creators.
 
 <br>
 
+### About NFTs
 
+*You might also, if wanted, just skip this chapter.*
+
+NFTs are here to stay.
+
+Moreover, in the future, NFTs will most likely be used for these 3 main use-cases:
+
+1. a main way for creators (incl. artists, singers, writers) to monetize their works
+2. a main way for entities (incl. companies, universities, states) to organize their works
+3. a main way for anyone to flex 
+
+There will be total tokenization of the "real-world" things. Nearly everything valuable (incl. products of production) will be tokenized through NFTs.
+
+Thanks to NFTs, for example, states will be able to significantly improve their efficiency — including, to cardinally cut tax burden on both people and businesses simultaneously, and canceling all traditional taxes to only introduce a small number of innovative taxes (self-collectable, privacy-preserving ones).
+
+Also, for example, fans in various spheres, through buying NFTs of their idols, will be able to take special seats in the fan hierarchies of these idols. 
+
+
+
+
+<br>
 
 ### About Immutability 
 
@@ -878,17 +899,7 @@ As a result, the Nakamoto coefficient doesn't take into account all possible dec
 
 
 
-# About NFTs
 
-NFTs (incl. SBTs) are here to stay.
-
-Moreover, in about 50 years, NFTs will most likely be used for these 3 main cases:
-
-1. a main way for creators (incl. artists, singers, writers) to monetize their works
-2. a main way for entities (incl. companies, universities, states) to organize their works
-3. a main way for anyone to flex (a bit more on it below)
-
-There will be total tokenization of the "real-world" things. Nearly everything valuable (incl. products of production) will be tokenized through NFTs.
 
 
 # About Bitcoin
