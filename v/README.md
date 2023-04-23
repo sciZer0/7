@@ -130,7 +130,7 @@ Of course, when someone creates something new and digitizable which eventually b
 
 Importantly, people and businesses will never stop or even slow down creating new digitizable things because creativity is in the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
 
-In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to the creators of these digitizable things. Including, through buying NFTs of the creators. *A bit more on this below.*
+In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Including, through buying NFTs of the creators. *A bit more on this below.*
 
 <br>
 
