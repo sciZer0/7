@@ -33,7 +33,7 @@ This paper proposes an idea about a revolutionary, layer-1 blockchain, the nativ
 
 The blockchain has a new token-distribution mechanism providing it the best Gini coefficient in the industry.
 
-Thanks to burning all Gas Fees, the blockchain has the most desirable and simultaneously impossible thing in the industry: the total-supply of the native token is constantly decreasing from day one.
+Thanks to burning all transaction fees, the blockchain has the most desirable and simultaneously impossible thing in the industry: the total-supply of the native token is constantly decreasing from day one.
 
 Plus, being highly-decentralized, the blockchain is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
@@ -419,13 +419,13 @@ From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Secon
 
 <h2>4 &nbsp Decreasing Circulating Supply</h2>
 
-Gas Fee are paid by Account Owners to process transactions (instructions) on the blockchain.
+Transaction Fees are paid by Account Owners to process transactions (instructions) on the blockchain.
 
 Rents are paid by Account Owners to keep accounts' data stored on the blockchain. 
 
-Gas Fees and Rents are paid in the Vote token (in Hands).
+Transaction Fees and Rents are paid in the Vote token (in Hands).
 
-All Gas Fees and Rents paid (100%) are burned. 
+All Transaction Fees and Rents paid (100%) are burned. 
 
 
 <i><b>
