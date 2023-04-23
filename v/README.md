@@ -110,21 +110,23 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 *You might, if wanted, just skip this chapter.*
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive** ownership over created digitizable things that happen to be (become) known.
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive** ownership over created digitizable things that become known.
 
 It is because technically, anyone can upload those digitizable things: videos, audios, texts, programs (being in reality just numbers) on a blockchain and then allow all people to freely access these things (these numbers).
 
 For example, if the uploader wants, he/she can give permissionless access to the uploaded digitizable things to all people, and no one can prevent people from using these things (videos, audios, texts, programs) when they want.
 
+It will be impossible to fight this trend.
+
 As they say — change or die.
 
-From that new perspective/vision, it is in the interests of our civilization to make the most out of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known. 
+From that new perspective/vision, it is in the interests of our civilization to make the most out of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known.
 
-So in particular, each code or idea that happens to be known must be free. *By the way, in the crypto industry, code and ideas that have already become known, in the vast majority, are already open and free.*
+So in particular, each code or idea that becomes known must be free. **By the way, in the crypto industry, code and ideas that have already become known, in the vast majority, are already open and free.**
 
 Everyone must always feel free to use other people’s ideas and code (which have already become known) in order to make the lives of lots of lots of people better.
 
-Also, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
+Of course, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
 
 Importantly, people and businesses will never stop or even slow down creating new digitizable things (incl. ideas and code) because creativity is in the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
 
