@@ -158,7 +158,7 @@ So codebase (constitution) of a blockchain can have variables when values of the
 
 In Inflationary Economy, there is nothing new and valuable.
 
-All that Inflationary Economies (endless emissions of regular tokens) can finally give us is devaluations of tokens (values).
+All that Inflationary Economy — endless emissions of regular tokens — can finally give us is devaluations of the tokens (values).
 
 On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
 
@@ -182,7 +182,7 @@ Below are 5 fundamental problems of all current blockchains compared to the Vote
 
 <h3 align="center">Problem 1</h3>
 
-Fundamental Problem 1 is that people build blockchains the same way as they built states in the past: 
+Fundamental Problem 1 is that people build blockchains the same way as other people built states in the past: 
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
 
