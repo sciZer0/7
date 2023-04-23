@@ -112,17 +112,17 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things that become known.
 
-It is because technically, anyone can upload those digitizable things: videos, audios, texts, programs (being in reality just numbers) on a blockchain and then allow all people to freely access these things (these numbers).
+It is because technically, anyone can upload those digitizable things: videos, audios, texts, programs (being in reality just numbers) on a blockchain and then allow people to freely access/use these things (these numbers) when they want.
 
-For example, if the uploader wants, he/she can give permissionless access to those uploaded digitizable things to all people, and no one can prevent people from using these things (videos, audios, texts, programs) when they want.
+For example, if the uploader wants, he/she can give permissionless access to those uploaded digitizable things to people around the world, and no one can prevent people from accessing/using these things (videos, audios, texts, programs) when they want.
 
 It will be impossible to fight this trend.
 
 As they say — change or die.
 
-From that new perspective/vision, it is in the interests of our civilization to make the most out of the new paradigm — including, to consider it acceptable to initially allow people free access to those digitizable things that become known.
+From that new perspective/vision, it is in the interests of our civilization to make the most out of the new paradigm — including, to consider it acceptable to initially allow people to freely access/use all digitizable things (incl. ideas and code) that become known.
 
-So in particular, each code or idea that becomes known must be free. **By the way, in the crypto industry, code and ideas that have already become known, in the vast majority, are already open and free.**
+So in particular, each code or idea that becomes known must be free. **By the way, in the crypto industry, code and ideas that have become known are already, in the vast majority, open and free.**
 
 Everyone must always feel free to use other people’s available ideas and code in order to make the lives of lots of lots of people better.
 
