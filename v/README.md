@@ -54,19 +54,19 @@ The narrative being defined by the blockchain also involves — among other thin
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
-* Abstract 
+* **Abstract** 
    - About Blockchain Technology
-   - About New Culture
-   - About NFTs
+   - *About New Culture*
+   - *About NFTs*
    - About Immutability
    - About the Greatest Values
    - About Fundamental Problems of All Current Blockchains
-* The Vote Blockchain in more detail 
-* Some Other Thoughts</b>
-   - About Democracy
-   - About Nakamoto Coefficient
-   - About Bitcoin
-* CONCLUSION 
+* **The Vote Blockchain in more detail** 
+* *Some Other Thoughts*
+   - *About Democracy*
+   - *About Nakamoto Coefficient*
+   - *About Bitcoin*
+* **CONCLUSION** 
 
 <br><br>
 
@@ -106,7 +106,7 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 
 
-### About New Culture 
+### *About New Culture* 
 
 *You might, if wanted, just skip this chapter.*
 
@@ -134,7 +134,7 @@ In order to additionally encourage creators of digitizable things, we might also
 
 <br>
 
-### About NFTs
+### *About NFTs*
 
 *You might also, if wanted, just skip this chapter.*
 
@@ -860,14 +860,13 @@ As an element of Creator Thanksgiving Culture, we establish a new fete day — C
 
 
 <br><br><br>
-### Some Other Thoughts
+## Some Other Thoughts
 
-* About Democracy
-* About Nakamoto Coefficient
-* About NFTs
-* About Bitcoin
+* *About Democracy*
+* *About Nakamoto Coefficient*
+* *About Bitcoin*
 
-<h1>About Democracy</h1>
+### *About Democracy*
  
 
 "The best argument against democracy is a five-minute conversation with the average voter." 
@@ -887,7 +886,7 @@ And, when people have real power and information, when they are motivated, when 
 
 
 
-# About Nakamoto Coefficient
+### *About Nakamoto Coefficient*
 
 For now, the industry highly needs a new universal coefficient that describes the minimum amount of effort it would take to disrupt any given blockchain. 
 
@@ -902,7 +901,7 @@ As a result, the Nakamoto coefficient doesn't take into account all possible dec
 
 
 
-# About Bitcoin
+### *About Bitcoin*
 
 Of course, Bitcoin is special.
 
