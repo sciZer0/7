@@ -34,7 +34,7 @@ Simultaneously, the blockchain has a new token-distribution mechanism providing 
 
 The blockchain is very fast, processing over 50,000 transactions per second.
 
-Thanks to burning all transaction fees, what is impossibly innovative, the blockchain creates the most valuable thing in the Universe: **the increasing scarcity** — meaning, the total-supply of the native token of the blockchain is constantly decreasing from day one.
+Thanks to burning all transaction fees, what is impossibly innovative, plus thanks to the absence of any emission of the native token after the Genesis Block, what is also impossibly innovative, the blockchain creates the most valuable thing in the Universe: **the increasing scarcity** — meaning, the total-supply of the native token of the blockchain is constantly decreasing from day one.
 
 Additionally, being highly-decentralized and highly-democratic, the given blockchain is both **highly-sustainable** and **unprecedentedly highly-efficient**.
 
