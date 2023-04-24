@@ -28,7 +28,7 @@ Brief Introduction<br>
 </p>
 <br>
 
-This paper proposes an idea about a revolutionary, layer-1 blockchain, the native token of which already at the start is owned by over 100 million people.
+This paper proposes a well thought out idea about a revolutionary, layer-1 blockchain, the native token of which already at the start is owned by over 100 million people.
 
 Simultaneously, the blockchain has a new token-distribution mechanism providing the given blockchain the best Gini coefficient in the industry.
 
