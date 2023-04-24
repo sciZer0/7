@@ -19,9 +19,6 @@ doomed by its design<br>
 </b></p>
 <br>
 
-*For reference*
-
-*The native token of a blockchain is the blockchain's foundational token. Every blockchain has its own native token. For example, the native token of the Bitcoin blockchain is Bitcoin, the native token of the Ethereum blockchain is Ethereum, the native token of the Solana blockchain is Solana, and so on.*
 
 <p>&nbsp</p>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
@@ -39,7 +36,7 @@ Thanks to burning all transaction fees, the blockchain has the most desirable an
 
 The blockchain, being highly-decentralized, is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
-Having also other unprecedented advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
+Having also other unachievable advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
 It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
