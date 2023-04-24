@@ -30,11 +30,11 @@ Brief Introduction<br>
 
 This paper proposes an idea about a revolutionary, layer-1 blockchain, the native token of which already at the start is owned by over 100 million people.
 
-The blockchain has a new token-distribution mechanism providing the given blockchain the best Gini coefficient in the industry.
+Simultaneously, the blockchain has a new token-distribution mechanism providing the given blockchain the best Gini coefficient in the industry.
 
 Thanks to burning all transaction fees, the blockchain creates the most valuable thing in the Universe: **the increasing scarcity** — meaning, the total-supply of the native token is constantly decreasing from day one.
 
-Additionally, the blockchain, being highly-decentralized, is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
+Additionally, the blockchain, being highly-decentralized and highly-democratic, is both highly-sustainable and unprecedentedly highly-efficient.
 
 Having also other unachievable advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
