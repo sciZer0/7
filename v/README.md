@@ -46,7 +46,7 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient
 
-From day one, the blockchain has over 100 million people equally owning the blockchain's native token.
+From day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
 Thanks to the given native token with the decreasing total-supply, the blockchain creates the most valuable one in the Universe: **the token with the constantly increasing scarcity**.
 
@@ -61,8 +61,6 @@ The narrative being defined by the blockchain also involves — among other thin
 <b>TABLE OF CONTENTS</b>
 * **Abstract** 
    - About Blockchain Technology
-   - *About New Culture*
-   - *About NFTs*
    - About Immutability
    - About Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain in more detail** 
@@ -106,60 +104,7 @@ And, the main rule of efficiency is that you must never do more than enough.
 Absolutely, blockchain technology causes a paradigm revolution. It is because — to even start with this single thing alone — no today's state would like to allow people to get permissionless access to value.
 
 
-<br>
 
-
-
-### *About New Culture* 
-
-*You might, if wanted, just skip this chapter.*
-
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things (incl. videos, audios, texts, programs) after these digitizable things become known.
-
-It is because technically, anyone will be able to upload any known digitizable things (videos, audios, texts, programs) on a blockchain and then allow people to **permissionlessly** access/use these digitizable things at will.
-
-For example, if the uploader wants, he/she can give **permissionless access** to uploaded digitizable things to all people around the world, and no one can prevent all willing ones from accessing/using these digitizable things (videos, audios, texts, programs) when they want.
-
-It will be impossible to fight this trend.
-
-As they say — change or die.
-
-From that new perspective/vision, it is in the interests of our civilization to make the most out of the new paradigm — including, to consider it acceptable to initially allow people to freely access/use all digitizable things (incl. ideas and code) that become known.
-
-So in particular, each code or idea that becomes known must be free. **By the way, in the crypto industry, code and ideas that have become known are mostly already open and free.**
-
-Everyone must always feel free to use other people’s available ideas and code in order to make the lives of lots of lots of people better.
-
-Of course, when someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
-
-Importantly, people and businesses will never stop or even slow down creating new digitizable things because creativity is in the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
-
-In order to additionally encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Including, through buying NFTs of the creators.
-
-<br>
-
-### *About NFTs*
-
-*You might also, if wanted, just skip this chapter.*
-
-NFTs are here to stay.
-
-Moreover, in the future, NFTs will most likely be used for these 3 main use-cases:
-
-1. a main way for creators (incl. artists, singers, writers) to monetize their works
-2. a main way for entities (incl. companies, universities, states) to organize their works
-3. a main way for anyone to flex 
-
-There will be total tokenization of the "real-world" things. Nearly everything valuable (incl. products of production) will be tokenized through NFTs.
-
-Thanks to NFTs, for example, states will be able to significantly improve their efficiency — including, to cardinally cut tax burden on both people and businesses simultaneously, and canceling all traditional taxes to only introduce a small number of innovative taxes (self-collectable, privacy-preserving ones).
-
-Also, for example, fans in various spheres, through buying NFTs of their idols, will be able to take special seats in the fan hierarchies of these idols. 
-
-
-
-
-<br>
 
 ### About Immutability 
 
