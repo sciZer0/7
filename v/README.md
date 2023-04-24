@@ -28,11 +28,11 @@ Brief Introduction<br>
 </p>
 <br>
 
-This paper proposes an idea about a revolutionary, layer-1 blockchain, the native token of which already at the start is owned by 100 million people.
+This paper proposes an idea about a revolutionary, layer-1 blockchain, the native token of which already at the start is owned by over 100 million people.
 
-The blockchain has a new token-distribution mechanism providing it the best Gini coefficient in the industry.
+The blockchain has a new token-distribution mechanism providing the given blockchain the best Gini coefficient in the industry.
 
-Thanks to burning all transaction fees, the blockchain has the most desirable and simultaneously impossible thing in the industry: the native token's total-supply is constantly decreasing from day one.
+The blockchain has the most desirable thing in the industry: **the native token's total-supply is constantly decreasing from day one**.
 
 The blockchain, being highly-decentralized, is both highly-sustainable and unprecedentedly highly-efficient simultaneously.
 
