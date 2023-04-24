@@ -63,7 +63,7 @@ The narrative being defined by the blockchain also involves — among other thin
    - About Blockchain Technology
    - About Immutability
    - About Fundamental Problems of All Current Blockchains
-* **The Vote Blockchain in more detail** 
+* **The Vote Blockchain** in more detail 
 * **Some Other Thoughts**
    - *About Democracy*
    - *About Nakamoto Coefficient*
@@ -140,7 +140,7 @@ with kings (founders), top servants (top developers/validators/miners) and reall
 
 Of course, declaring the improvement of democracy in the future.
 
-The whole thing is that *– we can see this below –* only a highly-democratic blockchain is able to be highly-efficient – plus, remaining highly-decentralized and highly-sustainable.
+The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-sustainable.
 
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
@@ -152,7 +152,7 @@ The Vote blockchain ideally solves this problem from day one.
 <b>
 For reference
 <br><br>
-the Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million per day — with the potential to process 60 billion transactions per day in the future. So massive votes aren't any problem now in terms of technology.
+The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votes aren't any problem now in terms of technology.
 <br><br>
 Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.
 
@@ -176,9 +176,9 @@ Another example, the SOL token — the Solana blockchain — entered the market 
 
 The initial token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
 
-Precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
+In my opinion, precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
-Ideally, a blockchain must have executed very wide initial token distribution, and also have the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry further.
+Ideally, a blockchain must execute very wide initial native-token distribution, and have the best Gini coefficient in the industry.
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -191,7 +191,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to increases in transaction fees that, in its turn, always leads to increases in amounts of tokens that the contributors (miners/validators) receive while the congestions.
 
-*For example, Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal directly makes the contributors (miners/validators) interested in network congestions, because the congestions still inevitably lead, thanks to the proposal, to increases in the contributors' rewards while the congestions.*
+*For example, Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal makes the most powerful contributors (miners/validators) directly interested in low bandwidth and network congestions, because the congestions, thanks to the proposal, lead to increases in the contributors' rewards — the same as before.*
 
 Ideally, network congestions, inevitably leading to increases in transaction fees, must never lead to increases in the amounts of tokens that the contributors (miners/validators) receive — instead, all the token increases received must be burned, in other words, the so-called "priority fee" must be burned. 
 
