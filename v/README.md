@@ -46,7 +46,7 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient
 
-From day one, the blockchain has over 100 million people equally owning the native token.
+From day one, the blockchain has over 100 million people equally owning the blockchain's native token.
 
 Thanks to the given native token with the decreasing total-supply, the blockchain creates the most valuable one in the Universe: **the token with the constantly increasing scarcity**.
 
