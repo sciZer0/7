@@ -32,7 +32,7 @@ This paper proposes an idea about a revolutionary, layer-1 blockchain, the nativ
 
 Simultaneously, the blockchain has a new token-distribution mechanism providing the given blockchain the best Gini coefficient in the industry.
 
-The blockchain is very fast, processing over 50,000 transactions per second from day one.
+The blockchain is very fast, processing over 50,000 transactions per second (TPS).
 
 Thanks to burning all transaction fees, what is impossibility innovative, the blockchain creates the most valuable thing in the Universe: **the increasing scarcity** — meaning, the total-supply of the native token of the blockchain is constantly decreasing from day one.
 
