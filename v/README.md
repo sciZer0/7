@@ -34,7 +34,7 @@ Simultaneously, the blockchain has a new token-distribution mechanism providing 
 
 Thanks to burning all transaction fees, which is also innovative, the blockchain creates the most valuable thing in the Universe: **the increasing scarcity** — meaning, the total-supply of the native token of the blockchain is constantly decreasing from day one.
 
-Additionally, the blockchain, being highly-decentralized and highly-democratic, is both highly-sustainable and unprecedentedly highly-efficient.
+Additionally, the blockchain, being highly-decentralized and highly-democratic, is both **highly-sustainable** and **unprecedentedly highly-efficient**.
 
 Having also other unachievable advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
 
