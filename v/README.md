@@ -1,7 +1,7 @@
 <h1 align="center">
-IDEA ABOUT<br>
+IDEA ABOUT THE<br>
 REVOLUTIONARY<br>
-BLOCKCHAINS
+BLOCKCHAIN
 </h1>
 
 
@@ -28,19 +28,8 @@ Brief Introduction<br>
 </p>
 <br>
 
-This paper proposes a well thought out idea about a revolutionary, layer-1 blockchain, the native token of which already at the start is owned by over 100 million people.
 
-Simultaneously, the blockchain has a new token-distribution mechanism providing the given blockchain the best Gini coefficient in the industry.
-
-The blockchain is very fast, processing over 50,000 transactions per second.
-
-Thanks to burning all transaction fees, what is impossibly innovative, and thanks to the absence of any emission of the native token after the Genesis Block, what is also impossibly innovative, the blockchain creates the most valuable thing in the Universe: **the constantly increasing scarcity** — meaning, the total-supply of the native token of the blockchain is constantly decreasing from day one.
-
-Additionally, being highly-decentralized and highly-democratic, the given blockchain is both **highly-sustainable** and **unprecedentedly highly-efficient**.
-
-Having also other unachievable advantages and being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it. 
-
-It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
+This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
 
 * highly-decentralized
 * highly-democratic
@@ -49,12 +38,15 @@ It is a next-gen, layer-1, DAO-style blockchain which from day one is simultaneo
 * with over 50,000 TPS
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
-* with the best Gini coefficient 
+* with the best Gini coefficient
 
-In particular, high (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Thanks to the native, decreasing-total-supply token, the blockchain creates the most valuable thing in the Universe: **the constantly increasing scarcity**.
+
+High (even **extreme**) efficiency is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+
+Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
 The narrative being defined by the blockchain also involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
-
 
 
  <br><br>
@@ -64,7 +56,6 @@ The narrative being defined by the blockchain also involves — among other thin
    - *About New Culture*
    - *About NFTs*
    - About Immutability
-   - About the Greatest Values
    - About Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain in more detail** 
 * **Some Other Thoughts**
@@ -176,28 +167,10 @@ As for codebase of a blockchain, the most right approach might be to provide ful
 
 So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way.
 
-<br>
 
 
-
-### About the Greatest Values
-
-In Inflationary Economy, there is nothing new and valuable.
-
-All that Inflationary Economy — endless emissions of regular tokens — can finally give us is devaluations of the tokens (values).
-
-On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — a fixed-supply token. But in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
-
-Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
-
-When it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
-
-This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold**, and also, than Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains.
 
 <br>
-
-
-
 
 ### About Fundamental Problems of All Current Blockchains
 
