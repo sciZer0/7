@@ -40,7 +40,9 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient
 
-Thanks to the native, decreasing-total-supply token, the blockchain creates the most valuable one in the Universe: **the token with the constantly increasing scarcity**.
+From day one, the blockchain has over 100 million people equally owning the native token.
+
+Thanks to the given native token with the decreasing total-supply, the blockchain creates the most valuable one in the Universe: **the token with the constantly increasing scarcity**.
 
 High (even **extreme**) efficiency of the blockchain is possible thanks to the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
