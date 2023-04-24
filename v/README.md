@@ -22,11 +22,17 @@ doomed by its design<br>
 
 <p>&nbsp</p>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
- 
 <p align="center">
-Brief Introduction<br>
+Revolutionary Blockchain<br>
 </p>
+
+
 <br>
+<p1 align="center">
+<b>
+Brief Introduction<br>
+</b>
+</p>
 
 
 This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
