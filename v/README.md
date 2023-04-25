@@ -5,19 +5,13 @@ BLOCKCHAIN
 </h1>
 
 
-<p align="center">
-Everything is discussable
-</p>
 <br>
-
-
 <p align="right"><b>
 Probably,<br>
 each blockchain<br>
 existing in 2023 is<br>
 doomed by its design<br>
 </b></p>
-<br>
 
 
 <p>&nbsp</p>
