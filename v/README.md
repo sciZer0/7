@@ -50,7 +50,7 @@ Some Notes
 
 Importantly, from day one, the blockchain already has over **100 million people** equally owning the blockchain's native token.
 
-Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the Universe: **the token with the constantly-increasing scarcity**. 
+Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the world: **the token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
@@ -63,7 +63,7 @@ The narrative being defined by the blockchain also involves — among other thin
 <b>TABLE OF CONTENTS</b>
 * **Abstract** 
    - About Blockchain Technology
-   - About Immutability
+   - About Immutability Of Code
    - About Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain** in more detail 
 * **Some Other Thoughts**
@@ -108,7 +108,7 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 
 
-### About Immutability 
+### About Immutability Of Code
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
 
