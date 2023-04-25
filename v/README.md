@@ -48,7 +48,7 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 
 Some Notes
 
-Importantly, from day one, the blockchain already has over **100 million people** equally owning the blockchain's native token.
+Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
 Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the world: **the token with the constantly-increasing scarcity**. 
 
