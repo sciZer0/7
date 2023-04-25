@@ -48,7 +48,7 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 
 From day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable one in the Universe: **the token with the constantly-increasing scarcity**. 
+Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the Universe: **the token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
