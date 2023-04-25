@@ -176,11 +176,11 @@ Although nearly the same might be said about Ethereum — Was Ethereum really a 
 
 Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
 
-The initial token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
+The token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
 
 In my opinion, precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
-Ideally, a blockchain must execute very wide initial native-token distribution, and have the best Gini coefficient in the industry.
+Ideally, a blockchain must execute very wide native-token distribution, and have the best Gini coefficient in the industry.
 
 The Vote blockchain ideally solves this problem from day one.
 
