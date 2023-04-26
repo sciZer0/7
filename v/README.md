@@ -375,17 +375,19 @@ Rents are paid by Account Owners to keep accounts' data stored on the blockchain
 
 Transaction Fees and Rents are paid in the Vote token (in Hands).
 
-All Transaction Fees and Rents paid (100%) are burned. 
+All Transaction Fees and Rents paid are burned. 
 
 
-<i><b>
-This approach results in decreasing the Vote token's Circulating Supply from day one.
+*About Helping Spammers*
 
-Decreasing Circulating Supply is the impossible thing for each of the existing blockchains.
+*Thanks to the fact that all transaction fees are burned, spammers — making a lot of non-necessary transactions in a unit of time — for the first time ever, in a way, become the best friends of the blockchain since they cause burning the native token, and hence increase the value of it. They help all holders of the native token a lot.*
 
-At best, such a highly-deflationary nature of tokenomics should result in a great rise in the voting power of the Vote Token over time.</b></i>
+*Even with low transaction fees under $0.001, there will probably not be too many spammers since not too many people (if any) want to regularly financially harm themselves, simultaneously helping others.*
+
+
 
 <br>
+
 
 
 <h2>5 &nbspVoting System</h2>
