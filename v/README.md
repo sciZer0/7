@@ -34,7 +34,7 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 * highly-decentralized
 * highly-democratic
 * highly-sustainable
-* highly-efficient 
+* highly-efficient
 * with over 50,000 TPS
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
@@ -44,11 +44,13 @@ Some Notes
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the world: **the token with the constantly-increasing scarcity**. 
+Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the Universe: **the permissionless transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
+
+Also, the blockchain gives highly-generous automated-donations to each developer (programming engineer) contributing to it.
 
 The narrative being defined by the blockchain also involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
