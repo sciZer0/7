@@ -219,11 +219,11 @@ Fundamental Problem 3 is that on each of the existing blockchains, each network 
 
 *For example, Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal makes the most powerful contributors (miners/validators) directly interested in low bandwidth and hence network congestions, because the congestions, thanks to the proposal, lead to increases in the contributors' rewards.*
 
-*Of course, if reasonably, they should have done everything vice-versa — precisely the priority fee must be burned*
+*Of course, if reasonably, they should have done everything vice-versa — precisely the priority fee must be burned.*
 
-*On all other blockchains, **essentially**, there is the same undoubtedly-stupid situation.*
+*On all other blockchains, **essentially**, there is the same undoubtedly-stupid situation with the "priority fee".*
 
-Ideally, network congestions (if any), inevitably leading to increases in transaction fees, must never lead to increases in the amounts of tokens that the contributors (miners/validators) receive — instead, all the additional tokens received as the priority fee must be burned. 
+Ideally, network congestions (if any), inevitably leading to increases in transaction fees, must never lead to increases in the amounts of tokens that the contributors (miners/validators) receive — instead, all the additional tokens received as the "priority fee" must be burned. 
 
 The Vote blockchain ideally solves this problem from day one.
 
@@ -239,7 +239,7 @@ Fundamental Problem 4 is that each of the existing blockchains is fundamentally 
 
 *For example, Ethereum Improvement Proposal 1559, as mentioned above, doesn't decrease the native token's total supply.* 
 
-*So the Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  maybe at one day in the future.*
+*The Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  maybe at one day in the future.*
 
 Importantly, no one of the existing blockchains is able to start decreasing its native token's total supply.
 
