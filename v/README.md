@@ -52,7 +52,7 @@ Being especially-suitable for mass adoption, the blockchain might be the 1st one
 
 Also, the blockchain gives highly-generous automated-donations, about **$100,000 per month**, to each developer (programming engineer) contributing to it.
 
-The narrative being defined by the blockchain also involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
 
  <br><br>
