@@ -156,9 +156,9 @@ Below are 5 fundamental problems of all current blockchains compared to the Vote
 
 Fundamental Problem 1 is that people build blockchains the same way as other people built states in the past: 
 
-with kings (founders), top servants (top developers/validators/miners) and really rightless people (users). 
+with kings (founders), top servants (top developers/validators/miners) and really rightless people (users)
 
-Of course, declaring the improvement of democracy in the future.
+— saying it is totally okay as it is now, or at best declaring the improvement of democracy in the future.
 
 The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-sustainable.
 
@@ -172,7 +172,9 @@ The Vote blockchain ideally solves this problem from day one.
 <b>
 For reference
 <br><br>
-The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votes aren't any problem now in terms of technology.
+Technologically, making votings is the same as making transactions.
+<br><br>
+The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votings aren't any problem now in terms of technology.
 <br><br>
 Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.
 
