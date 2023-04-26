@@ -890,7 +890,7 @@ On the other hand, absolutely, when you treat people like mushrooms — feed the
 
 And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
 
-
+*By the way, any concept or just anything may be explained clearly to even a 10 year old when the explainer understands it and wants to be understood.*
 
 
 ### *About Nakamoto Coefficient*
