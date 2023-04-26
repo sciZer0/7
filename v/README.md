@@ -124,6 +124,21 @@ As for codebase of a blockchain, the most right approach might be to provide ful
 So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated and highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated and highly-decentralized/democratic way.
 
 
+### About the Greatest Value
+
+In the Inflationary Economy, there is nothing new and valuable. 
+
+All that the Inflationary Economy — endless emissions of regular tokens — can finally give us is devaluations of the tokens (values).
+
+On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — a fixed-total-supply token. But in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
+
+Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply token but a decreasing-supply token.
+
+When it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't really decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
+
+This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention totally-inflationary concepts of all other blockchains and all other monetary systems.
+
+
 
 
 <br>
@@ -212,7 +227,7 @@ Fundamental Problem 4 is that each of the existing blockchains is fundamentally 
 
 *For example, Ethereum Improvement Proposal 1559, as mentioned above, doesn't decrease the native token's total supply.* 
 
-*So the Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  of course, never.*
+*So the Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  maybe at one day in the future.*
 
 Importantly, no one of the existing blockchains is able to start decreasing its native token's total supply.
 
