@@ -968,10 +968,12 @@ Importantly, each blockchain existing in 2023 is fundamentally unable to solve t
 
 All the fundamental problems of the blockchain industry can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
 
-It is just a matter of time that some initiative group of people will create a blockchain of that sort.
+Of course, it is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
 <p>&nbsp</p>
 
 
-*Additionally, I have a lot of other ideas — incl. ideas about DeFi in general, plus specifically, about stablecoins, exchanges, bridges, and also about tokenized commits (tokenized code).*
+*Additionally, there is a lot of other ideas — incl. ideas about DeFi in general, plus specifically, about stablecoins, exchanges, bridges, and also about tokenized commits (tokenized code).*
+
+The Initiative Group, up to 30 people, is being formed up to start the Vote DAO on the Solana blockchain.
 
