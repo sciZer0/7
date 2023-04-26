@@ -1,8 +1,13 @@
 <h1 align="center">
-IDEA ABOUT THE<br>
+THE<br>
 REVOLUTIONARY<br>
 BLOCKCHAIN
 </h1>
+
+<p align="center">
+White Paper to People<br>
+</p>
+
 
 
 <br>
