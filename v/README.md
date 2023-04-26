@@ -49,7 +49,7 @@ Some Notes
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable thing in the Universe: **the permissionless transferable token with the constantly-increasing scarcity**. 
+Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable financial thing in the world: **the permissionless transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
@@ -139,7 +139,7 @@ When it comes to the Ethereum blockchain, it is important to understand that muc
 
 This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing financial systems.
 
-Definitely, the Vote blockchain for the first time ever creates the most valuable thing in the Universe: **the permissionless transferable token with the constantly-increasing scarcity**.
+Definitely, the Vote blockchain for the first time ever creates the most valuable financial thing in the world: **the permissionless transferable token with the constantly-increasing scarcity**.
 
 
 <br>
