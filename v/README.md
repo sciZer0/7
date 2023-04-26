@@ -65,6 +65,7 @@ The narrative being defined by the blockchain involves — among other things �
 * **Abstract** 
    - About Blockchain Technology
    - About Immutability Of Code
+   - About the Greatest Value
    - About Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain** in more detail 
 * **Some Other Thoughts**
@@ -136,9 +137,9 @@ Moreover, conceptually, ceteris paribus, a greater value is not a fixed-supply t
 
 When it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't really decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
 
-This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention totally-inflationary concepts of all other blockchains and all other monetary systems.
+This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing financial systems.
 
-
+Definitely, the blockchain for the first time ever creates the most valuable thing in the Universe: **the permissionless transferable token with the constantly-increasing scarcity**.
 
 
 <br>
