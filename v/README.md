@@ -5,7 +5,7 @@ BLOCKCHAIN
 </h1>
 
 <p align="center">
-White Paper to People<br>
+First for People<br>
 </p>
 
 
