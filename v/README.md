@@ -40,7 +40,8 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-* with over 50,000 TPS
+* with the bandwidth of over 50,000 TPS
+* with transaction fees under $0.001
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient
@@ -319,7 +320,8 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-democratic
 * highly-sustainable
 * highly-efficient
-* with over 50,000 TPS
+* with the bandwidth of over 50,000 TPS
+* with transaction fees under $0.001
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
