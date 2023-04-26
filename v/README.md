@@ -5,7 +5,7 @@ BLOCKCHAIN
 </h1>
 
 <p align="center">
-First for People<br>
+About Mass Adoption<br>
 </p>
 
 
