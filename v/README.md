@@ -353,9 +353,9 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 Through a fair airdrop excluding the multi-accounting. 
 
-This distribution mechanism provides the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry further.
+This distribution mechanism provides the blockchain the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry from day one.
 
-*There are ideas on how to cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. All ideas will be revealed Contributors of the Vote DAO.*
+*There are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. All ideas will be revealed Contributors of the Vote DAO.*
 
 <br>
 
@@ -363,7 +363,7 @@ This distribution mechanism provides the ideal Gini coefficient of 0 at day one,
 
 <h2>3 &nbsp Over 50,000 TPS</h2>
 
-From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second, with the potential to process 700,000 TPS in the future. 
+From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Second (TPS), with the potential to process 700,000 TPS in the future. 
 
 <br>
 
@@ -375,12 +375,12 @@ Transaction Fees are paid by Account Owners to process transactions (instruction
 
 Rents are paid by Account Owners to keep accounts' data stored on the blockchain. 
 
-Transaction Fees and Rents are paid in the Vote token (in Hands).
+Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
 All Transaction Fees and Rents paid are burned. 
 
 
-*About Helping Spammers*
+*About the Helping Spammer*
 
 *Thanks to the fact that all transaction fees are burned, spammers — making a lot of non-necessary transactions in a unit of time — for the first time ever, in a way, become the best friends of the blockchain since they cause burning the native token, and hence increase the value of it. They help all holders of the native token a lot.*
 
