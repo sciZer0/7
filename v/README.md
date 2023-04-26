@@ -119,7 +119,7 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only a few people that, in turn, already causes another problems. So DeFi has to be done in a completely different way. *There is an idea on this.*
+By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only a few people that, in turn, already causes another problems. So DeFi has to be done in a completely different way.
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated real decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
@@ -898,7 +898,7 @@ On the other hand, absolutely, when you treat people like mushrooms — feed the
 
 And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
 
-*By the way, any concept or just anything may be explained clearly to even a 10 year old when the explainer understands it and wants to be understood.*
+*By the way, any concept or just anything may be explained clearly to even a 10 year old when the explainer understands the topic and wants to be understood.*
 
 
 ### *About Nakamoto Coefficient*
@@ -924,11 +924,11 @@ Some even believe Bitcoin has its value because they think Bitcoin is lots of lo
 
 Instead, the customer value of a blockchain only relies on how big are problems that the blockchain solves, and how small are flaws the blockchain has.
 
-The Bitcoin blockchain, for now, is both permissionless and highly-sustainable, and it gets totally along with the main point of blockchain technology — to start with.
+For example, the Bitcoin blockchain, for now, is both permissionless and highly-sustainable, and it gets totally along with the main point of blockchain technology.
 
 But, as mentioned above, Bitcoin for now isn't and a lot of time further also won't be really a fixed-supply token because the Bitcoin blockchain will stop printing Bitcoin just at 2140 (in 118 years).
 
-More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of supply.
+More importantly, absolutely, Bitcoin doesn't have any pre-programmed decreasing of total-supply.
 
 Also, Bitcoin's codebase doesn't have total immutability but only relative immutability — in other words, is limitedly-changeable which, in turn, doesn't make the Bitcoin blockchain unique or better than others in terms of immutability of codebase.
 
@@ -983,5 +983,5 @@ Of course, it is just a matter of time that some initiative group of people will
 
 *Additionally, there is a lot of other ideas — incl. ideas about DeFi in general, plus specifically, about stablecoins, exchanges, bridges, and also about tokenized commits (tokenized code).*
 
-The Initiative Group, up to 30 people, is being formed up to start the Vote DAO on the Solana blockchain.
+The Initiative Group, up to 30 people, is being formed right now to start the Vote DAO on the Solana blockchain.
 
