@@ -50,7 +50,7 @@ Some Notes
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-Thanks to the given native token having the decreasing total-supply, the blockchain for the first time ever creates the most valuable financial thing in the world: **the permissionless transferable token with the constantly-increasing scarcity**. 
+Thanks to the given native token having the decreasing total-supply, the blockchain creates the most valuable financial asset in the world: **the permissionless transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
@@ -132,17 +132,17 @@ In the Inflationary Economy, there is nothing new and valuable.
 
 All that the Inflationary Economy — endless emissions of regular tokens — can eventually give us is devaluations of the tokens (values). Never something different.
 
-But, unfortunately, all financial systems in the world are inflationary. 
+But, unfortunately, all financial systems in the world are inflationary — have only inflationary financial assets.
 
-On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — the token with the fixed total-supply. But again, in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
+Even the Bitcoin blockchain's financial asset — the native token Bitcoin — which is allegedly considered a non-inflationary asset — the token with the fixed total-supply, in reality, is for now an inflationary asset, since the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
 
-Moreover, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
+Plus, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
 
 When it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't really decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
 
 This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing financial systems.
 
-Definitely, the Vote blockchain for the first time ever creates the most valuable financial thing in the world: **the permissionless transferable token with the constantly-increasing scarcity**.
+Definitely, the Vote blockchain creates the most valuable financial asset in the world: **the permissionless transferable token with the constantly-increasing scarcity**.
 
 
 <br>
