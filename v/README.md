@@ -773,9 +773,9 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may quarterly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
-*It is assumed that from the very first vote, through the whole way further, Voters might vote to decrease this rate.*
+*It is assumed that from the very first vote, through the whole way further, Voters might only vote to decrease this rate.*
 
-*Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 470 vacant positions: 500-30=470), all Automated Donations collected for the vacant positions are burned.*
+*Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), all Automated Donations collected for the vacant positions are burned.*
 
 *Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
