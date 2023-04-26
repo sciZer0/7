@@ -132,7 +132,9 @@ In the Inflationary Economy, there is nothing new and valuable.
 
 All that the Inflationary Economy — endless emissions of regular tokens — can eventually give us is devaluations of the tokens (values). Never something different.
 
-On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — the token with the fixed total-supply. But in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
+But, unfortunately, all financial systems in the world are inflationary. 
+
+On the other hand, the Bitcoin blockchain's native token is allegedly considered a non-inflationary token — the token with the fixed total-supply. But again, in reality, the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
 
 Moreover, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
 
