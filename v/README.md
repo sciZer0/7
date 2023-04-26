@@ -472,7 +472,7 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 
 <br>
 
-## About Innovations 
+## About Innovations in General
 
 Thanks to blockchain technology, additionally, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things (incl. videos, audios, texts, programs) after these digitizable things become known.
 
@@ -500,7 +500,7 @@ Plus, freedom will unleash people's minds.
 
 More experiments  —> More innovations
 
-Importantly, people and businesses will never stop or even slow down creating new digitizable things — even with approach — because creativity is the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage.
+Importantly, people and businesses will never stop or even slow down creating new digitizable things — even with approach — because creativity is the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage. So creators will stil have incentives enough to create.
 
 Everyone must always feel free to use other people’s available ideas and code in order to make the lives of lots of lots of people better.
 
