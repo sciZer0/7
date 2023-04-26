@@ -5,7 +5,7 @@ BLOCKCHAIN
 </h1>
 
 <p align="center">
-About Mass Adoption<br>
+Good for Mass Adoption<br>
 </p>
 
 
@@ -769,11 +769,11 @@ System Program 1 is a special inbuilt code that modifies/controls the account's 
 
 System Program 2 is a special inbuilt code that modifies/controls the account's state only according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
-*As mentioned above, on the Vote Blockchain, there are Automated Donations for donating tokens to Contributors.*
-
 *Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Vote blockchain.*
 
-At the start, the monthly rate of Automated Donations is 0.08% from each Public Address' balance, and the rate may monthly be charged — either increased or decreased — by 5% through democratic voting (Competitive Voting). 
+From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may quarterly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
+
+*It is assumed that from the very first vote, through the whole way further, Voters might vote to decrease this rate.*
 
 *Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 470 vacant positions: 500-30=470), all Automated Donations collected for the vacant positions are burned.*
 
