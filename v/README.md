@@ -213,9 +213,15 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to increases in transaction fees that, in its turn, always leads to increases in amounts of tokens that the contributors (miners/validators) receive while the congestions.
 
-*For example, Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal makes the most powerful contributors (miners/validators) directly interested in low bandwidth and network congestions, because the congestions, thanks to the proposal, lead to increases in the contributors' rewards — the same as before.*
+*For reference*
 
-Ideally, network congestions (if any), inevitably leading to increases in transaction fees, must never lead to increases in the amounts of tokens that the contributors (miners/validators) receive — instead, all the token increases received must be burned, in other words, precisely the so-called "priority fee" must be burned. 
+*For example, Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal makes the most powerful contributors (miners/validators) directly interested in low bandwidth and hence network congestions, because the congestions, thanks to the proposal, lead to increases in the contributors' rewards.*
+
+*Of course, if reasonably, they should have done everything vice-versa — precisely the priority fee must be burned*
+
+*On all other blockchains, **essentially**, there is the same stupid situation.*
+
+Ideally, network congestions (if any), inevitably leading to increases in transaction fees, must never lead to increases in the amounts of tokens that the contributors (miners/validators) receive — instead, all the additional tokens received as the priority fee must be burned. 
 
 The Vote blockchain ideally solves this problem from day one.
 
