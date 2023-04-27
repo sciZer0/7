@@ -153,7 +153,7 @@ Nearly everything people know about money is wrong or a lie.
 
 In the Inflationary Economy, there is nothing new and valuable. 
 
-All that the Inflationary Economy — endless emissions of regular tokens/currencies — can eventually give us is devaluations of these tokens/currencies, meaning values. Never something different.
+All that the Inflationary Economy — endless emissions of regular tokens/currencies — can eventually give us is devaluations of these tokens/currencies, meaning devaluations of values. Never something different.
 
 But, unfortunately, all monetary systems in the world — incl. blockchain systems — are inflationary — have only inflationary assets.
 
