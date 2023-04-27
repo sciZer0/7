@@ -62,13 +62,13 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The given ideas will only be revealed to Contributors of the Vote DAO.*
 
-Thanks to the given native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**. 
+Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
-Also, the blockchain gives highly-generous automated-donations, about **$100,000 per month**, to each developer (programming engineer) contributing to the blockchain.
+The blockchain gives highly-generous automated-donations, about **$100,000 per month**, to each developer (programming engineer) contributing to the blockchain.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
