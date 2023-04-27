@@ -58,7 +58,7 @@ The Vote blockchain from day one is simultaneously:
 
 Some Notes
 
-Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's **native token**.
+Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
 *There are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The given ideas will only be revealed to Contributors of the Vote DAO.*
 
