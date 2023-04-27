@@ -53,7 +53,7 @@ The Vote blockchain from day one is simultaneously:
 * highly-sustainable
 * highly-efficient
 * with the bandwidth of over 50,000 TPS
-* with transaction fees under $0.001
+* with transaction fees of under $0.001
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient
@@ -356,7 +356,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-sustainable
 * highly-efficient
 * with the bandwidth of over 50,000 TPS
-* with transaction fees under $0.001
+* with transaction fees of under $0.001
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
