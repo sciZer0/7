@@ -99,7 +99,7 @@ The narrative being defined by the blockchain involves — among other things �
 
 ### About Blockchain Technology
 
-It looks like not everyone understands the main point of blockchain technology.
+It seems like not everyone understands the main point of blockchain technology.
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
