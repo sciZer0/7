@@ -145,21 +145,25 @@ So codebase (constitution) of a blockchain can have variables when values of the
 
 ### About the Greatest Value
 
+Nearly everything people know about money is wrong or a lie.
+
 In the Inflationary Economy, there is nothing new and valuable. 
 
-All that the Inflationary Economy — endless emissions of regular tokens — can eventually give us is devaluations of the tokens (values). Never something different.
+All that the Inflationary Economy — endless emissions of regular tokens/currencies — can eventually give us is devaluations of these tokens/currencies, meaning values. Never something different.
 
-But, unfortunately, all financial systems in the world are inflationary — have only inflationary financial assets.
+But, unfortunately, all monetary systems in the world — incl. blockchain systems — are inflationary — have only inflationary assets.
 
-Even the Bitcoin blockchain's financial asset — the native token Bitcoin — which is allegedly considered a non-inflationary asset — the token with the fixed total-supply, in reality, is for now an inflationary asset, since the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
+Even the Bitcoin blockchain's  native token Bitcoin — which is allegedly considered a non-inflationary asset,  the token with the fixed total-supply — in reality, for now,  is an inflationary asset, since the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
 
 Plus, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
 
-When it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't really decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
+When,  for example, it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't really decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
 
-This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing financial systems.
+This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing monetary systems.
 
 Definitely, the Vote blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**.
+
+
 
 
 <br>
