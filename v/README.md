@@ -1,6 +1,6 @@
 <h1 align="center">
-A NEW <br>
-REVOLUTIONARY<br>
+A IDEA ABOUT <br>
+A REVOLUTIONARY<br>
 BLOCKCHAIN<br>
 PROTOCOL
 
