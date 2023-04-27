@@ -1,5 +1,4 @@
 <h1 align="center">
-A IDEA ABOUT <br>
 A REVOLUTIONARY<br>
 BLOCKCHAIN<br>
 PROTOCOL
@@ -23,7 +22,7 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes a set of ideas/solutions about the new blockchain protocol considered on the example of the Vote blockchain — the next-gen, layer-1, DAO-style blockchain.
+This paper proposes an idea (a set of ideas/solutions) about the new blockchain protocol considered on the example of the Vote blockchain — the next-gen, layer-1, DAO-style blockchain.
 
 The chief ideas/solutions, specifically on the new native token with the decreasing total-supply and new approach to consensus, are revealed fully.
 
