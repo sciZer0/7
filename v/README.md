@@ -23,9 +23,9 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain — the Vote blockchain — including  a new approach to consensus.
+This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain — the Vote blockchain.
 
-Some parts of the idea — not related to consensus and not preventing from understanding the the idea as a whole — are hidden, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
+Some parts of the idea — not preventing from understanding the the idea as a whole — are hidden, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
 In the paper, a simple language is intentionally used, along with a magazine style.
 
