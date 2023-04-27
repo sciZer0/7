@@ -64,7 +64,7 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 ideas/solutions will only be revealed to Contributors of the Vote DAO.*
 
-Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**. 
+Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
@@ -167,7 +167,7 @@ When,  for example, it comes to the Ethereum blockchain, it is important to unde
 
 This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing monetary systems.
 
-Definitely, the Vote blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**.
+Definitely, the Vote blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**.
 
 
 
