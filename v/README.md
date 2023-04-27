@@ -1,7 +1,10 @@
 <h1 align="center">
-THE<br>
+A NEW <br>
 REVOLUTIONARY<br>
-BLOCKCHAIN
+BLOCKCHAIN<br>
+PROTOCOL
+
+
 </h1>
 
 <p align="center">
@@ -15,9 +18,16 @@ Good for Mass Adoption<br>
 Probably,<br>
 each blockchain<br>
 existing in 2023 is<br>
-doomed by its design<br>
+doomed by its protocol<br>
 </b></p>
 
+<br>
+
+This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain — the Vote blockchain — including  a new approach to consensus.
+
+Some parts of the idea — not related to consensus and not preventing from understanding the the idea as a whole — are hidden, and will only be revealed to Contributors of the Vote DAO, which will start the Vote blockchain.
+
+In the paper, a simple language is intentionally used, along with a magazine style.
 
 <p>&nbsp</p>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
@@ -34,7 +44,7 @@ Brief Introduction<br>
 </p>
 
 
-This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain which from day one is simultaneously:
+The Vote blockchain from day one is simultaneously:
 
 * highly-decentralized
 * highly-democratic
@@ -48,15 +58,17 @@ This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain wh
 
 Some Notes
 
-Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
+Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's **native token**.
 
-Thanks to the given native token having the decreasing total-supply, the blockchain creates the most valuable financial asset in the world: **the permissionless transferable token with the constantly-increasing scarcity**. 
+*There are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The given ideas will only be revealed to Contributors of the Vote DAO.*
+
+Thanks to the given native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
-Also, the blockchain gives highly-generous automated-donations, about **$100,000 per month**, to each developer (programming engineer) contributing to it.
+Also, the blockchain gives highly-generous automated-donations, about **$100,000 per month**, to each developer (programming engineer) contributing to the blockchain.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -111,6 +123,8 @@ Absolutely, blockchain technology causes a paradigm revolution. It is because �
 
 
 
+<br>
+
 ### About Immutability Of Code
 
 This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
@@ -125,6 +139,9 @@ As for codebase of a blockchain, the most right approach might be to provide ful
 
 So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated and highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated and highly-decentralized/democratic way.
 
+
+
+<br>
 
 ### About the Greatest Value
 
@@ -142,7 +159,7 @@ When it comes to the Ethereum blockchain, it is important to understand that muc
 
 This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing financial systems.
 
-Definitely, the Vote blockchain creates the most valuable financial asset in the world: **the permissionless transferable token with the constantly-increasing scarcity**.
+Definitely, the Vote blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**.
 
 
 <br>
@@ -363,7 +380,7 @@ Through a fair airdrop excluding the multi-accounting.
 
 This distribution mechanism provides the blockchain the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry from day one.
 
-*There are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. All ideas will be revealed Contributors of the Vote DAO.*
+*As mentioned above, there are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The given ideas will only be revealed to Contributors of the Vote DAO.*
 
 <br>
 
