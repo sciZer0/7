@@ -23,9 +23,9 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea about the next-gen, layer-1, DAO-style blockchain — the Vote blockchain.
+This paper proposes a set of ideas/solutions about the next-gen, layer-1, DAO-style blockchain — the Vote blockchain.
 
-Some parts of the idea — absence of which is not preventing from understanding the the idea as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
+Some ideas/solution — absence of which is not preventing from understanding the the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
 In the paper, a simple language is intentionally used, along with a magazine style.
 
@@ -60,7 +60,7 @@ Some Notes
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-*There are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these ideas will only be revealed to Contributors of the Vote DAO.*
+*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these ideas/solutions will only be revealed to Contributors of the Vote DAO.*
 
 Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless transferable token with the constantly-increasing scarcity**. 
 
@@ -135,7 +135,7 @@ In reality, total immutability of codebase is an impossible thing in the modern 
 
 So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
 
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only a few people that, in turn, already causes another problems. So DeFi has to be done in a completely different way. *The ideas will also be revealed to Contributors of the Vote DAO.*
+By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only a few people that, in turn, already causes another problems. So DeFi has to be done in a completely different way. *The idea/solution will also be revealed to Contributors of the Vote DAO.*
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated real decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
@@ -386,8 +386,9 @@ Through a fair airdrop excluding the multi-accounting.
 
 This distribution mechanism provides the blockchain the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry from day one.
 
-*As mentioned above, there are ideas on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The given ideas will only be revealed to Contributors of the Vote DAO.*
+*As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The ideas/solutions will only be revealed to Contributors of the Vote DAO.*
 
+ 
 <br>
 
 
