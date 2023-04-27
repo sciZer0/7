@@ -25,7 +25,7 @@ doomed by its protocol<br>
 
 This paper proposes a set of ideas/solutions about the next-gen, layer-1, DAO-style blockchain — the Vote blockchain.
 
-Some ideas/solution — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
+Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
 The chief ideas/solutions, specifically on the new native token and new approach to consensus, are revealed fully.
 
