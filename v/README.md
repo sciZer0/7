@@ -22,9 +22,9 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea (a set of ideas/solutions) about the new blockchain protocol considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain.
+This paper proposes an idea (set of ideas/solutions) about a new blockchain protocol considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain.
 
-The chief ideas/solutions, specifically on the new native token with the decreasing total-supply and new approach to consensus, are revealed fully.
+The chief ideas/solutions, including on the new native token with the decreasing total-supply and new approach to consensus, are revealed fully.
 
 Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
