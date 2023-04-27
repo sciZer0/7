@@ -183,7 +183,7 @@ Fundamental Problem 1 is that people build blockchains the same way as other peo
 
 with kings (founders), top servants (top developers/validators/miners) and really rightless people (users)
 
-— saying it is totally okay as it is now, or at best declaring the improvement of democracy in the future.
+— saying that it is totally okay as it is now, or at best declaring the improvement of democracy in the future.
 
 The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-sustainable.
 
@@ -223,7 +223,7 @@ Another example, the SOL token — the Solana blockchain — entered the market 
 
 The token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
 
-In my opinion, precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
+Probably, precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
 Ideally, a blockchain must execute very wide native-token distribution, and have the best Gini coefficient in the industry.
 
