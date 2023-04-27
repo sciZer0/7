@@ -244,7 +244,7 @@ Fundamental Problem 3 is that on each of the existing blockchains, each network 
 
 *Of course, if reasonably, they should have done everything vice-versa — precisely the priority fee must be burned.*
 
-*On all other blockchains, **essentially**, there is the same wrong situation with the "priority fee".*
+*On all other blockchains (incl. the Bitcoin blockchain), **essentially**, there is the same wrong situation with the "priority fee".*
 
 Ideally, network congestions (if any), inevitably leading to increases in transaction fees, must never lead to increases in the amounts of tokens that the contributors (miners/validators) receive — instead, all the additional tokens received as the "priority fee" must be burned. 
 
