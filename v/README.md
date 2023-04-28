@@ -52,14 +52,14 @@ Brief Introduction<br>
 The Vote blockchain from day one is simultaneously:
 
 * highly-decentralized
-* highly-democratic
-* highly-sustainable
-* highly-efficient
+* highly-democratic (**new**)
+* highly-sustainable 
+* highly-efficient (**new**)
 * with the bandwidth of over 50,000 TPS
 * with transaction fees of under $0.001
-* with the native, decreasing-total-supply token
-* with over 100,000,000 owners of the native token
-* with the best Gini coefficient
+* with the native, decreasing-total-supply token (**new**)
+* with over 100,000,000 owners of the native token (**new**)
+* with the best Gini coefficient (**new**)
 
 Some Notes
 
