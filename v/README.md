@@ -7,7 +7,7 @@ PROTOCOL
 </h1>
 
 <p align="center">
-Good for Mass Adoption<br>
+Enabling Mass Adoption<br>
 </p>
 
 
