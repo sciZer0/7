@@ -24,15 +24,7 @@ doomed by its protocol<br>
 
 This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol.
 
-The protocol is represented through describing the Vote blockchain — a next-gen, layer-1, DAO-style blockchain — being built based on the given protocol.
-
-*The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.*
-
-*Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons. The given ideas/solutions will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.*
-
-*In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.*
-
-*Also, for the sake of expressiveness, the present tense is mostly used, like it is happening right now or already happened.*
+The protocol is represented through describing the Vote blockchain being built based on the given protocol.
 
 
 
@@ -53,7 +45,9 @@ Brief Introduction<br>
 </p>
 
 
-The Vote blockchain from day one is simultaneously:
+The Vote blockchain is a next-gen, layer-1, DAO-style blockchain.
+
+From day one, the blockchain is simultaneously:
 
 * highly-decentralized
 * highly-democratic (**new**)
@@ -69,9 +63,9 @@ Some Notes
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 ideas/solutions will only be revealed to Contributors of the Vote DAO.*
+*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.*
 
-Thanks to the unique native token having the decreasing total-supply, the blockchain is the first in the industry to create the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
+Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
