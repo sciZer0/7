@@ -26,13 +26,13 @@ This paper proposes an idea (set of ideas/solutions) on a revolutionary blockcha
 
 The protocol is represented through describing the Vote blockchain — a next-gen, layer-1, DAO-style blockchain — being built based on the given protocol.
 
-The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.
+*The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.*
 
-Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons. The given ideas/solutions will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
+*Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons. The given ideas/solutions will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.*
 
-In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.
+*In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.*
 
-Also, for the sake of expressiveness, the present tense is mostly used, like it is happening right now or already happened.
+*Also, for the sake of expressiveness, the present tense is mostly used, like it is happening right now or already happened.*
 
 
 
