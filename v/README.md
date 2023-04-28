@@ -67,7 +67,7 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 ideas/solutions will only be revealed to Contributors of the Vote DAO.*
 
-Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
+Thanks to the unique native token having the decreasing total-supply, the blockchain is the first in the industry to create the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
 High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
