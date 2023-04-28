@@ -162,7 +162,7 @@ All that the Inflationary Economy — endless emissions of regular tokens/curren
 
 But, unfortunately, all monetary systems in the world — incl. blockchain systems — are inflationary: have only inflationary assets.
 
-Even the Bitcoin blockchain's  native token Bitcoin — which is allegedly considered a As for codebase of a blockchain, the most right approach might be to provide fully-automated decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world. asset,  the token with the fixed total-supply — in reality, for now,  is an inflationary asset, since the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
+Even the Bitcoin blockchain's native token Bitcoin — which is allegedly considered a non-inflationary asset, the token with the fixed total-supply — in reality, for now, is an inflationary asset, since the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
 
 Plus, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
 
