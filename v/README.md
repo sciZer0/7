@@ -24,7 +24,7 @@ doomed by its protocol<br>
 
 This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol.
 
-The protocol is described through the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain — being built based on the given protocol.
+The protocol is represented through describing the Vote blockchain — a next-gen, layer-1, DAO-style blockchain — being built based on the given protocol.
 
 The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.
 
