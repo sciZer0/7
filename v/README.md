@@ -73,7 +73,7 @@ High (even **extreme**) efficiency of the blockchain is achieved through the use
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
-The blockchain also gives highly-generous automated-donations in the native token, ~ **$1,2 million per year** or **$100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain — or/and initially to the Vote DAO.
+Also, the blockchain gives highly-generous automated-donations in the native token, ~ **$1,2 million per year** or **$100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain — or/and initially to the Vote DAO.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
