@@ -181,7 +181,7 @@ Definitely, the Vote blockchain for the first time in the industry creates the m
 
 ### About Fundamental Problems of All Current Blockchains
 
-Below are 5 fundamental problems of all current blockchains compared to the Vote Blockchain.
+Below are 5 fundamental problems of all current blockchains compared with the Vote Blockchain.
 
 
 
