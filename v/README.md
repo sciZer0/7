@@ -28,8 +28,6 @@ The chief ideas/solutions — including on the new native token with the decreas
 
 Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
-The Vote DAO is being formed right now. So if you are a programming engineer, you may become a Contributor of the Vote DAO.
-
 In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.
 
 <p>&nbsp</p>
@@ -807,6 +805,7 @@ There is a special mechanism (needs to first be implemented) in order for Contri
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
+The Vote DAO is being formed right now. So if you are a programming engineer, you may become a Contributor of the Vote DAO.
 
 <br>
 
