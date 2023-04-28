@@ -105,8 +105,6 @@ The narrative being defined by the blockchain involves — among other things �
 
 It seems like not everyone understands the main point of blockchain technology.
 
-Increasing the number of nodes as much as possible should not be the goal of a blockchain.
-
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
