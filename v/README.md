@@ -77,6 +77,8 @@ Also, the blockchain gives highly-generous automated-donations in the native tok
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
+Technologically, the blockchain borrows heavily from the Solana blockchain.
+
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
