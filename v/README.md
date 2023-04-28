@@ -22,7 +22,7 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea (set of ideas/solutions) about an innovative blockchain protocol.
+This paper proposes an idea (set of ideas/solutions) about a revolutionary blockchain protocol.
 
 The protocol is considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain.
 
