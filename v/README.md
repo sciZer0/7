@@ -776,9 +776,41 @@ Each candidate/applicant for a position of Contributor have to find a way to pro
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to have formed a full list of 500 Contributors through democratic voting (Competitive Voting) by the moment of the launch of the mainnet.*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 500 Contributors through democratic voting (Competitive Voting).*
 
 <br>
+
+
+
+# To All Contributors 
+
+In general,  the process is that Contributors of the Initiative Group become Contributors of the DAO. In turn, Contributors of the DAO become Contributors of the blockchain  — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
+
+
+*For reference*
+
+*The Bitcoin blockchain achieved the market capitalization of $50 billion in 104 months after the launch.*
+
+*The Solana blockchain, on a bull market, achieved the market capitalization of $50 billion in 11 months after the launch.*
+
+Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
+
+Unlike all other blockchains, the Vote blockchain unprecedentedly has a lot of innovative ideas. 
+
+Plus, the Vote blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
+
+Our vision is that our 3rd milestone is the market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
+
+From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the Vote blockchain, about $100,000 per month.
+
+There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to, in a pre-programmed way, receive Automated-Donations in the native token of the Vote blockchain.
+
+On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
+
+
+<br>
+
+
 
 
 <h2>8 &nbsp Automated Donations</h2>
