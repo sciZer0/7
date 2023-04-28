@@ -728,7 +728,7 @@ This new approach to consensus might be called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, incliding to maintain its normal bandwidth of over 50,000 TPS, then this over 133 fold margin of safety of 400 Validators (400/3=133.33) might be a sufficient condition for the blockchain to be considered sustainable.
 
-Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 2 Validator/s — highly-autonomous Validator/s. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
+Moreover, there are about 200 countries around the world. At best, from one single country, there might even be only 2 Validators — highly-autonomous Validators. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
