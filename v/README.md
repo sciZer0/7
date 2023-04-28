@@ -28,9 +28,7 @@ The protocol is described through the example of the Vote blockchain — a next-
 
 The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.
 
-Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons.
-
-The given ideas/solutions will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
+Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons. The given ideas/solutions will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
 In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.
 
