@@ -32,6 +32,12 @@ Some ideas/solutions — the absence of which is not preventing from understandi
 
 In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.
 
+Also, the present tense is mostly used, like it is happening right now or already happened.
+
+
+
+
+
 <p>&nbsp</p>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
 <p align="center">
