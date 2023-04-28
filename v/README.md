@@ -69,7 +69,7 @@ High (even **extreme**) efficiency of the blockchain is achieved through the use
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
-The blockchain gives highly-generous automated-donations in the native token, about **$100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain, and/or initially to the Vote DAO.
+The blockchain gives highly-generous automated-donations in the native token, ~ **$1,2 million per year or $100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain — or/and initially to the Vote DAO.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -689,7 +689,7 @@ The idea/hypothesis is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (<b>≈$1.2 million per year or $100,000 per month</b>) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (~ **$1,2 million per year or $100,000 per month**) just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
 
@@ -751,7 +751,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who may be contributing to the Vote blockchain and receiving daily very-generous Automated Donations — <b>in total ~ $1.2 million per year per person</b> — from Voters.
+Contributors are people who may be contributing to the Vote blockchain and receiving daily very-generous Automated Donations — <b>in total ~ $1,2 million per year or $100,000 per month** — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
@@ -782,8 +782,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 # To All Contributors 
 
-In general,  the process is that Contributors of the Initiative Group become Contributors of the DAO. In turn, Contributors of the DAO become Contributors of the blockchain  — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
-
+In general, the process is that Contributors of the Initiative Group become Contributors of the Vote DAO. In turn, Contributors of the Vote DAO become Contributors of the Vote blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
 
 *For reference*
 
@@ -801,11 +800,13 @@ Our vision is that our 3rd milestone is the blockchain's market capitalization o
 
 From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the Vote blockchain, about $100,000 per month.
 
-There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to, in a pre-programmed way, receive Automated-Donations in the native token of the Vote blockchain.
+There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the Vote blockchain.
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
-The Vote DAO is being formed right now. So if you are a programming engineer, you may become a Contributor of the Vote DAO.
+The Vote DAO is being formed right now.
+
+If you are a programming engineer, you may become a Contributor of the Vote DAO.
 
 <br>
 
