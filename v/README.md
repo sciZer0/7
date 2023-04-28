@@ -24,7 +24,7 @@ doomed by its protocol<br>
 
 This paper proposes an idea (set of ideas/solutions) about a new revolutionary blockchain protocol considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchai described below.
 
-The chief ideas/solutions — including on the new native token with the decreasing total-supply and new approach to consensus — are revealed fully.
+The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.
 
 Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
@@ -71,7 +71,7 @@ High (even **extreme**) efficiency of the blockchain is achieved through the use
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
-The blockchain gives highly-generous automated-donations in the native token, about **$100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain or/and initially the Vote DAO.
+The blockchain gives highly-generous automated-donations in the native token, about **$100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain, and/or initially to the Vote DAO.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -107,7 +107,7 @@ Increasing the number of nodes as much as possible should not be the goal of a b
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
-Specifically, permissionless ownership systems about storing and transferring tokens (values).
+Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
 
@@ -117,7 +117,7 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout geopolitical events or natural disasters.
 
-*Technically, on average, even 3 honest nodes are enough for the blockchain to function normally, maintaining its normal bandwidth.*
+*Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, maintaining its normal bandwidth.*
 
 On the other hand, the main task of developers is to really build/make such permissionless systems highly-sustainable and plus, of course, as efficient as possible. 
 
