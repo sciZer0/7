@@ -776,7 +776,7 @@ Each candidate/applicant for a position of Contributor have to find a way to pro
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 500 Contributors through democratic voting (Competitive Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 400 Contributors through democratic voting (Competitive Voting).*
 
 <br>
 
@@ -795,11 +795,11 @@ In general,  the process is that Contributors of the Initiative Group become Con
 
 Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
 
-Unlike all other blockchains, the Vote blockchain unprecedentedly has a lot of innovative ideas. 
+Surpassing all other blockchains, the Vote blockchain unprecedentedly has a lot of innovative ideas. 
 
 Plus, the Vote blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
 
-Our vision is that our 3rd milestone is the market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
+Our vision is that our 3rd milestone is the blockchain's market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
 
 From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the Vote blockchain, about $100,000 per month.
 
@@ -816,7 +816,7 @@ On the initial stage, the native token is estimated based at the 1st milestone, 
 <h2>8 &nbsp Automated Donations</h2>
 
 
-<p align="center"><b>For reference, How Accounts Work On Solana</b></p>
+<p align="center"><i>For reference, How Accounts Work On Solana</b></i>
 
 Solana’s account model is much more complicated than, for example, the Ethereum's account model. 
 
