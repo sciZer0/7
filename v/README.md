@@ -22,11 +22,15 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea (set of ideas/solutions) about a new, undoubtedly-revolutionary blockchain protocol considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain.
+This paper proposes an idea (set of ideas/solutions) about a new, undoubtedly-revolutionary blockchain protocol.
+
+The protocol is considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain.
 
 The chief ideas/solutions — including on the new native token with the decreasing total-supply, and on the new approach to consensus — are revealed fully.
 
-Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
+Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons.
+
+These ones will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
 In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.
 
@@ -69,7 +73,7 @@ High (even **extreme**) efficiency of the blockchain is achieved through the use
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
-The blockchain gives highly-generous automated-donations in the native token, ~ **$1,2 million per year or $100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain — or/and initially to the Vote DAO.
+The blockchain gives highly-generous automated-donations in the native token, ~ **$1,2 million per year** or **$100,000 per month**, to each developer (programming engineer) contributing to the Vote blockchain — or/and initially to the Vote DAO.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
