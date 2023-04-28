@@ -1,5 +1,5 @@
 <h1 align="center">
-A NEW
+A REVOLUTIONARY<br>
 BLOCKCHAIN<br>
 PROTOCOL
 
@@ -22,15 +22,17 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea (set of ideas/solutions) about a new revolutionary blockchain protocol considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchain.
+This paper proposes an idea (set of ideas/solutions) about a new revolutionary blockchain protocol considered on the example of the Vote blockchain — a next-gen, layer-1, DAO-style blockchai described below.
 
 The chief ideas/solutions — including on the new native token with the decreasing total-supply and new approach to consensus — are revealed fully.
 
 Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
-In the paper, a simple language is intentionally used, along with a magazine style.
+The Vote DAO is being formed right now. If you are a programming engineer, you may become a Contributor of the Vote DAO.
 
-<p>&nbsp</p>
+In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amoun of people.
+
+<p>&nbsp</p>ĵ
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
 <p align="center">
 Revolutionary Blockchain<br>
@@ -99,6 +101,9 @@ The narrative being defined by the blockchain involves — among other things �
 
 ### About Blockchain Technology
 
+It seems like not everyone understands the main point of blockchain technology.
+
+Increasing the number of nodes as much as possible should not be the goal of a blockchain.
 
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
