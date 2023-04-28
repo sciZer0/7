@@ -119,7 +119,7 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout geopolitical events or natural disasters.
 
-*Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, maintaining its normal bandwidth.*
+*Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, including to maintain its normal bandwidth.*
 
 On the other hand, the main task of developers is to really build/make such permissionless systems highly-sustainable and plus, of course, as efficient as possible. 
 
@@ -679,7 +679,7 @@ Importantly, at any given moment, there is the list of all working Validators, m
 
 Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake.
 
-Technically, even 3 honest nodes (Validators) are enough for the Solana blockchain to function normally, maintaining the bandwidth of over 50,000 TPS.
+Technically, even 3 honest nodes (Validators) are enough for the Solana blockchain to function normally, incliding to maintain its normal bandwidth of over 50,000 TPS.
 
 Idea/Hypothesis
 
@@ -726,7 +726,7 @@ A huge flow of tokens/stakes for years<br><br>
 
 This new approach to consensus might be called **Proof-of-Stake-Flow** (PoSF).
 
-Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, maintaining the bandwidth of over 50,000 TPS, this over 166 fold margin of safety of 500 Validators (500/3=166.67) might be a sufficient condition for the blockchain to be considered sustainable.
+Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, incliding to maintain its normal bandwidth of over 50,000 TPS, then this over 133 fold margin of safety of 400 Validators (400/3=133.33) might be a sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be just 2 Validator/s — highly-autonomous Validator/s. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
 
