@@ -28,11 +28,11 @@ The chief ideas/solutions — including on the new native token with the decreas
 
 Some ideas/solutions — the absence of which is not preventing from understanding the concept as a whole — are hidden for privacy reasons, and will only be revealed to Contributors of the Vote DAO starting the Vote blockchain.
 
-The Vote DAO is being formed right now. If you are a programming engineer, you may become a Contributor of the Vote DAO.
+The Vote DAO is being formed right now. So if you are a programming engineer, you may become a Contributor of the Vote DAO.
 
-In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amoun of people.
+In the paper, a simple language is intentionally used, along with a magazine style — in order for the whole concept to be convenient for understanding to more amount of people.
 
-<p>&nbsp</p>ĵ
+<p>&nbsp</p>
 <h2 align="center">THE VOTE BLOCKCHAIN</h2>
 <p align="center">
 Revolutionary Blockchain<br>
