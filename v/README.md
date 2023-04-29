@@ -24,8 +24,9 @@ doomed by its protocol<br>
 
 This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol.
 
-The protocol is represented through describing the Vote blockchain being built based on the given protocol.
+The protocol is represented through describing the Vote blockchain being built based on the given protocol.*
 
+*The perks of being a contributor to the Vote blockchain have also been described.*
 
 
 
