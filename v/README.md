@@ -67,7 +67,7 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
-High (even **extreme**) efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+High (even **extreme**) efficiency of the blockchain and the the lowest transaction fees are achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — not to mention billions of people also able to benefit from it.
 
@@ -361,7 +361,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 * highly-sustainable
 * highly-efficient
 * with the bandwidth of over 50,000 TPS
-* with transaction fees of under $0.001
+* with the lowest transaction fees
 * with the native, decreasing-total-supply token
 * with over 100,000,000 owners of the native token
 * with the best Gini coefficient 
