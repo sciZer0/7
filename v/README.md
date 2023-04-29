@@ -420,8 +420,11 @@ Rents are paid by Account Owners to keep accounts' data stored on the blockchain
 
 Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
-All Transaction Fees and Rents paid are burned. 
+All Transaction Fees and Rents paid are burned.
 
+This all results in the native token with decreasing total-supply.
+
+As mentioned above, thanks to this unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
 *About the Helping Spammer*
 
