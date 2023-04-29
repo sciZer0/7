@@ -641,7 +641,7 @@ Each Validator is automatically appointed in the position of the Leader and then
 
 The Leader Schedule is calculated far in advance of the slots it appoints Leaders in.
 
-Importantly, at any given moment, there is the list of all working Validators, meaning, any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
+Importantly, at any given moment, there is the list of all working Validators, meaning any Validator being out of the list cannot be participating in the work and cannot be harming the consensus.
 
 Plus, any Validator being in the list, just trying to do something wrong, will be punished by slashing its stake.
 
@@ -659,15 +659,15 @@ The idea/hypothesis is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
 
-6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
+6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
 7. when any malicious Validator in the list, just trying to do something wrong, is automatically dropped from the list, and
 
 8. when any suspicious Validator may also be dropped from the list by Voters through democratic voting (Competitive Voting),
 
-<b>then we might suppose there are very huge incentives for each Validator to work honestly and most likely the wide majority of (or even all) Validators in the list will work honestly.</b>
+<b>then we might suppose there are very huge incentives for each Validator to work honestly,  and most likely the wide majority of (or even all) Validators in the list will work honestly.</b>
 
 
 <b>
