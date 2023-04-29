@@ -516,9 +516,6 @@ On the other hand, absolutely, when you treat people like mushrooms — feed the
 
 And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
 
-*By the way, any concept may be explained clearly to even a 10 year old when the explainer understands the topic and wants to be understood.*
-
-
 
 <p>&nbsp</p>
 
@@ -543,14 +540,14 @@ Instead of taking into account only the "traditional" transaction fees, we shoul
 
 The overall transaction fees include — along with the "traditional" transaction fees  — the "reward" transaction fees, the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
 
-It is so since all the tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing the real losses of users.
+It is so since all native tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing in the same volume the real losses of users.
 
 
 
 
 *For reference,*
 
-*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion — as rewards for blocks and transaction fees.*
+*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid contributors (miners/validators) an amount exceeding $10 billion in total — as rewards for blocks and transaction fees.*
 
 This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. Considering the extremely-low bandwidth of just 3-7 transactions per second, this is extremely-expensive.
 
