@@ -163,7 +163,7 @@ All that the Inflationary Economy — endless emissions of regular tokens/curren
 
 But, unfortunately, all monetary systems in the world — incl. blockchain systems — are inflationary: have only inflationary assets.
 
-Even the Bitcoin blockchain's native token Bitcoin — which is allegedly considered a non-inflationary asset, the token with the fixed total-supply — in reality, for now, is an inflationary asset, since the Bitcoin blockchain will stop printing its native token, Bitcoin, just at 2140 (in 118 years).
+Even the Bitcoin blockchain's native token Bitcoin — which is allegedly considered a non-inflationary asset, the token with the fixed total-supply — in reality, for now, is an inflationary asset, since the Bitcoin blockchain will stop printing its native token Bitcoin just at 2140 (in 118 years).
 
 Plus, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
 
@@ -498,6 +498,25 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 <p>&nbsp</p>
 
 **To be continued a bit below...**
+
+### *About Democracy*
+ 
+
+"The best argument against democracy is a five-minute conversation with the average voter." 
+
+Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
+
+The thing is that for a democracy to work well, those who are making the decisions, the average voter, need to 
+
+1. have real power to change things
+2. know what is going on
+3. be really motivated.
+
+On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
+
+And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
+
+*By the way, any concept may be explained clearly to even a 10 year old when the explainer understands the topic and wants to be understood.*
 
 
 
@@ -918,25 +937,6 @@ As an element of Creator Thanksgiving Culture, we establish a new fete day — C
 * *About Democracy*
 * *About Nakamoto Coefficient*
 * *About Bitcoin*
-
-### *About Democracy*
- 
-
-"The best argument against democracy is a five-minute conversation with the average voter." 
-
-Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
-
-The thing is that for a democracy to work well, those who are making the decisions, the average voter, need to 
-
-1. have real power to change things
-2. know what is going on
-3. be really motivated.
-
-On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
-
-And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
-
-*By the way, any concept or just anything may be explained clearly to even a 10 year old when the explainer understands the topic and wants to be understood.*
 
 
 ### *About Nakamoto Coefficient*
