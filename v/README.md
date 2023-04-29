@@ -147,7 +147,7 @@ By the way, total immutability is especially not good for codebases of smart-con
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
-So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated and highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated and highly-decentralized/democratic way.
+So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated and highly-decentralized/democratic way.
 
 
 
