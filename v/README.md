@@ -486,8 +486,6 @@ Additionally, in order for a vote to be valid, it must meet the required 1% vote
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation. Also importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
 
-From day one, on the Vote blockchain, there are over 100,000,000 Voters and a lot of Automatic and Non-Automatic Proposals to vote For or Against. 
- 
 Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
 
@@ -691,7 +689,7 @@ The idea/hypothesis is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations (~ **$1,2 million per year or $100,000 per month**) just for working honestly, and
+5. when each Validator in the list, being a programming engineer, is receiving very-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these very-generous Automated Donations, and
 
@@ -844,7 +842,7 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 *Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Vote blockchain.*
 
-From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may quarterly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
+From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
 *It is assumed that from the very first vote, through the whole way further, Voters might only vote to decrease this rate.*
 
@@ -866,10 +864,10 @@ From day one, the monthly rate of Automated Donations is **0.08%** from each Pub
 
 On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
-Automatic Proposals happen each 30 days and are the following ones:
+Automatic Proposals happen each 365 days and are the following ones:
 
 * proposal to change – either increase or decrease – the monthly rate of Automated Donations by 5%
-* proposal to change – either increase or decrease – the maximum number of the positions of Validator by 0.1%
+* proposal to change – either increase or decrease – the maximum number of the positions of Contributors by 0.1%
 
 Non-Automatic Proposals may start at any moment (Slot) and are the following ones:
 
