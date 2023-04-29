@@ -705,6 +705,12 @@ As a result, the blockchain might be highly (even extremely) efficient.
 
 
 So we can surely achieve high decentralization and sustainability for extremely-low costs, providing the lowest overall transaction fees.
+
+Summarizing, increasing the amount of nodes isn't (should never be) the goal of the blockchain — instead, permissionlessness and high-sustainability are the goal.
+
+This new approach gets totally along with the main point of blockchain technology. 
+
+
 <br><br>
 
 
