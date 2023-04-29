@@ -506,7 +506,7 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 
 Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
 
-The thing is that for a democracy to work well, those who are making the decisions, the average voter, need to 
+The thing is that for a democracy to work well, those who are making the decisions, the average voters, need to 
 
 1. have real power to change things
 2. know what is going on
