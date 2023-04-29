@@ -509,46 +509,6 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 
 <br>
 
-## About Innovations in General
-
-Thanks to blockchain technology, additionally, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things (incl. videos, audios, texts, programs) after these digitizable things become known.
-
-It is so because technically, anyone will be able to upload any known digitizable things (videos, audios, texts, programs) on a blockchain and then allow people to **permissionlessly** access/use these digitizable things at will.
-
-For example, if the uploader wants, he/she can give **permissionless access** to uploaded digitizable things to all people around the world, and no one can prevent any willing ones from accessing/using these digitizable things (videos, audios, texts, programs) when they want.
-
-It will be impossible to fight this trend.
-
-As they say — change or die.
-
-Idea/Hypothesis
-
-From this new perspective/vision, the idea/hypothesis is that it is in the interests of our civilization to make the most value out of the new paradigm — including, to consider it acceptable to initially allow people to freely access/use all digitizable things (incl. ideas and code) that become known.
-
-So in particular, each code or idea that becomes known must be free. **For example, in the crypto industry, code and ideas that have become known are, in the wide majority of cases, already open and free.**
-
-This approach will power our civilization a lot because each problem will have to be solved exactly once. 
-
-It is a huge time saver for our civilization.
-
-The approach will allow us to compound/cascade all existing solutions into new synergistic solutions.
-
-Plus, freedom will unleash people's minds.
-
-More experiments  —> More innovations
-
-Importantly, people and businesses will never stop or even slow down creating new digitizable things — even with approach — because creativity is the basis of human and business nature, and on top of that, there is always a high probability that the creator will still be able to realize the first mover advantage. So creators will stil have incentives enough to create.
-
-Everyone must always feel free to use other people’s available ideas and code in order to make the lives of lots of lots of people better.
-
-When someone creates something new and digitizable which eventually becomes known, there must be absolute freedom for everyone to surpass it — to improve it — on their own.
-
-In order to **additionally** encourage creators of digitizable things, we might also shape a Creator Thanksgiving Culture to give thanks in tokens (donations) to creators of digitizable things. Including, through buying NFTs of the creators.
-
-<br>
-
-
-
 
 
 
