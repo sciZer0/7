@@ -426,14 +426,6 @@ This all results in the native token with decreasing total-supply.
 
 As mentioned above, thanks to this unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
-*About the Helping Spammer*
-
-*Thanks to the fact that all transaction fees are burned, spammers — making a lot of non-necessary transactions in a unit of time — for the first time ever, in a way, become the best friends of the blockchain since they cause burning the native token, and hence increase the value of it. They help all holders of the native token a lot.*
-
-*Even with low transaction fees under $0.001, there will probably not be too many spammers since not too many people (if any) want to regularly financially harm themselves, simultaneously helping unfamiliar ones.*
-
-
-
 <br>
 
 
