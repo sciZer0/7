@@ -682,9 +682,9 @@ Simply put, we give each Validator highly-generous incentives to work honestly a
 
 It is the classic method of carrot and stick — used by every behavioral system.
 
-Old Approach: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
+**Old Approach**: Why would ever a Validator work honestly? It is because he/she is afraid of losing a small part of their stake — in the event of automatic stake-slashing. Greed-Driven Consensus.
 
-New Approach: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. Much bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
+**New Approach**: Why would ever a Validator work honestly? It is because he/she is afraid of losing a huge flow of tokens/stakes for years — in the event of automatic dropping from the list. Much bigger incentives to work honestly. Huge-Greed-Driven Consensus.<br><br>
 
 
 **Old Approach:**<br>
@@ -695,8 +695,6 @@ A small part of stake, if any — or a small amount of reward<br>
 Capital At Risk:<br>
 A huge flow of tokens/stakes for years<br><br>
 
-This new approach to consensus might be called **Proof-of-Stake-Flow** (PoSF).
-
 Importantly, since even 3 honest nodes (Validators) are enough for such a Solana-type blockchain to function normally, incliding to maintain its normal bandwidth of over 50,000 TPS, then this over 133 fold margin of safety of 400 Validators (400/3=133.33) might be a sufficient condition for the blockchain to be considered sustainable.
 
 Moreover, there are about 200 countries around the world. At best, from one single country, there might even be only 2 Validators — highly-autonomous Validators. Plus, Validators might be obligated to run their own nodes only on their own standalone rigs, not servers of server providers. And also, Validators might use not one but some validator-clients. This all would make the whole system highly-sustainable, meaning, extremely-hard, at best impossible, to harm or stop.
@@ -705,8 +703,9 @@ As a result, the blockchain might be highly (even extremely) efficient.
 
 <i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be under $500 million (1.2*400=480). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
-
 So we can surely achieve high decentralization and sustainability for extremely-low costs, providing the lowest overall transaction fees.
+
+This new approach to consensus might be called **Proof-of-Stake-Flow** (PoSF).
 
 Summarizing, increasing the amount of nodes isn't (should never be) the goal of the blockchain — instead, permissionlessness and high-sustainability are the goal.
 
