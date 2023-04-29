@@ -88,7 +88,6 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
    - About Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain** in more detail 
 * **Some Other Thoughts**
-   - *About Democracy*
    - *About Nakamoto Coefficient*
    - *About Bitcoin*
 * **CONCLUSION** 
@@ -931,7 +930,6 @@ As an element of Creator Thanksgiving Culture, we establish a new fete day — C
 <br><br><br>
 ## Some Other Thoughts
 
-* *About Democracy*
 * *About Nakamoto Coefficient*
 * *About Bitcoin*
 
