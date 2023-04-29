@@ -701,7 +701,7 @@ Moreover, there are about 200 countries around the world. At best, from one sing
 
 As a result, the blockchain might be highly (even extremely) efficient.
 
-<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be under $500 million (1.2*400=480). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
+<i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be under $500 million (1.2*400=480). Accounting for the high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 So we can surely achieve high decentralization and sustainability for extremely-low costs, providing the lowest overall transaction fees.
 
@@ -709,7 +709,7 @@ This new approach to consensus might be called **Proof-of-Stake-Flow** (PoSF).
 
 Summarizing, increasing the amount of nodes isn't (should never be) the goal of the blockchain — instead, permissionlessness and high-sustainability are the goal.
 
-This new approach gets totally along with the main point of blockchain technology, simultaneously making the blockchain highly-efficient. 
+This new approach gets totally along with the main point of blockchain technology, simultaneously allowing the blockchain to be highly-efficient. 
 
 
 <br><br>
