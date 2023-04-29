@@ -516,7 +516,7 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 ## The New Approach to Consensus, PoSF
 
 * A Lot of Room To Improve
-* New Approach to Consensus Mechanism or Extremely-Efficient True-Decentralization
+* New Approach  or Extremely-Efficient Decentralization
 
 
 ## A Lot of Room To Improve
@@ -546,12 +546,12 @@ Also, for reference,
 
 As we can see, current decentralization isn't the one of a highly-high height but at the same time is extremely-expensive.
 
-The thing is that we can achieve high decentralization and sustainability for extremely-low costs.
+The thing is that we can achieve high decentralization and sustainability for extremely-low costs, providing the lowest overall transaction fees.
 
 
 
 
-## New Approach to Consensus Mechanism or Extremely-Efficient True-Decentralization
+## New Approach or Extremely-Efficient Decentralization
 
 This new approach allows us to achieve consensus highly efficiently.
 
@@ -701,7 +701,7 @@ As a result, the blockchain might be highly (even extremely) efficient.
 <i>If to suppose that such a blockchain's market capitalization would be $20 trillion, the overall yearly costs would still be under $500 million (1.2*400=480). Accounting for a high bandwidth of over 50,000 TPS, it might be hard to calculate how many times this blockchain might be more efficient than, only theoretically, the Bitcoin blockchain at the same market capitalization or even the Solana Blockchain.</i>
 
 
-So we can surely achieve high decentralization and sustainability for extremely-low costs.
+So we can surely achieve high decentralization and sustainability for extremely-low costs, providing the lowest overall transaction fees.
 <br><br>
 
 
