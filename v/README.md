@@ -247,7 +247,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in the transaction fee — incl. leads to an increase in the so-called "priority fee" — that the contributor (miner/validator) receives as a reward during the congestion
+Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in the transaction fee — incl. leads to an increase in the so-called "priority fee" — that the contributor (miner/validator) receives as a reward during the congestion.
 
 *For reference*
 
@@ -271,7 +271,7 @@ The Vote blockchain ideally solves this problem from day one.
 
 Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's total supply.
 
-*For example, Ethereum Improvement Proposal 1559, as mentioned above, doesn't decrease the native token's total supply.* 
+*For example, Ethereum Improvement Proposal 1559, as mentioned above, doesn't really decrease the native token's total supply.* 
 
 *The Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  maybe at one day in the future.*
 
