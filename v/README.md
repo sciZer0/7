@@ -731,7 +731,7 @@ This new approach gets totally along with the main point of blockchain technolog
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who are allowed to be contributing to the Vote blockchain and simultaneously be receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — from Voters.
+Contributors are people who are allowed to be contributing to the Vote blockchain, and simultaneously to be receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — from Voters.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
