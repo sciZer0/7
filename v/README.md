@@ -189,9 +189,12 @@ Below are 5 fundamental problems of all current blockchains compared with the Vo
 
 Fundamental Problem 1 is that people that build blockchains do it the same way as other people built states in the past: 
 
-with kings (founders), top servants (top developers/validators/miners) and really rightless people (users)
+* with kings (founders), 
+* with top servants (top developers/validators/miners)
+* often with royalty (VCs)
+* but always with really-rightless people (users)
 
-— saying that it is totally okay as it is now, or at best declaring the improvement of democracy in the future.
+simultaneously saying that it is totally okay as it is now, or at best, declaring the improvement of democracy in the future.
 
 The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-sustainable.
 
