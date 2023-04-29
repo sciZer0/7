@@ -561,6 +561,15 @@ In order to **additionally** encourage creators of digitizable things, we might 
 ## A Lot of Room To Improve
 
 
+Instead of taking into account only the "traditional" transaction fees, we should take into accoun the overall transaction fees.
+
+The overall transaction fees include — along with the "traditional" transaction fees  — the "reward" transaction fees, the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
+
+It is so since all the tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing the real losses of users.
+
+
+
+
 *For reference,*
 
 *During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid the miners/validators, for keeping the blockchain working, an amount exceeding $10 billion — as rewards for blocks and transaction fees.*
