@@ -22,13 +22,26 @@ doomed by its protocol<br>
 
 <br>
 
-This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol.
+<h2 align="center">Abstract</h2>
+
+Just go to any popular source of news (like Buzzfeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that people see  from these articles the crypto space only as a field of scammers and cheaters.
+
+Folks in the space think it all is mostly because the media are biased, executing a hidden order of the government, and people, on the other hand, are too stupid to see their own benefits and understand perspectives of crypto.
+
+But fundamentally, it is mainly because in the industry, there is still no strong, groundbreaking idea after one of a permissionless token with the fixed total-supply — which, by the way, has a lot of technological unsolvable flaws, and has still not been implemented in reality (explained below).
+
+Plus, in the crypto space, there are really a lot of scammers and cheaters.
+
+This all — along with other fundamental problems described below — makes it highly-hard for crypto in general to achieve mass adoption.
+
+
+This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol that might enable mass adoption.
 
 The protocol is represented through describing the Vote blockchain being built based on the given protocol.
 
-*The perks of being a contributor to the Vote blockchain have also been described.*
 
-
+<br>
+<h2 align="center">Brief Introduction</h2>
 
 
 <p>&nbsp</p>
@@ -81,12 +94,12 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
-* **Abstract** 
+* **Abstract** — Continuation
    - About Blockchain Technology
    - About Immutability Of Code
    - About the Greatest Value
    - About Fundamental Problems of All Current Blockchains
-* **The Vote Blockchain** in more detail 
+* **The Vote Blockchain** — In More Detail 
 * **Some Other Thoughts**
    - *About Nakamoto Coefficient*
    - *About Bitcoin*
@@ -95,7 +108,9 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
 <br><br>
 
 <h2 align="center">Abstract</h2>
-
+<p align="center">
+Continuation<br>
+</p>
 
 
 
