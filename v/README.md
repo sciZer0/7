@@ -24,7 +24,7 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-Just go to any popular source of news (like BuzzFeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that people see the crypto space through these articles only as a field of scammers and cheaters.
+Just go to any popular source of news (like BuzzFeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that people see the crypto space through these articles precisely as a field of scammers and cheaters.
 
 Folks in the space think this whole situation is mostly because the media are biased, executing a hidden order of the government, and people, on the other hand, are too stupid to see their own benefits and understand perspectives of crypto.
 
