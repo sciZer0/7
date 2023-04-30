@@ -93,7 +93,7 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
    - About Blockchain Technology
    - About Immutability Of Code
    - About the Greatest Value
-   - About Fundamental Problems of All Current Blockchains
+   - About 5 Fundamental Problems of All Current Blockchains
 * **The Vote Blockchain** — In More Detail 
 * **Some Other Thoughts**
    - *About Nakamoto Coefficient*
@@ -187,7 +187,7 @@ Definitely, the Vote blockchain for the first time in the industry creates the m
 
 <br>
 
-### About Fundamental Problems of All Current Blockchains
+### About 5 Fundamental Problems of All Current Blockchains
 
 Below are 5 fundamental problems of all current blockchains compared with the Vote Blockchain.
 
