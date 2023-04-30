@@ -24,15 +24,15 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-Just go to any popular source of news (like Buzzfeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that people see the crypto space through these articles only as a field of scammers and cheaters.
+Just go to any popular source of news (like BuzzFeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that people see the crypto space through these articles only as a field of scammers and cheaters.
 
 Folks in the space think this whole situation is mostly because the media are biased, executing a hidden order of the government, and people, on the other hand, are too stupid to see their own benefits and understand perspectives of crypto.
 
-But fundamentally, it is mainly because in the industry, there is still no strong, groundbreaking idea after one of a permissionless token with the fixed total-supply — which, by the way, has still not been implemented in full in reality, and the specific implementation of which **Bitcoin**, has a lot of unsolvable flaws, technological and social (explained below).
+But fundamentally, it is mainly because in the industry, there is still no strong, groundbreaking idea after one of a permissionless token with the fixed total-supply — which, by the way, has still not been implemented in reality, and the most close implementation of which **Bitcoin**, has a lot of unsolvable flaws, technological and social (explained below).
 
 Plus, in the crypto space, there are really a lot of scammers and cheaters.
 
-This all — along with other fundamental problems of all other blockchains described below — makes it highly-hard for crypto in general to achieve mass adoption.
+This all — along with other fundamental problems of all other existing blockchains described below — makes it highly-hard for crypto in general (if possible) to achieve mass adoption.
 
 This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol that might enable mass adoption for crypto.
 
