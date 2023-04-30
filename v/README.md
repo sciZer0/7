@@ -34,7 +34,7 @@ Plus, in the crypto space, there are really a lot of scammers and cheaters.
 
 This all — along with other fundamental problems of all other existing blockchains described below — makes it highly-hard for crypto in general (if ever possible) to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol that might enable mass adoption for crypto.
+This paper proposes an idea (set of ideas/solutions) on a new blockchain protocol which  has the potential to be the revolutionary blockchain protocol that might enable mass adoption for crypto.
 
 The protocol is represented through describing the Vote blockchain being built based on the given protocol.
 
