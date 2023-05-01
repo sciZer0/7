@@ -24,13 +24,13 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-Along with the presenting of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the implementation of this idea — the Bitcoin blockchain — starts the idea itself only in 118 years, at 2140 (explained below).
+Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the Bitcoin blockchain starts the idea itself only in 118 years, at 2140 (explained below).
 
 Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
 This all — together with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-Fortunately, this paper proposes an idea (set of ideas/solutions) on a really revolutionary blockchain protocol that might really enable mass adoption for crypto.
+Fortunately, this paper proposes an idea (set of ideas/solutions) on a totally revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
