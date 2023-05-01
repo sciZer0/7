@@ -424,7 +424,7 @@ Rents are paid by Account Owners to keep accounts' data stored on the blockchain
 
 Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
-All Transaction Fees and Rents paid are burned.
+All (100%) Transaction Fees and all (100%) Rents paid are burned.
 
 This all results in the native token with decreasing total-supply.
 
