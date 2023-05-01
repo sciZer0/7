@@ -40,40 +40,6 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 
 
 
-
-
-|YEAR|CUT|  ADR |TOKENS| 
-|----|---|------|------|
-|  1 | — |1.0000|250.00|
-|  2 | 70|0.3000|075.00|
-|  3 | 60|0.1215|030.38|
-|  4 | 51|0.0601|015.01|
-|  5 | 43|0.0342|008.56|
-|  6 | 37|0.0217|005.43|
-|  7 | 31|0.0150|003.74|
-|  8 | 26|0.0110|002.76|
-|  9 | 22|0.0086|002.14|
-| 10 | 19|0.0069|001.73|
-| 11 | 16|0.0058|001.45|
-| 12 | 14|0.0050|001.25|
-| 13 | 12|0.0044|001.10|
-| 14 | 10|0.0040|000.99|
-| 15 | 08|0.0036|000.91|
-| 16 | 07|0.0034|000.84|
-| 17 | 06|0.0032|000.79|
-| 18 | 05|0.0030|000.75|
-| 19 | 05|0.0029|000.71|
-| 20 | 05|0.0027|000.68|
-| 21 | 05|0.0026|000.64|
-| 22 | 05|0.0024|000.61|
-| 23 | 05|0.0023|000.58|
-| 24 | 05|0.0022|000.55|
-| 25 | 05|0.0021|000.52|
-| 26 | 05|0.0020|000.50|
-| 27 | 05|0.0019|000.47|
-| 28 | 05|0.0018|000.45|	
-| 29 | 05|0.0017|000.43|
-
 <p>&nbsp</p>
 <h2 align="center">THE UNICORN<br>
 BLOCKCHAIN</h2>
@@ -780,7 +746,7 @@ This new approach gets totally along with the main point of blockchain technolog
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who are allowed to be contributing to the U blockchain, and simultaneously to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
+Contributors are people who are allowed to be contributing to the U blockchain, and simultaneously who are supposed to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
 
 Each Contributor may only be contributing in the U blockchain in these two roles simultaneously: 
 
@@ -808,36 +774,6 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 <br>
 
 
-
-# To All Contributors 
-
-In general, the process is that Contributors of the Initiative Group become Contributors of the Vote DAO. In turn, Contributors of the Vote DAO become Contributors of the U blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
-
-*For reference*
-
-*The Bitcoin blockchain achieved the market capitalization of $50 billion in 104 months after the launch.*
-
-*The Solana blockchain, on a bull market, achieved the market capitalization of $50 billion in 11 months after the launch.*
-
-Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
-
-Surpassing all other blockchains, the U blockchain unprecedentedly has a lot of innovative ideas. 
-
-Plus, the U blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
-
-Our vision is that our 3rd milestone is the blockchain's market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
-
-From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the U blockchain, about $100,000 per month.
-
-There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the U blockchain.
-
-On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
-
-The Vote DAO is being formed right now.
-
-Being a software engineer, you may become a Contributor of the Vote DAO.
-
-<br>
 
 
 
@@ -885,6 +821,72 @@ From day one, the monthly rate of Automated Donations is **0.08%** from each Pub
 *Treasury funds, theoretically, might also be formed up the same way.*
 
 
+
+
+
+# To All Contributors 
+
+In general, the process is that Contributors of the Initiative Group become Contributors of the Vote DAO. In turn, Contributors of the Vote DAO become Contributors of the U blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
+
+*For reference*
+
+*The Bitcoin blockchain achieved the market capitalization of $50 billion in 104 months after the launch.*
+
+*The Solana blockchain, on a bull market, achieved the market capitalization of $50 billion in 11 months after the launch.*
+
+Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
+
+Surpassing all other blockchains, the U blockchain unprecedentedly has a lot of innovative ideas. 
+
+Plus, the U blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
+
+Our vision is that our 3rd milestone is the blockchain's market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
+
+From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the U blockchain, about $100,000 per month.
+
+There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the U blockchain.
+
+On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
+
+The Vote DAO is being formed right now.
+
+Being a software engineer, you may become a Contributor of the Vote DAO.
+
+<br>
+
+
+
+|YEAR|CUT|  ADR |TOKENS| 
+|----|---|------|------|
+|  1 | — |1.0000|250.00|
+|  2 | 70|0.3000|075.00|
+|  3 | 60|0.1215|030.38|
+|  4 | 51|0.0601|015.01|
+|  5 | 43|0.0342|008.56|
+|  6 | 37|0.0217|005.43|
+|  7 | 31|0.0150|003.74|
+|  8 | 26|0.0110|002.76|
+|  9 | 22|0.0086|002.14|
+| 10 | 19|0.0069|001.73|
+| 11 | 16|0.0058|001.45|
+| 12 | 14|0.0050|001.25|
+| 13 | 12|0.0044|001.10|
+| 14 | 10|0.0040|000.99|
+| 15 | 08|0.0036|000.91|
+| 16 | 07|0.0034|000.84|
+| 17 | 06|0.0032|000.79|
+| 18 | 05|0.0030|000.75|
+| 19 | 05|0.0029|000.71|
+| 20 | 05|0.0027|000.68|
+| 21 | 05|0.0026|000.64|
+| 22 | 05|0.0024|000.61|
+| 23 | 05|0.0023|000.58|
+| 24 | 05|0.0022|000.55|
+| 25 | 05|0.0021|000.52|
+| 26 | 05|0.0020|000.50|
+| 27 | 05|0.0019|000.47|
+| 28 | 05|0.0018|000.45|	
+| 29 | 05|0.0017|000.43|
 
 
 <br>
