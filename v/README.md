@@ -677,7 +677,7 @@ The idea/hypothesis is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a programming engineer, is receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
+5. when each Validator in the list, being a software engineer, is receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -801,7 +801,7 @@ On the initial stage, the native token is estimated based at the 1st milestone, 
 
 The Vote DAO is being formed right now.
 
-If you are a programming engineer, you may become a Contributor of the Vote DAO.
+Being a software engineer, you may become a Contributor of the Vote DAO.
 
 <br>
 
