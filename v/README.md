@@ -26,9 +26,7 @@ doomed by its protocol<br>
 
 Just go to any popular source of news (like BuzzFeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that most people see the crypto space through these articles precisely as a field of scammers and cheaters.
 
-Folks in the space think this whole situation is mostly because the media are biased, executing a hidden order of the government, and people, on the other hand, are too stupid to see their own benefits and understand perspectives of crypto.
-
-But fundamentally, it is mainly because in the industry, there is still no strong, groundbreaking idea after one of a permissionless token with the fixed total-supply — which, by the way, has still not been implemented in reality, and the most close implementation of which **Bitcoin**, has a lot of unsolvable flaws, technological and social (explained below).
+But in reality, it is mainly because in the industry, there is still no strong, groundbreaking idea after one of a permissionless token with the fixed total-supply — which, by the way, has still not been implemented in reality, and the most close implementation of which **Bitcoin**, has a lot of unsolvable flaws, technological and social (explained below).
 
 Plus, in the crypto space, there are really a lot of scammers and cheaters.
 
