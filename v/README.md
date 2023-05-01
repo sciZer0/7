@@ -24,7 +24,7 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-Along with the presenting of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless the implementation of this idea — the Bitcoin blockchain — starts the idea itself only in 118 years, at 2140 (explained below).
+Along with the presenting of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the implementation of this idea — the Bitcoin blockchain — starts the idea itself only in 118 years, at 2140 (explained below).
 
 Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
@@ -785,15 +785,15 @@ In general, the process is that Contributors of the Initiative Group become Cont
 
 Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
 
-Surpassing all other blockchains, the Unicorn blockchain unprecedentedly has a lot of innovative ideas. 
+Surpassing all other blockchains, the U blockchain unprecedentedly has a lot of innovative ideas. 
 
-Plus, the Unicorn blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
+Plus, the U blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
 
 Our vision is that our 3rd milestone is the blockchain's market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
 
-From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the Unicorn blockchain, about $100,000 per month.
+From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the U blockchain, about $100,000 per month.
 
-There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the Unicorn blockchain.
+There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the U blockchain.
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
@@ -825,7 +825,7 @@ In other words, all accounts, by default, are owned by the special inbuilt progr
 
 <br>
 
-On the Unicorn Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
+On the U Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
 
 The state of such an account (PUCA) is modified/controlled by the two special inbuilt programs — System Program 1 and System Program 2.
 
@@ -833,7 +833,7 @@ System Program 1 is a special inbuilt code that modifies/controls the account's 
 
 System Program 2 is a special inbuilt code that modifies/controls the account's state only according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
-*Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Unicorn blockchain.*
+*Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the U blockchain.*
 
 From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
@@ -855,7 +855,7 @@ From day one, the monthly rate of Automated Donations is **0.08%** from each Pub
 
 <h2>9 &nbsp Voting Proposals</h2>
 
-On the Unicorn blockchain, there are Automatic Proposals and Non-Automatic Proposals.
+On the U blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
 Automatic Proposals happen each 365 days and are the following ones:
 
@@ -912,7 +912,7 @@ For example, we might take core code of the Solana blockchain as our codebase an
 
 <h2>11 &nbsp Technologies & Creator Thanksgiving Culture</h2>
 
-From day one, the Unicorn blockchain leverages the most advanced of cutting edge blockchain technologies.
+From day one, the U blockchain leverages the most advanced of cutting edge blockchain technologies.
 
 As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30, where people around the world may give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code). Also, through buying NFTs of the creators. 
 
@@ -1010,7 +1010,7 @@ As mentioned above, there are even more of fundamental problems than described h
 
 Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-All the fundamental problems of the blockchain industry can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Unicorn blockchain is.
+All the fundamental problems of the blockchain industry can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the U blockchain is.
 
 Of course, it is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
