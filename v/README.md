@@ -24,15 +24,13 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-Just go to any popular source of news (like BuzzFeed), specifically to a section of crypto, and you will see, even only from headlines of articles, that most people see the crypto space through these articles precisely as a field of scammers and cheaters.
+After emerging of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless the implementation of this idea — the Bitcoin blockchain—  supposes that the idea itself starts only at 2140, in 118 years.
 
-But in reality, it is mainly because in the industry, there is still no strong, groundbreaking idea after one of a permissionless token with the fixed total-supply — which, by the way, has still not been implemented in reality, and the most close implementation of which **Bitcoin**, has a lot of unsolvable flaws, technological and social (explained below).
+Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
-Plus, in the crypto space, there are really a lot of scammers and cheaters.
+This all — along with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-This all — along with other fundamental problems of all other existing blockchains described below — makes it highly-hard for crypto in general to achieve mass adoption.
-
-This paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol that might enable mass adoption for crypto.
+This paper proposes an idea (set of ideas/solutions) on a really revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Vote blockchain being built based on the given protocol.
 
