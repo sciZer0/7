@@ -39,14 +39,14 @@ The protocol is represented through describing the Unicorn blockchain being buil
 
 
 <p>&nbsp</p>
-<h2 align="center">THE VOTE BLOCKCHAIN</h2>
+<h2 align="center">THE UNICORN BLOCKCHAIN</h2>
 <p align="center">
 Revolutionary Blockchain<br>
 </p>
 
 <br>
 
-The Vote blockchain is a next-gen, layer-1, DAO-style blockchain.
+The Unicorn blockchain is a next-gen, layer-1, DAO-style blockchain.
 
 From day one, the blockchain is simultaneously:
 
@@ -72,7 +72,7 @@ High (even **extreme**) efficiency of the blockchain and the lowest transaction 
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the Vote blockchain (initially to the Vote DAO) — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
+Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the Unicorn blockchain (initially to the Vote DAO) — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -86,7 +86,7 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
    - About Immutability Of Code
    - About the Greatest Value
    - About 5 Fundamental Problems of All Current Blockchains
-* **The Vote Blockchain** — In More Detail 
+* **The Unicorn Blockchain** — In More Detail 
 * **Some Other Thoughts**
    - *About Nakamoto Coefficient*
    - *About Bitcoin*
@@ -172,7 +172,7 @@ When,  for example, it comes to the Ethereum blockchain, it is important to unde
 
 This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing monetary systems.
 
-Definitely, the Vote blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**.
+Definitely, the Unicorn blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**.
 
 
 
@@ -181,7 +181,7 @@ Definitely, the Vote blockchain for the first time in the industry creates the m
 
 ### About 5 Fundamental Problems of All Current Blockchains
 
-Below are 5 fundamental problems of all current blockchains compared with the Vote Blockchain.
+Below are 5 fundamental problems of all current blockchains compared with the Unicorn Blockchain.
 
 
 
@@ -260,7 +260,7 @@ Fundamental Problem 3 is that on each of the existing blockchains, each network 
 
 Ideally, the blockchain must never make its top-contributors (miners/validators) being interested in low bandwidth, meaning that at least the "priority fee" must be burned, increasing along the way the value of the native token.
 
-The Vote blockchain ideally solves this problem from day one.
+The Unicorn blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
@@ -341,7 +341,7 @@ With all these fundamental problems that cannot be solved by EACH of the existin
 <p>&nbsp</p>
 
 
-<h2 align="center">THE VOTE BLOCKCHAIN</h2>
+<h2 align="center">THE UNICORN BLOCKCHAIN</h2>
 <p align="center">In More Detail</p>
 
 <br>
@@ -377,7 +377,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 
 <h2>1 &nbsp Maximum Supply</h2>
 
-The Vote token (**VTT**) is a native token of the Vote blockchain.
+The Vote token (**VTT**) is a native token of the Unicorn blockchain.
 
 The Maximum Supply of the Vote token is created at the Genesis Block, and is 10,000,000 **VTT**.
 
@@ -434,7 +434,7 @@ As mentioned above, thanks to this unique native token having the decreasing tot
 <h2>5 &nbspVoting System</h2>
 
 
-The Vote blockchain has a highly-decentralized governance.
+The Unicorn blockchain has a highly-decentralized governance.
 
 This is a DAO-style blockchain leveraging all benefits and the best practices of DAOs.
 
@@ -451,7 +451,7 @@ The blockchain’s democratic system consists of the following elements:
 
 
 
-On the Vote blockchain, each vote on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
+On the Unicorn blockchain, each vote on each proposal lasts 30 days (6,480,000 slots, each Slot is 0.4 second).
 
 And, there is a specific voting system: Competitive Voting.
 
@@ -743,14 +743,14 @@ This new approach gets totally along with the main point of blockchain technolog
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who are allowed to be contributing to the Vote blockchain, and simultaneously to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
+Contributors are people who are allowed to be contributing to the Unicorn blockchain, and simultaneously to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
 * as a Validator (node running)
 * as a Developer (protocol maintenance and upgrades).
 
-On the Vote Blockchain, there are the maximum number of positions of Contributor.
+On the Unicorn Blockchain, there are the maximum number of positions of Contributor.
 
 At the start, the maximum number is 500 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
 
@@ -759,7 +759,7 @@ Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Voting).
 
-Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Vote blockchain in order to consequently become Contributor — optionally, using their Web3-native,decentralized identity (SBTs) to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
+Each candidate/applicant for a position of Contributor have to find a way to prove their qualification and usefulness for the Unicorn blockchain in order to consequently become Contributor — optionally, using their Web3-native,decentralized identity (SBTs) to prove their qualificational/social graph in a privacy-preserving manner, and also using **Hyde Park**.
 
 *Decentralized Identity (DI) combined with Zero-Knowledge (ZK) technologies might  play an increasingly important role in Web3's evolution.*
 
@@ -774,7 +774,7 @@ At any moment, a person  (Public Address) being in the position of Contributor m
 
 # To All Contributors 
 
-In general, the process is that Contributors of the Initiative Group become Contributors of the Vote DAO. In turn, Contributors of the Vote DAO become Contributors of the Vote blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
+In general, the process is that Contributors of the Initiative Group become Contributors of the Vote DAO. In turn, Contributors of the Vote DAO become Contributors of the Unicorn blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
 
 *For reference*
 
@@ -784,7 +784,7 @@ In general, the process is that Contributors of the Initiative Group become Cont
 
 Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
 
-Surpassing all other blockchains, the Vote blockchain unprecedentedly has a lot of innovative ideas. 
+Surpassing all other blockchains, the Unicorn blockchain unprecedentedly has a lot of innovative ideas. 
 
 Plus, the Vote blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
 
