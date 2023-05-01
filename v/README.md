@@ -39,7 +39,8 @@ The protocol is represented through describing the Unicorn blockchain being buil
 
 
 <p>&nbsp</p>
-<h2 align="center">THE UNICORN BLOCKCHAIN</h2>
+<h2 align="center">THE UNICORN<br>
+BLOCKCHAIN</h2>
 <p align="center">
 Revolutionary Blockchain<br>
 </p>
@@ -201,7 +202,7 @@ The whole thing is that – we can see this below – only a highly-democratic b
 
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
-The Vote blockchain ideally solves this problem from day one.
+The Unicorn blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
@@ -239,7 +240,7 @@ Probably, precisely the great unfairness might **most** prevent each of the exis
 
 Ideally, a blockchain must execute very wide native-token distribution, and have the best Gini coefficient in the industry.
 
-The Vote blockchain ideally solves this problem from day one.
+The Unicorn blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
@@ -280,7 +281,7 @@ Importantly, no one of the existing blockchains is able to start decreasing its 
 
 Ideally, a blockchain must start decreasing its native token's total supply from day one.
 
-The Vote blockchain ideally solves this problem from day one.
+The Unicorn blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
@@ -308,7 +309,7 @@ Compared to other possible approaches, the old approach is much like adding to y
 
 Ideally, a blockchain must use another, truly-decentralized, highly-efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
-The Vote blockchain ideally solves this problem from day one.
+The Unicorn blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
@@ -486,7 +487,7 @@ Additionally, in order for a vote to be valid, it must meet the required 1% vote
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation. Also importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
 
-Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Vote blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
+Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the Unicorn blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
 
 
@@ -574,7 +575,7 @@ Unlike the traditional approach to PoS, the new approach doesn't require stakes 
 
 Specifically in this paper as an example, the new approach uses Solana's Proof-Of-History mechanism and is much like Solana's PoS consensus mechanism — but again, consensus is happening without any stakes.
 
-The whole trick is that this consensus might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+The whole trick is that this consensus might be efficiently used only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Unicorn blockchain is.
 
 
 <p align="center"><b>For reference, How Solana Works</b></p>
@@ -745,7 +746,7 @@ This new approach gets totally along with the main point of blockchain technolog
 
 Contributors are people who are allowed to be contributing to the Unicorn blockchain, and simultaneously to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
 
-Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
+Each Contributor may only be contributing in the Unicorn blockchain in these two roles simultaneously: 
 
 * as a Validator (node running)
 * as a Developer (protocol maintenance and upgrades).
@@ -786,13 +787,13 @@ Now, generally, a blockchain with at least some innovative idea is accumulating 
 
 Surpassing all other blockchains, the Unicorn blockchain unprecedentedly has a lot of innovative ideas. 
 
-Plus, the Vote blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
+Plus, the Unicorn blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
 
 Our vision is that our 3rd milestone is the blockchain's market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
 
-From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the Vote blockchain, about $100,000 per month.
+From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the Unicorn blockchain, about $100,000 per month.
 
-There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the Vote blockchain.
+There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the Unicorn blockchain.
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
@@ -824,7 +825,7 @@ In other words, all accounts, by default, are owned by the special inbuilt progr
 
 <br>
 
-On the Vote Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
+On the Unicorn Blockchain, there is a special type of account — Protocol&User Controlled Account (PUCA).
 
 The state of such an account (PUCA) is modified/controlled by the two special inbuilt programs — System Program 1 and System Program 2.
 
@@ -832,7 +833,7 @@ System Program 1 is a special inbuilt code that modifies/controls the account's 
 
 System Program 2 is a special inbuilt code that modifies/controls the account's state only according to the Automated Donations Program — which, in turn, features the monthly rate of Automated Donations.
 
-*Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Vote blockchain.*
+*Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the Unicorn blockchain.*
 
 From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
@@ -854,7 +855,7 @@ From day one, the monthly rate of Automated Donations is **0.08%** from each Pub
 
 <h2>9 &nbsp Voting Proposals</h2>
 
-On the Vote blockchain, there are Automatic Proposals and Non-Automatic Proposals.
+On the Unicorn blockchain, there are Automatic Proposals and Non-Automatic Proposals.
 
 Automatic Proposals happen each 365 days and are the following ones:
 
@@ -911,7 +912,7 @@ For example, we might take core code of the Solana blockchain as our codebase an
 
 <h2>11 &nbsp Technologies & Creator Thanksgiving Culture</h2>
 
-From day one, the Vote blockchain leverages the most advanced of cutting edge blockchain technologies.
+From day one, the Unicorn blockchain leverages the most advanced of cutting edge blockchain technologies.
 
 As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30, where people around the world may give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code). Also, through buying NFTs of the creators. 
 
@@ -1009,7 +1010,7 @@ As mentioned above, there are even more of fundamental problems than described h
 
 Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-All the fundamental problems of the blockchain industry can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Vote blockchain is.
+All the fundamental problems of the blockchain industry can be solved only by highly-decentralized and highly-democratic blockchains, one of which, for example, the Unicorn blockchain is.
 
 Of course, it is just a matter of time that some initiative group of people will create a blockchain of that sort.
 
