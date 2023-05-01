@@ -24,7 +24,7 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-After emerging of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless the implementation of this idea — the Bitcoin blockchain — supposes that the idea itself starts only at 2140, in 118 years.
+After emerging of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless the implementation of this idea — the Bitcoin blockchain — supposes that the idea itself starts only in 118 years, at 2140.
 
 Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
