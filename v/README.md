@@ -1,3 +1,4 @@
+
 <h1 align="center">
 A REVOLUTIONARY<br>
 BLOCKCHAIN<br>
@@ -24,11 +25,11 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-After emerging of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless the implementation of this idea — the Bitcoin blockchain — supposes that the idea itself starts only in 118 years, at 2140.
+Along with the presenting of the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless the implementation of this idea — the Bitcoin blockchain — starts the idea itself only in 118 years, at 2140 (explained below).
 
 Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
-This all — along with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
+This all — together with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
 
 Fortunately, this paper proposes an idea (set of ideas/solutions) on a really revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
