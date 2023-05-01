@@ -677,7 +677,7 @@ The idea/hypothesis is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a software engineer, is receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
+5. when each Validator in the list, being a software engineer, is receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more — just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -746,7 +746,7 @@ This new approach gets totally along with the main point of blockchain technolog
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who are allowed to be contributing to the Vote blockchain, and simultaneously to be receiving highly-generous Automated Donations — about **$1,2 million per year** or **$100,000 per month** — from Voters.
+Contributors are people who are allowed to be contributing to the Vote blockchain, and simultaneously to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
 
 Each Contributor may only be contributing in the Vote blockchain in these two roles simultaneously: 
 
