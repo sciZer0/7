@@ -1,4 +1,3 @@
-Ok
 <h1 align="center">
 A REVOLUTIONARY<br>
 BLOCKCHAIN<br>
