@@ -810,7 +810,7 @@ From day one, the monthly rate of Automated Donations (**ADR**) is **0.08%** fro
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
 
-Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
+Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), all the amounts of Automated Donations collected for the vacant positions are burned.
 
 *Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
