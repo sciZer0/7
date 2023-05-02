@@ -400,11 +400,10 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 * 0.15% VTTs are for free distributed among 30 Contributors of the U DAO
 * 99.85% VTTs are for free equally distributed among over 100,000,000 people who become Voters (users).
 
-Through a fair airdrop excluding the multi-accounting. 
-
-This distribution mechanism provides the blockchain the best Gini coefficient in the industry from day one.
 
 *As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
+
+This distribution mechanism provides the U blockchain the best Gini coefficient in the industry from day one.
 
  
 <br>
