@@ -816,7 +816,7 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 From day one, the monthly rate of Automated Donations (**ADR** — Automated-Donations Rate) is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
-If there is one or more vacant positions of Contributor (at the start of the testnet, for example, there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
+If there is one or more vacant positions of Contributor (at the start of the testnet, for example, there might be up to 370 vacant positions: 400-30=370), all VTT tokens collected as Automated Donations for the vacant positions are burned.
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
 
@@ -912,11 +912,8 @@ Our vision is that at the 3rd milestone, this stake will be  about $200,000 whic
 
 Just keep in mind that during only the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTT tokens received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
 
-750 VTT —> $1,500,000,000  at the 3rd milestone 
+750 VTT —> $1,500,000,000  at the the 3rd milestone 
 
-Plus, the 30% total amounts of VTT of vacant positions of Contributors are also  equally distributed among current Contributors that might result at maximum in an additional amount of up to **925 VTT** to each Contributor during just the 1st year of the launch of the blockchain, for example.
-
-925 VTT —> $1,850,000,000  at the 3rd milestone 
 
 And, the 3 fundamental insights are the following,
 
