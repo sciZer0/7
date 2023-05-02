@@ -23,6 +23,10 @@ doomed by its protocol<br>
 <br>
 
 <h2 align="center">Abstract</h2>
+<p align="center">
+In Brief<br>
+</p>
+
 
 Presenting the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, the Bitcoin blockchain starts this idea itself only in 118 years, at 2140 (explained below).
 
