@@ -401,7 +401,7 @@ Through a fair airdrop excluding the multi-accounting.
 
 This distribution mechanism provides the blockchain the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry from day one.
 
-*As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. The ideas/solutions will only be revealed to Contributors of the Vote DAO.*
+*As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
  
 <br>
@@ -828,7 +828,7 @@ From day one, the monthly rate of Automated Donations is **0.08%** from each Pub
 
 # To All Contributors 
 
-In general, the process is that Contributors of the Initiative Group become Contributors of the Vote DAO. In turn, Contributors of the Vote DAO become Contributors of the U blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
+In general, the process is that Contributors of the Initiative Group become Contributors of the U DAO. In turn, Contributors of the U DAO become Contributors of the U blockchain — first become Contributors of the testnet and then automatically become Contributors of the mainnet.
 
 *For reference*
 
@@ -844,15 +844,15 @@ Plus, the U blockchain unprecedentedly starts with over $100 000,000 people equa
 
 Our vision is that our 3rd milestone is the blockchain's market capitalization of $20 trillion — where the 1st milestone is $50 billion, and 2nd milestone is $1 trillion.
 
-From the very beginning — from the start of the Vote DAO — each Contributor receives highly-generous Automated-Donations in the native token of the U blockchain, about $100,000 per month.
+From the very beginning — from the start of the U DAO — each Contributor receives highly-generous Automated-Donations in the native token of the U blockchain, about $100,000 per month.
 
-There is a special mechanism (needs to first be implemented) in order for Contributors of the Vote DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the U blockchain.
+There is a special mechanism (needs to first be implemented) in order for Contributors of the U DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the U blockchain.
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
-The Vote DAO is being formed right now.
+The U DAO is being formed right now.
 
-Being a software engineer, you may become a Contributor of the Vote DAO.
+Being a software engineer, you may become a Contributor of the U DAO.
 
 <br>
 
@@ -1059,5 +1059,5 @@ Of course, it is just a matter of time that some initiative group of people will
 
 *Additionally, there is a lot of other ideas — incl. ideas about DeFi in general, plus specifically, about stablecoins, exchanges, bridges, and also about tokenized commits (tokenized code).*
 
-The Initiative Group, up to 30 people, is being formed right now to start the Vote DAO on the Solana blockchain.
+The Initiative Group, up to 30 people, is being formed right now to start the U DAO on the Solana blockchain.
 
