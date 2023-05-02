@@ -843,7 +843,7 @@ In general, it is supposed that Contributors of the Initiative Group become Cont
 
 Now, generally, a blockchain with at least some innovative idea is accumulating attention and capitalization very fast. 
 
-Surpassing all other blockchains, the U blockchain unprecedentedly has a lot of innovative ideas. 
+The U blockchain unprecedentedly has a lot of innovative ideas, surpassing all other blockchains in each key aspect. 
 
 Plus, the U blockchain unprecedentedly starts with over $100 000,000 people equally owning the blockchain's native token.
 
@@ -851,7 +851,7 @@ Our vision is that our 3rd milestone is the blockchain's market capitalization o
 
 From the very beginning — from the start of the U DAO — each Contributor receives highly-generous Automated-Donations in the native token of the U blockchain, about $100,000 per month.
 
-There is a special mechanism (needs to first be implemented) in order for Contributors of the U DAO to be, in a pre-programmed way, receiving Automated-Donations in the native token of the U blockchain.
+There is a special mechanism (needs to first be implemented) in order for Contributors of the U DAO to, in a pre-programmed manner, be receiving Automated-Donations in the native token of the U blockchain.
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
@@ -859,9 +859,11 @@ The U DAO is being formed right now.
 
 Being a software engineer, you may become a Contributor of the U DAO.
 
+Below is the table of amounts of VTT tokens received by each Contributor per year in total, splitted by years.
+
 <br>
 
-
+Table of VTT Tokens by year
 
 |YEAR|CUT|  ADR |TOKENS| 
 |----|---|------|------|
@@ -895,17 +897,25 @@ Being a software engineer, you may become a Contributor of the U DAO.
 | 28 | 05|0.0018|000.45|	
 | 29 | 05|0.0017|000.43|
 
+From this table above, we can see that 
+
+* during the 1st year each Contributor receives 250 VTT
+
+* during the 2nd year each Contributor receives 75 VTT
+
+and so on.
+
 Last but not Least 
 
-The stake of each Voter is 0.1 VTT.
+The stake of each Voter — after the airdrop is about 0.1 VTT.
 
 Our vision is that at the 3rd milestone, this stake will be  about $200,000 which is considered life-changing money.
 
 0.1 VTT —> $200,000  at the 3rd milestone 
 
-Just keep in mind that during ONLY the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTTs received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
+Just keep in mind that duriyea only the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTTs received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
 
-750 VTT —> $1,500,000  at the 3rd milestone 
+750 VTT —> $1,500,000,000  at the 3rd milestone 
 
 Plus, the 30% total amounts of VTT of vacant positions of Contributors are also  equally distributed among current Contributors that might result in an additional amount of up to ***925 VTT*** to each Contributor during just the 1st year of the launch of the blockchain, for example.
 
