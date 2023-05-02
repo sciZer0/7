@@ -79,7 +79,7 @@ High (even **extreme**) efficiency of the blockchain and the lowest transaction 
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the U blockchain (initially to the U DAO) — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
+Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the U blockchain (initially to the U DAO) — at least, **$1,2 million per year** or **$100,000 per month**, at maximum, many times more.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -497,7 +497,7 @@ Additionally, in order for a vote to be valid, it must meet the required 1% vote
 <i><b>
 The enormous benefit from voting, among others, is that the more tokens are being locked up for voting, the less tokens are in real circulation. Also importantly, Voters (users) lock up their tokens not in exchange for receiving rewards/interest.  
 
-Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at best, massive competitive-votings, happening on the U blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
+Even though not each Voter might vote, and plus, a Voter might spend only their idle time on voting, nevertheless at maximum, massive competitive-votings, happening on the U blockchain, might additionally decrease the Vote token's real circulating supply significantly — of course, resulting in an additional rise in the voting power of the Vote token.
 </b></i>
 
 
@@ -685,7 +685,7 @@ The idea/hypothesis is that
 
 4. when each Validator in the list doesn't need to have any money/token and put it in the blockchain as their stake, and 
 
-5. when each Validator in the list, being a software engineer, is receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more — just for working honestly, and
+5. when each Validator in the list, being a software engineer, is receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month** — just for working honestly, and
 
 6. when each Validator in the list is competing very hard with other Validators from the waiting list for being in the list in order to be receiving these highly generous Automated Donations, and
 
@@ -754,7 +754,7 @@ This new approach gets totally along with the main point of blockchain technolog
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who are allowed to be contributing to the U blockchain, and simultaneously who are supposed to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at best, many times more.
+Contributors are people who are allowed to be contributing to the U blockchain, and simultaneously who are supposed to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at maximum, many times more.
 
 Each Contributor may only be contributing in the U blockchain in these two roles simultaneously: 
 
@@ -897,7 +897,8 @@ Table of VTT Tokens by year
 | 28 | 05|0.0018|000.45|	
 | 29 | 05|0.0017|000.43|
 
-From this table above, we can see that 
+From this table above, we can see that CUT at the 1st year is 0% of ADR, and that
+
 
 * during the 1st year each Contributor receives 250 VTT
 
@@ -913,12 +914,13 @@ Our vision is that at the 3rd milestone, this stake will be  about $200,000 whic
 
 0.1 VTT —> $200,000  at the 3rd milestone 
 
-Just keep in mind that duriyea only the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTTs received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
+Just keep in mind that during only the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTT tokens received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
 
 750 VTT —> $1,500,000,000  at the 3rd milestone 
 
-Plus, the 30% total amounts of VTT of vacant positions of Contributors are also  equally distributed among current Contributors that might result in an additional amount of up to ***925 VTT*** to each Contributor during just the 1st year of the launch of the blockchain, for example.
+Plus, the 30% total amounts of VTT of vacant positions of Contributors are also  equally distributed among current Contributors that might result at maximum in an additional amount of up to **925 VTT** to each Contributor during just the 1st year of the launch of the blockchain, for example.
 
+925 VTT —> $1,850,000,000  at the 3rd milestone 
 
 And, the 3 fundamental insights are the following,
 
