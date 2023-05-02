@@ -34,7 +34,7 @@ Additionally, the Bitcoin blockchain has a lot of unsolvable technological and s
 
 This all — along with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-Fortunately, this paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
+Fortunately, this paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
@@ -434,7 +434,7 @@ Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
 All (100%) Transaction Fees and all (100%) Rents paid are burned.
 
-This all results in the native token with decreasing total-supply.
+The approach results in creating the native token with decreasing total-supply.
 
 As mentioned above, thanks to this unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
 
