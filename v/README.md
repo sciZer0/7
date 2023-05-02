@@ -407,7 +407,7 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 *As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
-This distribution mechanism provides the blockchain with the almost ideal Gini coefficient of nearly **0**.
+This distribution mechanism provides the blockchain with an almost ideal Gini coefficient of nearly **0**.
 
 The U blockchain has the best Gini coefficient the industry from day one.
 
