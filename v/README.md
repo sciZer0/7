@@ -755,11 +755,11 @@ Each Contributor may only be contributing in the U blockchain in these two roles
 
 On the U Blockchain, there are the maximum number of positions of Contributor.
 
-At the start, the maximum number is 500 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
+At the start, the maximum number is 400 and this number can yearly be changed — either increased or decreased — by 1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 20% voter turnout.*
 
 
 Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 
-Q50% amount of Automated Donations collected for the vacant positions are burned.
+50% amount of Automated Donations collected for the vacant positions are burned the other 50%, are equally distributed among Contributors.
 
 
 
