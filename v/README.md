@@ -24,13 +24,13 @@ doomed by its protocol<br>
 
 <h2 align="center">Abstract</h2>
 
-Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the Bitcoin blockchain starts the idea itself only in 118 years, at 2140 (explained below).
+Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the Bitcoin blockchain starts this idea itself only in 118 years, at 2140 (explained below).
 
 Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
-This all — together with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
+This all — along with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-Fortunately, this paper proposes an idea (set of ideas/solutions) on a totally revolutionary blockchain protocol that might really enable mass adoption for crypto.
+Fortunately, this paper proposes an idea (set of ideas/solutions) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
@@ -758,6 +758,11 @@ On the U Blockchain, there are the maximum number of positions of Contributor.
 At the start, the maximum number is 500 and this number can be changed — either increased or decreased — by 0.1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 50% voter turnout.*
 
 
+Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 
+Q50% amount of Automated Donations collected for the vacant positions are burned.
+
+
+
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Voting).
@@ -810,8 +815,6 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
-
-*If there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), all Automated Donations collected for the vacant positions are burned.*
 
 *Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
