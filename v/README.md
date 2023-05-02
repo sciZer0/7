@@ -890,6 +890,20 @@ Being a software engineer, you may become a Contributor of the U DAO.
 | 28 | 05|0.0018|000.45|	
 | 29 | 05|0.0017|000.43|
 
+Last but not Least 
+
+The stake of each Voter is 0.1 VTT.
+
+Our vision is that at the 3rd milestone, this stake will be  about $200,000 which is considered life-changing money.
+
+0.1 VTT —> $200,000  at the 3rd milestone 
+
+Just keep in mind that during ONLY the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTTs received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
+
+750 VTT —> $1,500,000  at the 3rd milestone 
+
+Plus, the 30% amounts of VTT collected for vacant positions of Contributors are also  equally distributed among current Contributors.
+
 
 <br>
 
