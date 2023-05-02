@@ -28,7 +28,7 @@ In Brief<br>
 </p>
 
 
-Presenting the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, the Bitcoin blockchain will start this idea itself only in 118 years, at 2140 (explained below).
+Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the Bitcoin blockchain will start this idea itself only in 118 years, at 2140 (explained below).
 
 Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
 
