@@ -757,10 +757,7 @@ On the U Blockchain, there are the maximum number of positions of Contributor.
 
 At the start, the maximum number is 400 and this number can yearly be changed — either increased or decreased — by 1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 20% voter turnout.*
 
-
-Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 50% amount of Automated Donations collected for the vacant positions are burned, and the other 50% are equally distributed among Contributors.
-
-
+Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
 
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
@@ -811,9 +808,11 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 *Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the U blockchain.*
 
-From day one, the monthly rate of Automated Donations is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
+From day one, the monthly rate of Automated Donations (**ADR**) is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
+
+As mentioned above, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
 
 *Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
