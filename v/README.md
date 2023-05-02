@@ -358,7 +358,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
 
 
 <p align="left">
-  <img src="/assets/images/vote.png" height="100"><br>
+  <img src="/assets/images/uni.png" height="100"><br>
 </p>
 
 <p><b>Next-Gen, Layer-1, DAO-style Blockchain</b></p>
