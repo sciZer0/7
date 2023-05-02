@@ -855,10 +855,6 @@ There is a special mechanism (needs to first be implemented) in order for Contri
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
-The U DAO is being formed right now.
-
-Being a software engineer, you may become a Contributor of the U DAO.
-
 Below is the table of amounts of VTT tokens received by each Contributor per year in total, splitted by years.
 
 <br>
@@ -924,11 +920,16 @@ Plus, the 30% total amounts of VTT of vacant positions of Contributors are also 
 
 And, the 3 fundamental insights are the following,
 
-* there is no way for VTT but to go up because anything else is inflationary and only VTT is with the constantly-increasing scarcity
+* there is no way for VTT but to go up because any other token/currency is inflationary, and only VTT has the constantly-increasing scarcity
 
 * there is no top to Unicorn  🦄 because there is no bottom for fiat money
 
 * hundreds of millions of people will always find a way to financially support 400 useful people.
+
+
+The U DAO is being formed right now.
+
+Being a software engineer, you may become a Contributor of the U DAO.
 
 
 <br>
