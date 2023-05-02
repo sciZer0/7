@@ -395,11 +395,14 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 <h2>2 &nbsp Fair Full-Scale Distribution</h2>
 
-After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are for free equally distributed among over 100,000,000 people who become Voters (users).
+After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed in the following way 
+
+* 0.15% VTTs are for free distributed among 30 Contributors of the U DAO
+* 99.85% VTTs are for free equally distributed among over 100,000,000 people who become Voters (users).
 
 Through a fair airdrop excluding the multi-accounting. 
 
-This distribution mechanism provides the blockchain the ideal Gini coefficient of 0 at day one, and the best Gini coefficient in the industry from day one.
+This distribution mechanism provides the blockchain the best Gini coefficient in the industry from day one.
 
 *As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
@@ -757,6 +760,8 @@ On the U Blockchain, there are the maximum number of positions of Contributor.
 
 At the start, the maximum number is 400 and this number can yearly be changed — either increased or decreased — by 1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 20% voter turnout.*
 
+If there is one or more vacant positions of Contributor (at the start of the testnet, for example, there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
+
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Voting).
@@ -806,7 +811,10 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 *Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the U blockchain.*
 
-From day one, the monthly rate of Automated Donations (**ADR**) is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
+From day one, the monthly rate of Automated Donations (**ADR** — Automated-Donations Rate) is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
+
+As mentioned above, if there is one or more vacant positions of Contributor (at the start of the testnet, for example, there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
+
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
 
@@ -898,6 +906,9 @@ Our vision is that at the 3rd milestone, this stake will be  about $200,000 whic
 Just keep in mind that during ONLY the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTTs received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
 
 750 VTT —> $1,500,000  at the 3rd milestone 
+
+Plus, the 30% total amounts of VTT of vacant positions of Contributors are also  equally distributed among current Contributors that might result in an additional amount of up to ***925 VTT*** to each Contributor during just the 1st year of the launch of the blockchain, for example.
+
 
 <br>
 
