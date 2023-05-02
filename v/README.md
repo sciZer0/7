@@ -395,7 +395,7 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 <h2>2 &nbsp Fair Full-Scale Distribution</h2>
 
-After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed in the following way 
+After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed in the following way, 
 
 * 0.15% VTTs are for free distributed among 30 Contributors of the U DAO
 * 99.85% VTTs are for free equally distributed among over 100,000,000 people who become Voters (users).
@@ -908,6 +908,15 @@ Just keep in mind that during ONLY the first 3 years — 2 years in the U DAO an
 750 VTT —> $1,500,000  at the 3rd milestone 
 
 Plus, the 30% total amounts of VTT of vacant positions of Contributors are also  equally distributed among current Contributors that might result in an additional amount of up to ***925 VTT*** to each Contributor during just the 1st year of the launch of the blockchain, for example.
+
+
+And, the 3 fundamental insights are the following,
+
+* there is no way for VTT but to go up because anything else is inflationary and only VTT is with the constantly-increasing scarcity
+
+* there is no top to Unicorn  🦄 because there is no bottom for fiat money
+
+* hundreds of millions of people will always find a way to financially support 400 useful people.
 
 
 <br>
