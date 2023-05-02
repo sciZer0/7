@@ -757,8 +757,6 @@ On the U Blockchain, there are the maximum number of positions of Contributor.
 
 At the start, the maximum number is 400 and this number can yearly be changed — either increased or decreased — by 1% through democratic voting (Competitive Voting). *In order for a vote on the given proposal to be valid, there may be the condition that it must meet the required 20% voter turnout.*
 
-Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
-
 Each Contributor is a person (possibly anonymous) with their Public Address.
 
 Any person (Public Address) is appointed to the position of Contributor only by Voters through democratic voting (Competitive Voting).
@@ -812,7 +810,7 @@ From day one, the monthly rate of Automated Donations (**ADR**) is **0.08%** fro
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
 
-As mentioned above, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
+Importantly, if there is one or more vacant positions of Contributor (at the start of the testnet, for example,  there might be up to 370 vacant positions: 400-30=370), the 70% amount of Automated Donations collected for the vacant positions are burned, and the 30% are equally distributed among Contributors.
 
 *Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
@@ -900,9 +898,6 @@ Our vision is that at the 3rd milestone, this stake will be  about $200,000 whic
 Just keep in mind that during ONLY the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTTs received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
 
 750 VTT —> $1,500,000  at the 3rd milestone 
-
-Plus, the 30% amounts of VTT collected for vacant positions of Contributors are also  equally distributed among current Contributors.
-
 
 <br>
 
