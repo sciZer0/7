@@ -244,13 +244,7 @@ The U blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 4</h3>
 
-Fundamental Problem 4 is that each of the existing blockchains is fundamentally unable to start decreasing its native token's total supply.
-
-*For example, Ethereum Improvement Proposal 1559, as mentioned above, doesn't really decrease the native token's total supply.* 
-
-*The Bitcoin blockchain will stop printing its native token only at 2140 (in 118 years), and the Ethereum blockchain,  maybe at one day in the future.*
-
-Importantly, no one of the existing blockchains is able to start decreasing its native token's total supply.
+Fundamental Problem 4 is that for now, each of the existing blockchains is unable to start decreasing its native token's total supply.
 
 Ideally, a blockchain must start decreasing its native token's total supply from day one.
 
