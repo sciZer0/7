@@ -91,7 +91,6 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
 * **Abstract** — Continuation
    - About Blockchain Technology
    - About Immutability Of Code
-   - About the Greatest Value
    - About 5 Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
@@ -156,30 +155,6 @@ By the way, total immutability is especially not good for codebases of smart-con
 As for codebase of a blockchain, the most right approach might be to provide fully-automated decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
 So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way.
-
-
-
-<br>
-
-### About the Greatest Value
-
-Nearly everything people know about money is wrong or a lie.
-
-In the Inflationary Economy, there is nothing new and valuable. 
-
-All that the Inflationary Economy — endless emissions of regular tokens/currencies — can eventually give us is devaluations of these tokens/currencies, meaning devaluations of values. Never something different.
-
-But, unfortunately, all monetary systems in the world — incl. blockchain systems — are inflationary: have only inflationary assets.
-
-Even the Bitcoin blockchain's native token Bitcoin — which is allegedly considered a non-inflationary asset, the token with the fixed total-supply — in reality, for now, is an inflationary asset, since the Bitcoin blockchain will stop printing its native token Bitcoin just at 2140 (in 118 years).
-
-Plus, conceptually, ceteris paribus, a comparably greater value is not a fixed-supply token but a decreasing-supply token.
-
-When,  for example, it comes to the Ethereum blockchain, it is important to understand that much-praised Ethereum Improvement Proposal 1559 doesn't really decrease the native token's total supply. Instead, it just reduces the amount of inflation of the native token.
-
-This all means that the new concept of the native token with the decreasing total-supply is fundamentally much better than Bitcoin's concept of **digital gold** and Ethereum's concept of **ultra sound money** — not to mention inflationary concepts of all other blockchains and all other existing monetary systems.
-
-Definitely, the U blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**.
 
 
 
