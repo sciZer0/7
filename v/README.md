@@ -272,9 +272,9 @@ Actually, this approach means that increasing the inefficiency (overhead) is the
 
 Extremely importantly, increasing the number of nodes is just one of possible ways for a blockchain to achieve permissionlessness and high sustainability incl. the "51% attack" resistance.
 
-Compared to other possible approaches, the old approach is much like adding to your car a 79th wheel, simultaneously dreaming about adding a 205th wheel.
+Compared to other possible approaches, the "traditional" approach is much like adding to your car a 79th wheel, simultaneously dreaming about adding a 205th one.
 
-Ideally, a blockchain must use another, truly-decentralized, highly-efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
+Ideally, a blockchain must use another, truly-decentralized, a lot more efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
 The U blockchain ideally solves this problem from day one.
 
@@ -297,9 +297,8 @@ The U blockchain ideally solves this problem from day one.
 
 In fact, there are also another fundamental problems.
 
-And, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
-With all these fundamental problems that cannot be solved by EACH of the existing blockchains, it is for sure that for now, the industry highly needs a new, innovative, driving-force blockchain in order to finally solve all these fundamental problems and for everything else to be built on it or with it taken into account. And it cannot already be the Bitcoin blockchain, or the Ethereum Blockchain, or any other blockchain you know (incl. Solana, Aptos, Sui, Worldcoin), it should be something fundamentally new — groundbreaking.
+With all these fundamental problems, it is for sure that for now, the industry highly needs a new, innovative, driving-force blockchain in order to finally solve all these fundamental problems and for everything else to be built on it or with it taken into account. And it cannot already be the Bitcoin blockchain, or the Ethereum Blockchain, or any other blockchain you know (incl. Solana, Aptos, Sui, Worldcoin), it should be something fundamentally new — groundbreaking.
 
 
 
