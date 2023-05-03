@@ -397,7 +397,7 @@ Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
 All (100%) Transaction Fees and all (100%) Rents paid are burned 🔥. 
 
-Thanks to this new token-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantlyk-increasing scarcity**. 
+Thanks to this new token-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
 
 <br>
 
