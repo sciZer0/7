@@ -772,7 +772,15 @@ Each candidate/applicant for a position of Contributor have to find a way to pro
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the U DAO starting, in turn, the U blockchain's testnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 400 Contributors through democratic voting (Competitive Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group.*
+
+*And, it might be a number of Contributors enough to start the U DAO starting, in turn, the U blockchain's blockchain, and to make the fair airdrop.*
+
+*After the airdrop, it might be possible to form a full list of 400 Contributors through democratic voting (Competitive Voting).*
+
+*The yearly planned Contributor-addition rate might be 30%. *
+
+*It might take just 10 years to form a full list of 400 Contributors.*
 
 <br>
 
