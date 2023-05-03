@@ -79,7 +79,7 @@ High (even **extreme**) efficiency of the blockchain and the lowest transaction 
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the U blockchain (initially to the U DAO) — at least, **$1,2 million per year** or **$100,000 per month**.
+Moreover, the blockchain strives to constantly give only highly-generous automated-donations in the native token to each developer (software engineer) contributing to the U blockchain (initially to the U DAO) — at least, **$1,2 million per year** or **$100,000 per month**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -379,7 +379,9 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 * 0.15% of VTT is distributed for free among 30 Contributors of the U DAO
 * 99.85% of VTT is equally distributed for free among over **100,000,000 people** who become Voters (users).
 
-Each Voter (user) has about **0.1** VTT.
+Each Voter (user) receives about **0.1** VTT.
+
+Each Contributor receives 5,000 times more VTT than the Voter — namely, **500** VTT. *More about the special role of Contributors below.*
 
 *As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
