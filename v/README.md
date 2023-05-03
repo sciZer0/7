@@ -173,7 +173,7 @@ Below are 5 fundamental problems of all current blockchains compared with the Un
 Fundamental Problem 1 is that people that build blockchains do it the same way as other people built states in the past: 
 
 * with kings (founders), 
-* with top servants (top developers/validators/miners)
+* with top servants (top contributors: developers/validators/miners)
 * often with royalty (VCs)
 * but always with really-rightless people (users)
 
@@ -230,17 +230,9 @@ The U blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in the transaction fee — incl. leads to an increase in the so-called "priority fee" — that the contributor (miner/validator) receives as a reward during the congestion.
+Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in its turn, always leads to an increase in an amount of tokens that contributors (miners/validators) receive.
 
-*For reference*
-
-*Ethereum Improvement Proposal 1559, which first splits each transaction fee into the base cost and the priority fee, and then burns the former and gives the latter to the miner as a reward, is fundamentally **wrong** because this way the proposal makes the most powerful contributors (miners/validators) directly interested in low bandwidth and hence network congestions, because the congestions, thanks to the proposal, lead to increases in the contributors' rewards.*
-
-*Of course, in their case, if reasonably, they should have done everything vice-versa — precisely the priority fee must be burned.*
-
-*On all other blockchains (incl. the Bitcoin blockchain), **essentially**, there is the same wrong situation with the "priority fee" which, in fact, is inbuilt in each transaction fee.*
-
-Ideally, the blockchain must never make its top-contributors (miners/validators) being interested in low bandwidth, meaning that at least the "priority fee" must be burned, increasing along the way the value of the native token.
+Ideally, network congestions, inevitably leading to increases in transaction fees, must never lead to increases in amounts of tokens that contributors (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The U blockchain ideally solves this problem from day one.
 
