@@ -811,18 +811,18 @@ System Program 2 is a special inbuilt code that modifies/controls the account's 
 
 *Automated Donations are an element of a Creator Thanksgiving Culture, and also are an automated inbuilt feature of the U blockchain.*
 
-From day one, the monthly rate of Automated Donations (**ADR** — Automated-Donations Rate) is **0.08%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
+At the start, according to the planed number of Contributors equal to 39 (30+9), the yearly rate of Automated Donations (**ADR** — Automated-Donations Rate) is **0.0975%** from each Public Address' balance, and the rate may yearly be changed — either increased or decreased — by *5%* through democratic voting (Competitive Voting). 
 
-If there is one or more vacant positions of Contributor (at the start of the testnet, for example, there might be up to 370 vacant positions: 400-30=370), all VTT tokens collected as Automated Donations for the vacant positions are burned.
+All Automated Donations for vacant positions are burned 🔥. 
 
 *It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
 
-*Of course, some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
+*Some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
 * funding coordinating protocol maintenance and upgrades, incl. funding additional external developers and auditors to test and find exploit
 * funding documentation and research.
 
-*Treasury funds, theoretically, might also be formed up the same way.*
+*Treasury funds may also be formed up the same way.*
 
 
 
