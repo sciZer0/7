@@ -230,7 +230,7 @@ The U blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 3</h3>
 
-Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in its turn, always leads to an increase in an amount of tokens that contributors (miners/validators) receive.
+Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in turn, always leads to an increase in an amount of tokens that contributors (miners/validators) receive.
 
 Ideally, network congestions, inevitably leading to increases in transaction fees, must never lead to increases in amounts of tokens that contributors (miners/validators) receive — instead, this whole token increase received must be burned.
 
