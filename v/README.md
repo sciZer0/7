@@ -384,7 +384,7 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 This distribution mechanism provides the blockchain with an almost ideal Gini coefficient of nearly **0**.
 
-The U blockchain has the best Gini coefficient the industry from day one.
+The U blockchain has the best Gini coefficient in the industry from day one.
 
  
 <br>
