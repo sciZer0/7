@@ -264,7 +264,7 @@ This problem comes from the fact that, for now, in the industry, there is the ma
 
 **the more the blockchain's market capitalization becomes the more of honest nodes must be added in the blockchain — in order for the blockchain to be considered sufficiently sustainable (secure).**.
 
-According to this logic, a blockchain with a really huge market capitalization must always strive to have lots of lots of honest nodes.
+According to this logic, a blockchain with a really huge market capitalization of say **$20 trillion** must always strive to have lots of lots of honest nodes.
 
 At the same time, an increase in a number of nodes doesn't increase the blockchain's (shard's) bandwidth proportionally, if ever.
 
