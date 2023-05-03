@@ -207,17 +207,17 @@ Fundamental Problem 2 is that on each of the existing blockchains, there is the 
 
 *For reference,*
 
-*Wealth in crypto-land is more concentrated than even in North Korea where the inequality Gini coefficient is **0.86** (it is 0.41 in the quite unequal US), the Gini coefficient for Bitcoin is more terrible,  an astonishing **0.88**.*
+*Wealth in crypto-land is more concentrated than even in North Korea where the inequality Gini coefficient is **0.86** (it is 0.41 in the quite unequal US), the Gini coefficient for Bitcoin is, surprisingly to many, more terrible, an astonishing **0.88**.*
 
 As Vitalik said about the great unfairness of Bitcoin — Was Bitcoin really a fair launch considering how few people had a chance to even hear about it by the time <b>1/4</b> of the supply had already been handed out by the end of 2010?
 
 Although nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time <b>1/2</b> of the supply had already been handed out among less than 7 thousand people by the end of 2014?
 
-Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total initial token supply went to the community.
+Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the supply went to people (users).
 
 The token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
 
-Probably, precisely the great unfairness might **most** prevent each of the existing blockchains from getting mass adoption in the long run.
+Probably, precisely the great unfairness (not technology) will **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
 Ideally, a blockchain must execute very wide native-token distribution, and have the best Gini coefficient in the industry.
 
