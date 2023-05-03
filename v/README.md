@@ -79,7 +79,7 @@ High (even **extreme**) efficiency of the blockchain and the lowest transaction 
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the U blockchain (initially to the U DAO) — at least, **$1,2 million per year** or **$100,000 per month**, at maximum, many times more.
+Moreover, the blockchain strives to constantly give highly-generous automated-donations in the native token to each developer (software engineer) contributing to the U blockchain (initially to the U DAO) — at least, **$1,2 million per year** or **$100,000 per month**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -432,7 +432,7 @@ Rents are paid by Account Owners to keep accounts' data stored on the blockchain
 
 Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
-All (100%) Transaction Fees and all (100%) Rents paid are burned.
+All (100%) Transaction Fees and all (100%) Rents paid are burned 🔥. 
 
 The approach results in creating the native token with decreasing total-supply.
 
@@ -751,7 +751,7 @@ So we can surely achieve high decentralization and sustainability for extremely-
 
 <h2>7 &nbsp Contributors</h2>
 
-Contributors are people who are allowed to be contributing to the U blockchain, and simultaneously who are supposed to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**, at maximum, many times more.
+Contributors are people who are allowed to be contributing to the U blockchain, and simultaneously who are supposed to be receiving highly-generous Automated Donations — at least, **$1,2 million per year** or **$100,000 per month**.
 
 Each Contributor may only be contributing in the U blockchain in these two roles simultaneously: 
 
@@ -772,8 +772,7 @@ Each candidate/applicant for a position of Contributor have to find a way to pro
 
 At any moment, a person  (Public Address) being in the position of Contributor may be dropped from the position through democratic voting (Competitive Voting).
 
-
-*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the blockchain's testnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 400 Contributors through democratic voting (Competitive Voting).*
+*The first 30 persons might be appointed to the positions of Contributor by an initiative group. And it might be a number of Contributors enough to start the U DAO starting, in turn, the U blockchain's testnet and make the fair airdrop, after which, it might be possible to along the way form a full list of 400 Contributors through democratic voting (Competitive Voting).*
 
 <br>
 
