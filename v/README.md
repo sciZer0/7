@@ -73,9 +73,9 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
 
-Thanks to the unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
+The high (even **extreme**) efficiency of the blockchain determining, in turn, the lowest transaction fees is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
-High (even **extreme**) efficiency of the blockchain and the lowest transaction fees are achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Thanks to the unique approach and token burning mechanism, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
@@ -397,9 +397,7 @@ Both Transaction Fees and Rents are paid in the Vote token (in Hands).
 
 All (100%) Transaction Fees and all (100%) Rents paid are burned 🔥. 
 
-The approach results in creating the native token with decreasing total-supply.
-
-As mentioned above, thanks to this unique native token having the decreasing total-supply, the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless globally-transferable token with the constantly-increasing scarcity**. 
+Thanks to the given token burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantlyk-increasing scarcity**. 
 
 <br>
 
