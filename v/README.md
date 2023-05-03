@@ -246,6 +246,10 @@ The U blockchain ideally solves this problem from day one.
 
 Fundamental Problem 4 is that for now, each of the existing blockchains is unable to start decreasing its native token's total supply.
 
+For example, the Bitcoin blockchain will stop printing its native token Bitcoin only at 2140 (in 118 years),  and will never start decreasing its native token's total supply.
+
+Any other blockchain will at best start decreasing its native token's total supply maybe at one day in the future.
+
 Ideally, a blockchain must start decreasing its native token's total supply from day one.
 
 The U blockchain ideally solves this problem from day one.
