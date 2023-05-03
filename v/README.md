@@ -173,7 +173,7 @@ Below are 5 fundamental problems of all current blockchains compared with the Un
 Fundamental Problem 1 is that people that build blockchains do it the same way as other people built states in the past: 
 
 * with kings (founders), 
-* with top servants (top contributors: developers/validators/miners)
+* with top servants (top contributors: top developers/validators/miners)
 * often with royalty (VCs)
 * but always with really-rightless people (users)
 
