@@ -34,7 +34,7 @@ Additionally, the Bitcoin blockchain has a lot of unsolvable technological and s
 
 This all — along with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
+This paper proposes an idea (set of ideas/solutions/approaches) on a blockchain protocol that might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
@@ -132,7 +132,7 @@ On the other hand, the main task of developers is to really build/make such perm
 
 Theoretically, a blockchain should be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
-And, the main rule of efficiency is that you must never do more than enough.
+>**The main rule of efficiency is that you must never do more than enough.**
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
