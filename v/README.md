@@ -376,9 +376,10 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed as follows, 
 
-* 0.15% VTTs are distributed for free among 30 Contributors of the U DAO
-* 99.85% VTTs are equally distributed for free among over **100,000,000 people** who become Voters (users).
+* 0.15% of VTT is distributed for free among 30 Contributors of the U DAO
+* 99.85% of VTT is equally distributed for free among over **100,000,000 people** who become Voters (users).
 
+Each Voter (user) has about **0.1** VTT.
 
 *As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain. Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
