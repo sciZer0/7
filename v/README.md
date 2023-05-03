@@ -219,7 +219,7 @@ The token distribution and inequality Gini coefficient aren't much better, if an
 
 Probably, precisely the great unfairness (not technology) will **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
-Ideally, a blockchain must execute very wide native-token distribution, and have the best Gini coefficient in the industry.
+Ideally, a blockchain must execute very wide initial token-distribution, and have the best Gini coefficient in the industry.
 
 The U blockchain ideally solves this problem from day one.
 
