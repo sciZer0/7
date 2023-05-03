@@ -855,11 +855,11 @@ There is a special mechanism (needs to first be implemented) in order for Contri
 
 On the initial stage, the native token is estimated based at the 1st milestone, the market capitalization of $50 billion.
 
-Below is the table of VTT tokens received by each Contributor per year in total, splitted by years.
+Below is the table of VTT received by each Contributor per year in total, splitted by years.
 
 <br>
 
-**Table of VTT Tokens Received by Contributor by Year**
+**Table of VTT Received by Contributor by Year**
 
 |YEAR|CUT|  ADR |TOKENS| 
 |----|---|------|------|
