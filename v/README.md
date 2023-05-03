@@ -94,7 +94,7 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
    - About the Greatest Value
    - About 5 Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
-* **Some Other Thoughts**
+* **Addition**
    - *About Nakamoto Coefficient*
    - *About Bitcoin*
 * **CONCLUSION** 
@@ -1005,7 +1005,7 @@ As an element of Creator Thanksgiving Culture, we establish a new fete day — C
 
 
 <br><br><br>
-## Some Other Thoughts
+## Addition
 
 * *About Nakamoto Coefficient*
 * *About Bitcoin*
