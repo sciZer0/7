@@ -215,7 +215,7 @@ Although nearly the same might be said about Ethereum — Was Ethereum really a 
 
 Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the supply went to people (users).
 
-The token distribution and inequality Gini coefficient aren't much better, if any better, on other existing blockchains.
+On any other blockchain, token distribution and the inequality Gini coefficient aren't much better, if any better.
 
 Probably, precisely the great unfairness (not technology) will **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
