@@ -80,7 +80,7 @@ The blockchain for the first time in the industry creates the most valuable asse
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Simultaneously, despite being highly-efficient, the blockchain strives to **annually** pay in the native token each of its qualified contributors **highly-generous automated-donations** — many times bigger than the life changing money.
+Simultaneously, despite being highly-efficient, the blockchain strives to **annually** pay in the native token each of its qualified contributors **highly-generous automated-donations**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
