@@ -53,6 +53,8 @@ Revolutionary Blockchain<br>
 
 <br>
 
+First of all, there is **$83 trillion** in the total supply.
+
 The U blockchain is a next-gen, layer-1, DAO-style blockchain.
 
 From day one, the blockchain is simultaneously:
@@ -77,7 +79,7 @@ The high (even **extreme**) efficiency  is achieved through the use of a new app
 
 The blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
 
-Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
+Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
 Simultaneously, despite being highly-efficient, the blockchain strives to **annually** pay in the native token each of its qualified contributors **highly-generous automated-donations** — many times bigger than the life changing money.
 
