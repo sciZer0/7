@@ -27,12 +27,13 @@ doomed by its protocol<br>
 In Brief<br>
 </p>
 
+First of all, there is **$83 trillion** in the total supply, and the supply is constantly increasing.
 
-Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, the Bitcoin blockchain will start this idea itself only in 118 years, at 2140 (explained below).
+Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, unfortunately, the Bitcoin blockchain will start this idea itself only in 118 years, at 2140 (*explained below*).
 
-Additionally, the Bitcoin blockchain has a lot of unsolvable technological and social problems being fundamental (described below).
+Additionally, the Bitcoin blockchain as a platform has a lot of unsolvable technological and social problems being fundamental (*described below*).
 
-This all — along with other fundamental problems of all other existing blockchains (described below) — makes it highly-hard for crypto in general to achieve mass adoption.
+This all — along with other fundamental problems of all other existing blockchains (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
 
 This paper proposes an idea (set of ideas/solutions/approaches) on a blockchain protocol that might really enable mass adoption for crypto.
 
@@ -53,9 +54,7 @@ Revolutionary Blockchain<br>
 
 <br>
 
-First of all, there is **$83 trillion** in the total supply.
-
-The U blockchain is a next-gen, layer-1, DAO-style blockchain.
+The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
 
 From day one, the blockchain is simultaneously:
 
