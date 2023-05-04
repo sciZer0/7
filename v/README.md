@@ -31,7 +31,7 @@ First of all, there is **$83 trillion** in the total supply, and the supply is c
 
 Presenting — yet in 2009 — the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, unfortunately, the Bitcoin blockchain implementing the idea is set to start this idea itself only in 118 years, at 2140 (*explained below*).
 
-Additionally, the Bitcoin blockchain as a platform has a lot of unsolvable technological and social problems being fundamental (*described below*).
+Additionally, the Bitcoin blockchain as a system has a lot of unsolvable technological and social problems being fundamental (*described below*).
 
 This all — along with other fundamental problems of all other existing blockchains (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
 
