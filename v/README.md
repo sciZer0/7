@@ -48,9 +48,7 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 <p>&nbsp</p>
 <h2 align="center">THE UNICORN<br>
 BLOCKCHAIN</h2>
-<p align="center">
-Revolutionary Blockchain<br>
-</p>
+
 
 <br>
 
@@ -314,12 +312,7 @@ With all these fundamental problems, it is for sure that for now, the industry h
 <h2 align="center">THE UNICORN BLOCKCHAIN</h2>
 <p align="center">In More Detail</p>
 
-<br>
-<p>
-<b>
-This is a blockchain which is extremely-hard to surpass/improve in each key aspect.
-</b>
-</p>
+
 <p>&nbsp</p>
 
 
@@ -328,7 +321,7 @@ This is a blockchain which is extremely-hard to surpass/improve in each key aspe
   <img src="/assets/images/unicorn.png" height="100"><br>
 </p>
 
-<p><b>Next-Gen, Layer-1, DAO-style Blockchain</b></p>
+<p><b>Revolutionary, Layer-1, DAO-style Blockchain</b></p>
 <b>FROM DAY ONE</b><br>
 
 * highly-decentralized
