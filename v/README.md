@@ -29,7 +29,7 @@ In Brief<br>
 
 First of all, there is **$83 trillion** in the total supply, and the supply is constantly increasing.
 
-Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, unfortunately, the Bitcoin blockchain will start this idea itself only in 118 years, at 2140 (*explained below*).
+Presenting the really-innovative idea of the permissionless globally-transferable token with the fixed total-supply, nevertheless, unfortunately, **the Bitcoin blockchain** will start this idea itself only in 118 years, at 2140 (*explained below*).
 
 Additionally, the Bitcoin blockchain as a platform has a lot of unsolvable technological and social problems being fundamental (*described below*).
 
@@ -37,7 +37,7 @@ This all — along with other fundamental problems of all other existing blockch
 
 This paper proposes an idea (set of ideas/solutions/approaches) on a blockchain protocol that might really enable mass adoption for crypto.
 
-The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
+The protocol is represented through describing **the Unicorn** (**U**) **blockchain** being built based on the given protocol.
 
 <br>
 <h2 align="center">Brief Introduction</h2>
@@ -48,6 +48,8 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 <p>&nbsp</p>
 <h2 align="center">THE UNICORN<br>
 BLOCKCHAIN</h2>
+<p align="center">In Brief </p>
+
 
 
 <br>
