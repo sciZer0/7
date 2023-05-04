@@ -79,7 +79,7 @@ In turn, thanks to the new approach to consensus and new token-burning mechanism
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of **$20 trillion** and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-The blockchain strives to **annually** give only highly-generous automated-donations in the native token to each **Contributor** — at least, **$1,2 million**, i.e. many times more than life changing money. 
+Simultaneously, despite being highly-efficient, the blockchain strives to annually pay in the native token each of its contributors **highly-generous automated-donations**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
