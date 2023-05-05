@@ -103,7 +103,7 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
 * **Abstract** — Continuation
    - About Blockchain Technology
    - About Immutability Of Code
-   - About 5 Fundamental Problems of All Current Blockchains
+   - About **5** Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
    - *About Nakamoto Coefficient*
@@ -173,7 +173,7 @@ So codebase (constitution) of a blockchain can have variables when values of the
 
 ### About 5 Fundamental Problems of All Current Blockchains
 
-Below are 5 fundamental problems of all current blockchains compared with the Unicorn Blockchain.
+Below are **5** fundamental problems of all current blockchains compared with the Unicorn Blockchain.
 
 
 
