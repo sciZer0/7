@@ -85,7 +85,7 @@ In other words, the permissionless, cheapest-to-globally-transfer token with the
 It suddenly becames possible thanks to
 
 * (1) the execution of the full-scale initial token-distribution of Maximum Supply
-* (2) the use of the new comprehensive fee-burning mechanism.
+* (2) the use of the new all-fees-burning mechanism.
 * (3) the introduction of the tiny-in-size tax, supposed-to-additionally-regularly-be-reduced
 
 The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
