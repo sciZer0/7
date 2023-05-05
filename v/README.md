@@ -31,7 +31,7 @@ First of all, there is **$83 trillion** in the total supply, and this total supp
 
 Absolutely, in the Inflationary Monetary Economy, there is nothing new and valuable. 
 
-All that the inflationary model — endless emissions of regular tokens/currencies — can eventually give us is devaluations of these tokens/currencies (values).
+All that the inflationary model — endless emissions of inflationary currencies/tokens — can eventually give us is devaluations of these currencies/tokens (values).
 
 Presenting — yet in 2009 — the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set to start this idea itself only in 118 years, at 2140 (*explained below*).
 
