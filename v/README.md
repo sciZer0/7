@@ -27,7 +27,7 @@ doomed by its protocol<br>
 In Brief<br>
 </p>
 
-First of all, there is **$83 trillion** in the total supply, and this total supply is constantly increasing.
+First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
 Absolutely, in the Inflationary Monetary Economy, there is nothing new and valuable. 
 
