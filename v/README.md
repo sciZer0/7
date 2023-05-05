@@ -76,16 +76,18 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 The blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
 
+In other words, the permissionless, cheapest-to-globally-transfer token with the constantly-decreasing total supply.
+
 It becames possible thanks to
 
 * (1) execution of the full-scale initial token-distribution of Maximum Supply
-* (2) the use of the new comprehensive token-burning mechanism.
+* (2) the use of the new comprehensive fee-burning mechanism.
 
 
 The high (even **extreme**) efficiency of the blockchain  is achieved thanks to 
 
 * (1) the use of the new highly-efficient approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
-* (2) introduction of the tiny-in-size tax, supposed-to-regularly-additionally-be-reduced
+* (2) introduction of the tiny-in-size tax (0.0975%), supposed-to-regularly-additionally-be-reduced
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
