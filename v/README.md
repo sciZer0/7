@@ -86,11 +86,9 @@ It suddenly becames possible thanks to
 
 * (1) the execution of the full-scale initial token-distribution of Maximum Supply
 * (2) the use of the new comprehensive fee-burning mechanism.
+* (3) the introduction of the tiny-in-size tax, supposed-to-additionally-regularly-be-reduced
 
-The high (even **extreme**) efficiency of the blockchain  is achieved through
-
-* (1) the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
-* (2) the introduction of the tiny-in-size tax, supposed-to-additionally-regularly-be-reduced
+The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
