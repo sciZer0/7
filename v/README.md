@@ -86,7 +86,7 @@ The absolute game-changer.
 
 It suddenly becames possible thanks to
 
-* (1) the distribution of **Maximum Supply** right away at the very beginning 
+* (1) the distribution of the whole **maximum token-supply** right away at the very beginning 
 * (2) the use of the new **all-fees-burning** mechanism.
 * (3) the introduction of the tiny-in-size **tax**, supposed-to-additionally-regularly-be-reduced.
 
@@ -412,7 +412,6 @@ Both Transaction Fees and Rental Fees are paid in the Vote token (in Hands).
 
 All (100%) Transaction Fees and all (100%) Rental Fees paid are burned 🔥. 
 
-Thanks to this new comprehensive fee-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 <br>
 
