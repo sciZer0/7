@@ -88,7 +88,7 @@ It becames possible thanks to
 * (2) the use of the new comprehensive fee-burning mechanism.
 
 
-The high (even **extreme**) efficiency of the blockchain  is achieved thanks to 
+The high (even **extreme**) efficiency of the blockchain  is achieved through 
 
 * (1) the use of the new highly-efficient approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 * (2) the introduction of the tiny-in-size tax, supposed-to-regularly-additionally-be-reduced
