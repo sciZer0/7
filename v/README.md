@@ -400,13 +400,13 @@ From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Secon
 
 Transaction Fees are paid by Account Owners to process transactions (instructions) on the blockchain.
 
-Rents are paid by Account Owners to keep accounts' data stored on the blockchain. 
+Rental Fees are paid by Account Owners to keep accounts' data stored on the blockchain. 
 
-Both Transaction Fees and Rents are paid in the Vote token (in Hands).
+Both Transaction Fees and Rental Fees are paid in the Vote token (in Hands).
 
-All (100%) Transaction Fees and all (100%) Rents paid are burned 🔥. 
+All (100%) Transaction Fees and all (100%) Rental Fees paid are burned 🔥. 
 
-Thanks to this new token-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
+Thanks to this new comprehensive fee-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
 
 <br>
 
