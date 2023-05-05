@@ -82,6 +82,8 @@ The U blockchain for the first time in the industry creates the most valuable as
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
+The absolute game-changer.
+
 It suddenly becames possible thanks to
 
 * (1) the execution of the full-scale initial token-distribution of Maximum Supply
