@@ -29,7 +29,7 @@ In Brief<br>
 
 First of all, there is **$83 trillion** in the total supply, and this total supply is constantly increasing.
 
-Presenting — yet in 2009 — the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, unfortunately, the Bitcoin blockchain implementing the idea is set to start this idea itself only in 118 years, at 2140 (*explained below*).
+Presenting — yet in 2009 — the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set to start this idea itself only in 118 years, at 2140 (*explained below*).
 
 Additionally, the Bitcoin blockchain as a system has a lot of unsolvable technological and social problems being fundamental (*described below*).
 
@@ -85,7 +85,7 @@ It becames possible thanks to
 The high (even **extreme**) efficiency of the blockchain  is achieved thanks to 
 
 * (1) the use of the new highly-efficient approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
-* (2) introduction of the tiny-in-size, constantly-reducing tax
+* (2) introduction of the tiny-in-size tax, supposed-to-regularly-additionally-be-reduced
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
