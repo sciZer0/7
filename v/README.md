@@ -74,13 +74,22 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
 
-The high (even **extreme**) efficiency  is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
-
 The blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
+
+It becames possible thanks to
+
+* (1) execution of the full-scale initial token-distribution of Maximum Supply
+* (2) the use of the new comprehensive token-burning mechanism.
+
+
+The high (even **extreme**) efficiency of the blockchain  is achieved thanks to 
+
+* (1) the use of the new highly-efficient approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+* (2) introduction of the tiny-in-size, constantly-reducing tax
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Simultaneously, despite being highly-efficient, the blockchain strives to **annually** pay in the native token each of its qualified contributors **highly-generous automated-donations**.
+Simultaneously, despite being highly-efficient, the blockchain strives to **annually** pay in the native token **each** of its qualified contributors **highly-generous automated-donations**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
