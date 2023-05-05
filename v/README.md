@@ -74,9 +74,9 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
 
-The blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
+The blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
-In other words, the permissionless, cheapest-to-globally-transfer token with the constantly-decreasing total supply.
+In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
 It becames possible thanks to
 
@@ -406,7 +406,7 @@ Both Transaction Fees and Rental Fees are paid in the Vote token (in Hands).
 
 All (100%) Transaction Fees and all (100%) Rental Fees paid are burned 🔥. 
 
-Thanks to this new comprehensive fee-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the constantly-increasing scarcity**. 
+Thanks to this new comprehensive fee-burning mechanism — along with the new approach to consensus (described below) — the blockchain for the first time in the industry creates the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 <br>
 
