@@ -227,7 +227,7 @@ Another example, the SOL token — the Solana blockchain — entered the market 
 
 On any other blockchain, token distribution and the inequality Gini coefficient aren't much better, if any better.
 
-Probably, precisely the great unfairness (not technology that might be great) will **most** prevent each of the existing blockchains from getting mass adoption in the long run.
+Probably, precisely the great unfairness (not technology that might be great) could **most** prevent each of the existing blockchains from getting mass adoption in the long run.
 
 Ideally, a blockchain must execute very wide initial token-distribution, and have the best Gini coefficient in the industry.
 
