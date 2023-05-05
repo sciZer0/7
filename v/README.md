@@ -33,7 +33,7 @@ Definitely, in the Inflationary Monetary Economy, there is nothing new and valua
 
 The inflationary model — endless emission of inflationary currencies/tokens —  **eventually** always results in devaluations of the currencies/tokens (values). Never results in something different.
 
-Presenting — yet in 2009 — the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply**, nevertheless, unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set to start this **idea itself** only in 118 years, at 2140 (*explained below*).
+Presenting yet in 2009 the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply** — with the perspective of becoming the most valuable asset in the financial word — nevertheless, unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set to start this **idea itself** only in 118 years, at 2140 (*explained below*).
 
 Additionally, the Bitcoin blockchain as a system has a lot of unsolvable technological and social problems being fundamental (*described below*).
 
