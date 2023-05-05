@@ -242,6 +242,8 @@ The U blockchain ideally solves this problem from day one.
 
 Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in turn, always leads to an increase in an amount of tokens that contributors (miners/validators) receive.
 
+The current approach being **wrong** makes top-contributors (miners/validators) directly interested in congestions — in low bandwidth.
+
 Ideally, network congestions, inevitably leading to increases in transaction fees, must never lead to increases in amounts of tokens that contributors (miners/validators) receive — instead, this whole token increase received must be burned.
 
 The U blockchain ideally solves this problem from day one.
