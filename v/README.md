@@ -108,6 +108,7 @@ Technologically, the blockchain borrows heavily from the Solana blockchain.
 <b>TABLE OF CONTENTS</b>
 * **Abstract** — Continuation
    - About Blockchain Technology
+   - About New Culture 
    - About Immutability Of Code
    - About **5** Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
@@ -153,6 +154,21 @@ Theoretically, a blockchain should be <b>as</b> efficient <b>as</b> possible —
 
 Absolutely, blockchain technology causes a paradigm revolution. This is so because — enough to even mention this single thing alone — no today's state would like to allow people to get permissionless access to value.
 
+
+<br>
+
+
+### About New Culture 
+
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same numbers (digitizable things — videos, audios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
+
+As they say — change or die.
+
+Idea/Hypothesis
+
+The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
+
+In the future, donations will play the most important role in the creative economy.
 
 
 
