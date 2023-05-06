@@ -37,7 +37,7 @@ Presenting yet in 2009 the really-innovative idea of **the permissionless global
 
 Additionally, the Bitcoin blockchain as a system has a lot of unsolvable technological and social problems being fundamental (*described below*).
 
-This all — along with **fundamental problems of all other blockchains** (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
+This all — along with **fundamental problems of other blockchains** (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
 
 This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
