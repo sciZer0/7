@@ -39,7 +39,7 @@ Additionally, the Bitcoin blockchain as a system has a lot of unsolvable technol
 
 This all — along with fundamental problems of all other existing blockchains (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a blockchain protocol that introduces a revolutionary, non-inflationary token of fundamentally-new sort which might in turn enable mass adoption for crypto.
+This paper proposes an idea (set of ideas/solutions/approaches) on a blockchain protocol that might enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
@@ -78,11 +78,11 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 *There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
 
-Also from day one, the blockchain for the first time in the industry has the most valuable asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+
+Also from day one, the blockchain has the most valuable sort of asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
-
-The absolute game-changer.
 
 It suddenly becames possible thanks to
 
@@ -90,7 +90,7 @@ It suddenly becames possible thanks to
 * (2) the use of the new **all-fees-burning** mechanism.
 * (3) the introduction of the tiny-in-size **tax**, supposed-to-additionally-regularly-be-reduced.
 
-The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+All fees received are burned.
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
