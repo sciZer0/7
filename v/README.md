@@ -84,7 +84,7 @@ Also from day one, the blockchain has **the permissionless, cheapest-to-globally
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
-It suddenly becames possible thanks to combining the following things,
+This all suddenly becames possible thanks to combining the following things,
 
 * (1) the new approach to consensus (PoSF)
 * (2) the distribution of the whole **maximum supply** of the native token at the very beginning 
