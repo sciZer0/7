@@ -91,11 +91,11 @@ This all suddenly becames possible thanks to combining the following things,
 * (3) the use of the new **all-fees-burning** 🔥 mechanism
 * (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
 
-Pay attention: all fees received (100% fees) are burned 🔥 and there is no emission of the native token any more after the Genesis Block. The maximum supply  is issued at the Genesis Block and then is fully distributed among over 100 million people.
+Pay attention: all fees received (100% fees) are burned 🔥 and there is no emission of the native token any more after the Genesis Block. The maximum supply  is issued at the Genesis Block and then right away is fully distributed among over 100 million people.
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Simultaneously, despite being highly-efficient, the blockchain strives to pay in the native token **each Contributor** highly-generous automated-donations  — at least, **$1,2 million per year** or **$100,000 per month**.
+Simultaneously, despite being highly-efficient, the blockchain strives to pay in the native token **each Contributor** (for example, being a programming engineer) highly-generous automated-donations  — at least, **$1,2 million per year** or **$100,000 per month**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
