@@ -55,7 +55,7 @@ BLOCKCHAIN</h2>
 <p align="center">In Brief </p>
 
 **Motto**:<br>
-A hundred million people, or even more so, hundreds of millions of people will always find a way to financially support 400 useful people.
+*A hundred million people, or even more so, hundreds of millions of people will always find a way to financially support 400 useful people.*
 
 
 <br>
@@ -78,7 +78,7 @@ Some Notes
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
+*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the token airdrop, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
 
 The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
@@ -389,7 +389,7 @@ This distribution mechanism provides the blockchain with an almost ideal Gini co
 
 The U blockchain has the best Gini coefficient in the industry from day one.
 
-*As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.* 
+*As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the token airdrop, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.* 
 
 *Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
