@@ -174,6 +174,7 @@ The idea/hypothesis is that due to this new creator-paradigm, we might shape a *
 
 In the future, in the creative economy, donations will most likely play the most important role in monetization of creators.
 
+We believe the new blockchain  protocol  is very (or even most) suitable for upcoming creative economy.
 
 
 <br>
