@@ -68,7 +68,7 @@ From day one, the blockchain is simultaneously:
 * highly-efficient (**new**)
 * with the bandwidth of over 50,000 TPS
 * with the lowest transaction fees (**new**)
-* with the native, decreasing-total-supply token (**new**)
+* with the native, powerfully-decreasing total-supply token (**new**)
 * with over 100,000,000 owners of the native token (**new**)
 * with the best Gini coefficient (**new**)
 
@@ -80,7 +80,7 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
-Also from day one, the blockchain has the most valuable sort of asset in the financial world: **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+Also from day one, the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
@@ -89,7 +89,7 @@ It suddenly becames possible thanks to combining the following things,
 * (1) the new approach to consensus (PoSF)
 * (2) the distribution of the whole **maximum token-supply** right away at the very beginning 
 * (3) the use of the new **all-fees-burning** mechanism.
-* (4) the introduction of the universal **tax** with a tiny rate supposed to additionally regularly be reduced.
+* (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
 
 Pay attention: all fees received (100% fees) are burned.
 
@@ -349,9 +349,9 @@ With all these fundamental problems, it is for sure that for now, the industry h
 * highly-efficient
 * with the bandwidth of over 50,000 TPS
 * with the lowest transaction fees
-* with the native, decreasing-total-supply token
-* with over 100,000,000 owners of the native token
-* with the best Gini coefficient 
+* with the native, powerfully-decreasing total-supply token (**new**)
+* with over 100,000,000 owners of the native token (**new**)
+* with the best Gini coefficient (**new**)
 
 <p>&nbsp</p>
 
