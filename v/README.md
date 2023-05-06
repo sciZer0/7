@@ -55,7 +55,7 @@ BLOCKCHAIN</h2>
 <p align="center">In Brief </p>
 
 **Motto**:<br>
-A hundred million people, and even more so, hundreds of millions of people will always find a way to financially support 400 useful people.
+A hundred million people, or even more so, hundreds of millions of people will always find a way to financially support 400 useful people.
 
 
 <br>
