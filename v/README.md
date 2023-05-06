@@ -80,14 +80,14 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
-Also from day one, the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+Also from day one, the blockchain has as its native token **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
 This all suddenly becames possible thanks to combining the following things,
 
 * (1) the new approach to consensus (PoSF)
-* (2) the distribution of the *maximum supply** of the native token at the very beginning 
+* (2) the distribution of the **maximum supply** of the native token at the very beginning 
 * (3) the use of the new **all-fees-burning** 🔥 mechanism
 * (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
 
@@ -95,7 +95,7 @@ Pay attention: all fees received (100% fees) are burned 🔥 and there is no emi
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
-Simultaneously, despite being highly-efficient, the blockchain strives to pay in the native token **each Contributor** (for example, being a programming engineer) highly-generous automated-donations  — at least, **$1,2 million per year** or **$100,000 per month**.
+Simultaneously, despite being highly-efficient, the blockchain strives to pay in the native token **each Contributor** (for example, being a software engineer) highly-generous automated-donations  — at least, **$1,2 million per year** or **$100,000 per month**.
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
