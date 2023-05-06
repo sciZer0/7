@@ -60,7 +60,13 @@ BLOCKCHAIN</h2>
 
 <br>
 
+<p align="left">
+  <img src="/assets/images/unicorn.png" height="100"><br>
+</p>
+
 The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
+
+Technologically, the blockchain borrows heavily from the Solana blockchain.
 
 From day one, the blockchain is simultaneously:
 
@@ -101,7 +107,6 @@ Simultaneously, despite being highly-efficient, the blockchain strives to pay in
 
 The narrative being defined by the blockchain involves — among other things — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
-Technologically, the blockchain borrows heavily from the Solana blockchain.
 
 
  <br><br>
