@@ -88,10 +88,10 @@ It suddenly becames possible thanks to combining the following things,
 
 * (1) the new approach to consensus (PoSF)
 * (2) the distribution of the whole **maximum supply** of the native token at the very beginning 
-* (3) the use of the new **all-fees-burning** mechanism
+* (3) the use of the new **all-fees-burning** 🔥 mechanism
 * (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
 
-Pay attention: all fees received (100% fees) are burned 🔥.
+Pay attention: all fees received (100% fees) are burned 🔥 and there is no emission of the native token any more after the Genesis Block, where the whole Maximum Supply is issued.
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
