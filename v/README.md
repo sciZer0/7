@@ -54,6 +54,8 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 BLOCKCHAIN</h2>
 <p align="center">In Brief </p>
 
+**Motto**:<br>
+A hundred million people, and even more so, hundreds of millions of people will always find a way to financially support 400 useful people.
 
 
 <br>
@@ -901,7 +903,7 @@ And, the 3 fundamental insights are the following,
 
 * there is no top to Unicorn  🦄 because there is no bottom for fiat money
 
-* hundreds of millions of people will always find a way to financially support 400 useful people.
+* a hundred million people or even hundreds of millions of people will always find a way to financially support 400 useful people.
 
 
 The U DAO is being formed right now.
