@@ -84,13 +84,14 @@ Also from day one, the blockchain has the most valuable sort of asset in the fin
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
-It suddenly becames possible thanks to
+It suddenly becames possible thanks to combining the following things,
 
-* (1) the distribution of the whole **maximum token-supply** right away at the very beginning 
-* (2) the use of the new **all-fees-burning** mechanism.
-* (3) the introduction of the tiny-in-size **tax**, supposed-to-additionally-regularly-be-reduced.
+* (1) the new approach to consensus (PoSF)
+* (2) the distribution of the whole **maximum token-supply** right away at the very beginning 
+* (3) the use of the new **all-fees-burning** mechanism.
+* (4) the introduction of the universal **tax** with a tiny rate supposed to additionally regularly be reduced.
 
-All fees received are burned.
+Pay attention: all fees received (100% fees) are burned.
 
 Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
 
