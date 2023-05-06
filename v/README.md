@@ -155,12 +155,16 @@ Theoretically, a blockchain should be <b>as</b> efficient <b>as</b> possible —
 Absolutely, blockchain technology causes a paradigm revolution. This is so because — enough to even mention this single thing alone — no today's state would like to allow people to get permissionless access to value.
 
 
+
+
 <br>
 
 
 ### About New Culture 
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same digitizable things (videos, audios, texts, programs) on a blockchain and then use them the way they want. If the uploader wants — no one can forbid anyone to get permissionless access to this all.
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same digitizable things (videos, audios, texts, programs) on a blockchain and then use them the way they want. 
+
+If the uploader wants — it can give permissionless access to these digitizable things to everyone,  and no one on Earth 🌎 can forbid anyone to get this permissionless access to this all.
 
 As they say — change or die.
 
