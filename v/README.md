@@ -87,7 +87,7 @@ In other words, the permissionless, cheapest-to-globally-transfer token with the
 This all suddenly becames possible thanks to combining the following things,
 
 * (1) the new approach to consensus (PoSF)
-* (2) the distribution of the whole **maximum supply** of the native token at the very beginning 
+* (2) the distribution of the *maximum supply** of the native token at the very beginning 
 * (3) the use of the new **all-fees-burning** 🔥 mechanism
 * (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
 
