@@ -68,7 +68,7 @@ The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from the Solana blockchain.
 
-From day one, the blockchain is simultaneously:
+From day one, the U blockchain is simultaneously:
 
 * highly-decentralized
 * highly-democratic (**new**)
@@ -179,7 +179,9 @@ The idea/hypothesis is that due to this new creator-paradigm, we might shape a *
 
 In the future, in the creative economy, donations will most likely play the most important role in monetization of creators.
 
-We believe the new blockchain  protocol  is very (or even most) suitable for upcoming creative economy.
+The new blockchain protocol is based exactly on donations and philosophy of the new culture in general.
+
+We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy.
 
 
 <br>
