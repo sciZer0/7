@@ -7,7 +7,8 @@ PROTOCOL
 </h1>
 
 <p align="center">
-Enabling Mass Adoption<br>
+Most Suitable<br>
+for Creative Economy
 </p>
 
 
