@@ -39,7 +39,7 @@ Additionally, the Bitcoin blockchain as a system has a lot of unsolvable technol
 
 This all — along with **fundamental problems of all other blockchains** (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a highly-efficient blockchain protocol solving many fundamental problems existing on other blockchsins, which might really enable mass adoption for crypto.
+This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
