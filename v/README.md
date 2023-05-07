@@ -105,7 +105,7 @@ Being especially-suitable for mass adoption, the blockchain might be the 1st one
 
 Simultaneously, despite being highly-efficient, the blockchain in a pre-pre-programmed manner strives to pay in the native token each Contributor (for example, being a software engineer) highly-generous **automated-donations**  — at least, **$1,2 million per year** or **$100,000 per month**.
 
-The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies, among other things — and plus, enables new culture which is being totally along with upcoming creative economy.
+The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies among other things — and plus, enables new culture which is being totally along with upcoming creative economy.
 
 
  <br><br>
