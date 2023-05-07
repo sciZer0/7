@@ -30,7 +30,7 @@ First of all, there is **$83 trillion** in the total global money supply, and th
 
 Definitely, in the Inflationary Monetary Economy, there is nothing new and valuable. 
 
-Specifically, the inflationary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
+Specifically, the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
 
 The Bitcoin blockchain yet in 2009 presented the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply** — with the perspective for such a token to become the most valuable asset in the financial word.
 
