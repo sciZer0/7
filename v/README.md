@@ -49,10 +49,6 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 <br>
 <h2 align="center">Brief Introduction</h2>
 
-
-
-| Y|C
-
 <p>&nbsp</p>
 <h2 align="center">THE UNICORN<br>
 BLOCKCHAIN</h2>
