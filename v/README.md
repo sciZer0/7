@@ -105,7 +105,7 @@ Being especially-suitable for mass adoption, the blockchain might be the 1st one
 
 Simultaneously, despite being highly-efficient, the blockchain in a pre-pre-programmed manner strives to pay in the native token each Contributor (for example, being a software engineer) highly-generous **automated-donations**  — at least, **$1,2 million per year** or **$100,000 per month**.
 
-Among other things, the narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs), Zero-Knowledge (ZK) technologies, and plus, enables new culture being totally along with upcoming creative economy.
+The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies, among other things — and plus, enables new culture which is being totally along with upcoming creative economy.
 
 
  <br><br>
@@ -178,9 +178,9 @@ Idea/Hypothesis
 
 The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
 
-In the future, in the creative economy, donations will most likely play the most important role in monetization of creators.
+In the future, in the creative economy, donations will most likely play the most important role in monetization of creators of digitizable things.
 
-The new blockchain protocol is based exactly on donations, and philosophy of the new culture in general.
+The new blockchain protocol is based exactly on donations (gifts, grants), and philosophy of this new culture in general.
 
 We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy:
 
