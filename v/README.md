@@ -2,13 +2,11 @@
 A REVOLUTIONARY<br>
 BLOCKCHAIN<br>
 PROTOCOL
-
-
 </h1>
 
 <p align="center">
-Most Suitable<br>
-for Creative Economy
+Most Suitable for<br>
+Upcoming Creative Economy
 </p>
 
 
