@@ -44,7 +44,7 @@ All these things together make it highly-hard for crypto in general to achieve m
 
 This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto, presenting — among others — the idea of **the native token with the powerfully-decreasing total-supply**.
 
-The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
+The protocol is represented through describing a highly-efficient blockchain called the Unicorn (**U**) blockchain being built based on the given protocol.
 
 <br>
 <h2 align="center">Brief Introduction</h2>
