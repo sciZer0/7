@@ -51,7 +51,7 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 
 
 
-| Y|CUT|  TAX |SALARY|COs|
+| Y|CUT|  TAX |SALARY|CONTRIBUTORS|
 |--|---|------|------|---|
 | 1| — |0.0975|250.00| 30|
 | 2| 70|0.0380| 75.00| 39|
