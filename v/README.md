@@ -1026,7 +1026,7 @@ For example, we might take core code of the Solana blockchain as our codebase an
 
 From day one, the U blockchain leverages the most advanced of cutting edge blockchain technologies.
 
-As an element of Creator Thanksgiving Culture, we establish a new fete day — Creator Thanksgiving Day — on December 30, where people around the world may give their thanks in tokens (donations) to the most useful in-their-opinion creators of digitizable things (incl. creators of ideas and code). Also, through buying NFTs of the creators. 
+Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 
 
