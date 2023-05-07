@@ -168,7 +168,7 @@ Absolutely, blockchain technology causes a paradigm revolution. This is so becau
 
 ### About New Culture 
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their exclusive ownership over created digitizable things that become known — because technically, anyone can upload these same digitizable things (videos, audios, texts, programs) on a blockchain and then use them the way they want. 
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things that become known — because technically, anyone can upload these same digitizable things (videos, audios, texts, programs) on a blockchain and then use them the way they want. 
 
 If the uploader wants — it can give permissionless access to these digitizable things to everyone,  and no one on Earth 🌎 can forbid anyone to get this permissionless access to this all.
 
@@ -180,7 +180,7 @@ The idea/hypothesis is that due to this new creator-paradigm, we might shape a *
 
 In the future, in the creative economy, donations will most likely play the most important role in monetization of creators.
 
-The new blockchain protocol is based exactly on donations and philosophy of the new culture in general.
+The new blockchain protocol is based exactly on donations, and philosophy of the new culture in general.
 
 We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy.
 
