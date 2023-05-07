@@ -55,7 +55,7 @@ BLOCKCHAIN</h2>
 <p align="center">In Brief </p>
 
 **Motto**:<br>
-*A hundred million people, or even more so, hundreds of millions of people will always find a way to financially support a small number of useful people.*
+*A hundred million people will always find a way to financially support 400 useful people.*
 
 
 <br>
@@ -184,8 +184,7 @@ The new blockchain protocol is based exactly on donations (gifts, grants), and p
 
 We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy:
 
->**A hundred million people, or even more so, hundreds of millions of people will always find a way to financially support a small  nunber of useful people.**
-
+>***A hundred million people will always find a way to financially support 400 useful people.**
 
 <br>
 
