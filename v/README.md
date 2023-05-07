@@ -36,13 +36,13 @@ The Bitcoin blockchain yet in 2009 presented the really-innovative idea of **the
 
 Unfortunately, the Bitcoin blockchain, as an implementation of the idea, was and still is set to start this **idea itself** only in 118 years, at 2140 (*explained below*).
 
-At the moment, no existing blockchain is able to realize the idea of the native token with the stable decreasing of the total supply.
+For now, no one of existing blockchains is able to realize the idea of the native token with the stably-decreasing total-supply.
 
-Plus, all blockchains have  a lot of unsolvable technological and social problems (being fundamental) which are preventing them getting mass adoption. 
+Plus, all blockchains have  a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing these blockchains from getting mass adoption. 
 
 This all also makes it highly-hard for crypto in general to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
+This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto, presenting — among others — the idea of the native token with the powerfully-decreasing total-supply.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
