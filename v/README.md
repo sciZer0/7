@@ -54,8 +54,6 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 BLOCKCHAIN</h2>
 <p align="center">In Brief </p>
 
-**Motto**:<br>
-*Hundreds of millions of people will always find a way to financially support several very useful people.*
 
 
 <br>
@@ -186,11 +184,12 @@ The new blockchain protocol is based exactly on donations (gifts, grants), and p
 
 We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy:
 
->****Hundreds of millions of people will always find a way to financially support several very useful people.***
+**Insight**:<br>
+>***Hundreds of millions of people will always find a way to financially support several very useful people.***
 
-Or, also, thousands of people will always find a way to financially support one very useful person, for example.
+Also, thousands of people will always find a way to financially support one very useful person, for example.
 
-For example, as an element of Creator Thanksgiving Culture, we might establish a new fete day — Creator Thanksgiving Day — on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful in-their-opinion people creating digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we might establish a new fete day — Creator Thanksgiving Day — on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful in-their-opinion people creating digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
 
 Eventually, there might be people on social networks who are searching for creators eligible for donations, making the lists.
 
