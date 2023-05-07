@@ -28,7 +28,7 @@ In Brief<br>
 
 First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
-Definitely, in the Inflationary Monetary Economy, there is nothing new and valuable. 
+Definitely, in the inflationary monetary economy, there is nothing new and valuable. 
 
 Specifically, the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
 
