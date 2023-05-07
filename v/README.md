@@ -32,13 +32,15 @@ Definitely, in the Inflationary Monetary Economy, there is nothing new and valua
 
 Specifically, the inflationary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
 
-The Bitcoin blockchain presented yet in 2009 the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply** — with the perspective for such a token to become the most valuable asset in the financial word.
+The Bitcoin blockchain yet in 2009 presented the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply** — with the perspective for such a token to become the most valuable asset in the financial word.
 
 Unfortunately, the Bitcoin blockchain, as an implementation of the idea, was and still is set to start this **idea itself** only in 118 years, at 2140 (*explained below*).
 
-Additionally, the Bitcoin blockchain as a working system has a lot of unsolvable technological and social problems being fundamental (*described below*).
+At the moment, no existing blockchain is able to realize the idea of the native token with the stable decreasing of the total supply.
 
-This all — along with **fundamental problems of other blockchains** (*described below*) — makes it highly-hard for crypto in general to achieve mass adoption.
+Plus, all blockchains have  a lot of unsolvable technological and social problems (being fundamental) which are preventing them getting mass adoption. 
+
+This all also makes it highly-hard for crypto in general to achieve mass adoption.
 
 This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto.
 
