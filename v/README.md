@@ -55,7 +55,7 @@ BLOCKCHAIN</h2>
 <p align="center">In Brief </p>
 
 **Motto**:<br>
-*A hundred million people will always find a way to financially support 400 useful people.*
+*Hundreds of millions of people will always find a way to financially support several very useful people.*
 
 
 <br>
@@ -168,9 +168,11 @@ Absolutely, blockchain technology causes a paradigm revolution. This is so becau
 
 ### About New Culture 
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things that become known — because technically, anyone can upload these same digitizable things (videos, audios, texts, programs) on a blockchain and then use them the way they want. 
+Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things that become known .
 
-If the uploader wants — it can give permissionless access to these digitizable things to everyone,  and no one on Earth 🌎 can forbid anyone to get this permissionless access to this all.
+This is so because technically, anyone can upload those same digitizable things (videos, audios, texts, programs) that became known on a blockchain, and then use them the way they want. 
+
+For example, if the uploader wants, it can give permissionless access to these digitizable things to everyone, and no one on Earth 🌎 can forbid anyone to get this permissionless access to this all.
 
 As they say — change or die.
 
@@ -184,9 +186,13 @@ The new blockchain protocol is based exactly on donations (gifts, grants), and p
 
 We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy:
 
->***A hundred million people will always find a way to financially support 400 useful people.**
+>****Hundreds of millions of people will always find a way to financially support several very useful people.***
+
+Or, also, thousands of people will always find a way to financially support one very useful person, for example.
 
 <br>
+
+
 
 ### About Immutability Of Code
 
