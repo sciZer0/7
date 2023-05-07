@@ -879,7 +879,7 @@ Below is the table of VTT received by each Contributor per year in total, splitt
 **Table of VTT Received by Contributor by Year**
 
 
-|TIME, YEAR|CUT, %|TAX, %|GIFT, VTT |CONTRIBUTORS, PERSONS|
+|TIME, YEAR|CUT, %|TAX, %|GIFT, VTT|CONTRIBUTORS, PERSONS|
 |--|---|-------|----------|------------|
 | 1| — |0.0975|250.00| 30|
 | 2| 70|0.0380| 75.00| 39|
@@ -914,37 +914,37 @@ Below is the table of VTT received by each Contributor per year in total, splitt
 
 
 
-From this table above, we can see that 
+From the table above, we can see that 
 
-* at the start of the 1st year CUT of TAX is 0%, the tax rate remains 0.0975%
+* at the start of the 1st year, CUT of TAX is 0% — the tax rate remains 0.0975%
 * during the 1st year each Contributor receives 250 VTT in total
 
-* at the start of the 2nd year CUT of TAX is 70%, the tax rate becomes 0.0380%
+* at the start of the 2nd year, CUT of TAX is 70% — the tax rate becomes 0.0380%
 * during the 2nd year each Contributor receives 75 VTT in total
 
-* at the start of the 3rd year CUT of TAX is 56%, the tax rate becomes 0.0218%
+* at the start of the 3rd year, CUT of TAX is 56% — the tax rate becomes 0.0218%
 * during the 3rd year each Contributor receives 33 VTT in total
 
 and so on.
 
 Last but not Least 
 
-The stake of each Voter — after the airdrop is about 0.1 VTT.
+The stake of each Voter — after the airdrop — is about 0.1 VTT.
 
 Our vision is that at the 3rd milestone, this stake will be  about $200,000 which is considered life-changing money.
 
 0.1 VTT —> $200,000  at the 3rd milestone 
 
-Just keep in mind that during only the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTT tokens received by each Contributor will be 750 VTT.  It is 7,500 times more than that life-changing money of 0.1 VTT.
+Just keep in mind that during only the first 3 years — 2 years in the U DAO and 1 year in the U blockchain  — the total amount of VTT tokens received by each Contributor will be 750 VTT which is 7,500 times more than that life-changing money of 0.1 VTT.
 
-750 VTT —> $1,500,000,000  at the the 3rd milestone 
+750 VTT —> $1,500,000,000 at the the 3rd milestone 
 
 
 And, the 3 fundamental insights are the following,
 
-* there is no way for VTT but to go up because any other token/currency is inflationary, and only VTT has the constantly-increasing scarcity
+* there is no way for VTT but to go up because VTT is the token with strong fundamentals and with the powerfully-increasing scarcity
 
-* there is no top to Unicorn  🦄 because there is no bottom for fiat money
+* there is no top to Unicorn 🦄 VTT because there is no bottom for fiat money
 
 * a hundred million people or even hundreds of millions of people will always find a way to financially support 400 useful people.
 
