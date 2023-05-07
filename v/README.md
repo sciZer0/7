@@ -38,11 +38,11 @@ Unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set 
 
 Also, for now, no one of existing blockchains is able to realize the idea of **the native token with the stably-decreasing total-supply**.
 
-Plus, each of existing blockchains (as a people's working system)  has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing each blockchain from getting mass adoption. 
+Plus, being a people's working system, each of existing blockchains has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing each of these blockchains from getting mass adoption. 
 
 This all also makes it highly-hard for crypto in general to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto, presenting — among others — the idea of **the native token with the powerfully-decreasing total-supply**.
+This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto in general, presenting — among others — the idea of **the native token with the powerfully-decreasing total-supply**.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
