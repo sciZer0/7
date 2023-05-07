@@ -150,6 +150,8 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 * be a highly-decentralized system of many incentivized, autonomous nodes — where each node is storing the same copy of the book of the blockchain.
 
+Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, including to maintain its normal bandwidth — of course, supposing the absence of other nodes potentially being malicious.
+
 Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout any geopolitical events or natural disasters.
 
 On the other hand, the main task of developers is to really build/make such permissionless systems being highly-sustainable and plus, of course, as efficient as possible. 
