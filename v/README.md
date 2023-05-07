@@ -38,7 +38,7 @@ Unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set 
 
 Also, for now, no one of existing blockchains is able to really implement the idea of **the native token with the stably-decreasing total-supply**.
 
-Moreover, each blockchain, being a people's working system, has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing each of these blockchains from getting mass adoption. 
+Moreover, each blockchain, being a people's working system, has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing each blockchains from getting mass adoption. 
 
 All these things together make it highly-hard for crypto in general to achieve mass adoption.
 
