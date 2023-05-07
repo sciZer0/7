@@ -36,13 +36,13 @@ The Bitcoin blockchain yet in 2009 presented the really-innovative idea of **the
 
 Unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set to start this **idea itself** only in 118 years, at 2140 (*explained below*).
 
-Also, for now, no one of existing blockchains is able to realize the idea of the native token with the stably-decreasing total-supply.
+Also, for now, no one of existing blockchains is able to realize the idea of **the native token with the stably-decreasing total-supply**.
 
-Plus, all blockchains have  a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing these blockchains from getting mass adoption. 
+Plus, each of existing blockchains (as a working public system)  has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing each blockchain from getting mass adoption. 
 
 This all also makes it highly-hard for crypto in general to achieve mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto, presenting — among others — the idea of the native token with the powerfully-decreasing total-supply.
+This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto, presenting — among others — the idea of **the native token with the powerfully-decreasing total-supply**.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
@@ -69,7 +69,7 @@ BLOCKCHAIN</h2>
 
 The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
 
-Technologically, the blockchain borrows heavily from the Solana blockchain.
+Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 From day one, the U blockchain is simultaneously:
 
