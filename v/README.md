@@ -111,15 +111,13 @@ As they say — change or die.
 
 Idea/Hypothesis
 
-The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
+The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.
 
-In the future, in the creative economy, creators of digitizable things most likely will mainly monetize their works through donations — donations will play the most important role in monetization of creators of digitizable things.
-
-As an element of Creator Thanksgiving Culture, we might establish a new fete day — Creator Thanksgiving Day — on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful in-their-opinion people creating digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
-
-Also, thousands of people will always find a way to financially support one very useful person, for example.
+As an element of Creator Thanksgiving Culture, we might establish a new fete day — Creator Thanksgiving Day — say on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful in-their-opinion people creating digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
 
 Eventually, there might be people on social networks who are searching for creators eligible most for donations, making the lists.
+
+In the future, in the creative economy, creators of digitizable things most likely will mainly monetize their works through donations — donations will play the most important role in monetization of creators of digitizable things.
 
 The U blockchain is based exactly on donations (incl. automated-donations), and philosophy of this new culture in general.
 
