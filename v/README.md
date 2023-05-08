@@ -21,16 +21,14 @@ doomed by its protocol<br>
 
 <br>
 
-<h2 align="center">Abstract</h2>
-<p align="center">
-In Brief<br>
-</p>
+<h2 align="center">Brief Introduction</h2>
+
 
 First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
 Definitely, in the inflationary monetary economy, there is nothing new and valuable. 
 
-This conclusion comes from the fact that the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
+This conclusion comes from the fact that the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always results** in devaluations of the currencies/tokens (values). Never, in something different.
 
 The crypto industry instead is trying to build the permissionless globally-transferable token with decreasing total-supply — with the perspective for such a token to become the most valuable asset in the financial world.
 
@@ -40,18 +38,13 @@ This paper proposes an idea (set of ideas/solutions/approaches) on a revolutiona
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
-<p>&nbsp</p>
-<h2 align="center">THE UNICORN<br>
-BLOCKCHAIN</h2>
-<p align="center">In Brief </p>
-
 
 
 
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
-* **Abstract** — Continuation
+* **Abstract**
    - About Blockchain Technology
    - About New Culture 
    - About Immutability Of Code
@@ -66,9 +59,7 @@ BLOCKCHAIN</h2>
 <br><br>
 
 <h2 align="center">Abstract</h2>
-<p align="center">
-Continuation<br>
-</p>
+
 
 
 
@@ -318,6 +309,11 @@ With all these fundamental problems, it is for sure that for now, the industry h
 <p>&nbsp</p>
 
 <p>&nbsp</p>
+
+<p>&nbsp</p>
+<h2 align="center">THE UNICORN<br>
+BLOCKCHAIN</h2>
+<p align="center">In Brief </p>
 
 
 <br>
