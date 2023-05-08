@@ -876,10 +876,10 @@ Below is the table of VTT received by each Contributor per year in total, splitt
 
 <br>
 
-**Table of VTT Received by Contributor by Year**
+**Table of Automated Donations (AD) Received by each Contributor by Year**
 
 
-|TIME, YEAR|CUT, %|TAX, %|GIFT, VTT|CONTRIBUTORS, PERSONS|
+|TIME, YEAR|CUT, %|TAX, %|AD, VTT|CONTRIBUTORS, PERSONS|
 |--|---|-------|----------|------------|
 | 1| — |0.0975|250.00| 30|
 | 2| 70|0.0380| 75.00| 39|
