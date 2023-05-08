@@ -40,9 +40,6 @@ This paper proposes an idea (set of ideas/solutions/approaches) on a revolutiona
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
-<br>
-<h2 align="center">Brief Introduction</h2>
-
 <p>&nbsp</p>
 <h2 align="center">THE UNICORN<br>
 BLOCKCHAIN</h2>
@@ -59,6 +56,7 @@ BLOCKCHAIN</h2>
    - About New Culture 
    - About Immutability Of Code
    - About **5** Fundamental Problems of All Current Blockchains
+* **The Unicorn Blockchain** — In Brief
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
    - *About Nakamoto Coefficient*
