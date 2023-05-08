@@ -32,7 +32,7 @@ This conclusion comes from the fact that the inflationary monetary model — end
 
 The crypto industry instead is trying to build the permissionless globally-transferable token with decreasing total-supply — with the perspective for such a token to become the most valuable asset in the financial world.
 
-Unfortunately, all existing blockchains, being people's working systems, have unsolvable fundamental technological and social problems (described below) which now already are and will most likely in the future also be preventing it from getting mass adoption.
+Unfortunately, all existing blockchains, being people's working systems, have unsolvable fundamental technological and social problems (described below) which already now are preventing, and most likely will in the future also be preventing them from getting mass adoption.
 
 This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that solves fundamental problems of the existing blockchains and might really enable mass adoption for crypto.
 
@@ -79,7 +79,7 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 * be a highly-decentralized system of many incentivized, autonomous nodes — where often each node is storing the same copy of the book of the blockchain.
 
-Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, including to maintain its normal bandwidth — of course, supposing the absence of other nodes potentially being malicious.
+Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, including to maintain its normal bandwidth — of course, supposing the absence of other nodes potentially possible to be malicious.
 
 But ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout any geopolitical events or natural disasters.
 
