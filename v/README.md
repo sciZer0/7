@@ -30,21 +30,15 @@ First of all, there is **$83 trillion** in the total global money supply, and th
 
 Definitely, in the inflationary monetary economy, there is nothing new and valuable. 
 
-Specifically, the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
+This conclusion comes from the fact that the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
 
-The Bitcoin blockchain yet in 2009 presented the really-innovative idea of **the permissionless globally-transferable token with the fixed total-supply** — with the perspective for such a token to become the most valuable asset in the financial word.
+The crypto industry instead is trying to build the permissionless globally-transferable token with decreasing total-supply — with the perspective for such a token to become the most valuable asset in the financial world.
 
-Unfortunately, the Bitcoin blockchain, as an implementation of the idea, is set to start this **idea itself** only in 118 years, at 2140 (*explained below*).
+Unfortunately, each of the existing blockchains, being a people's working system, has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future be preventing it from getting mass adoption.
 
-Also, for now, no one of existing blockchains is able to really implement the idea of **the native token with the stably-decreasing total-supply**.
+This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary higly-efficient blockchain protocol that might really enable mass adoption for crypto, presenting — among others — **high efficiency** and **the native token with the powerfully-decreasing total-supply**.
 
-Moreover, each blockchain, being a people's working system, has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future also be preventing the blockchain from getting mass adoption. 
-
-All these things together make it highly-hard for crypto in general to achieve mass adoption.
-
-This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that might really enable mass adoption for crypto, presenting — among others — the idea of **the native token with the powerfully-decreasing total-supply**.
-
-The protocol is represented through describing a highly-efficient blockchain called the Unicorn (**U**) blockchain being built based on the given protocol.
+The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
 <br>
 <h2 align="center">Brief Introduction</h2>
