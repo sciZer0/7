@@ -34,7 +34,7 @@ The crypto industry instead is trying to build the permissionless globally-trans
 
 Unfortunately, each of the existing blockchains, being a people's working system, has a lot of unsolvable technological and social problems (being fundamental) which are now and will most likely in the future be preventing it from getting mass adoption.
 
-This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that solves fundamental problems of the existing blockchains and might really enable mass adoption for crypto, presenting — among other things — **high efficiency** and **the native token with the powerfully-decreasing total-supply**.
+This paper proposes an idea (set of ideas/solutions/approaches) on a revolutionary blockchain protocol that solves fundamental problems of the existing blockchains and might really enable mass adoption for crypto.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
