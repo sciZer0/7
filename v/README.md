@@ -77,7 +77,7 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 * use the public-private key pair authentication mechanism
 
-* be a highly-decentralized system of many incentivized, autonomous nodes — where each node is storing the same copy of the book of the blockchain.
+* be a highly-decentralized system of many incentivized, autonomous nodes — where often each node is storing the same copy of the book of the blockchain.
 
 Technically, on average, even 3 honest nodes are enough for a blockchain to function normally, including to maintain its normal bandwidth — of course, supposing the absence of other nodes potentially being malicious.
 
@@ -113,24 +113,23 @@ Idea/Hypothesis
 
 The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators. *More on this below.*
 
-In the future, in the creative economy, donations will most likely play the most important role in monetization of creators of digitizable things.
-
-The new blockchain protocol is based exactly on donations (gifts, grants), and philosophy of this new culture in general.
-
-We believe the new blockchain protocol  is very (or even most) suitable for upcoming creative economy:
-
-**Insight**:<br>
->***Hundreds of millions of people will always find a way to financially support several very useful people.***
-
-Also, thousands of people will always find a way to financially support one very useful person, for example.
+In the future, in the creative economy, creators of digitizable things most likely will mainly monetize their works through donations — donations will play the most important role in monetization of creators of digitizable things.
 
 As an element of Creator Thanksgiving Culture, we might establish a new fete day — Creator Thanksgiving Day — on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful in-their-opinion people creating digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
 
-Eventually, there might be people on social networks who are searching for creators eligible for donations, making the lists.
+Also, thousands of people will always find a way to financially support one very useful person, for example.
 
-Some of names of such lists might be Anatoly Yakovenko and Fiatjaf, for example.
+Eventually, there might be people on social networks who are searching for creators eligible most for donations, making the lists.
 
+The U blockchain is based exactly on donations (incl. automated-donations), and philosophy of this new culture in general.
 
+We believe the new blockchain protocol is very (or even most) suitable for upcoming creative economy:
+
+**Insight**:<br>
+>**Hundreds of millions of people, having necessary funds, will always financially support several very useful-to-them people.**
+
+Also,
+>**Thousands of people, having necessary funds, will always financially support one very useful-to-them person they like.**
 
 <br>
 
