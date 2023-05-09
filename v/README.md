@@ -30,7 +30,7 @@ Definitely, in the increasing total supply, there is nothing new and valuable.
 
 This conclusion comes from the fact that the increasing total supply of a currency **eventually always** results in the devaluation of the currency (meaning in decreasing value of the currency). Never, in something different.
 
-Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies — namely tokens — with decreasing total-supply, with the perspective for each such a token to become the most valuable asset in the financial world.
+Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies — called tokens — with decreasing total-supply, with the perspective for each such a currency to become the most valuable asset in the financial world.
 
 Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing them from getting mass adoption, and most likely will in the future also be.
 
