@@ -5,8 +5,8 @@ PROTOCOL
 </h1>
 
 <p align="center">
-Most Suitable for<br>
-Upcoming Creative Economy
+Most Suitable<br>
+for the Future
 </p>
 
 
