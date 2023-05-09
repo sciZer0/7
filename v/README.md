@@ -36,6 +36,8 @@ Unfortunately, all existing blockchains, being people's working systems, have **
 
 This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and introduces the permissionless, globally-transferable currency (token) with the powerfully-decreasing total-supply.
 
+Precisely, the permissionless, cheapest to g
+
 It might really enable mass adoption for crypto in general, and also be most suitable for upcoming creative economy. 
 
 
