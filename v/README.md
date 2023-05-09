@@ -1107,7 +1107,7 @@ Remember Nokia with one billion customers, history for decades, and the question
 
 # CONCLUSION
 
-As mentioned above, there are even more of fundamental problems than described here.
+As mentioned above, there are even more problems being fundamental than described here.
 
 Importantly, each blockchain existing in 2023 is fundamentally unable to solve the fundamental problems.
 
