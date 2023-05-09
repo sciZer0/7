@@ -28,7 +28,7 @@ First of all, there is **$83 trillion** in the total global money supply, and th
 
 Definitely, in the inflationary monetary economy, there is nothing new and valuable. 
 
-This conclusion comes from the fact that the inflationary monetary model — endless emission of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
+This conclusion comes from the fact that the inflationary monetary model — involving endless emissions of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
 
 The crypto industry instead is trying to build the permissionless globally-transferable token with decreasing total-supply — with the perspective for such a token to become the most valuable asset in the financial world.
 
