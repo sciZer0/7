@@ -32,7 +32,7 @@ This conclusion comes from the fact that the increasing total supply of any curr
 
 Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies — called tokens — with decreasing total-supply, with the perspective for each such a currency to become the most valuable asset in the financial world.
 
-Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing them from getting mass adoption, and most likely will in the future also be.
+Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing the blockchains from getting mass adoption, and will most likely in the future also be.
 
 This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and might really enable mass adoption for crypto — also, might be most suitable for upcoming creative economy. 
 
