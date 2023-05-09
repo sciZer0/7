@@ -50,7 +50,8 @@ The U blockchain might really enable mass adoption for crypto in general, and ph
 <b>TABLE OF CONTENTS</b>
 * **Abstract**
    - About Blockchain Technology
-   - About New Culture 
+   - About New Culture
+   - About Democracy
    - About Immutability Of Code
    - About **5** Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In Brief
@@ -134,7 +135,25 @@ Also,
 
 <br>
 
+### *About Democracy*
 
+"The best argument against democracy is a five-minute conversation with the average voter." 
+
+Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
+
+The thing is that for a democracy to work well, those who are making the decisions, the average voters, need to 
+
+1. have real power to change things
+
+2. know what is going on
+
+3. be really motivated.
+
+On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
+
+And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
+
+<br>
 
 ### About Immutability Of Code
 
@@ -527,23 +546,6 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 <p>&nbsp</p>
 
 **To be continued a bit below...**
-
-### *About Democracy*
- 
-
-"The best argument against democracy is a five-minute conversation with the average voter." 
-
-Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
-
-The thing is that for a democracy to work well, those who are making the decisions, the average voters, need to 
-
-1. have real power to change things
-2. know what is going on
-3. be really motivated.
-
-On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
-
-And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
 
 
 <p>&nbsp</p>
