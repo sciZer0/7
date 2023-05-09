@@ -95,7 +95,7 @@ Theoretically, a blockchain should be <b>as</b> efficient <b>as</b> possible —
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
-Absolutely, blockchain technology causes a paradigm revolution. This is so because — enough to even mention this single thing alone — no today's state would like to allow people to get permissionless access to value.
+Absolutely, blockchain technology causes a paradigm revolution. This is so because — to even mention this single thing alone — no today's state would like to allow people to get permissionless access to value.
 
 
 
