@@ -32,9 +32,9 @@ This conclusion comes from the fact that the inflationary monetary model — end
 
 The crypto industry instead is trying to build the permissionless globally-transferable token with decreasing total-supply — with the perspective for such a token to become the most valuable asset in the financial world.
 
-Unfortunately, all existing blockchains, being people's working systems, have unsolvable fundamental technological and social problems (described below) which already now are preventing, and most likely will in the future also be preventing them from getting mass adoption.
+Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing, and most likely will in the future also be preventing them from getting mass adoption.
 
-This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves fundamental problems of the existing blockchains and might really enable mass adoption for crypto — also, might be most suitable for upcoming creative economy. 
+This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and might really enable mass adoption for crypto — also, might be most suitable for upcoming creative economy. 
 
 
 
