@@ -30,7 +30,7 @@ Definitely, in the inflationary monetary economy, there is nothing new and valua
 
 This conclusion comes from the fact that the inflationary monetary model — involving endless emissions of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
 
-The crypto industry instead is trying to build the permissionless globally-transferable token with decreasing total-supply (Ethereum and Solana, to name some) — with the perspective for each such a token to become the most valuable asset in the financial world.
+The crypto industry instead is trying to build the permissionless globally-transferable tokens with decreasing total-supplies (Ethereum and Solana, to name some) — with the perspective for each such a token to become the most valuable asset in the financial world.
 
 Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing them from getting mass adoption, and most likely will in the future also be.
 
