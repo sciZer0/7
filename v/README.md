@@ -40,7 +40,7 @@ Precisely, **the permissionless, cheapest-to-globally-transfer token with the po
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
-The U blockchain might really enable mass adoption for crypto in general, and the blockchain's architecture might also be most suitable for the future — upcoming creative economy and more democracy. 
+The U blockchain might really enable mass adoption for crypto in general, and the blockchain's architecture might be most suitable for the future — upcoming creative economy and more democracy. 
 
 
 
