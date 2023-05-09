@@ -26,7 +26,7 @@ doomed by its protocol<br>
 
 First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
-Definitely, in the increasing total supply, there is nothing new and valuable. 
+Definitely, in the increasing total supply of the currency, there is nothing new and valuable. 
 
 This conclusion comes from the fact that the increasing total supply of any currency **eventually always** results in the devaluation of the currency (meaning in decreasing the value of the unit of the currency). Never, in something different.
 
