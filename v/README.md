@@ -567,7 +567,7 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 ## A Lot of Room To Improve
 
 
-Instead of taking into account only the "traditional" transaction fees, we should take into accoun the overall transaction fees.
+When we say about transaction fees, instead of taking into account only the "traditional" transaction fees, we should take into accoun the **overall transaction fees**.
 
 The overall transaction fees include — along with the "traditional" transaction fees  — the "reward" transaction fees, the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
 
