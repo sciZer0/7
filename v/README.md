@@ -34,15 +34,13 @@ Fortunately, the crypto industry is trying to build the permissionless globally-
 
 Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing the blockchains from getting mass adoption, and will most likely in the future also be.
 
-This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and introduces the permissionless, globally-transferable currency (token) with the powerfully-decreasing total-supply.
+This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and introduces the currency (token) with the powerfully-decreasing total-supply.
 
-Precisely, the permissionless, cheapest to g
-
-It might really enable mass adoption for crypto in general, and also be most suitable for upcoming creative economy. 
-
-
+Precisely, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
+
+The U blockchain might really enable mass adoption for crypto in general, and the blockchain's architecture might also be most suitable for the future — upcoming creative economy and more democracy. 
 
 
 
