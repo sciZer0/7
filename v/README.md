@@ -573,6 +573,7 @@ The overall transaction fees include — along with the "direct" transaction fee
 
 It is so since all native tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing in the same volume the real losses of users.
 
+It is important to note, when any blockchain (Ethereum or Solana, for example) creates in the native token the inflation of, say, 4% yearly in order to pay awards to contributors (miners/validators) — essentially, the protocol takes out from the balance of each user's account the **transaction fee**  or **tax** in the  same size of  4%, and gives it to the contributors — regardlessly if the user really made even any single  transaction during this year.
 
 
 
@@ -841,7 +842,8 @@ At the start, according to the planed number of Contributors equal to 39 (30+9),
 
 All Automated Donations for vacant positions are burned 🔥. 
 
-*It is important to note that when any blockchain (Solana, for example) creates inflation in the native token of, say, 8% yearly in order to pay contributors — thereby, the protocol essentially takes out from accounts of all users a tax in a size of the same 8%, and gives it to the contributors.*
+It is important to remind, when any blockchain (Ethereum or Solana, for example) creates in the native token the inflation of, say, 4% yearly in order to pay awards to contributors (miners/validators) — essentially, the protocol takes out from the balance of each user's account the **transaction fee**  or **tax** in the  same size of  4%, and gives it to the contributors — regardlessly if the user really made even any single  transaction during this year.
+
 
 *Some number of positions of Contributor might be taken by specific persons or working groups (Public Addresses with multi-signatures) in order for the blockchain to fund and fulfill specific tasks assosiated with some public/common goods,*
 
