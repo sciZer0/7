@@ -26,11 +26,11 @@ doomed by its protocol<br>
 
 First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
-Definitely, in the inflationary monetary economy, there is nothing new and valuable. 
+Definitely, in the increasing total supply, there is nothing new and valuable. 
 
-This conclusion comes from the fact that the inflationary monetary model — involving endless emissions of inflationary currencies/tokens —  **eventually always** results in devaluations of the currencies/tokens (values). Never, in something different.
+This conclusion comes from the fact that the increasing total supply of a currency **eventually always** results in the devaluation of the currency (meaning in decreasing value of the currency). Never, in something different.
 
-The crypto industry instead is trying to build the permissionless globally-transferable tokens with decreasing total-supply — with the perspective for each such a token to become the most valuable asset in the financial world.
+Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies — namely tokens — with decreasing total-supply, with the perspective for each such a token to become the most valuable asset in the financial world.
 
 Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing them from getting mass adoption, and most likely will in the future also be.
 
