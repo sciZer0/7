@@ -127,10 +127,10 @@ The U blockchain is based exactly on donations (incl. automated-donations), and 
 We believe the new blockchain protocol is very (or even most) suitable for upcoming creative economy:
 
 **Insight**:<br>
->**Hundreds of millions of people, having necessary funds, will always financially support several very useful-to-them people.**
+>**Hundreds of millions of people, having necessary funds, will always find a way to financially support several very useful-to-them people.**
 
 Also,
->**Thousands of people, having necessary funds, will always financially support one very useful-to-them person they like.**
+>**Thousands of people, having necessary funds, will always find a way to financially support one very useful-to-them person.**
 
 <br>
 
