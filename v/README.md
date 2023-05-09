@@ -34,7 +34,9 @@ Fortunately, the crypto industry is trying to build the permissionless globally-
 
 Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing the blockchains from getting mass adoption, and will most likely in the future also be.
 
-This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and might really enable mass adoption for crypto — also, might be most suitable for upcoming creative economy. 
+This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and introduces the permissionless, globally-transferable currency (token) with the powerfully-decreasing total-supply.
+
+It might really enable mass adoption for crypto in general, and also be most suitable for upcoming creative economy. 
 
 
 
