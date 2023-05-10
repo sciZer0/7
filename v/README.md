@@ -26,13 +26,13 @@ doomed by its protocol<br>
 
 First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
-Definitely, in the increasing total supply of the currency, there is nothing new and valuable. 
+Definitely, in the inflationary monetary model — involving an endless increase in total supply of the currency — there is nothing new and valuable. 
 
 This conclusion comes from the fact that increasing the total supply of any currency **eventually always** results in the devaluation of the currency — meaning in decreasing the value of the unit of this currency. Never, in something different.
 
-Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies (called tokens) with decreasing total-supply (Ethereum and Solana, to name some) — with the perspective for each such a currency to become the most valuable asset in the financial world.
+Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies (called tokens) with decreasing total-supply (Ethereum and Solana, to name a few) — with the perspective for each such a currency to become the most valuable asset in the financial world.
 
-Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing these blockchains from getting mass adoption, and which will most likely in the future also be doing that.
+Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing these blockchains from getting mass adoption, and which lmost likely will also do this in the future.
 
 This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and introduces the currency (token) with the powerfully-decreasing total-supply.
 
@@ -43,7 +43,7 @@ The protocol is represented through describing the Unicorn (**U**) blockchain be
 The U blockchain is more than 50 times more efficient than  the most efficient  blockchains (for example, the Solana blockchain), putting more decentralization on the management level rather than on the operating level — which in turn still remains highly-decentralized.
 
 
-The U blockchain might really enable mass adoption for crypto in general, and philosophy of the blockchain might be most suitable for the future — upcoming creative economy and more democracy. 
+The U blockchain could really enable mass adoption for crypto in general, and philosophy of the blockchain could be most suitable for the future — upcoming creative economy and more democracy. 
 
 
 
