@@ -35,7 +35,7 @@ From day one, the blockchain has over 100 million owners equally owning the bloc
 
 High (even **extreme**)  efficiency of the blockchain is achieved through the use of a new approach to consensus — called **Proof of Stake Flow** (PoSF).
 
-Moreover, philosophy of the blockchain could be more suitable for the futur in the long run, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
+Moreover, philosophy of the blockchain could be more suitable for the future in the long run, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
 
 The U blockchain could be the 1st one to achieve the market capitalization of at least **$20 trillion**, enabling mass adoption for crypto in general.
 
