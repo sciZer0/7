@@ -40,37 +40,6 @@ Moreover, philosophy of the blockchain could be more suitable for the next gener
 The U blockchain could enable mass adoption for crypto in general, and be the 1st one to achieve the market capitalization of at least **$20 trillion**.
 
 
-
-
-
-
-
-
-
-First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
-
-Definitely, in the inflationary monetary model — involving an endless increasing the total supply of the currency — there is nothing new and valuable. 
-
-This conclusion comes from the fact that increasing the total supply of any currency **eventually always** results in the devaluation of the currency — meaning in decreasing the value of the unit of this currency. Never, in something different.
-
-Fortunately, the crypto industry is trying to build the permissionless globally-transferable currencies (called tokens) with decreasing total-supply (Ethereum and Solana, to name a few) — with the perspective for each such a currency to become the most valuable asset in the financial world.
-
-Unfortunately, all existing blockchains, being people's working systems, have **unsolvable fundamental** both technological and social problems (described below) which already now are preventing these blockchains from getting mass adoption, and which most likely will also do this in the future.
-
-This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol that solves **fundamental problems of the existing blockchains** and introduces the currency (token) with the powerfully-decreasing total-supply.
-
-Precisely, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
-
-The protocol is represented through 
-
-Along with providing the innovative token, the U blockchain is much more efficient than  the most efficient  blockchains (for example, the Solana blockchain), using a new approach to consensus —called **Proof of Stake Flow** (PoSF).
-
-
-describing the Unicorn (**U**) blockchain being built based on the given protocol.
-
-
-
-
  <br><br>
 <b>TABLE OF CONTENTS</b>
 * **Abstract**
