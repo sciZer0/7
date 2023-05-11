@@ -161,7 +161,7 @@ And, when people have real power and information, when they are motivated, when 
 
 ### About Immutability Of Code
 
-This might seem that ideally, in codebase of a blockchain, there should be no variables that might be adjusted and no updates that might be made in order to change the way the blockchain works.
+This might seem that ideally, in the codebase of a blockchain, there should be no updates, and no variables that might be fine-tuned in order to change the way the blockchain works
 
 In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete, and also risks becoming extremely-vulnerable to possible code bugs.
 
@@ -171,11 +171,13 @@ By the way, total immutability is especially not good for codebases of smart-con
 
 As for codebase of a blockchain, the most right approach might be to provide fully-automated decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
 
-So codebase (constitution) of a blockchain can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way — and can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way.
+So codebase (constitution) of a blockchain
 
-Ideally, a blockchain must be fine-turnable in a highly-decentralized/democratic way.
+* can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way
 
+can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way.
 
+Ideally, a blockchain must be upgradable and fine-tunable in a highly-decentralized/democratic way.
 
 
 <br>
