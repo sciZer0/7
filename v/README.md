@@ -31,14 +31,15 @@ The U blockchain provides extremely-generous incentives to early contributors.
 
 From day one, the blockchain has over 100 million owners equally owning the blockchain's innovative native token
 
-— precisely, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
+— namely, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
 
-Along with providing the innovative native token, the U blockchain is much more efficient than even the most efficien-to-date blockchains (for example, the Solana blockchain), using a new approach to consensus —called **Proof of Stake Flow** (PoSF).
+High (even **extreme**)  efficiency of the blockchain is achieved through the use of a new approach to consensus — called **Proof of Stake Flow** (PoSF).
 
 Moreover, philosophy of the blockchain could be more suitable for the next generations, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
 
 The U blockchain could enable mass adoption for crypto in general, and be the 1st one to achieve the market capitalization of at least **$20 trillion**.
 
+Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
