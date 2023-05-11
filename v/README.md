@@ -5,7 +5,7 @@ PROTOCOL
 </h1>
 
 <p align="center">
-Most Suitable<br>
+More Suitable<br>
 for the Future
 </p>
 
@@ -40,10 +40,11 @@ Precisely, **the permissionless, cheapest-to-globally-transfer token with the po
 
 The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
-The U blockchain is more than 50 times more efficient than  the most efficient  blockchains (for example, the Solana blockchain), putting more decentralization on the management level rather than on the operating level — which in turn still remains highly-decentralized.
+Moreove, the U blockchain is much more efficient than  the most efficient  blockchains (for example, the Solana blockchain), using a new approach to consensus —called **Proof of Stake Flow** (PoSF).
 
+Philosophy of the blockchain could be more suitable for the next generations, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
 
-The U blockchain could really enable mass adoption for crypto in general, and philosophy of the blockchain could be most suitable for the future — upcoming creative economy and more democracy. 
+The U blockchain could enable mass adoption for crypto in general, and be the 1st one to achieve the market capitalization of at least **$20 trillion**.
 
 
 
