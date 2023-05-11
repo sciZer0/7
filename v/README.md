@@ -23,6 +23,29 @@ doomed by its protocol<br>
 
 <h2 align="center">Brief Introduction</h2>
 
+This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol.
+
+The protocol is represented through describing the Unicorn (U) blockchain being built based on the given protocol.
+
+The U blockchain provides extremely-generous incentives for early contributors
+
+From day one, the blockchain has over 100 million owners equally owning the blockchain's innovative native token
+
+— precisely, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
+
+Along with providing the innovative native token, the U blockchain is much more efficient than even the most efficien-to-date blockchains (for example, the Solana blockchain), using a new approach to consensus —called **Proof of Stake Flow** (PoSF).
+
+Moreover, philosophy of the blockchain could be more suitable for the next generations, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
+
+The U blockchain could enable mass adoption for crypto in general, and be the 1st one to achieve the market capitalization of at least **$20 trillion**.
+
+
+
+
+
+
+
+
 
 First of all, there is **$83 trillion** in the total global money supply, and this total supply is constantly increasing.
 
@@ -38,14 +61,12 @@ This paper proposes an idea (set of ideas / solutions / approaches) on a revolut
 
 Precisely, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
 
-The protocol is represented through describing the Unicorn (**U**) blockchain being built based on the given protocol.
+The protocol is represented through 
 
 Along with providing the innovative token, the U blockchain is much more efficient than  the most efficient  blockchains (for example, the Solana blockchain), using a new approach to consensus —called **Proof of Stake Flow** (PoSF).
 
-Moreover, philosophy of the blockchain could be more suitable for the next generations, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
 
-The U blockchain could enable mass adoption for crypto in general, and be the 1st one to achieve the market capitalization of at least **$20 trillion**.
-
+describing the Unicorn (**U**) blockchain being built based on the given protocol.
 
 
 
@@ -54,6 +75,7 @@ The U blockchain could enable mass adoption for crypto in general, and be the 1s
 <b>TABLE OF CONTENTS</b>
 * **Abstract**
    - About Blockchain Technology
+   - About the Innovative Native Token
    - About New Culture
    - About Democracy
    - About Immutability Of Code
