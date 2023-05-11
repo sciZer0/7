@@ -27,7 +27,7 @@ This paper proposes an idea (set of ideas / solutions / approaches) on a revolut
 
 The protocol is represented through describing the Unicorn (U) blockchain being built based on the given protocol.
 
-The U blockchain provides extremely-generous incentives for early contributors
+The U blockchain provides extremely-generous incentives to early contributors.
 
 From day one, the blockchain has over 100 million owners equally owning the blockchain's innovative native token
 
