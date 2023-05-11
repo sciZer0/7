@@ -6,7 +6,8 @@ PROTOCOL
 
 <p align="center">
 More Suitable<br>
-for the Future
+for the Future<br>
+in Long Run
 </p>
 
 
