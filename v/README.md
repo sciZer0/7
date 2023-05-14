@@ -17,7 +17,7 @@ each blockchain<br>
 existing in 2023 is<br>
 doomed by its protocol<br>
 </b></p>
-
+<br>
 
 This paper proposes an idea (set of ideas / solutions / approaches) on a new blockchain protocol.
 
@@ -56,8 +56,6 @@ As its native token the blockchain has **the permissionless, cheapest-to-globall
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
-The blockchain provides more democracy and more fairness, hopefully making the whole system more suitable for the future, for the next generations.
-
 The U blockchain is simultaneously:
 
 * highly-decentralized
@@ -69,6 +67,8 @@ The U blockchain is simultaneously:
 * with the native, powerfully-decreasing total-supply token (**new**)
 * with over 100,000,000 owners of the native token (**new**)
 * with the best Gini coefficient (**new**)
+
+The blockchain provides more democracy and more fairness, hopefully making the whole system more suitable for the future, for the next generations.
 
 
 The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
