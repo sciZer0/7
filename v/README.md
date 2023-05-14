@@ -7,7 +7,6 @@ PROTOCOL
 <p align="center">
 More Suitable<br>
 for the Future<br>
-in Long Run
 </p>
 
 
@@ -19,13 +18,99 @@ existing in 2023 is<br>
 doomed by its protocol<br>
 </b></p>
 
+
+This paper proposes an idea (set of ideas / solutions / approaches) on a new blockchain protocol.
+
+The protocol is represented through describing the Unicorn (U) blockchain being built based on the given protocol.
+
 <br>
+
 
 <h2 align="center">Brief Introduction</h2>
 
-This paper proposes an idea (set of ideas / solutions / approaches) on a revolutionary blockchain protocol.
 
-The protocol is represented through describing the Unicorn (U) blockchain being built based on the given protocol.
+<p>&nbsp</p>
+<h2 align="center">THE UNICORN<br>
+BLOCKCHAIN</h2>
+<p align="center">
+In Brief<br>
+<i>Much like Promo</i><br>
+</p>
+
+
+<p align="center">In Brief </p>
+<p align="center"><i>Much like Promo</i></p>
+
+<br>
+
+<p align="left">
+  <img src="/assets/images/unicorn.png" height="100"><br>
+</p>
+
+The U blockchain is a layer-1, highly-decentralized, DAO-style blockchain.
+
+Technologically, the blockchain borrows heavily from **the Solana blockchain**, at the same time providing tens times more efficiency.
+
+The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+
+Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
+
+*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the token airdrop, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
+
+As its native token the blockchain has  a revolutionary native token, namely, 
+
+**the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+
+In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
+
+The blockchain provides more democracy and more fairness, hopefully making the system as whole more suitable for the future, for the next generations.
+
+The U blockchain is simultaneously:
+
+* highly-decentralized
+* highly-democratic (**new**)
+* highly-sustainable 
+* highly-efficient (**new**)
+* with the bandwidth of over 50,000 TPS
+* with the lowest transaction fees (**new**)
+* with the native, powerfully-decreasing total-supply token (**new**)
+* with over 100,000,000 owners of the native token (**new**)
+* with the best Gini coefficient (**new**)
+
+
+The narrative defined by the blockchain involves  — among other things  — the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+
+The blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
+
+The U blockchain provides extremely-generous incentives to the early protocol contributors.
+
+
+
+
+
+
+
+
+This all suddenly becames possible thanks to combining the following things,
+
+* (1) the new approach to consensus (PoSF)
+* (2) the full distribution of the **maximum supply** of the native token at the very beginning 
+* (3) the use of the new **all-fees-burning** 🔥 mechanism
+* (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
+
+Pay attention: all fees received (100% fees) are burned 🔥 and there is no emission of the native token any more after the Genesis Block. The maximum supply  is issued at the Genesis Block and then right away is fully distributed among over 100 million people.
+
+Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
+
+Simultaneously, despite being highly-efficient, the blockchain **in a pre-programmed manner** strives to pay in the native token each Contributor (for example, being a software engineer) highly-generous **automated-donations**  — at least, **$1,2 million per year** or **$100,000 per month**.
+
+The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies among other things — and plus, enables new culture which is being totally along with upcoming creative economy.
+
+<br>
+
+
+
+
 
 The U blockchain provides extremely-generous incentives to early contributors.
 
@@ -325,66 +410,7 @@ With all these fundamental problems, it is for sure that for now, the industry h
 
 
  
-<p>&nbsp</p>
 
-<p>&nbsp</p>
-
-<p>&nbsp</p>
-<h2 align="center">THE UNICORN<br>
-BLOCKCHAIN</h2>
-<p align="center">In Brief </p>
-
-
-<br>
-
-<p align="left">
-  <img src="/assets/images/unicorn.png" height="100"><br>
-</p>
-
-The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
-
-Technologically, the blockchain borrows heavily from **the Solana blockchain**.
-
-From day one, the U blockchain is simultaneously:
-
-* highly-decentralized
-* highly-democratic (**new**)
-* highly-sustainable 
-* highly-efficient (**new**)
-* with the bandwidth of over 50,000 TPS
-* with the lowest transaction fees (**new**)
-* with the native, powerfully-decreasing total-supply token (**new**)
-* with over 100,000,000 owners of the native token (**new**)
-* with the best Gini coefficient (**new**)
-
-Some Notes
-
-Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
-
-*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the token airdrop, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
-
-The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
-
-Also from day one, the blockchain has as its native token **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
-
-In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
-
-This all suddenly becames possible thanks to combining the following things,
-
-* (1) the new approach to consensus (PoSF)
-* (2) the full distribution of the **maximum supply** of the native token at the very beginning 
-* (3) the use of the new **all-fees-burning** 🔥 mechanism
-* (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
-
-Pay attention: all fees received (100% fees) are burned 🔥 and there is no emission of the native token any more after the Genesis Block. The maximum supply  is issued at the Genesis Block and then right away is fully distributed among over 100 million people.
-
-Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
-
-Simultaneously, despite being highly-efficient, the blockchain **in a pre-programmed manner** strives to pay in the native token each Contributor (for example, being a software engineer) highly-generous **automated-donations**  — at least, **$1,2 million per year** or **$100,000 per month**.
-
-The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies among other things — and plus, enables new culture which is being totally along with upcoming creative economy.
-
-<br>
 <br>
 
 
