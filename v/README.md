@@ -46,7 +46,7 @@ The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, at the same time providing tens times more efficiency.
 
-The high (even **extreme**) efficiency of the blockchain  is achieved througl the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Such a high (even **extreme**) efficiency of the blockchain  is achieved through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
@@ -82,42 +82,6 @@ The U blockchain provides extremely-generous incentives to the early protocol co
 
 
 
-
-
-This all suddenly becames possible thanks to combining the following things,
-
-* (1) the new approach to consensus (PoSF)
-* (2) the full distribution of the **maximum supply** of the native token at the very beginning 
-* (3) the use of the new **all-fees-burning** 🔥 mechanism
-* (4) the introduction of the universal **tax** with a extremely-low rate supposed to additionally regularly be reduced.
-
-Pay attention: all fees received (100% fees) are burned 🔥 and there is no emission of the native token any more after the Genesis Block. The maximum supply  is issued at the Genesis Block and then right away is fully distributed among over 100 million people.
-
-Being especially-suitable for mass adoption, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
-
-Simultaneously, despite being highly-efficient, the blockchain **in a pre-programmed manner** strives to pay in the native token each Contributor (for example, being a software engineer) highly-generous **automated-donations**  — at least, **$1,2 million per year** or **$100,000 per month**.
-
-The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies among other things — and plus, enables new culture which is being totally along with upcoming creative economy.
-
-<br>
-
-
-
-
-
-The U blockchain provides extremely-generous incentives to early contributors.
-
-From day one, the blockchain has over 100 million owners equally owning the blockchain's native token — namely,
-
-**the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
-
-High (even **extreme**)  efficiency of the blockchain is achieved through the use of a new approach to consensus — called **Proof of Stake Flow** (PoSF).
-
-Moreover, philosophy of the blockchain could be more suitable for the future in the long run, providing more democracy and more fairness, along with more suitability for upcoming creative economy.
-
-The U blockchain could be the 1st one to achieve the market capitalization of at least **$20 trillion**, enabling mass adoption for crypto in general.
-
-Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
