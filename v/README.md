@@ -84,7 +84,7 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 At the same time, the U blockchain is tens of times more efficient than the Solana blockchain.
 
-Such a high (even **extreme**) efficiency of the blockchain is achieved through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Such a high (even **extreme**) efficiency of the blockchain is achieved also through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
