@@ -79,7 +79,7 @@ The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
-The U blockchain is tens of times more efficient than even the most efficient traditional blockchains — for example, than the Solana blockchain.
+The U blockchain is tens of times more efficient than the most efficient traditional blockchains — for example, than the Solana blockchain.
 
 
 The U blockchain is simultaneously
