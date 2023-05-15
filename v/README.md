@@ -30,7 +30,7 @@ doomed by its protocol<br>
 
 The long-run leadership of a blockchain relies  on how hard or impossible it is for competitors to overcome the blockchain in each key aspect.
 
-All blockchains built before and existing in 2023 have a good chance to be perceived in the future as simultaneously
+Namely thanks to its protocol, each blockchain built before and existing in 2023 has a good chance to be perceived in the future as simultaneously
 
 * undemocratic
 * injust
