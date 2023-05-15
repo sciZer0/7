@@ -117,10 +117,10 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 <b>TABLE OF CONTENTS</b>
 * **Abstract** — Continuation
    - About Blockchain Technology
-   - About the Innovative Native Token
-   - About New Culture
+   - About the Most Valuable Assets
    - About Democracy
    - About Immutability Of Code
+   - About New Culture
    - About **5** Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
@@ -185,21 +185,23 @@ Idea/Hypothesis
 
 The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.
 
-As an element of Creator Thanksgiving Culture, we might establish a new fete day — Creator Thanksgiving Day — say on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful in-their-opinion people creating digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we might even establish a new non-official fete day — Creator Thanksgiving Day — say on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful-in-their-opinion creators of digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
 
-Eventually, there might be people on social networks who are searching for creators eligible most for donations, making the lists.
+Eventually, on social networks there might be people searching for creators eligible most for donations, making the lists.
 
-In the future, in the creative economy, creators of digitizable things most likely will mainly monetize their works through donations — donations will play the most important role in monetization of creators of digitizable things.
+Most likely, in the future, creators of digitizable things will mainly monetize their works through both promoting of things and donations from fans.
+
+The donations might play the most important role in monetization of all creators of digitizable things in the future.
 
 The U blockchain is based exactly on donations (incl. automated-donations), and philosophy of this new culture in general.
 
-We believe the new blockchain protocol is very (or even most) suitable for upcoming creative economy:
+We believe the new blockchain protocol is very (or even most) suitable for upcoming creative economy.
 
-**Insight**:<br>
->**Hundreds of millions of people, having necessary funds, will always find a way to financially support several very useful-to-them people.**
+**Our Insight**:<br>
+>**Hundreds of millions of people, having necessary funds, will always find a way to financially support several very-useful-to-them people.**
 
-Also,
->**Thousands of people, having necessary funds, will always find a way to financially support one very useful-to-them person.**
+Including,
+>**Thousands of people, having necessary funds, will always find a way to financially support one very-useful-to-them person.**
 
 <br>
 
@@ -217,9 +219,9 @@ The thing is that for a democracy to work well, those who are making the decisio
 
 3. be really motivated.
 
-On the other hand, absolutely, when you treat people like mushrooms — feed them manure and keep them in the dark — you get the "average voter" awful effect.
+On the other hand, absolutely, when the system treats people like mushrooms — feeds them manure and keeps them in the dark — we get the "average voter" awful effect.
 
-And, when people have real power and information, when they are motivated, when the system is transparent and on  blockchain, then there is a big chance we get a real democracy working well.
+Vice-versa, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
 
 <br>
 
