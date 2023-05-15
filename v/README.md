@@ -70,7 +70,7 @@ The protocol is represented through describing a specific blockchain being built
   <img src="/assets/images/unicorn.png" height="100"><br>
 </p>
 
-The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
+The U blockchain is a layer-1, DAO-style blockchain.
 
 The U blockchain is simultaneously
 
@@ -93,7 +93,6 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 As its native token the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total-supply.
-
 
 Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each contributor in general.
 
