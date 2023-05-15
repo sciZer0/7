@@ -37,9 +37,9 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 
 * highly-decentralized
 * highly-sustainable
-* **higgly-democratic
-* **highly-just
-* **highly-efficient
+* **higgly-democratic**
+* **highly-just**
+* **highly-efficient**
 
 moreover,  with this all resulting in creating 
 
@@ -60,7 +60,7 @@ The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
-The U blockchain is tens of times more efficient than even the most efficient traditional blockchains — for example, the Solana blockchain.
+The U blockchain is tens of times more efficient than even the most efficient traditional blockchains — for example, than the Solana blockchain.
 
 
 The U blockchain is simultaneously
@@ -71,7 +71,7 @@ The U blockchain is simultaneously
 * highly-just
 * highly-efficient
 
-Specifically such a high (even **extreme**) efficiency of the blockchain is achieved also through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Specifically, such a high (even **extreme**) efficiency of the blockchain is achieved also through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
@@ -79,13 +79,12 @@ Importantly, from day one, the blockchain has over **100 million people** equall
 
 As its native token the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
-In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
+In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total-supply.
 
 
 Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-high incentives to the early blockchain contributors, and also high incentives to each contributor.
 
-
-The blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — making **billions of people** also able to  benefit from it.
+At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing NO MONEY, also making **billions of people** able to  benefit from it.
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
