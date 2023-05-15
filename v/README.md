@@ -19,23 +19,33 @@ doomed by its protocol<br>
 </b></p>
 <br>
 
-This paper proposes an idea (set of ideas / solutions / approaches) on a new blockchain protocol.
 
-The protocol is represented through describing the Unicorn (U) blockchain being built based on the given protocol.
+Abstract
+In Brief 
 
-<br>
-<br>
+The long-run leadership of a blockchain relies  on how hard or impossible it is for competitors to overcome the blockchain in each key aspect.
 
-<p align="center">Brief Introduction<br>
-<i>Much like Promo</i><br>
-</p>
+All blockchains built before and existing in 2023 have a good chance to be perceived in the future as simultaneously
 
-<br>
-<h2 align="center">THE UNICORN<br>
-BLOCKCHAIN</h2>
-<p align="center">
-In Breaf<br>
-</p>
+undemocratic
+injust
+inefficient.
+
+Precisely being undemocratic, injust and inefficient will most likely prevent a blockchain most from getting mass adoption in the future, in the long run.
+
+This paper proposes an idea of a new blockchain protocol that allows a blockchain to be 
+
+* higgly-democratic
+* highly-just
+* highly-efficient
+
+moreover,  with this all resulting in creating 
+
+* **the permissionless, cheapest to globally-transfer token with the powerfully-increasing scarcity**.
+
+The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (U) blockchain which has **the permissionless, cheapest to globally-transfer token with the powerfully-increasing scarcity**.
+
+
 
 <br>
 <p align="left">
