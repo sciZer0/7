@@ -60,6 +60,9 @@ The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
+The U blockchain is tens of times more efficient than even the most efficient traditional blockchains — for example, the Solana blockchain.
+
+
 The U blockchain is simultaneously
 
 * highly-decentralized
@@ -68,36 +71,23 @@ The U blockchain is simultaneously
 * highly-just
 * highly-efficient
 
-High (even **extreme**) efficiency of the blockchain is also achieved through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Specifically such a high (even **extreme**) efficiency of the blockchain is achieved also through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-*There are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the fair token-airdrop, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.*
+*There are ideas /solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the fair token-airdrop, and also on how over 2,000,000 of those people might become an especially-powerful driving-force of the blockchain*.
 
 As its native token the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total supply.
 
-The U blockchain is simultaneously:
 
-* highly-decentralized
-* highly-democratic (**new**)
-* highly-sustainable 
-* highly-efficient (**new**)
-* with the bandwidth of over 50,000 TPS
-* with the lowest transaction fees (**new**)
-* with the native, powerfully-decreasing total-supply token (**new**)
-* with over 100,000,000 owners of the native token (**new**)
-* with the best Gini coefficient (**new**)
-
-The blockchain provides more democracy and more fairness, hopefully making the whole system more suitable for the future, for the next generations.
+Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-high incentives to the early blockchain contributors, and also high incentives to each contributor.
 
 
-The narrative defined by the blockchain involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+The blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — making **billions of people** also able to  benefit from it.
 
-The blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing no money — plus, making **billions of people** also able to benefit from it.
-
-The U blockchain provides extremely-generous incentives to the early protocol contributors.
+The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
 
 
