@@ -100,7 +100,7 @@ As its native token the blockchain has **the permissionless, cheapest-to-globall
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total-supply.
 
 
-Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-high incentives to the early blockchain contributors, and also high incentives to each contributor in general.
+Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each contributor in general.
 
 At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing NO MONEY, also making **billions of people** able to  benefit from it.
 
