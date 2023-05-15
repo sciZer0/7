@@ -50,7 +50,7 @@ moreover,  with this all resulting in creating
 
 * **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
 
-The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (U) blockchain.
+The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
 
 <br>
@@ -72,7 +72,7 @@ The protocol is represented through describing a specific blockchain being built
 
 The U blockchain is a layer-1, DAO-style blockchain.
 
-The U blockchain is simultaneously
+The blockchain is simultaneously
 
 * highly-decentralized
 * highly-sustainable
