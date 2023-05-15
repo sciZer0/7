@@ -94,7 +94,7 @@ Specifically, such a high (even **extreme**) efficiency of the blockchain is ach
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
-*There are ideas /solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the fair token-airdrop, and also on how over 2,000,000 of those people might become an especially-powerful driving-force of the blockchain*.
+*There are ideas /solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses eligible for the fair token-airdrop, and also on how over 2,000,000 of those people might become an especially-powerful driving-force of the blockchain*.
 
 As its native token the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
