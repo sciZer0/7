@@ -178,13 +178,13 @@ Idea/Hypothesis
 
 The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.
 
-As an element of Creator Thanksgiving Culture, we might even establish a new non-official fete day — Creator Thanksgiving Day — say on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful-in-their-opinion creators of digitizable things (incl. ideas and code). Also, through buying NFTs of the creators.
+As an element of Creator Thanksgiving Culture, we might even establish a new non-official fete day — Creator Thanksgiving Day — say on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful-in-their-opinion creators of digitizable things (videos, audios, texts, programs). Also, through buying NFTs of the creators.
 
 Eventually, on social networks there might be people searching for creators eligible most for donations, making the lists.
 
-Most likely, in the future, creators of digitizable things will mainly monetize their works through both promoting of things and donations from fans.
+Most likely, in the future, creators of digitizable things will monetize their works mainly through both promoting of good things and donations from fans.
 
-The donations might play the most important role in monetization of all creators of digitizable things in the future.
+In the future, the donations might play the most important role in monetization of creators of digitizable things.
 
 The U blockchain is based exactly on donations (incl. automated-donations), and philosophy of this new culture in general.
 
