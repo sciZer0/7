@@ -122,7 +122,6 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
    - About Democracy
    - About Immutability Of Code
    - About **5** Fundamental Problems of All Current Blockchains
-* **The Unicorn Blockchain** — In Brief
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
    - *About Nakamoto Coefficient*
@@ -397,7 +396,6 @@ With all these fundamental problems, it is for sure that for now, the industry h
 
 
 
- 
 
 <br>
 
