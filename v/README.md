@@ -27,23 +27,27 @@ The long-run leadership of a blockchain relies  on how hard or impossible it is 
 
 All blockchains built before and existing in 2023 have a good chance to be perceived in the future as simultaneously
 
-undemocratic
-injust
-inefficient.
+* undemocratic
+* injust
+* inefficient.
 
-Precisely being undemocratic, injust and inefficient will most likely prevent a blockchain most from getting mass adoption in the future, in the long run.
+Precisely being simultaneously undemocratic, injust and inefficient will most likely be most preventing a blockchain from getting mass adoption in the future, in the long run.
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain to be 
+This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
 
-* higgly-democratic
-* highly-just
-* highly-efficient
+* highly-decentralized
+* highly-sustainable
+* **higgly-democratic
+* **highly-just
+* **highly-efficient
 
 moreover,  with this all resulting in creating 
 
 * **the permissionless, cheapest to globally-transfer token with the powerfully-increasing scarcity**.
 
-The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (U) blockchain which has **the permissionless, cheapest to globally-transfer token with the powerfully-increasing scarcity**.
+The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (U) blockchain.
+
+The U blockchain has **the permissionless, cheapest to globally-transfer token with the powerfully-increasing scarcity**.
 
 
 
@@ -54,9 +58,17 @@ The protocol is represented through describing a specific blockchain being built
 
 The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
 
-Technologically, the blockchain borrows heavily from **the Solana blockchain**, at the same time providing tens times more efficiency.
+Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
-Such a high (even **extreme**) efficiency of the blockchain  is achieved through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+The U blockchain is simultaneously
+
+* highly-decentralized
+* highly-sustainable
+* higgly-democratic
+* highly-just
+* highly-efficient
+
+High (even **extreme**) efficiency of the blockchain is also achieved through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
