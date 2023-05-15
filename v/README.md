@@ -28,7 +28,7 @@ doomed by its protocol<br>
 <p align="center">In Brief</p>
 
 
-The long-run leadership of a blockchain relies  on how hard or impossible it is for competitors to overcome the blockchain in each key aspect.
+The long-run leadership of a blockchain relies  on how hard or nearly-impossible it is for competitors to overcome the blockchain in each key aspect.
 
 Namely thanks to its protocol, each blockchain built before and existing in 2023 has a good chance to be perceived in the future as simultaneously
 
