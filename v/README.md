@@ -115,7 +115,7 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
-* **Abstract**
+* **Abstract** — Continuation
    - About Blockchain Technology
    - About the Innovative Native Token
    - About New Culture
@@ -132,6 +132,7 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 <br><br>
 
 <h2 align="center">Abstract</h2>
+<p align="center">Continuation</p>
 
 
 
