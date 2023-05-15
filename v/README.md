@@ -79,9 +79,6 @@ The U blockchain is a highly-decentralized, layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
-The U blockchain is tens of times more efficient than the most efficient traditional blockchains — for example, than the Solana blockchain.
-
-
 The U blockchain is simultaneously
 
 * highly-decentralized
@@ -90,7 +87,9 @@ The U blockchain is simultaneously
 * highly-just
 * highly-efficient.
 
-Specifically, such a high (even **extreme**) efficiency of the blockchain is achieved also through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+The U blockchain is tens of times more efficient than the most efficient traditional blockchains — for example, than the Solana blockchain.
+
+Such a high (even **extreme**) efficiency of the blockchain is achieved through the use of the new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
