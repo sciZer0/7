@@ -52,11 +52,6 @@ moreover,  with this all resulting in creating
 
 The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (U) blockchain.
 
-The U blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
-
-
-
-
 
 <br>
 <h2 align="center">Brief Introduction</h2>
