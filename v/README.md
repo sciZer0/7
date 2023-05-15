@@ -20,8 +20,13 @@ doomed by its protocol<br>
 <br>
 
 
-Abstract
-In Brief 
+
+<br>
+
+
+<h2 align="center">Abstract</h2>
+<p align="center">In Brief</p>
+
 
 The long-run leadership of a blockchain relies  on how hard or impossible it is for competitors to overcome the blockchain in each key aspect.
 
@@ -48,6 +53,20 @@ moreover,  with this all resulting in creating
 The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (U) blockchain.
 
 The U blockchain has **the permissionless, cheapest to globally-transfer token with the powerfully-increasing scarcity**.
+
+
+
+
+
+<br>
+<h2 align="center">Brief Introduction</h2>
+
+<br>
+
+<h2 align="center">THE UNICORN BLOCKCHAIN</h2>
+<p align="center">In Brief</p>
+
+
 
 
 
