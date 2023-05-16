@@ -72,13 +72,13 @@ The blockchain is simultaneously
 * highly-sustainable
 * higgly-democratic
 * highly-just
-* highly-efficient.
+* most-efficient.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 At the same time, the U blockchain is tens of times more efficient than the Solana blockchain.
 
-Such high (even **highest**) efficiency of the blockchain is achieved also through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Such **highest** efficiency of the blockchain is achieved also through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
