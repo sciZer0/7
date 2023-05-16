@@ -28,9 +28,9 @@ doomed by its protocol<br>
 <p align="center">In Brief</p>
 
 
-Namely thanks to its protocol, each blockchain built before and existing in 2023 has a good chance to be perceived in the future as both **undemocratic** and **injust**.
+Namely thanks to its protocol, each blockchain built before and existing in 2023 might have a good chance to be perceived in the future as both **undemocratic** and **injust**.
 
-Probably precisely **undemocracy** and **injustness** of a blockchain (not even technology of the blockchain) will prevent the blockchain **most** from getting mass adoption in the future, in the long run.
+Precisely **undemocracy** and **injustness** of a blockchain (not even technology of the blockchain) might prevent the blockchain **most** from getting mass adoption in the future, in the long run.
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
 
@@ -78,7 +78,7 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 At the same time, the U blockchain is tens of times more efficient than the Solana blockchain.
 
-Such **highest** efficiency of the blockchain is achieved also through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Such **highest** efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
