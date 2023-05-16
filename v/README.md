@@ -28,15 +28,12 @@ doomed by its protocol<br>
 <p align="center">In Brief</p>
 
 
-The long-run leadership of a blockchain relies  on how hard it is for competitors to overcome the blockchain in each key aspect.
-
 Namely thanks to its protocol, each blockchain built before and existing in 2023 has a good chance to be perceived in the future as simultaneously
 
 * undemocratic
-* injust
-* inefficient.
+* injust.
 
-Precisely being simultaneously undemocratic, injust and inefficient will most likely be most preventing a blockchain from getting mass adoption in the future, in the long run.
+We believe precisely **undemocracy** and **injustness** (not technology that migh tbe grest) will be preventing a blockchain **most** from getting mass adoption in the future, in the long run.
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
 
@@ -84,7 +81,7 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 At the same time, the U blockchain is tens of times more efficient than the Solana blockchain.
 
-Such a high (even **highest**) efficiency of the blockchain is achieved also through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
+Such high (even **highest**) efficiency of the blockchain is achieved also through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
 
 Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
 
