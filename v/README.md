@@ -76,19 +76,23 @@ From day one, the blockchain has over **100 million people** EQUALLY owning the 
 *There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
 
 As its native token the 
-blockchain has a governance token — specifically, **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
-The blockchain is simultaneously
+Additionally, this native token is with governance power.
+
+As a result, the blockchain is simultaneously
 
 * highly-decentralized
 * highly-sustainable
 * higgly-democratic
-* highly-just
-* highly-efficient.
+* highly-just (incl. with the best Gini coefficient)
+* highly-efficient
+* with the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply
+* with over 100 million users.
 
-The U blockchain provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
+The U blockchain also provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
 
 At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **100 million people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
 
