@@ -45,7 +45,8 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 
 The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
-Remarkably, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
+Remarkably, as its native token the U
+blockchain has a governance token — specifically, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 
 <br>
@@ -73,7 +74,7 @@ From day one, the blockchain has over **100 million people** EQUALLY owning the 
 
 
 As its native token the 
-blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+blockchain has a governance token — specifically, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total-supply.
 
