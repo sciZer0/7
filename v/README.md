@@ -83,6 +83,18 @@ In other words, the permissionless, cheapest-to-globally-transfer token with pow
 
 Additionally, this native token is with governance power.
 
+
+***For reference***
+
+***Technologically, making votings is the same as making transactions.***
+
+***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votings aren't any problem now in terms of technology.***
+
+***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
+
+
+
+
 As a result, the U blockchain, being **highly-decentralized** and  **highly-sustainable**, is simultaneously
 
 
