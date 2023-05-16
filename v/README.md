@@ -67,6 +67,17 @@ Remarkably, as its native token the U blockchain has **the permissionless, cheap
 
 The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
 
+From day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
+
+*There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
+
+
+As its native token the 
+blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+
+In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total-supply.
+
+
 The blockchain is simultaneously
 
 * highly-decentralized
@@ -80,14 +91,6 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 At the same time — to mention just this single thing — the U blockchain is tens of times more efficient than even the most efficient blockchains, including the Solana blockchain.
 
 Highest efficiency of the blockchain is achieved through the use of a new approach to Proof-of-Stake (PoS) consensus mechanism — called **Proof-of-Stake-Flow** (PoSF).
-
-Importantly, from day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
-
-*There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
-
-As its native token the blockchain has **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
-
-In other words, the permissionless, cheapest-to-globally-transfer token with the powerfully-decreasing total-supply.
 
 Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each contributor in general.
 
