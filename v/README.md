@@ -95,7 +95,7 @@ Such high efficiency of the blockchain is achieved through the use of a new appr
 
 Along with — or in spite of — being highly-efficient and highly-just, the U blockchain provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each contributor in general.
 
-At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow at least **100,000,000 people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
+At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **100 million people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
