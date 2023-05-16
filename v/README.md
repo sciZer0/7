@@ -43,10 +43,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-efficient**.
 
 
-The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
-
-Remarkably, as its native token the U
-blockchain has a governance token — specifically, **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**. 
+The protocol is represented through describing a revolutionary blockchain being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
 
 <br>
