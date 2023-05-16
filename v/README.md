@@ -38,13 +38,14 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * highly-sustainable
 * **higgly-democratic**
 * **highly-just**
-* **most-efficient**
+* **highly-efficient**.
 
-moreover,  with this all resulting in creating 
-
-* **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
 
 The protocol is represented through describing a specific blockchain being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
+
+The U blockchain has 
+
+* **the permissionless, cheapest-to-globally-transfer token with the powerfully-increasing scarcity**.
 
 
 <br>
