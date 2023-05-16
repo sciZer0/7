@@ -43,7 +43,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-efficient**.
 
 
-The protocol is represented through describing a **revolutionary** blockchain being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
+The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
 
 <br>
