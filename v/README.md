@@ -63,7 +63,7 @@ The protocol is represented through describing a revolutionary blockchain being 
   <img src="/assets/images/unicorn.png" height="100"><br>
 </p>
 
-The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
+The U blockchain is a layer-1, DAO-style blockchain.
 
 From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
 
