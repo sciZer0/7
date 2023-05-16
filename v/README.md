@@ -32,7 +32,7 @@ Namely thanks to its protocol, each blockchain built before and existing in 2023
 
 Precisely **undemocracy** and **injustness** of a blockchain (not even technology of the blockchain) might prevent the blockchain **most** from getting mass adoption in the future, in the long run. 
 
-*More on this all below*.
+*More on the above below*.
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
 
