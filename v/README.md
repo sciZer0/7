@@ -65,7 +65,7 @@ Remarkably, as its native token the U blockchain has **the permissionless, cheap
   <img src="/assets/images/unicorn.png" height="100"><br>
 </p>
 
-The U blockchain is a layer-1, DAO-style blockchain.
+The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
 
 The blockchain is simultaneously
 
