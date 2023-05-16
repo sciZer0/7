@@ -67,7 +67,7 @@ Remarkably, as its native token the U blockchain has **the permissionless, cheap
 
 The U blockchain is a revolutionary, layer-1, DAO-style blockchain.
 
-From day one, the blockchain has over **100 million people** equally owning the blockchain's native token.
+From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
 
 *There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
 
