@@ -82,7 +82,7 @@ In other words, the permissionless, cheapest-to-globally-transfer token with pow
 
 Additionally, this native token is with governance power.
 
-As a result, the U blockchain being **highly-decentralized** and  **highly-sustainable** is simultaneously
+As a result, the U blockchain, being **highly-decentralized** and  **highly-sustainable**, is simultaneously
 
 
 * **higgly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
