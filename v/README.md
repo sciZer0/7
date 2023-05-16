@@ -30,7 +30,7 @@ doomed by its protocol<br>
 
 Namely thanks to its protocol, each blockchain built before and existing in 2023 has a good chance to be perceived in the future as simultaneously **undemocratic** and **injust**.
 
-We believe precisely **undemocracy** and **injustness** of a blockchain (not technology of the blockchain that might be grest) will prevent a blockchain **most** from getting mass adoption in the future, in the long run.
+We believe precisely **undemocracy** and **injustness** of a blockchain will prevent the blockchain **most** from getting mass adoption in the future, in the long run.
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
 
@@ -38,7 +38,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * highly-sustainable
 * **higgly-democratic**
 * **highly-just**
-* **highly-efficient**
+* **most-efficient**
 
 moreover,  with this all resulting in creating 
 
