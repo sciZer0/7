@@ -104,6 +104,7 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 * **Abstract** — Continuation
    - About Blockchain Technology
    - About the Most Valuable Assets
+   - About Real Transaction Fees
    - About Democracy
    - About Immutability Of Code
    - About New Culture
