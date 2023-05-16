@@ -136,6 +136,8 @@ The main point of blockchain technology is to allow people to build permissionle
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
 
+That's it.
+
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
 
 * use the public-private key pair authentication mechanism
