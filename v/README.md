@@ -28,7 +28,7 @@ doomed by its protocol<br>
 <p align="center">In Brief</p>
 
 
-Namely thanks to its protocol, each blockchain built before and existing in 2023 might be perceived in the future as absolutely
+Namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
 
 * **undemocratic**
 * **unjust**
