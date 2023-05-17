@@ -81,19 +81,21 @@ As its native token the U blockchain has **the permissionless, cheapest-to-globa
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
-Additionally, this native token is with governance power and owners of this token can vote with it.
+Additionally, this native token has governance power, and owners of the token can vote with it on various proposals.
 
 ***For reference***
 
-***Technologically, votes are transactions.***
+***Technologically, taking a vote is the same as making a transaction.***
 
-***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votes aren't any problem now in terms of technology.***
+***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future.***
+
+***So massive votes aren't any problem now in terms of technology.***
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
 The U blockchain, being **highly-decentralized** in each aspect, is simultaneously
 
-* **highly-sustainable** (extremely-hard,at best impossible, to harm or stop),
+* **highly-sustainable** (extremely-hard, at best impossible, to harm or stop),
 * **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
 * **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best Gini coefficient)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
@@ -143,16 +145,15 @@ The main point of blockchain technology is to allow people to build permissionle
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
 
+That's it.
+
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
 
 * use the public-private key pair authentication mechanism
 
-* be a highly-decentralized system of many incentivized, autonomous nodes — where often each node is storing the same copy of the book of the blockchain.
-
+* be a highly-decentralized system of many incentivized nodes — where often each node is storing the same copy of the book of the blockchain.
 
 Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout any geopolitical events or natural disasters.
-
-That's it.
 
 On the other hand, the main task of developers is to really build/make such permissionless systems being highly-sustainable and plus, of course, as efficient as possible. 
 
