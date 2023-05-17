@@ -28,10 +28,9 @@ doomed by its protocol<br>
 <p align="center">In Brief</p>
 
 
-Namely thanks to its protocol, each blockchain built before and existing in 2023 might be perceived in the future as simultaneously **undemocratic**,  **injust** and **inefficient**. 
+Namely thanks to its protocol, each blockchain built before and existing in 2023 might be perceived in the future as simultaneously **undemocratic**,  **unjust** and **inefficient**. 
 
-Precisely **undemocracy** and **injustness** of a blockchain might prevent the blockchain **most** from getting mass adoption in the future, in the long run. 
-Especially along with inefficiency of the blockchain.
+Precisely **undemocracy** and **injustness** of a blockchain might most prevent the blockchain from getting mass adoption in the future, in the long run.
 
 *More on the above below*.
 
@@ -41,7 +40,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * highly-sustainable
 * **higgly-democratic**
 * **highly-just**
-* **extremely-efficient**.
+* **highly-efficient**.
 
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
@@ -70,7 +69,7 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 The U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-Such extreme efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) — which borrows heavily from Solana's Proof-of-History (PoH). 
+Such high efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) — which borrows heavily from Solana's Proof-of-History (PoH). 
 
 From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
 
