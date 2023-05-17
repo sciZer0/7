@@ -117,11 +117,10 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 <b>TABLE OF CONTENTS</b>
 * **Abstract** — Continuation
    - About Blockchain Technology
-   - About the Most Valuable Assets
    - About Real Transaction-Fees
+   - About the Most Valuable Assets
    - About Democracy
-   - About Immutability Of Code
-   - About New Culture
+   - About Upgradeability Of Code
    - About **5** Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
