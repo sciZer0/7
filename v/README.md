@@ -87,7 +87,7 @@ Additionally, this native token is with governance power and owners of this toke
 
 ***Technologically, votes are transactions.***
 
-***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votings aren't any problem now in terms of technology.***
+***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votes aren't any problem now in terms of technology.***
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
