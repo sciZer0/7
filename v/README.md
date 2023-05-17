@@ -65,18 +65,15 @@ The protocol is represented through describing a **revolutionary blockchain** be
 
 The U blockchain is a layer-1, DAO-style blockchain.
 
-Technologically, the blockchain borrows heavily from **the Solana blockchain**.
+Technologically, the blockchain borrows heavily from **the Solana blockchain**, improving the protocol in each key aspect.
 
-The U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
-
-Such high efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) — which borrows heavily from Solana's Proof-of-History (PoH). 
+Thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
 From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
 
 *There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
 
-As its native token the 
-blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
@@ -92,12 +89,11 @@ Additionally, this native token is with governance power and owners of this toke
 
 The U blockchain, being **highly-decentralized** in each aspect, is simultaneously
 
-
-* **highly-sustainable** (extremely-hard,at best impossible, to be harm or stop),
-* **higgly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
+* **highly-sustainable** (extremely-hard,at best impossible, to harm or stop),
+* **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
 * **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best Gini coefficient)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
-* **with the unique native token** having the perspective to become the most valuable asset in the financial world — specifically, with the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
+* **with the unique native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply**.
 
 The U blockchain also provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
 
