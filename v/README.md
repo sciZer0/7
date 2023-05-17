@@ -34,7 +34,7 @@ Namely thanks to its protocol, each blockchain built before and existing in 2023
 * **unjust**
 * **inefficient**. 
 
-This could significantly or completely prevent the blockchain from getting mass adoption in the long run.
+This could increasingly prevent the blockchain from getting mass adoption in the long run.
 
 *More on the above below*.
 
