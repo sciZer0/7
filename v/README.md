@@ -99,7 +99,7 @@ The U blockchain, being **highly-decentralized** in each aspect, is simultaneous
 * **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
 * **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best Gini coefficient)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
-* **with the unique native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply**.
+* **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with both  powerfully-decreasing total-supply and governance power**.
 
 The U blockchain also provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
 
