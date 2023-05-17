@@ -34,7 +34,9 @@ Namely thanks to its protocol, each blockchain built before and existing in 2023
 * **unjust**
 * **inefficient**. 
 
-*More on it below*.
+This could significantly or completely prevent the blockchain from getting mass adoption in the long run.
+
+*More on the above below*.
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
 
