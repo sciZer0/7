@@ -41,7 +41,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * highly-sustainable
 * **higgly-democratic**
 * **highly-just**
-* **highly-efficient**.
+* **extremely-efficient**.
 
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
@@ -70,7 +70,7 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
 The U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-Such high efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and borrowing heavily from Solana's Proof-of-History (PoH). 
+Such extreme efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) — which borrows heavily from Solana's Proof-of-History (PoH). 
 
 From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
 
@@ -85,7 +85,7 @@ Additionally, this native token is with governance power and owners of this toke
 
 ***For reference***
 
-***Technologically, making votings is the same as making transactions.***
+***Technologically, votes are transactions.***
 
 ***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votings aren't any problem now in terms of technology.***
 
