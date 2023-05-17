@@ -68,9 +68,9 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**.
 
-The U blockchain is **tens of times** more efficient than the most efficient blockchains, including the Solana blockchain.
+The U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-Such highest efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) — which borrows heavily from Solana's Proof-of-History (PoH). 
+Such high efficiency of the blockchain is achieved through the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and borrowing heavily from Solana's Proof-of-History (PoH). 
 
 From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
 
@@ -81,8 +81,7 @@ blockchain has **the permissionless, cheapest-to-globally-transfer token with po
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
-Additionally, this native token is with governance power.
-
+Additionally, this native token is with governance power and owners of this token can vote with it.
 
 ***For reference***
 
@@ -92,17 +91,14 @@ Additionally, this native token is with governance power.
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
+The U blockchain, being **highly-decentralized** in each aspect, is simultaneously
 
 
-
-As a result, the U blockchain, being **highly-decentralized** and  **highly-sustainable**, is simultaneously
-
-
+* **highly-sustainable** (extremely-hard,at best impossible, to be harm or stop),
 * **higgly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
-* **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token with governance power, providing the best Gini coefficient)
+* **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best Gini coefficient)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
 * **with the unique native token** having the perspective to become the most valuable asset in the financial world — specifically, with the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
-
 
 The U blockchain also provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
 
@@ -144,13 +140,9 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 
 ### About Blockchain Technology
 
-It seems like not everyone understands the main point of blockchain technology.
-
 The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
-
-That's it.
 
 The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
 
@@ -161,11 +153,15 @@ The only way for a blockchain to be permissionless and highly-sustainable is to 
 
 Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout any geopolitical events or natural disasters.
 
+That's it.
+
 On the other hand, the main task of developers is to really build/make such permissionless systems being highly-sustainable and plus, of course, as efficient as possible. 
 
 Theoretically, a blockchain should be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
->**The main rule of efficiency of any working system is that the system must never do more than enough.**
+There is the main rule of efficiency.
+
+>**The main rule of efficiency is that you (any working system) must never do more than enough.**
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
