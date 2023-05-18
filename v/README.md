@@ -109,7 +109,7 @@ Last but not Least
 
 But what might be the long-run moat of the blockchain?
 
-The moat might be only the thing that it is extremely-hard for competitors to surpass the blockchain in each key aspect. 
+The moat might only be the thing that it might be extremely-hard for competitors to surpass the blockchain in each key aspect. 
 
 
 
