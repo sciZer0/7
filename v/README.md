@@ -94,7 +94,7 @@ Additionally, this native token has governance power, and owners of the token ca
 The U blockchain, being **highly-decentralized** and having strong **unchangeable fundamentals**, is simultaneously
 
 * **highly-sustainable** (extremely-hard, at best impossible, to harm or stop),
-* **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best Gini coefficient)
+* **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
 * **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with both  powerfully-decreasing total-supply and governance power**.
