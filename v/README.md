@@ -75,7 +75,7 @@ From day one, the blockchain has over **100 million people** EQUALLY owning the 
 
 *There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
 
-As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+Absolutely importantly, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
@@ -91,11 +91,11 @@ Additionally, this native token has governance power, and owners of the token ca
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
-The U blockchain, being **highly-decentralized** in each aspect, is simultaneously
+The U blockchain, being **highly-decentralized** and having strong **unchangeable fundamentals**, is simultaneously
 
 * **highly-sustainable** (extremely-hard, at best impossible, to harm or stop),
-* **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
 * **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best Gini coefficient)
+* **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
 * **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with both  powerfully-decreasing total-supply and governance power**.
 
@@ -104,7 +104,6 @@ The U blockchain also provides extremely-generous incentives to the early blockc
 At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **100 million people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
-
 
 
 
