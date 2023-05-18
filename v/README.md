@@ -155,9 +155,9 @@ On the other hand, the main task of developers is to really build/make such perm
 
 Theoretically, a blockchain should be <b>as</b> efficient <b>as</b> possible — of course, remaining permissionless and highly-sustainable.
 
-There is the main rule of efficiency.
+There is the main rule of efficiency — to keep in mind.
 
->**The main rule of efficiency is that you (any working system) must never do more than enough.**
+>**The main rule of efficiency is that you (or any working system) must never do more than enough.**
 
 *By the way, permissionlessness is just another word for censorship-resistance. And of course, permissionlessness and high-sustainability, both these ones together, imply trustlessness.*
 
