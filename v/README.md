@@ -105,6 +105,12 @@ At best, the blockchain might be the 1st one to achieve the market capitalizatio
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
+Last but not Least
+
+But what might be the long-run moat of the blockchain?
+
+The moat might be only the thing that it is extremely-hard for competitors to surpass the blockchain in each key aspect. 
+
 
 
 
