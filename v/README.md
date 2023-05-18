@@ -30,20 +30,20 @@ doomed by its protocol<br>
 
 Namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
 
-* **undemocratic**
 * **unjust**
+* **undemocratic**
 * **inefficient**. 
 
 This could increasingly prevent the blockchain from getting mass adoption in the long run.
 
 *More on the above below*.
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to have strong **unchangeable fundamentals** and be simultaneously
 
 * highly-decentralized
 * highly-sustainable
-* **higgly-democratic**
 * **highly-just**
+* **higgly-democratic**
 * **highly-efficient**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
