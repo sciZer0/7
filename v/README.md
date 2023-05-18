@@ -38,7 +38,7 @@ This could increasingly prevent the blockchain from getting mass adoption in the
 
 *More on the above below*.
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain to be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to be simultaneously
 
 * highly-decentralized
 * highly-sustainable
@@ -46,8 +46,9 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-just**
 * **highly-efficient**.
 
-
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
+
+
 
 
 <br>
@@ -57,9 +58,6 @@ The protocol is represented through describing a **revolutionary blockchain** be
 
 <h2 align="center">THE UNICORN BLOCKCHAIN</h2>
 <p align="center">In Brief</p>
-
-
-
 
 
 <br>
