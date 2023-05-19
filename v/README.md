@@ -41,6 +41,8 @@ One Orb collects 700+ Addresses per week on average. They are planning to produc
 
 the Worldcoin project might collect Public Addresses of billions of unique people in just some years.
 
+The project seeks to eventually scan the eyeballs of all people worldwide.
+
 The collected Public Addresses will also be absolutely-good for making various token-airdrops. 
 
 Essentially, the project creates the biggest-ever, global, user base — also, a global distribution system for everything.
