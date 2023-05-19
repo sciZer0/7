@@ -31,7 +31,7 @@ The Worldcoin project has the potential to change both the promotion of global p
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — has an idea on how to collect Public Addresses of billions of unique people.
 
-The process of collecting involves scanning people's irises with a device called Orb and strives to go in a privacy-preserving manner. 
+The process of collecting involves scanning people's irises with a device called Orb and strives to go in a way that is secure and privacy-preserving. 
 
 One Orb collects 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
 
@@ -39,17 +39,17 @@ One Orb collects 700+ Addresses per week on average. They are planning to produc
 
 1,820,000,000  Addresses per year
 
-Worldcoin might collect Public Addresses of billions of unique people in just some years.
+the Worldcoin project might collect Public Addresses of billions of unique people in just some years.
 
-The collected Public Addresses will be very good for making various token-airdrops. 
+The collected Public Addresses will be absolutely-good for making various token-airdrops. 
 
 Essentially, the project creates the biggest-ever, global, user base — also, a global distribution system for everything.
 
-The realization of the ideal will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+The realization of the idea will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
 Each new project will have the ability to start very powerfully, regardless of big money and "useful" connections.
 
-Keeping in mind the new paradigm and the new revolutionary blockchain protocol, it is important to note of the blockchain industry that namely thanks to its protocol, each blockchain project created before 2023 might be perceived in the future as absolutely
+As for the blockchain  industry, it is important to note that thanks to this new paradigm and the new revolutionary blockchain protocol described in this paper, each blockchain project created before 2023 might be perceived in the future as absolutely
 
 * **unpopular**
 * **unjust**
