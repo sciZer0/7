@@ -52,9 +52,11 @@ The realization of the idea will lead to that each new global project on Earth w
 
 Each new project will have the ability to start very powerfully, regardless of big money and "useful" connections.
 
-The moat of any successful business project will only be that it should be **extremely-hard** for competitors to **improve** the conditions the project provides to customers/users.
+The moat/ptotection of any successful business project will only be that it should be **extremely-hard** for competitors to **improve** the conditions the project provides to customers/users.
 
-As for the blockchain  industry where additionally code and ideas are open and free, it is important to also note that thanks to this new paradigm and the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as absolutely
+As for the blockchain  industry — where additionally code and ideas are open and free — the changes will be especially huge.
+
+thanks to this new paradigm and the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as absolutely
 
 * **unpopular**
 * **unjust**
