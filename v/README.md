@@ -43,19 +43,17 @@ Worldcoin might collect Public Addresses of billions of unique people in just so
 
 The collected Public Addresses will be very good for making various token-airdrops. 
 
-Essentially, the project creates a global distribution system for everything.
-
-Including,  the biggest-ever, global, user base.
+Essentially, the project creates the biggest-ever, global, user base — a global distribution system for everything.
 
 The realization of the ideal will lead to that each new global project on Earth (incl. each new crypto project) will have a tool to start up right away with a user base of billions of people, airdropping its tokens (insensitive points) to people of the base.
 
 As mentioned above, the Worldcoin project has the potential to change both the marketing of global projects and the lives of people more than completely.
 
-According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully — regardless of the project's Ad budget.
+According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of the project's marketing budget.
 
-The moat of a project might only be that it should be extremely-hard for competitors to improve the conditions the project offers to customers/users.
+The moat of a project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
 
-Keeping in mind the new paradigm, it is important to note that namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
+Keeping in mind the new paradigm, it is important to also note that namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
 
 * **unjust**
 * **undemocratic**
@@ -63,6 +61,8 @@ Keeping in mind the new paradigm, it is important to note that namely thanks to 
 * **unpopular**. 
 
 All these qualities together might increasingly prevent the blockchain from getting mass adoption in the long run.
+
+*More on the above below.*
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to have strong **unchangeable fundamentals** and be simultaneously
 
@@ -73,8 +73,6 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-efficient**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
-
-
 
 
 <br>
