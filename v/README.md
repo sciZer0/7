@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Abstract</h2>
 <p align="center">In Brief</p>
 
-One new project has the potential to change both the marketing of global projects and the lives of people more than completely.
+One new project has the potential to change both the marketing of global projects and the lives of people more than well.
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — has an idea on how to collect Public Addresses of billions of unique people.
 
@@ -47,9 +47,7 @@ Essentially, the project creates the biggest-ever, global, user base — a globa
 
 The realization of the ideal will lead to that each new global project on Earth (incl. each new crypto project) will have a tool to start up right away with a user base of billions of people, airdropping its tokens (insensitive points) to people of the base.
 
-As mentioned above, the Worldcoin project has the potential to change both the marketing of global projects and the lives of people more than completely.
-
-According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of the project's marketing budget.
+According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of the project's marketing budget and "useful" connections.
 
 The moat of a project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
 
