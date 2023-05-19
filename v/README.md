@@ -64,8 +64,9 @@ All these qualities together might increasingly prevent each such a blockchain f
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to have strong **unchangeable fundamentals** and be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to have strong **unchangeable fundamentals** and be
 
+* **highly-popular** 
 * highly-decentralized
 * highly-sustainable
 * **highly-just**
