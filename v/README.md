@@ -43,9 +43,9 @@ Worldcoin might collect Public Addresses of billions of unique people in just so
 
 The collected Public Addresses will be very good for making various token-airdrops. 
 
-Essentially, the project creates the biggest-ever, global, user base — a global distribution system for everything.
+Essentially, the project creates the biggest-ever, global, user base — also, a global distribution system for everything.
 
-The realization of the ideal will lead to that each new global project on Earth (incl. each new crypto project) will have a tool to start up right away with a user base of billions of people, airdropping its tokens (insensitive points) to people of the base.
+The realization of the ideal will lead to that each new global project on Earth (incl. each new crypto project) will have an easy tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
 According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of the project's marketing budget and "useful" connections.
 
