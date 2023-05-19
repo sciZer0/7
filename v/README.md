@@ -45,20 +45,22 @@ The collected Public Addresses will be very good for making various token-airdro
 
 Essentially, the project creates the biggest-ever, global, user base — also, a global distribution system for everything.
 
-The realization of the ideal will lead to that each new global project on Earth (incl. each new crypto project) will have an easy tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+The realization of the ideal will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of the project's marketing budget and "useful" connections.
+According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of big money and "useful" connections.
 
 The moat of a project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
 
-Keeping in mind the new paradigm, it is important to also note that namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
+It is important to note that this new tool will be for free — free to use — for all new blockchain projects.
 
+Keeping in mind the new paradigm and the new revolutionary blockchain protocol, it is important to additionally note that namely thanks to its protocol, each blockchain project created before 2023 might be perceived in the future as absolutely
+
+* **unpopular**
 * **unjust**
 * **undemocratic**
-* **inefficient**
-* **unpopular**. 
+* **inefficient**.
 
-All these qualities together might increasingly prevent the blockchain from getting mass adoption in the long run.
+All these qualities together might increasingly prevent each such a blockchain from getting mass adoption in the long run.
 
 *More on the above below.*
 
