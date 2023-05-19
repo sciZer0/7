@@ -51,9 +51,7 @@ According to this new paradigm, there might be a rethink of what is the moat for
 
 The moat of a project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
 
-It is important to note that this new tool will be for free — free to use — for all new blockchain projects.
-
-Keeping in mind the new paradigm and the new revolutionary blockchain protocol, it is important to additionally note that namely thanks to its protocol, each blockchain project created before 2023 might be perceived in the future as absolutely
+Keeping in mind the new paradigm and the new revolutionary blockchain protocol, it is important to note of the blockchain industry that namely thanks to its protocol, each blockchain project created before 2023 might be perceived in the future as absolutely
 
 * **unpopular**
 * **unjust**
