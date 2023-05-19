@@ -60,7 +60,7 @@ All these qualities together might increasingly prevent each such a blockchain f
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to have strong **unchangeable fundamentals** and be
+This paper proposes an idea of a new blockchain protocol that allows a blockchain to have strong **unchangeable fundamentals** and be simultaneously
 
 * **highly-popular** 
 * highly-decentralized
@@ -70,6 +70,12 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-efficient**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
+
+Last but not Least
+
+The moat of a successful business project will only be that it should be **extremely-hard** for competitors to **improve** the conditions the project provides to customers/users.
+
+
 
 
 <br>
@@ -128,9 +134,6 @@ At best, the blockchain might be the 1st one to achieve the market capitalizatio
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
-Last but not Least
-
-The moat of a successful business project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
 
 
 
