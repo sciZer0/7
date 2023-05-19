@@ -34,7 +34,7 @@ Namely thanks to its protocol, each blockchain created before 2023 might be perc
 * **undemocratic**
 * **inefficient**. 
 
-This could increasingly prevent the blockchain from getting mass adoption in the long run.
+This might increasingly prevent the blockchain from getting mass adoption in the long run.
 
 *More on the above below*.
 
@@ -71,11 +71,13 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**, 
 
 Thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-From day one, the blockchain has over **100 million people** EQUALLY owning the blockchain's native token.
+From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
 
-*There are ideas /solutions on how to absolutely-cheaply get over 100 million unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
+*For reference*
 
-Absolutely importantly, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+*There are solutions on how to absolutely-cheaply get over 1 billion unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
+
+As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
@@ -85,7 +87,7 @@ Additionally, this native token has governance power, and owners of the token ca
 
 ***Technologically, taking a vote is the same as making a transaction.***
 
-***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future.***
+***At its best times, the Solana blockchain processed about 30 million transactions per day, at the peak, 65 million, and now is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future.***
 
 ***So massive votes aren't any problem now in terms of technology.***
 
@@ -94,23 +96,16 @@ Additionally, this native token has governance power, and owners of the token ca
 The U blockchain, being **highly-decentralized** and having strong **unchangeable fundamentals**, is simultaneously
 
 * **highly-sustainable** (extremely-hard, at best impossible, to harm or stop),
-* **highly-just** (with over 100 million people EQUALLY owning the blockchain's native token, providing the best-ever Gini coefficient)
-* **highly-democratic** (with over 100 million voters EQUALLY owning the blockchain's governance token)
+* **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native token, providing the best-ever Gini coefficient)
+* **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
-* **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with both  powerfully-decreasing total-supply and governance power**.
+* **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with both  powerfully-decreasing total-supply**.
 
-The U blockchain also provides extremely-generous incentives to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
+The U blockchain also provides **extremely-generous incentives** to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
 
-At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **100 million people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
+At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **1 billion people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
-
-Last but not Least
-
-But what might be the long-run moat of the blockchain?
-
-The moat might only be the thing that it might be extremely-hard for competitors to surpass the blockchain in each key aspect. 
-
 
 
 
