@@ -49,7 +49,9 @@ The realization of the idea will lead to that each new global project on Earth w
 
 Each new project will have the ability to start very powerfully, regardless of big money and "useful" connections.
 
-As for the blockchain  industry, it is important to note that thanks to this new paradigm and the new revolutionary blockchain protocol described in this paper, each blockchain project created before 2023 might be perceived in the future as absolutely
+The moat of any successful business project will only be that it should be **extremely-hard** for competitors to **improve** the conditions the project provides to customers/users.
+
+As for the blockchain  industry where code is open-source, it is important to also note that thanks to this new paradigm and the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as absolutely
 
 * **unpopular**
 * **unjust**
@@ -60,7 +62,7 @@ All these qualities together might increasingly prevent each such a blockchain f
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain to have strong **unchangeable fundamentals** and be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have strong **unchangeable fundamentals** and be simultaneously
 
 * **highly-popular** 
 * highly-decentralized
@@ -71,9 +73,9 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
-Last but not Least
 
-The moat of a successful business project will only be that it should be **extremely-hard** for competitors to **improve** the conditions the project provides to customers/users.
+
+
 
 
 
