@@ -27,16 +27,42 @@ doomed by its protocol<br>
 <h2 align="center">Abstract</h2>
 <p align="center">In Brief</p>
 
+One new project has the potential to change both the marketing of global projects and the lives of people more than completely.
 
-Namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
+The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — has an idea on how to collect Public Addresses of billions of unique people.
+
+The process of collecting involves scanning people's irises with a device called Orb and strives to go in a privacy-preserving manner. 
+
+One Orb collects 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
+
+700(Address/week)*50,000(device)*52*(week/year)=1,820,000,000 (Address/year)
+
+1,820,000,000  Addresses per year
+
+Worldcoin might collect Public Addresses of billions of unique people in just some years.
+
+The collected Public Addresses will be very good for making various token-airdrops. 
+
+Essentially, the project creates a global distribution system for everything.
+
+Including,  the biggest-ever, global, user base.
+
+The realization of the ideal will lead to that each new global project on Earth (incl. each new crypto project) will have a tool to start up right away with a user base of billions of people, airdropping its tokens (insensitive points) to people of the base.
+
+As mentioned above, the Worldcoin project has the potential to change both the marketing of global projects and the lives of people more than completely.
+
+According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully — regardless of the project's Ad budget.
+
+The moat of a project might only be that it should be extremely-hard for competitors to improve the conditions the project offers to customers/users.
+
+Keeping in mind the new paradigm, it is important to note that namely thanks to its protocol, each blockchain created before 2023 might be perceived in the future as absolutely
 
 * **unjust**
 * **undemocratic**
-* **inefficient**. 
+* **inefficient**
+* **unpopular**. 
 
-This might increasingly prevent the blockchain from getting mass adoption in the long run.
-
-*More on the above below*.
+All these qualities together might increasingly prevent the blockchain from getting mass adoption in the long run.
 
 This paper proposes an idea of a new blockchain protocol that allows a blockchain in the long run to have strong **unchangeable fundamentals** and be simultaneously
 
