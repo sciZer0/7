@@ -31,7 +31,7 @@ The Worldcoin project has the potential to change both the promotion of global p
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — has an idea on how to collect Public Addresses of billions of unique people.
 
-The process of collecting involves scanning people's irises with a device called Orb and strives to go in a way that is secure and privacy-preserving. 
+The process of collecting involves pic-taking people's irises with a device called Orb and strives to go in a way that is secure and privacy-preserving. 
 
 One Orb collects 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
 
