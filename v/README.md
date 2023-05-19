@@ -98,13 +98,13 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, improving the protocol in each key aspect.
 
-Thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
+Absolutely importantly, thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
 From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
 
 *For reference*
 
-*There are solutions on how to absolutely-cheaply get over 1 billion unique people with their Public Addresses for a fair token-airdrop, and also on how over 2 million of those people might become an especially-powerful driving-force of the blockchain*.
+*There are ideas on how millions of those people might become an especially-powerful driving-force of the blockchain*.
 
 As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
