@@ -35,7 +35,7 @@ The process of collecting involves pic-taking people's irises with a device call
 
 One Orb collects 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
 
-700(Address/week)*50,000(device)*52*(week/year)=1,820,000,000 (Address/year)
+700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)
 
 1,820,000,000  Addresses per year
 
