@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Abstract</h2>
 <p align="center">In Brief</p>
 
-One new project has the potential to change both the marketing of global projects and the lives of people more than well.
+The Worldcoin project has the potential to change both the promotion of global projects and the lives of people more than well.
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — has an idea on how to collect Public Addresses of billions of unique people.
 
@@ -47,9 +47,7 @@ Essentially, the project creates the biggest-ever, global, user base — also, a
 
 The realization of the ideal will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-According to this new paradigm, there might be a rethink of what is the moat for a project — since each new project can start very powerfully, regardless of big money and "useful" connections.
-
-The moat of a project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
+Each new project will have the ability to start very powerfully, regardless of big money and "useful" connections.
 
 Keeping in mind the new paradigm and the new revolutionary blockchain protocol, it is important to note of the blockchain industry that namely thanks to its protocol, each blockchain project created before 2023 might be perceived in the future as absolutely
 
@@ -129,6 +127,10 @@ The U blockchain also provides **extremely-generous incentives** to the early bl
 At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **1 billion people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
+
+Last but not Least
+
+The moat of a successful business project might only be that it should be extremely-hard for competitors to **improve** the conditions the project provides to customers/users.
 
 
 
