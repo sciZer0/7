@@ -35,7 +35,7 @@ This all involves creating Public Addresses of people worldwide.
 
 The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
 
-One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year. If these metrics scale, 
+One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year. If all these metrics scale, 
 
 <p><i>700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
