@@ -27,9 +27,13 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-The Worldcoin project has the potential to very soon change the promotion of global b2p projects — especially, global web projects — and the lives of billions of people significantly.
+The Worldcoin project has the potential to change very soon the promotion of global b2p projects — especially, global web projects — and the lives of billions of people significantly.
 
-The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
+The team behind the Worldcoin project
+
+* — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — 
+
+is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
 
 This all involves creating Public Addresses of people worldwide.
 
