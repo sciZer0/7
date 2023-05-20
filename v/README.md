@@ -31,7 +31,7 @@ The Worldcoin project has the potential to very soon change the promotion of glo
 
 The team behind the Worldcoin project
 
-*including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO*
+*including Sam Altmam who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO*
 
 is building the **biggest-ever, global, user base** that might be used for promoting any global b2p project.
 
@@ -50,7 +50,7 @@ If to scale all these metrics, keeping in mind the reputation and opportunities 
 
 it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for making various token-airdrops.
+Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for airdropping various incentives/tokens to users.
 
 Namely the creation of such biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
 
@@ -495,12 +495,12 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed as follows, 
 
-* 0.15% of VTT is distributed for free among 30 Contributors of the U DAO
-* 99.85% of VTT is equally distributed for free among over **100,000,000 people** who become Voters (users).
+* 0.01% of VTT is distributed for free among 30 Contributors of the U DAO
+* 99.99% of VTT is equally distributed for free among over **1,000,000,000 people** who become Voters (users).
 
-Each Voter (user) receives about **0.1** VTT.
+Each Voter (user) receives about **0.01** VTT.
 
-Each Contributor receives 5,000 times more VTT than the Voter — namely, **500** VTT. *More about the special role of Contributors below.*
+Each Contributor receives about 3,333 (three thousand and three hundred and thirty three) times more VTT than the Voter does — namely, **33.33** VTT. *More about the special role of Contributors below.*
 
 This distribution mechanism provides the blockchain with an almost ideal Gini coefficient of nearly **0**.
 
