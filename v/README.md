@@ -158,7 +158,7 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 
 Last but not Least
 
-The U blockchain only sees its leadership in creating the conditions that are extremely-hard for competitors to improve.
+The U blockchain only sees its leadership in creating the conditions that are impossible for competitors to improve.
 
 
 
