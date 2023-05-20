@@ -54,7 +54,7 @@ Each digital passport automatically creates one Public Address, and these Public
 
 Namely the creation of such biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
 
-For example, each new global b2p project will have the easy and cheap tool to start up with a user base of billions of people, by airdropping its tokens (incentive points) to people of the base.
+For example, each new global b2p project will have the easy and cheap tool to right away start up with a user base of billions of people, by airdropping its tokens (incentive points) to people of the base.
 
 In other words, each new global b2p project will have the good opportunity to start very powerfully.
 
