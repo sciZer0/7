@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-The Worldcoin project has the potential to change very soon the promotion of global b2p projects — especially, global web projects — and the lives of billions of people significantly.
+The Worldcoin project has the potential to very soon change the promotion of global b2p projects and the lives of billions of people significantly.
 
 The team behind the Worldcoin project
 
@@ -38,35 +38,42 @@ is building the **biggest-ever, global, user base** that might be used for promo
 The process of building involves creating people's digital passports —  **one passport to one person** —
 by pic-taking people's irises with the unique device called Orb. 
 
-The process is going in a secure, privacy-preserving manner where people remain **anonymous**.
+It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
 
-One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributors to pic-take people's irises with the Orb. 
+One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
-If to scale all these metrics — keeping in mind the reputation of Sam Altmam, 
+If to scale all these metrics, keeping in mind the reputation of Sam Altmam, 
 
-<p><i>700(identity/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
+<p><i>700(passport/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
-*1,820,000,000  identities per year*
+*1,820,000,000  passports per year*
 
-it becames more or less certain that the Worldcoin project might have created identities of billions of people in just some years.
+it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-These Public Addresses, for example, would be absolutely-good for making various token-airdrops.
+Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for making various token-airdrops.
 
-The creation of such biggest user base might lead to that, for example, each new global web project on Earth will have the easy and cheap tool to start up with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+Namely the creation of such biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
 
-In other words, each new global web project will have the good opportunity to start very powerfully.
+For example, each new global b2p project will have the easy and cheap tool to start up with a user base of billions of people, by airdropping its tokens (incentive points) to people of the base.
 
-From that point forth, in order for a global web project to be successful, it must only provide customers/users the conditions that are 
+In other words, each new global b2p project will have the good opportunity to start very powerfully.
+
+Especially, it will be easy to do for 
+global b2p web projects.
+
+From that point forth, in order for a global b2p web project to be successful in its field, it must only provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
 
-All customers/users will be common — meaning any project might use this biggest user base.
+All customers/users will be common/commonly-available, meaning any project might use this biggest user base.
 
-As for the blockchain  industry — where additionally code and ideas are open and free — the changes will be especially huge.
+The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free.
 
-Thanks to this new paradigm, each blockchain project created before 2025 or so might definitely be perceived in the future as **absolutely-unpopular**.
+The changes will be especially huge.
+
+Thanks to this new paradigm, each blockchain project created before 2025 or so might definitely be perceived in the future as **absolutely-unpopular** since each new blockchain might start up with the biggest user base of billions of people.
 
 
-Additionally, thanks to the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each blockchain project created before 2023 might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
