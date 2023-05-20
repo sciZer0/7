@@ -31,29 +31,30 @@ The Worldcoin project has the potential to very soon change both the promotion o
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
 
-Specifically, Worldcoin is creating
-Public Addresses of people, and seeks to finally create a Public Address of each person on the globe — in other words, Public Addresses of all people worldwide.
+The process involves creating
+Public Addresses of people.
 
-The process of creating is going in a secure, privacy-preserving way, and involves pic-taking people's irises with the unique device called Orb.
+The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
 
-One Orb allows to create 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
+One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year. If these metrics scale, 
 
-700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)
+<p><i>700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
-1,820,000,000  Addresses per year
+*1,820,000,000  Addresses per year*
 
-the Worldcoin project might collect Public Addresses of billions of unique people in just some years.
+it becames obvious that the Worldcoin project might create Public Addresses of billions of people in just some years.
 
 In particular,  
-these collected Public Addresses will be absolutely-good for making various token-airdrops.
+these Public Addresses will be absolutely-good for making various token-airdrops.
 
-The realization of the idea will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+The realization of this idea will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
 Nearly each new global retal project will have the ability to start very powerfully, regardless of big money and "useful" connections.
 
 The moat/ptotection of any successful business project will only be that the project must provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
 
+All customers/users will be common — meaning any project might use this biggest user base.
 
 As for the blockchain  industry — where additionally code and ideas are open and free — the changes will be especially huge.
 
