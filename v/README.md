@@ -27,13 +27,13 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-The Worldcoin project has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
+A new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
 The team behind the Worldcoin project
 
 *including Sam Altmam who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO*
 
-is building the **biggest-ever, global, user base** that might be used for promoting any global b2p project.
+is building the **biggest-ever**, **global**, **user base** that might be used for promoting any global b2p project.
 
 The process of building involves creating people's digital passports —  **one passport to one person** —
 by pic-taking people's irises with the unique device called Orb. 
@@ -42,7 +42,7 @@ It is important to note that the whole process is going in a secure, privacy-pre
 
 One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
-If to scale all these metrics, keeping in mind the reputation and opportunities of Sam Altmam, 
+If to scale all these metrics, keeping in mind the reputation of Sam Altmam and his opportunities about raising the funds, 
 
 <p><i>700(passport/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
@@ -52,21 +52,21 @@ it becames more or less certain that the Worldcoin project might have created bi
  
 Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for airdropping various incentives/tokens to users.
 
-Namely the creation of such biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
+Namely the creation of such a biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
 
 For example, each new global b2p project will have the easy and cheap tool to right away start up with a user base of billions of people, by airdropping its tokens (incentive points) to people of the base.
 
 In other words, each new global b2p project will have the good opportunity to start very powerfully.
 
-It will be especially-easy for global b2p web projects.
+It will be especially-easy for global b2p web-native projects.
 
-In order for a global b2p web project to be successful, it must only provide customers/users the best conditions — since all customers/users will be commonly-available, meaning any project might use that biggest user base.
+In order for a global b2p web-native project to be successful, it must only provide its customers/users the best conditions — since all customers/users will be commonly-available, meaning any project might use that biggest user base.
 
-The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free, and where often the achieved user base is the only advantage.
+As for global b2p web-native projects, the new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are already open and free, and where often the achieved user base is the only advantage.
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might start up with the biggest user base of billions of people.
+Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever user base of billions of people.
 
 Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain might definitely be perceived in the future as simultaneously
 
