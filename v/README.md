@@ -61,12 +61,11 @@ In other words, each new global b2p project will have the good opportunity to st
 Especially, it will be easy to do for 
 global b2p web projects.
 
-From that point forth, in order for a global b2p web project to be successful, it must only provide customers/users the conditions that are 
-**extremely-hard** for competitors to **improve** — since all customers/users will be commonly-available, meaning any project might use this biggest user base.
+From that point forth, in order for a global b2p web project to be successful, it must only provide customers/users the best conditions — since all customers/users will be commonly-available, meaning any project might use this biggest user base.
 
-The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free and where often the achieved user base is the only advantage.
+The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free, and where often the achieved user base is the only advantage.
 
-The changes will be especially-huge.
+The changes in the blockchain industry will be especially-huge.
 
 Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might start up with the biggest user base of billions of people.
 
@@ -156,8 +155,7 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 
 Last but not Least
 
-The U blockchain only sees its leadership in creating the conditions that are impossible for competitors to improve.
-
+The U blockchain only sees its leadership in providing people the best conditions. 
 
 
  <br><br>
