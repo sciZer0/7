@@ -58,10 +58,9 @@ For example, each new global b2p project will have the easy and cheap tool to st
 
 In other words, each new global b2p project will have the good opportunity to start very powerfully.
 
-Especially, it will be easy to do for 
-global b2p web projects.
+It will be especially-easy for global b2p web projects.
 
-From that point forth, in order for a global b2p web project to be successful, it must only provide customers/users the best conditions — since all customers/users will be commonly-available, meaning any project might use this biggest user base.
+In order for a global b2p web project to be successful, it must only provide customers/users the best conditions — since all customers/users will be commonly-available, meaning any project might use that biggest user base.
 
 The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free, and where often the achieved user base is the only advantage.
 
