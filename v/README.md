@@ -37,9 +37,9 @@ is building the **biggest-ever, global, user base** — also, a global distribut
 
 This all involves creating Public Addresses of people worldwide.
 
-The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises by contributors with the unique device called Orb.
+The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises by the protocol contributors with the unique device called Orb.
 
-One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year and engage a necessary number of contributors. If to scale all these metrics, 
+One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributors. If to scale all these metrics, 
 
 <p><i>700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
