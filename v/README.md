@@ -42,15 +42,14 @@ One Orb allows to create 700+ Addresses per week on average. The team planed to 
 *1,820,000,000  Addresses per year*
 
 it becames more clear that the Worldcoin project might create Public Addresses of billions of people in just some years.
+ 
+These Public Addresses, for example, will be absolutely-good for making various token-airdrops.
 
-In particular,  
-these Public Addresses will be absolutely-good for making various token-airdrops.
+The creation of the biggest user base will lead to that, for example, each new global web project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-The realization of this idea will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+Each new global web project will have the easy and cheap tool to start very powerfully.
 
-Nearly each new global b2p project will have the ability to start very powerfully.
-
-The moat/ptotection of any successful global business project will only be that the project must provide customers/users the conditions that are 
+The moat/ptotection of any successful global web project will only be that the project must provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
 
 All customers/users will be common — meaning any project might use this biggest user base.
