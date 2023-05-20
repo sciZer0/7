@@ -495,16 +495,16 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed as follows, 
 
-* 99.99% of VTT is equally distributed for free among over 
+* 99.85% of VTT is equally distributed for free among over 
 **1,000,000,000 people** who become Voters (users)
 
-* 0.01% of VTT is distributed for free among 30 Contributors of the U DAO.
+* 0.15% of VTT is distributed for free among 30 Contributors of the U DAO.
 
 Each Voter (user) receives about **0.01** VTT.
 
-Each Contributor receives about 3,333 (three thousand and three hundred and thirty three) times more VTT than the Voter does — namely, **33.33** VTT. *More about the special role of Contributors below.*
+Each Contributor receives about 50,000 (fifty thousand) times more VTT than the Voter does — namely, **500** VTT. *More about the special role of Contributors below.*
 
-This distribution mechanism provides the blockchain with an almost ideal Gini coefficient of nearly **0**.
+This distribution mechanism provides the blockchain with an almost ideal Gini coefficient of nearly **0** — at least, with the best-ever Gini coefficient. 
 
 The U blockchain has the best Gini coefficient in the industry from day one.
 
