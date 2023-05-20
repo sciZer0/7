@@ -64,14 +64,13 @@ global b2p web projects.
 From that point forth, in order for a global b2p web project to be successful in its field, it must only provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
 
-All customers/users will be common/commonly-available, meaning any project might use this biggest user base.
+All customers/users will be commonly-available, meaning any project might use this biggest user base.
 
 The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free.
 
-The changes will be especially huge.
+The changes will be especially-huge.
 
-Thanks to this new paradigm, each blockchain project created before 2025 or so might definitely be perceived in the future as **absolutely-unpopular** since each new blockchain might start up with the biggest user base of billions of people.
-
+Thanks to the new paradigm, each blockchain project created before 2025 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might start up with the biggest user base of billions of people.
 
 Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each blockchain project created before 2023 might definitely be perceived in the future as simultaneously
 
@@ -79,7 +78,7 @@ Additionally, thanks to the new revolutionary blockchain protocol (described in 
 * **undemocratic**
 * **inefficient**.
 
-All these qualities together might increasingly prevent each "old" blockchain  from getting mass adoption in the long run.
+All these 4 negative qualities together (unpopularity,  unjustness,  undemocracy and inefficiency) might increasingly prevent each "old" blockchain  from getting mass adoption in the long run.
 
 *More on the above below.*
 
@@ -157,8 +156,9 @@ At best, the blockchain might be the 1st one to achieve the market capitalizatio
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
+Last but not Least
 
-
+The U blockchain only sees its leadership in creating the conditions that are extremely-hard for competitors to improve.
 
 
 
