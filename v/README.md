@@ -24,16 +24,19 @@ doomed by its protocol<br>
 <br>
 
 
-<h2 align="center">Abstract</h2>
+<h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-The Worldcoin project has the potential to change both the promotion of global projects and the lives of people significantly.
+The Worldcoin project has the potential to very soon change both the promotion of global retail projects and the lives of people significantly.
 
-The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — has an idea on how to collect Public Addresses of billions of unique people.
+The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
 
-The process of collecting involves pic-taking people's irises with a device called Orb, and the project wants the process to be going in a way that is secure and privacy-preserving. 
+Specifically, Worldcoin is creating
+Public Addresses of people, and seeks to finally create a Public Address of each person on the globe — in other words, Public Addresses of all people worldwide.
 
-One Orb collects 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
+The process of creating is going in a secure, privacy-preserving way, and involves pic-taking people's irises with the unique device called Orb.
+
+One Orb allows to create 700+ Addresses per week on average. They are planning to produce 50k+ devices a year.  If these metrics scale, 
 
 700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)
 
@@ -41,18 +44,16 @@ One Orb collects 700+ Addresses per week on average. They are planning to produc
 
 the Worldcoin project might collect Public Addresses of billions of unique people in just some years.
 
-The project seeks to eventually scan the eyeballs of all people worldwide.
-
-Essentially, the project creates the biggest-ever, global, user base — also, a global distribution system for everything.
-
 In particular,  
-these collected Public Addresses will also be absolutely-good for making various token-airdrops.
+these collected Public Addresses will be absolutely-good for making various token-airdrops.
 
 The realization of the idea will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-Each new project will have the ability to start very powerfully, regardless of big money and "useful" connections.
+Nearly each new global retal project will have the ability to start very powerfully, regardless of big money and "useful" connections.
 
-The moat/ptotection of any successful business project will only be that it should be **extremely-hard** for competitors to **improve** the conditions the project provides to customers/users.
+The moat/ptotection of any successful business project will only be that the project must provide customers/users the conditions that are 
+**extremely-hard** for competitors to **improve**.
+
 
 As for the blockchain  industry — where additionally code and ideas are open and free — the changes will be especially huge.
 
