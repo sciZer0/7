@@ -31,7 +31,7 @@ A new project called Worldcoin has the potential to very soon change the promoti
 
 The team behind the Worldcoin project
 
-*including Sam Altmam who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO*
+*including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO*
 
 is building the **biggest-ever**, **global**, **user base** that might be used for promoting any global b2p project.
 
