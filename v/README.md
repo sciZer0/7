@@ -62,11 +62,9 @@ Especially, it will be easy to do for
 global b2p web projects.
 
 From that point forth, in order for a global b2p web project to be successful in its field, it must only provide customers/users the conditions that are 
-**extremely-hard** for competitors to **improve**.
+**extremely-hard** for competitors to **improve** — since all customers/users will be commonly-available, meaning any project might use this biggest user base.
 
-All customers/users will be commonly-available, meaning any project might use this biggest user base.
-
-The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free.
+The new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are open and free and where often the achieved user base is the only advantage.
 
 The changes will be especially-huge.
 
