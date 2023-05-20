@@ -31,7 +31,7 @@ The Worldcoin project has the potential to very soon change the promotion of glo
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
 
-This alk involves creating Public Addresses of people worldwide.
+This all involves creating Public Addresses of people worldwide.
 
 The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
 
