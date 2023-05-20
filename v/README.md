@@ -37,30 +37,32 @@ is building the **biggest-ever, global, user base** — also, a global distribut
 
 This all involves creating Public Addresses of people worldwide.
 
-The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises by the protocol contributors with the unique device called Orb.
+The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
 
-One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributors. If to scale all these metrics, 
+One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributors to pic-take people's irises with the Orb. 
+
+If to scale all these metrics — keeping in mind the reputation of Sam Altmam, 
 
 <p><i>700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
 *1,820,000,000  Addresses per year*
 
-it becames clear that the Worldcoin project might create Public Addresses of billions of people in just some years.
+it becames more or less certain that the Worldcoin project might create Public Addresses of billions of people in just some years.
  
 These Public Addresses, for example, will be absolutely-good for making various token-airdrops.
 
-The creation of the biggest user base will lead to that, for example, each new global web project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+The creation of such biggest user base will lead to that, for example, each new global web project on Earth will have the easy and cheap tool to start up with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-In other words, each new global web project will have the easy and cheap tool to start very powerfully.
+In other words, each new global web project will have the opportunity to start very powerfully.
 
-The moat/ptotection of any successful global web project will only be that the project must provide customers/users the conditions that are 
+From that point forth, in order for a global web project to be successful, it must only provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
 
 All customers/users will be common — meaning any project might use this biggest user base.
 
 As for the blockchain  industry — where additionally code and ideas are open and free — the changes will be especially huge.
 
-Thanks to this new paradigm, each blockchain project created before 2023 might definitely be perceived in the future as **absolutely-unpopular**.
+Thanks to this new paradigm, each blockchain project created before 2025 or so might definitely be perceived in the future as **absolutely-unpopular**.
 
 
 Additionally, thanks to the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as simultaneously
