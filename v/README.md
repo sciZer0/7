@@ -31,7 +31,7 @@ The Worldcoin project has the potential to change very soon the promotion of glo
 
 The team behind the Worldcoin project
 
-* — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — 
+*including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO*
 
 is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
 
@@ -51,7 +51,7 @@ These Public Addresses, for example, will be absolutely-good for making various 
 
 The creation of the biggest user base will lead to that, for example, each new global web project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-Each new global web project will have the easy and cheap tool to start very powerfully.
+In other words, each new global web project will have the easy and cheap tool to start very powerfully.
 
 The moat/ptotection of any successful global web project will only be that the project must provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
@@ -60,14 +60,16 @@ All customers/users will be common — meaning any project might use this bigges
 
 As for the blockchain  industry — where additionally code and ideas are open and free — the changes will be especially huge.
 
-thanks to this new paradigm and the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as absolutely
+Thanks to this new paradigm, each blockchain project created before 2023 might definitely be perceived in the future as **absolutely-unpopular**.
 
-* **unpopular**
+
+Additionally, thanks to the new revolutionary blockchain protocol (described in this paper), each blockchain project created before 2023 might definitely be perceived in the future as simultaneously
+
 * **unjust**
 * **undemocratic**
 * **inefficient**.
 
-All these qualities together might increasingly prevent each such a blockchain from getting mass adoption in the long run.
+All these qualities together might increasingly prevent each "old" blockchain  from getting mass adoption in the long run.
 
 *More on the above below.*
 
