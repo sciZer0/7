@@ -47,13 +47,13 @@ If to scale all these metrics — keeping in mind the reputation of Sam Altmam,
 
 *1,820,000,000  Addresses per year*
 
-it becames more or less certain that the Worldcoin project might create Public Addresses of billions of people in just some years.
+it becames more or less certain that the Worldcoin project might have created Public Addresses of billions of people in just some years.
  
-These Public Addresses, for example, will be absolutely-good for making various token-airdrops.
+These Public Addresses, for example, would be absolutely-good for making various token-airdrops.
 
-The creation of such biggest user base will lead to that, for example, each new global web project on Earth will have the easy and cheap tool to start up with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
+The creation of such biggest user base might lead to that, for example, each new global web project on Earth will have the easy and cheap tool to start up with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-In other words, each new global web project will have the opportunity to start very powerfully.
+In other words, each new global web project will have the good opportunity to start very powerfully.
 
 From that point forth, in order for a global web project to be successful, it must only provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
