@@ -39,13 +39,13 @@ This all involves creating Public Addresses of people worldwide.
 
 The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
 
-One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year. If all these metrics scale, 
+One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year. If to scale all these metrics, 
 
 <p><i>700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
 *1,820,000,000  Addresses per year*
 
-it becames more clear that the Worldcoin project might create Public Addresses of billions of people in just some years.
+it becames clear that the Worldcoin project might create Public Addresses of billions of people in just some years.
  
 These Public Addresses, for example, will be absolutely-good for making various token-airdrops.
 
