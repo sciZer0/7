@@ -33,21 +33,22 @@ The team behind the Worldcoin project
 
 *including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO*
 
-is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
+is building the **biggest-ever, global, user base** that might be used for promoting any global b2p project.
 
-This all involves creating Public Addresses of people worldwide.
+The process of building involves creating people's digital passports —  **one passport to one person** —
+by pic-taking people's irises with the unique device called Orb. 
 
-The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
+The process is going in a secure, privacy-preserving manner where people remain **anonymous**.
 
 One Orb allows to create 700+ Addresses per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributors to pic-take people's irises with the Orb. 
 
 If to scale all these metrics — keeping in mind the reputation of Sam Altmam, 
 
-<p><i>700(Address/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
+<p><i>700(identity/week)*50,000(device)*52(week/year)=1,820,000,000 (Address/year)</i></p>
 
-*1,820,000,000  Addresses per year*
+*1,820,000,000  identities per year*
 
-it becames more or less certain that the Worldcoin project might have created Public Addresses of billions of people in just some years.
+it becames more or less certain that the Worldcoin project might have created identities of billions of people in just some years.
  
 These Public Addresses, for example, would be absolutely-good for making various token-airdrops.
 
