@@ -148,7 +148,7 @@ The U blockchain, being **highly-decentralized** and having strong **unchangeabl
 
 The U blockchain also provides **extremely-generous incentives** to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
 
-At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **1 billion people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of people** to  benefit from it.
+At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **1 billion people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of other people** to  benefit from it.
 
 The narrative defined by the blockchain also involves the use of Soul-Bound Tokens (SBTs) and Zero-Knowledge (ZK) technologies.
 
@@ -495,8 +495,10 @@ After creating the Genesis Block, no printing of the Vote token is possible.
 
 After the creation of the Genesis Block, right away, through a fair airdrop, all 10,000,000 Vote tokens (100%) are distributed as follows, 
 
-* 0.01% of VTT is distributed for free among 30 Contributors of the U DAO
-* 99.99% of VTT is equally distributed for free among over **1,000,000,000 people** who become Voters (users).
+* 99.99% of VTT is equally distributed for free among over 
+**1,000,000,000 people** who become Voters (users)
+
+* 0.01% of VTT is distributed for free among 30 Contributors of the U DAO.
 
 Each Voter (user) receives about **0.01** VTT.
 
