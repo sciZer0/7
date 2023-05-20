@@ -27,12 +27,11 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-The Worldcoin project has the potential to very soon change both the promotion of global retail projects and the lives of people significantly.
+The Worldcoin project has the potential to very soon change the promotion of global b2p projects — especially, global web projects — and the lives of billions of people significantly.
 
 The team behind the Worldcoin project — including Sam Altmam being the project's co-founder and  simultaneously OpenAI's CEO, earlier Y-Combinator's president and Reddit's CEO — is building the **biggest-ever, global, user base** — also, a global distribution system for everything.
 
-The process involves creating
-Public Addresses of people.
+This alk involves creating Public Addresses of people worldwide.
 
 The process of creating is going in a secure, privacy-preserving way, and is based on pic-taking people's irises with the unique device called Orb.
 
@@ -42,16 +41,16 @@ One Orb allows to create 700+ Addresses per week on average. The team planed to 
 
 *1,820,000,000  Addresses per year*
 
-it becames obvious that the Worldcoin project might create Public Addresses of billions of people in just some years.
+it becames more clear that the Worldcoin project might create Public Addresses of billions of people in just some years.
 
 In particular,  
 these Public Addresses will be absolutely-good for making various token-airdrops.
 
 The realization of this idea will lead to that each new global project on Earth will have an easy and cheap tool to start up right away with a user base of billions of people, airdropping its tokens (incentive points) to people of the base.
 
-Nearly each new global retal project will have the ability to start very powerfully, regardless of big money and "useful" connections.
+Nearly each new global b2p project will have the ability to start very powerfully.
 
-The moat/ptotection of any successful business project will only be that the project must provide customers/users the conditions that are 
+The moat/ptotection of any successful global business project will only be that the project must provide customers/users the conditions that are 
 **extremely-hard** for competitors to **improve**.
 
 All customers/users will be common — meaning any project might use this biggest user base.
