@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-The Worldcoin project has the potential to very soon change the promotion of global b2p projects and the lives of billions of people significantly.
+The Worldcoin project has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
 The team behind the Worldcoin project
 
