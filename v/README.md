@@ -126,7 +126,7 @@ From day one, the blockchain has over **1 billion people** EQUALLY owning the bl
 
 *There are ideas on how millions of those people might become an especially-powerful driving-force of the blockchain*.
 
-As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+Thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
 
@@ -531,13 +531,13 @@ From day one, the blockchain’s bandwidth is over 50,000 Transactions Per Secon
 
 <h2>4 &nbsp Decreasing Circulating Supply</h2>
 
-Transaction Fees are paid by Account Owners to process transactions (instructions) on the blockchain.
+Gas Transaction Fees are paid by Account Owners to process transactions (instructions) on the blockchain.
 
-Rental Fees are paid by Account Owners to keep accounts' data stored on the blockchain. 
+Gas Rental Fees are paid by Account Owners to keep accounts' data stored on the blockchain. 
 
-Both Transaction Fees and Rental Fees are paid in the Vote token (in Hands).
+Both Gas Transaction Fees and Gas Rental Fees are paid in the Vote token (in Hands).
 
-All (100%) Transaction Fees and all (100%) Rental Fees paid are burned 🔥. 
+All Gas Fees (100%) — including all Gas Transaction Fees and all Gas Rental Fees — are burned 🔥. 
 
 
 <br>
