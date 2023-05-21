@@ -66,7 +66,7 @@ The changes in the blockchain industry will be especially-huge.
 
 Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever user base of billions of people.
 
-Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain, being a people's working system, might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
@@ -76,7 +76,7 @@ All these 4 negative qualities together (unpopularity,  unjustness,  undemocracy
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to (1) have strong **unchangeable fundamentals** and (2) be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have strong **unchangeable fundamentals** and be simultaneously
 
 * **highly-popular** 
 * **highly-just**
@@ -84,6 +84,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-efficient**
 
 also, of course,
+
 * **highly-decentralized**
 * **highly-sustainable** (undisruptable)
 * **permissionless**.
