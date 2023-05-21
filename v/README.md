@@ -52,7 +52,7 @@ it becames more or less certain that the Worldcoin project might have created bi
  
 Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for airdropping various incentive points (tokens) to users.
 
-Namely the creation of such a biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
+Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects, along with the lives of billions of people.
 
 Each global b2p project will have the easy and cheap tool to promote itself through this biggest-ever user-base, airdropping its incentive points (tokens) to people of the base.
 
