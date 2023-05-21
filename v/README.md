@@ -52,7 +52,7 @@ If to scale all these metrics a bit, keeping in mind the reputation of Sam Altma
 
 it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-Each digital passport automatically creates one Public Address for the user, and these Public Addresses might be absolutely-good for airdropping various incentive points (tokens) to the users.
+Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for airdropping various incentive points (tokens) to the users.
 
 Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects, along with the lives of billions of people.
 
