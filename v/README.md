@@ -58,7 +58,7 @@ Each global b2p project will have the easy and cheap tool to promote itself thro
 
 Including, each new global b2p project will have the good opportunity to start up very powerfully.
 
-Since any global b2p project in a specific industry might use this biggest user base, it might mighty increase the competition among the projects — especially among web-native projects — forcing the projects to only provide the customers/users the best conditions.
+Since any global b2p project in a specific industry might use this biggest user base, it might mighty increase the competition among the projects — especially among web-native projects — forcing the projects to provide the customers/users with only the best conditions.
 
 Moreover, the new paradigm will especially-extremely effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage.
 
@@ -118,6 +118,8 @@ Technologically, the blockchain borrows heavily from **the Solana blockchain**, 
 
 Absolutely importantly, thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
+Not to EVEN mention the Ethereum blockchain or the Bitcoin blockchain.
+
 From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
 
 *For reference*
@@ -157,7 +159,7 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 
 Last but not Least
 
-The U blockchain only sees its leadership in providing people the best conditions. 
+The U blockchain only sees its leadership in providing people with only the best conditions. 
 
 
  <br><br>
