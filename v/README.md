@@ -46,7 +46,7 @@ by pic-taking people's irises with the unique device called Orb.
 
 It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
 
-One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planed to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
+One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planned to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
 If to scale all these metrics a bit, keeping in mind the reputation of Sam Altmam and his opportunities about raising the funds, 
 
