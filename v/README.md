@@ -54,11 +54,11 @@ Each digital passport automatically creates one Public Address, and these Public
 
 Namely the creation of such a biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
 
-For example, each global b2p project will have the easy and cheap tool to promote itself through the biggest-ever user-base, airdropping its incentive points (tokens) to people of the base.
+Each global b2p project will have the easy and cheap tool to promote itself through the biggest-ever user-base, airdropping its incentive points (tokens) to people of the base.
 
 Including, each new global b2p project will have the good opportunity to start up very powerfully.
 
-Since any project might use this biggest user base, it might change the nature of the competition, forcing the projects to only provide the customers/users the best conditions.
+Since any project might use this biggest user base, it might increase the competition — especially among web-native projects — forcing the projects to only provide the customers/users the best conditions.
 
 Moreover, the new paradigm will especially-extremely effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage.
 
