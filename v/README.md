@@ -72,7 +72,7 @@ The changes in the blockchain industry will be especially-huge.
 
 Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever user base of billions of people.
 
-Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain, being a people's working system, might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain, being a social system, might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
