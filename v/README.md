@@ -114,23 +114,23 @@ The protocol is represented through describing a **revolutionary blockchain** be
 
 The U blockchain is a layer-1, DAO-style blockchain.
 
-Technologically, the blockchain borrows heavily from **the Solana blockchain**, improving the protocol in each key aspect.
-
-Absolutely importantly, thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
-
-Not to EVEN mention the Ethereum blockchain or the Bitcoin blockchain.
-
 From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
 
 *For reference*
 
 *There are ideas on how millions of those people might become an especially-powerful driving-force of the blockchain*.
 
-Thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+Technologically, the blockchain borrows heavily from **the Solana blockchain**, improving the protocol in each key aspect.
 
-In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.
+Absolutely importantly, thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-Additionally, this native token has governance power, and owners of the token can vote with it on various proposals.
+*Not to EVEN mention the Ethereum blockchain or the Bitcoin blockchain.*
+
+Additionally, thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+
+*In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
+
+Moreover, this native token has governance power, and owners of the token can vote with it on various proposals.
 
 ***For reference***
 
