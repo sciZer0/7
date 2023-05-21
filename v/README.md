@@ -31,7 +31,7 @@ Currently, consumers/users are increasingly willing to pay a premium for product
 
 This just proves that people now are increasingly appreciating non-financial social-oriented values.
 
-It might be safe to also suppose that in the nearest future, people will desperately expect from social systems more justness and more democracy.
+It might be safe to also suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democracy.
 
 Additionally, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
@@ -72,7 +72,7 @@ The changes in the blockchain industry will be especially-huge.
 
 Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever user base of billions of people.
 
-Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain, being a social system, might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain, being a big social system, might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
