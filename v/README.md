@@ -76,7 +76,7 @@ All these 4 negative qualities together (unpopularity,  unjustness,  undemocracy
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have strong **unchangeable fundamentals** and be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have strong **unchangeable pre-programmed fundamentals** and be simultaneously
 
 * **highly-popular** 
 * **highly-just**
@@ -116,8 +116,6 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
 
-*For reference*
-
 *There are ideas on how millions of those people might become an especially-powerful driving-force of the blockchain*.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, improving the protocol in each key aspect.
@@ -126,7 +124,7 @@ Absolutely importantly, thanks to the use of a new consensus mechanism — calle
 
 *Not to EVEN mention the Ethereum blockchain or the Bitcoin blockchain.*
 
-Additionally, thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+Additionally, also thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 *In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
 
