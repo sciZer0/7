@@ -35,7 +35,7 @@ The team behind the Worldcoin project
 
 is building the biggest-ever, global, user base that might be used for promoting any global b2p project.
 
-The process of building involves creating people's digital passports —  **one passport to one person** —
+The process of building this user base involves creating people's digital passports —  **one passport to one person** —
 by pic-taking people's irises with the unique device called Orb. 
 
 It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
@@ -50,19 +50,17 @@ If to scale all these metrics, keeping in mind the reputation of Sam Altmam and 
 
 it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for airdropping various incentives/tokens to users.
+Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for airdropping various incentives (tokens) to users.
 
 Namely the creation of such a biggest base of Public Addresses might change the promotion of global b2p projects significantly, along with the lives of billions of people.
 
-For example, each new global b2p project will have the easy and cheap tool to right away start up with a user base of billions of people, by airdropping its tokens (incentive points) to people of the base.
+For example, each global b2p project will have the easy and cheap tool to promote itself through the biggest-ever user-base, airdropping its incentive points (tokens) to people of the base.
 
-In other words, each new global b2p project will have the good opportunity to start very powerfully.
+Including, each new global b2p project will have the good opportunity to start up very powerfully.
 
-It will be especially-easy for global b2p web-native projects.
+Since any project might use this biggest user base, it might change the nature of the competition, forcing the projects to only provide the customers/users the best conditions.
 
-In order for a global b2p web-native project to be successful, it must only provide its customers/users the best conditions — since all customers/users will be commonly-available, meaning any project might use that biggest user base.
-
-As for global b2p web-native projects, the new paradigm will especially-extremely effect the blockchain industry where additionally code and ideas are already open and free, and where often the achieved user base is the only advantage.
+Moreover, the new paradigm will especially-extremely effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage.
 
 The changes in the blockchain industry will be especially-huge.
 
