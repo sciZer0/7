@@ -33,7 +33,7 @@ This just proves that people now are increasingly appreciating non-financial soc
 
 It might be safe to also suppose that in the nearest future, people will desperately expect from social systems more justness and more democracy.
 
-A new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
+Additionally, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
 The team behind the Worldcoin project
 
