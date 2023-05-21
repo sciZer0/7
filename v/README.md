@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers are increasingly willing to pay a premium for products and services that align with their values, such as sustainability and social responsibility.
+Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as sustainability and social responsibility.
 
 A new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
