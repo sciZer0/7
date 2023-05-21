@@ -78,14 +78,17 @@ All these 4 negative qualities together (unpopularity,  unjustness,  undemocracy
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have strong **unchangeable fundamentals** and be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to (1) have strong **unchangeable fundamentals** and (2) be simultaneously
 
 * **highly-popular** 
-* highly-decentralized
-* highly-sustainable
 * **highly-just**
 * **higgly-democratic**
-* **highly-efficient**.
+* **highly-efficient**
+
+also, of course,
+* **highly-decentralized**
+* **highly-sustainable** (undisruptable)
+* **permissionless**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
@@ -138,8 +141,9 @@ Additionally, this native token has governance power, and owners of the token ca
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
-The U blockchain, being **highly-decentralized** and having strong **unchangeable fundamentals**, is simultaneously
+The U blockchain, being **highly-decentralized** and having strong **unchangeable pre-programmed fundamentals**, is simultaneously
 
+* **permissionless** (no one can forbid you to hold and trasfer it)
 * **highly-sustainable** (extremely-hard, at best impossible, to harm or stop),
 * **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native token, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
