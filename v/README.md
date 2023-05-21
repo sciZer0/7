@@ -29,7 +29,7 @@ doomed by its protocol<br>
 
 Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as sustainability and social responsibility.
 
-This just proves that people now are increasingly appreciating non-financial things.
+This just proves that people now are increasingly appreciating non-financial social-oriented values.
 
 It might be safe to also suppose that in the nearest future, people will desperately expect from social systems more justness and more democracy.
 
