@@ -62,7 +62,7 @@ Including, each **new** global b2p project will have the good opportunity to sta
 
 Since any global b2p project in a specific industry might use this biggest user base, it might mighty increase the competition among the projects — especially among web-native projects — forcing the projects to provide the comsumers/users with only the best conditions.
 
-Moreover, the new paradigm will especially-extremely effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage.
+Moreover, such a situation will especially-extremely effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage.
 
 The changes in the blockchain industry will be especially-huge.
 
