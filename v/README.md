@@ -37,7 +37,7 @@ Along with this all, it is important that a new project called Worldcoin has the
 
 The team behind the Worldcoin project
 
-*including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO*
+*— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
 
 is building the biggest-ever global user-base that might be used for promoting any global b2p project.
 
@@ -78,7 +78,7 @@ Additionally, thanks to the new revolutionary blockchain protocol (described bel
 
 * **unjust**
 * **undemocratic**
-* **non-ecological**
+* **unecological**
 * **inefficient**.
 
 In turn, all these 5 negative qualities together 
@@ -136,9 +136,13 @@ From day one, the blockchain has over **1 billion people** EQUALLY owning the bl
 
 *There are ideas on how millions of those people might become an especially-powerful driving-force of the blockchain*.
 
-Technologically, the blockchain borrows heavily from **the Solana blockchain**, improving the protocol in each key aspect.
+Technologically, the blockchain borrows heavily from **the Solana blockchain**, simultaneously improving the protocol in each key aspect.
 
-Absolutely importantly, thanks to the use of a new consensus mechanism — called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) — the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
+Importantly, thanks to the use of a new consensus mechanism
+
+*— called **Proof-of-Stake-Flow** (PoSF) and  borrowing heavily from Solana's Proof-of-History (PoH) —*
+
+the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
 *Not to EVEN mention the Ethereum blockchain or the Bitcoin blockchain.*
 
