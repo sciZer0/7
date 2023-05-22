@@ -39,9 +39,9 @@ The team behind the Worldcoin project
 
 *including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO*
 
-is building the biggest-ever, global, user base that might be used for promoting any global b2p project.
+is building the biggest-ever global user-base that might be used for promoting any global b2p project.
 
-The process of building this user base involves creating people's global digital passports —  **one passport to one person** —
+The process of building this user-base involves creating people's global digital passports —  **one passport to one person** —
 by pic-taking people's irises with the unique device called Orb. 
 
 It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
@@ -56,7 +56,7 @@ If to scale all these metrics a bit, keeping in mind the reputation of Sam Altma
 
 it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-Each global digital passport automatically creates one Public Address, and these Public Addresses might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
+Each global digital passport automatically creates one Public Address, and these Public Addresses, being the bigest-ever global user-base, might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
 
 Remarkably, these Public Addresses might be used on any blockchains.
 
@@ -66,21 +66,30 @@ With the base, each global b2p project will have the easy and cheap tool to prom
 
 Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
 
-Since any global b2p project in a specific industry might use this biggest user base, it might mighty increase the competition among the projects — especially among web-native projects — forcing the projects to provide the comsumers/users with only the best conditions.
+Since any global b2p project in a specific industry might use this biggest user-base, it might mighty increase the competition among the projects — especially among web-native projects — forcing the projects to provide the comsumers/users with only the best conditions.
 
-Moreover, such a situation will especially-extremely effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage.
+Moreover, such a situation will especially-effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage of a blockchain.
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever user base of billions of people.
+Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever global user-base of billions of people.
 
-Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain, being a big social system, might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain created before 2023 or so, undoubtedly being a big social system, might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
+* **non-ecological**
 * **inefficient**.
 
-All these 4 negative qualities together (unpopularity,  unjustness,  undemocracy and inefficiency) might increasingly prevent each "old" blockchain  from getting mass adoption in the long run.
+In turn, all these 5 negative qualities together 
+
+* unpopularness
+* unjustness
+* undemocraticness
+* unecologicness
+* ineffectiveness
+
+might increasingly prevent each "old" blockchain  from getting mass adoption in the long run.
 
 *More on the above below.*
 
@@ -92,11 +101,7 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-ecological**
 * **highly-efficient**
 
-also,
-
-* **highly-ecological**
-
-and, of course,
+also, of course,
 
 * **permissionless**
 * **highly-decentralized**
