@@ -336,16 +336,21 @@ The U blockchain ideally solves this problem from day one.
 
    - About the Most Valuable Assets
 
-Fundamental Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+Fundamental Problem 5 is total inefficiency of each of existing blockchains. 
 
-When we say about transaction fees, instead of taking into account only "**direct**" transaction fees, we should take into accoun the "**real**" transaction fees**.
+When we say about transaction fees, instead of taking into account only the "**direct**" transaction fees, we should take into accoun the "**real**" transaction fees.
 
-The real transaction fees include — along with the "direct" transaction fees  — the "reward" transaction fees — in other words,  the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
+The "**real**" transaction fees include — along with the "**direct**" transaction fees  — the "**reward**" transaction fees — in other words,  the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
 
 It is so since all native tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing in the same volume the real losses of users.
 
-It is important to note, when any blockchain (Ethereum or Solana, for example) creates in the native token the inflation of, say, 4% yearly in order to pay rewards to contributors (miners/validators) — essentially, the protocol takes out from the balance of each user's account the **transaction fee**  or **tax** in the  same size of  4%, and gives it to the contributors — regardlessly if the user really made even any single  transaction during this year.
 
+
+It is important to also note that when any blockchain (Ethereum or Solana, for example) creates in the native token the annual inflation of, say, 4%
+
+*— in order to pay rewards to contributors (miners/validators) —*
+
+essentially, the protocol takes out from the balance of each user's account the annual **transaction fee**  or **tax** in the  same size of  4%, and gives it to the contributors.
 
 
 *For reference,*
