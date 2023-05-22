@@ -112,8 +112,8 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 also, of course,
 
 * **permissionless**
-* **highly-decentralized**
-* **highly-secure**.
+* **undisruptable**
+* **highly-decentralized**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
@@ -173,7 +173,7 @@ Moreover, this native token has governance power, and owners of the token can vo
 The U blockchain, being **highly-decentralized** and having strong **unchangeable pre-programmed fundamentals**, is simultaneously
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
-* **highly-secure** (extremely-hard, at best impossible, to harm or stop),
+* **undisruptable** (extremely-hard, at best impossible, to harm or stop),
 * **highly-just** (with over 1 billion people EQUALLY owning the blockchain's shares, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
@@ -210,7 +210,7 @@ The U blockchain only sees its leadership in providing people with only the best
 
 ### About Blockchain Technology
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are secure – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are undisruptable — meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
 
