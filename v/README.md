@@ -57,7 +57,7 @@ If to scale all these metrics a bit, keeping in mind the reputation of Sam Altma
 
 *1,820,000,000  passports per year*
 
-it becomes more or less certain that the Worldcoin project might have created billions of digital passports in just 3-5 years or even earlier.
+it becomes more or less certain that the Worldcoin project might have created billions of digital passports in just a few years.
  
 Each global digital passport automatically creates one Public Address, and these Public Addresses
 
