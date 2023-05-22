@@ -333,24 +333,39 @@ The U blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 5</h3>
 
-   - About Real Transaction-Fees
+
    - About the Most Valuable Assets
 
 Fundamental Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
-This problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to achieve the "51% attack" resistance:
+When we say about transaction fees, instead of taking into account only "**direct**" transaction fees, we should take into accoun the "**real**" transaction fees**.
 
-**the more the blockchain's market capitalization becomes the more of honest nodes must be added in the blockchain — in order for the blockchain to be considered sufficiently sustainable (secure).**.
+The real transaction fees include — along with the "direct" transaction fees  — the "reward" transaction fees — in other words,  the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
+
+It is so since all native tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing in the same volume the real losses of users.
+
+It is important to note, when any blockchain (Ethereum or Solana, for example) creates in the native token the inflation of, say, 4% yearly in order to pay rewards to contributors (miners/validators) — essentially, the protocol takes out from the balance of each user's account the **transaction fee**  or **tax** in the  same size of  4%, and gives it to the contributors — regardlessly if the user really made even any single  transaction during this year.
+
+
+
+*For reference,*
+
+*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid contributors (miners/validators) an amount exceeding $10 billion in total — as reward transaction fees (rewards for blocks) and direct transaction fees.*
+
+This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. Considering the extremely-low bandwidth of just 20 transactions per second, this is extremely-expensive or totaly-inefficient.
+
+
+The root of this problem comes from the fact that, for now, in the industry, there is the mainstream wrong belief that there is only one truly-decentralized way for a blockchain to build up the "51% attack" resistance:
+
+**the more the blockchain's market capitalization becomes the more of honest nodes must be added to the blockchain — in order for the blockchain to be considered sufficiently secure**.
 
 According to this logic, a blockchain with a really huge market capitalization of say **$20 trillion** must always strive to have myriads of myriads of honest nodes in order to be considered highly-sustainable (secure).
 
 At the same time, an increase in a number of nodes doesn't increase the blockchain's (shard's) bandwidth proportionally, if ever.
 
-Actually, this approach means that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
+
 
 Extremely importantly, increasing the number of nodes is just one of possible ways for a blockchain to achieve permissionlessness and high sustainability incl. the "51% attack" resistance.
-
-Compared to other possible approaches, the "traditional" approach is much like adding to your car a 79th wheel, simultaneously dreaming about adding a 205th one.
 
 Ideally, a blockchain must use another, truly-decentralized, a lot more efficient way to achieve the "51% attack" resistance – of course, remaining permissionless and highly-sustainable.
 
@@ -567,21 +582,9 @@ Even though not each Voter might vote, and plus, a Voter might spend only their 
 ## A Lot of Room To Improve
 
 
-When we say about transaction fees, instead of taking into account only "**direct**" transaction fees, we should take into accoun the "**overall**" transaction fees**.
-
-The overall transaction fees include — along with the "direct" transaction fees  — the "reward" transaction fees, the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
-
-It is so since all native tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token price, decreasing the price of the native token and increasing in the same volume the real losses of users.
-
-It is important to note, when any blockchain (Ethereum or Solana, for example) creates in the native token the inflation of, say, 4% yearly in order to pay rewards to contributors (miners/validators) — essentially, the protocol takes out from the balance of each user's account the **transaction fee**  or **tax** in the  same size of  4%, and gives it to the contributors — regardlessly if the user really made even any single  transaction during this year.
 
 
 
-*For reference,*
-
-*During just one single year (2022), when the Bitcoin blockchain's market capitalization was on average just about $575 billion, nevertheless, the users of the Bitcoin blockchain paid contributors (miners/validators) an amount exceeding $10 billion in total — as reward transaction fees (rewards for blocks) and direct transaction fees.*
-
-This means that the annual costs are as big as 1.7% from the blockchain's market capitalization. Considering the extremely-low bandwidth of just 3-7 transactions per second, this is extremely-expensive.
 
 <p><i>
 Also, for reference,
