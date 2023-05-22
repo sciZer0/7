@@ -31,7 +31,7 @@ Currently, consumers/users are increasingly willing to pay a premium for product
 
 This just proves that people now are increasingly appreciating non-trivial, wise values.
 
-Also, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democracy.
+Also, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democraticness — along with more effectiveness.
 
 Along with this all, it is important that a new project called Worldcoin has the potential to soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
