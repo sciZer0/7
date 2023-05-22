@@ -174,7 +174,7 @@ The U blockchain, being **highly-decentralized** and having strong **unchangeabl
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
 * **undisruptable** (extremely-hard, at best impossible, to harm or stop),
-* **highly-just** (with over 1 billion people EQUALLY owning the blockchain's shares, providing the best-ever Gini coefficient)
+* **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
 * **highly-ecological** (a carbon footprint is minimal in the industry)
