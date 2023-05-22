@@ -338,11 +338,11 @@ The U blockchain ideally solves this problem from day one.
 
 Fundamental Problem 5 is total inefficiency of each of existing blockchains. 
 
-Extremely importantly, an increase in a number of nodes of a blockchain doesn't increase the blockchain's (shard's) bandwidth proportionally, if ever.
+Extremely importantly, an increase in a number of honest nodes of a blockchain doesn't increase the blockchain's bandwidth proportionally, if ever, but only does increase the blockchain's secureness.
 
-Also, when we say about transaction fees, instead of taking into account only the "**direct**" transaction fees, we should take into accoun the "**real**" transaction fees.
+Also, when we say about the full costs of the user, instead of taking into account only the "**direct**" transaction fees, we should take into accoun the "**real**" transaction fees.
 
-The "**real**" transaction fees include — along with the "**direct**" transaction fees  — the "**reward**" transaction fees — in other words,  the amounts of the native token that in reality users also pay to contributors (miners/validators) for each block.
+The "**real**" transaction fees include — along with the "**direct**" transaction fees  — the "**reward**" transaction fees — in other words,  the amounts of the native token that in reality the user also pay to contributors (miners/validators) for each block.
 
 It is so since all native tokens received by contributors (miners/validators) as rewards for blocks also enter the market and create the additional pressure on the native token's price, decreasing the price of the native token and increasing in the same volume the real losses of users.
 
