@@ -193,12 +193,8 @@ The U blockchain only sees its leadership in providing people with only the best
 
  <br><br>
 <b>TABLE OF CONTENTS</b>
-* **Abstract** — Continuation
+* **Abstract**
    - About Blockchain Technology
-   - About Immutability Of Code
-   - About Real Transaction-Fees
-   - About the Most Valuable Assets
-   - About Democracy
    - About **5** Fundamental Problems of All Current Blockchains
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
@@ -247,30 +243,9 @@ Absolutely, blockchain technology causes a paradigm revolution. This is so becau
 
 
 
-<br>
 
 
 
-
-### *About Democracy*
-
-"The best argument against democracy is a five-minute conversation with the average voter." 
-
-Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
-
-The thing is that for a democracy to work well, those who are making the decisions, the average voters, need to 
-
-1. have real power to change things
-
-2. know what is going on
-
-3. be really motivated.
-
-On the other hand, absolutely, when the system treats people like mushrooms — feeds them manure and keeps them in the dark — we get the "average voter" awful effect.
-
-Vice-versa, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
-
-Moreover, open and competitive nature of voting -- implemented on the U blockchain -- brings out additional perks.
 
 <br>
 
@@ -305,17 +280,25 @@ The U blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
-<i>
-<b>
-For reference
-<br><br>
-Technologically, making votings is the same as making transactions.
-<br><br>
-The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future. So massive votings aren't any problem now in terms of technology.
-<br><br>
-Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.
+### *About Democracy*
 
-</b></i>
+"The best argument against democracy is a five-minute conversation with the average voter." 
+
+Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
+
+The thing is that for a democracy to work well, those who are making the decisions, the average voters, need to 
+
+1. have real power to change things
+
+2. know what is going on
+
+3. be really motivated.
+
+On the other hand, absolutely, when the system treats people like mushrooms — feeds them manure and keeps them in the dark — we get the "average voter" awful effect.
+
+Vice-versa, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
+
+Moreover, open and competitive nature of voting -- implemented on the U blockchain -- brings out additional perks.
 
 
 
@@ -381,6 +364,9 @@ The U blockchain ideally solves this problem from day one.
 
 
 <h3 align="center">Problem 5</h3>
+
+   - About Real Transaction-Fees
+   - About the Most Valuable Assets
 
 Fundamental Problem 5 is that increasing the inefficiency (overhead) is the goal for each of the existing blockchains.
 
