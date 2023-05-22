@@ -41,7 +41,7 @@ The team behind the Worldcoin project
 
 is building the biggest-ever, global, user base that might be used for promoting any global b2p project.
 
-The process of building this user base involves creating people's digital passports —  **one passport to one person** —
+The process of building this user base involves creating people's global digital passports —  **one passport to one person** —
 by pic-taking people's irises with the unique device called Orb. 
 
 It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
@@ -489,9 +489,9 @@ With all these fundamental problems, it is for sure that for now, the industry h
 
 The Vote token (**VTT**) is a native token of the U blockchain.
 
-The Maximum Supply of the Vote token is created at the Genesis Block, and is 10,000,000 **VTT**.
+The Maximum Supply of the Vote token is created at the Genesis Block, and is 1,000,000,000 **VTT**.
 
-Each Vote token is divided into 100,000,000 **Hands**.
+Each Vote token is divided into 1,000,000 **Hands**.
 
 The Hand (**Hand**) is the smallest unit of the Vote token.
 
@@ -509,17 +509,17 @@ After the creation of the Genesis Block, right away, through a fair airdrop, all
 
 * 0.15% of VTT is distributed for free among 30 Contributors of the U DAO.
 
-Each Voter (user) receives about **0.01** VTT.
+Each Voter (user) receives about **1** VTT.
 
-Each Contributor receives about 50,000 (fifty thousand) times more VTT than the Voter does — namely, **500** VTT. *More about the special role of Contributors below.*
+Each Contributor receives about 50,000 (fifty thousand) times more VTT than the Voter does — namely, **50,000** VTT. *More about the special role of Contributors below.*
 
-This distribution mechanism provides the blockchain with an almost ideal Gini coefficient of nearly **0** — at least, with the best-ever Gini coefficient. 
+The given distribution mechanism exclusively provides the blockchain with an almost ideal Gini coefficient of nearly **0** — at least, with the best-ever Gini coefficient. 
 
 The U blockchain has the best Gini coefficient in the industry from day one.
 
-*As mentioned above, there are ideas/solutions on how to absolutely-cheaply get over 100,000,000 unique people with their Public Addresses for the token airdrop, and on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.* 
+*As mentioned above, there are ideas on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.* 
 
-*Specifically these 2 given ideas/solutions will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
+*Specifically these ideas will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
 
 <br>
 
