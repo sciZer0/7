@@ -29,7 +29,7 @@ doomed by its protocol<br>
 
 Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as ecological sustainability and social responsibility.
 
-This just proves that people now are increasingly appreciating non-trivial wisdom values.
+This just proves that people now are increasingly appreciating non-trivial, wise values.
 
 Also, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democracy.
 
