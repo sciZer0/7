@@ -204,13 +204,9 @@ The U blockchain only sees its leadership in providing people with only the best
 
 <br><br>
 
+
+
 <h2 align="center">Abstract</h2>
-<p align="center">Continuation</p>
-
-
-
-
-
 
 ### About Blockchain Technology
 
