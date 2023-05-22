@@ -112,8 +112,8 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 also, of course,
 
 * **permissionless**
-* **undisruptable**
-* **highly-decentralized**.
+* **highly-decentralized**
+* **highly-secure**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
@@ -171,7 +171,7 @@ Moreover, this native token has governance power, and owners of the token can vo
 The U blockchain, being **highly-decentralized** and having strong **unchangeable pre-programmed fundamentals**, is simultaneously
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
-* **undisruptable** (extremely-hard, at best impossible, to harm or stop),
+* **highly-secure** (extremely-hard, at best impossible, to harm or stop),
 * **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
@@ -193,7 +193,7 @@ The U blockchain only sees its leadership in providing people with only the best
 <b>TABLE OF CONTENTS</b>
 * **Abstract**
    - About Blockchain Technology
-   - About **5** Fundamental Problems of All Current Blockchains
+   - About **5** Current Problems of All Blockchains
 * **The Unicorn Blockchain** — In More Detail 
 * **Addition**
    - *About Nakamoto Coefficient*
@@ -208,7 +208,7 @@ The U blockchain only sees its leadership in providing people with only the best
 
 ### About Blockchain Technology
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are undisruptable — meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-secure — meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
 
@@ -237,18 +237,9 @@ Absolutely, blockchain technology causes a paradigm revolution. This is so becau
 
 
 
-
-
-
-
 <br>
 
-
-
-
-<br>
-
-### About 5 Fundamental Problems of All Current Blockchains
+### About 5 Current Problems of All Blockchains
 
 Below are **5** fundamental problems of all current blockchains compared with the Unicorn Blockchain.
 
@@ -266,7 +257,7 @@ Fundamental Problem 1 is that people that build blockchains do it the same way a
 
 simultaneously saying that it is totally okay as it is now, or at best, declaring the improvement of democracy in the future.
 
-The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-sustainable.
+The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-secure.
 
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
@@ -292,7 +283,7 @@ On the other hand, absolutely, when the system treats people like mushrooms — 
 
 Vice-versa, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
 
-Moreover, open and competitive nature of voting -- implemented on the U blockchain -- brings out additional perks.
+Moreover, open and competitive nature of voting implemented on the U blockchain brings out additional perks.
 
 
 
@@ -327,7 +318,9 @@ The U blockchain ideally solves this problem from day one.
 
 Fundamental Problem 3 is that on each of the existing blockchains, each network congestion always leads to an increase in transaction fees which, in turn, always leads to an increase in an amount of tokens that contributors (miners/validators) receive.
 
-The current approach being **wrong** makes top-contributors (miners/validators) directly interested in congestions, meaning, in low bandwidth — and, in turn, not-interested in inceasing the bandwidth.
+The current approach being **wrong** makes top-contributors (miners/validators) directly interested in congestions, meaning, in low bandwidth — and, in turn, not-interested in a higher bandwidth.
+
+Maybe it might be the answer to why on some blockchains reforms are going so slowly.
 
 Ideally, network congestions, inevitably leading to increases in transaction fees, must never lead to increases in amounts of tokens that contributors (miners/validators) receive — instead, this whole token increase received must be burned.
 
