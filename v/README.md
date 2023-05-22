@@ -257,7 +257,7 @@ Fundamental Problem 1 is that people that build blockchains do it the same way a
 
 simultaneously saying that it is totally okay as it is now, or at best, declaring the improvement of democracy in the future.
 
-The whole thing is that – we can see this below – only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-secure.
+The whole thing is that *– we can see this below –* only a highly-democratic blockchain is able to be highly-efficient, remaining highly-decentralized and highly-secure.
 
 Ideally, blockchains must be highly-democratic from day one and exactly people (users) must rule the blockchains.
 
@@ -279,13 +279,14 @@ As Vitalik said about the great unfairness of Bitcoin — Was Bitcoin really a f
 
 Although nearly the same might be said about Ethereum — Was Ethereum really a fair launch considering how few people had a chance to even hear about it by the time <b>1/2</b> of the supply had already been handed out among less than 7 thousand people by the end of 2014?
 
-Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the supply went to people (users).
+What is those less than 7,000 people compared to 7,000,000,000 people who didn't have a chance to even hear about this global token.
+
+Another example, the SOL token — the Solana blockchain — entered the market only after multiple private rounds, and finally just 38% of the total supply went to people (users).
 
 On any other blockchain, token distribution and the inequality Gini coefficient aren't much better, if any better.
 
-Probably, precisely the great unfairness and undemocratic nature (not technology that may be great) could **most** prevent each of the existing blockchains from getting mass adoption in the long run.
-
-Ideally, a blockchain must execute very wide initial token-distribution, and have the best Gini coefficient in the industry.
+Ideally, a blockchain must distribute the native token very widely 
+and equally, and have the best Gini coefficient in the industry.
 
 The U blockchain ideally solves this problem from day one.
 
@@ -300,7 +301,7 @@ Fundamental Problem 3 is that on each of the existing blockchains, each network 
 
 The current approach being **wrong** makes top-contributors (miners/validators) directly interested in congestions, meaning, in low bandwidth — and, in turn, not-interested in a higher bandwidth.
 
-Maybe it might be the answer to why on some blockchains reforms are going so slowly.
+Maybe it might be the answer to why on some blockchains the bandwidth reforms are going so slowly.
 
 Ideally, network congestions, inevitably leading to increases in transaction fees, must never lead to increases in amounts of tokens that contributors (miners/validators) receive — instead, this whole token increase received must be burned.
 
@@ -314,13 +315,13 @@ The U blockchain ideally solves this problem from day one.
 
 <h3 align="center">Problem 4</h3>
 
-Fundamental Problem 4 is that for now, each of the existing blockchains is unable to start decreasing its native token's total supply.
+Fundamental Problem 4 is that for now, each of the existing blockchains is unable to stably decrease its native token's total supply.
 
-For example, the Bitcoin blockchain will stop printing its native token Bitcoin only at 2140 (in 118 years),  and will never start decreasing its native token's total supply.
+For example, the Bitcoin blockchain will stop printing its native token Bitcoin only at 2140 (in 118 years),  and will never even start decreasing its native token's total supply.
 
-Any other blockchain will at best start decreasing its native token's total supply maybe at one day in the future.
+Any other blockchain will at best will stably decrease its native token's total supply maybe at one day in the future.
 
-Ideally, a blockchain must start decreasing its native token's total supply from day one.
+Ideally, a blockchain must stably decrease its native token's total supply from day one.
 
 The U blockchain ideally solves this problem from day one.
 
