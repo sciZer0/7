@@ -241,7 +241,7 @@ Absolutely, blockchain technology causes a paradigm revolution. This is so becau
 
 ### About 5 Current Problems of All Blockchains
 
-Below are **5** fundamental problems of all current blockchains compared with the Unicorn Blockchain.
+Below are **5** current fundamental problems of all blockchains compared with the Unicorn Blockchain.
 
 
 
