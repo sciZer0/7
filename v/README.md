@@ -45,7 +45,7 @@ The process of building this user-base involves creating people's global digital
 
 —  *one passport to one person* —
 
-pic-taking people's irises with the unique device called Orb. 
+by pic-taking people's irises with the unique device called Orb. 
 
 It is important to note that the whole process is going in a privacy-preserving manner where people remain **anonymous**.
 
