@@ -47,7 +47,7 @@ The process of building this user-base involves creating people's global digital
 
 pic-taking people's irises with the unique device called Orb. 
 
-It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
+It is important to note that the whole process is going in a privacy-preserving manner where people remain **anonymous**.
 
 One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planned to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
