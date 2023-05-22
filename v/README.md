@@ -265,26 +265,6 @@ The U blockchain ideally solves this problem from day one.
 
 *The solution is described below.*
 
-### *About Democracy*
-
-"The best argument against democracy is a five-minute conversation with the average voter." 
-
-Winston Churchill’s quote sums up the mainstream opinion on what it means to have a real democracy, incl. direct democracy. 
-
-The thing is that for a democracy to work well, those who are making the decisions, the average voters, need to 
-
-1. have real power to change things
-
-2. know what is going on
-
-3. be really motivated.
-
-On the other hand, absolutely, when the system treats people like mushrooms — feeds them manure and keeps them in the dark — we get the "average voter" awful effect.
-
-Vice-versa, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
-
-Moreover, open and competitive nature of voting implemented on the U blockchain brings out additional perks.
-
 
 
 <h3 align="center">Problem 2</h3>
