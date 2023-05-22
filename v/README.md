@@ -79,22 +79,21 @@ Moreover, such a situation will especially affect the blockchain industry which 
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever global user-base of billions of people.
+Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as absolutely **unpopular** and **unjust** — since each new blockchain might easily start up with the biggest-ever global user-base of billions of people and better token-distribution (better Gini coefficient).
 
 Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain created before 2023 or so, undoubtedly being a big social system, might definitely be perceived in the future as simultaneously
 
-* **unjust**
 * **undemocratic**
-* **unecological**
-* **inefficient**.
+* **inefficient**
+* **unecological**.
 
 In turn, all these 5 negative qualities together 
 
 * unpopularness
 * unjustness
 * undemocraticness
-* unecologicness
 * ineffectiveness
+* unecologicness
 
 might increasingly prevent each "old" blockchain  from getting mass adoption in the long run.
 
@@ -105,14 +104,14 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 * **highly-popular** 
 * **highly-just**
 * **highly-democratic**
-* **highly-ecological**
 * **highly-efficient**
+* **highly-ecological**
 
 also, of course,
 
 * **permissionless**
 * **highly-decentralized**
-* **highly-viable** (indestructible).
+* **highly-secure**.
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
@@ -172,7 +171,7 @@ Moreover, this native token has governance power, and owners of the token can vo
 The U blockchain, being **highly-decentralized** and having strong **unchangeable pre-programmed fundamentals**, is simultaneously
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
-* **highly-viable** (extremely-hard, at best impossible, to harm or stop),
+* **highly-secure** (extremely-hard, at best impossible, to harm or stop),
 * **highly-just** (with over 1 billion people EQUALLY owning the blockchain's shares, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
@@ -217,13 +216,13 @@ The U blockchain only sees its leadership in providing people with only the best
 
 ### About Blockchain Technology
 
-The main point of blockchain technology is to allow people to build permissionless ownership systems that are highly-sustainable – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
+The main point of blockchain technology is to allow people to build permissionless ownership systems that are secure – meaning whose pre-programmed works are extremely-hard, at best impossible, to harm or stop.
 
 Specifically, to build permissionless ownership systems about storing and transferring tokens (values).
 
 That's it.
 
-The only way for a blockchain to be permissionless and highly-sustainable is to simultaneously, 
+The only way for a blockchain to be permissionless and highly-secure is to simultaneously, 
 
 * (1) use the public-private key pair authentication mechanism
 
