@@ -216,13 +216,13 @@ Specifically, to build permissionless ownership systems about storing and transf
 
 That's it.
 
-The only way for a blockchain to be permissionless and highly-secure is to simultaneously, 
+In order for a blockchain to be permissionless and highly-secure, it has to simultaneously, 
 
 * (1) use the public-private key pair authentication mechanism
 
 * (2) be a highly-decentralized system of many incentivized autonomous nodes — where often each node is storing the same copy of the book of the blockchain.
 
-Ideally, the nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout any geopolitical events or natural disasters.
+Ideally, nodes must be distributed across geographies and jurisdictions, so that the blockchain can remain permissionless and highly-sustainable even throughout any geopolitical events or natural disasters.
 
 On the other hand, the main task of developers is to really build/make such permissionless systems being highly-sustainable and plus, of course, as efficient as possible. 
 
