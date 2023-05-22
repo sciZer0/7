@@ -154,11 +154,11 @@ the U blockchain is, and will always be, at least **tens of times** more efficie
 
 *Not to EVEN mention the Ethereum blockchain or the Bitcoin blockchain.*
 
-Additionally, also thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+Additionally, thanks to burning 🔥 all Gas Fees, as its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 *In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
 
-Moreover, this native token has governance power, and owners of the token can vote with it on various proposals.
+Moreover, this native token has governance power, and owners of the token can vote with it on various important proposals.
 
 ***For reference***
 
