@@ -250,39 +250,7 @@ Absolutely, blockchain technology causes a paradigm revolution. This is so becau
 <br>
 
 
-### About New Culture 
 
-Additionally, thanks to blockchain technology, it will technically be impossible for creators to keep their **exclusive ownership** over created digitizable things (videos, audios, texts, programs) that become known.
-
-This is so because technically, anyone can upload those known digitizable things on a blockchain, and then use them the way they want. 
-
-For example, if the uploader wants, it can give permissionless access to those digitizable things to everyone, and no one on Earth 🌎 can forbid anyone to get this permissionless access to this all.
-
-As they say — change or die.
-
-Idea/Hypothesis
-
-The idea/hypothesis is that due to this new creator-paradigm, we might shape a **Creator Thanksgiving Culture** to give thanks in tokens (donations) to creators of digitizable things. Also, through buying NFTs of the creators.
-
-As an element of Creator Thanksgiving Culture, we might even establish a new non-official fete day — Creator Thanksgiving Day — say on December 30, where people from around the world might give their thanks in tokens (donations, gifts) to the most useful-in-their-opinion creators of digitizable things (videos, audios, texts, programs). Also, through buying NFTs of the creators.
-
-Eventually, on social networks there might be people searching for creators eligible most for donations, making the lists.
-
-Most likely, in the future, creators of digitizable things will monetize their works mainly through both promoting of good things and donations from fans.
-
-In the future, the donations might play the most important role in monetization of creators of digitizable things.
-
-The U blockchain is based exactly on donations (incl. automated-donations), and philosophy of this new culture in general.
-
-We believe the new blockchain protocol is very (or even most) suitable for upcoming creative economy.
-
-**Our Insight**:<br>
->**Hundreds of millions of people, having necessary funds, will always find a way to financially support several very-useful-to-them people.**
-
-Including,
->**Thousands of people, having necessary funds, will always find a way to financially support one very-useful-to-them person.**
-
-<br>
 
 ### *About Democracy*
 
@@ -302,27 +270,11 @@ On the other hand, absolutely, when the system treats people like mushrooms — 
 
 Vice-versa, when people have real power and information, when they are motivated, when the system is transparent and on blockchain, then there is a big chance we get a real democracy working well.
 
+Moreover, open and competitive nature of voting -- implemented on the U blockchain -- brings out additional perks.
+
 <br>
 
-### About Immutability Of Code
 
-This might seem that ideally, in the codebase of a blockchain, there should be no updates, and no variables that might be fine-tuned in order to change the way the blockchain works
-
-In reality, total immutability of codebase is an impossible thing in the modern world since the blockchain inevitably risks becoming hopelessly obsolete, and also risks becoming extremely-vulnerable to possible code bugs.
-
-So even Bitcoin's codebase is limitedly changeable — meaning, there is no total immutability, but only relative immutability — not to mention codebases of new blockçhains.
-
-By the way, total immutability is especially not good for codebases of smart-contracts being built on and sometimes connected to changeable blockchains since if any bug is discovered in the immutable code, it cannot be fixed and users can lose all of their funds. On the other hand, changeability of codebases of the smart-contract inevitably involves, among other things, a multi-signature of only a few people that, in turn, already causes another problems. So DeFi has to be done in a completely different way. 
-
-As for codebase of a blockchain, the most right approach might be to provide fully-automated decentralization/democracy while realizing limited changeability of codebase — since total immutability of codebase is an impossible thing in the modern world.
-
-So codebase (constitution) of a blockchain
-
-* can have updates when these updates are accepted also in a fully-automated, highly-decentralized/democratic way
-
-can have variables when values of these variables are changed only in a fully-automated, highly-decentralized/democratic way.
-
-Ideally, a blockchain must be upgradable and fine-tunable in a highly-decentralized/democratic way.
 
 
 <br>
