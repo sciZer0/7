@@ -142,8 +142,6 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
 
-*There are ideas on how millions of those people might become an especially-powerful driving-force of the blockchain*.
-
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, simultaneously improving the protocol in each key aspect.
 
 Importantly, thanks to the use of a new consensus mechanism
@@ -476,12 +474,11 @@ The given distribution mechanism exclusively provides the blockchain with an alm
 
 The U blockchain has the best Gini coefficient in the industry from day one.
 
-*As mentioned above, there are ideas on how about 2,000,000 of those people might become an especially-powerful driving-force of the blockchain.* 
 
-*Specifically these ideas will only be revealed to Contributors of the U DAO starting the Vote blockchain.*
+
+
 
 <br>
-
 
 
 <h2>3 &nbsp Over 50,000 TPS</h2>
