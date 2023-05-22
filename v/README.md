@@ -33,16 +33,19 @@ This just proves that people now are increasingly appreciating non-trivial wisdo
 
 Also, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democracy.
 
-Along with this all, it is important that a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
+Along with this all, it is important that a new project called Worldcoin has the potential to soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
 The team behind the Worldcoin project
 
-*— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
+*— including **Sam Altmam**, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
 
 is building the biggest-ever global user-base that might be used for promoting any global b2p project.
 
-The process of building this user-base involves creating people's global digital passports —  **one passport to one person** —
-by pic-taking people's irises with the unique device called Orb. 
+The process of building this user-base involves creating people's global digital passports 
+
+—  *one passport to one person* —
+
+pic-taking people's irises with the unique device called Orb. 
 
 It is important to note that the whole process is going in a secure, privacy-preserving manner where people remain **anonymous**.
 
@@ -56,9 +59,13 @@ If to scale all these metrics a bit, keeping in mind the reputation of Sam Altma
 
 it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-Each global digital passport automatically creates one Public Address, and these Public Addresses, being the bigest-ever global user-base, might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
+Each global digital passport automatically creates one Public Address, and these Public Addresses
 
-Remarkably, these Public Addresses might be used on any blockchains.
+*— being the bigest-ever global user-base —*
+
+might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
+
+Remarkably, these Public Addresses can be used on any blockchain.
 
 Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects, along with the lives of billions of people.
 
@@ -66,9 +73,9 @@ With the base, each global b2p project will have the easy and cheap tool to prom
 
 Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
 
-Since any global b2p project in a specific industry might use this biggest user-base, it might mighty increase the competition among the projects — especially among web-native projects — forcing the projects to provide the comsumers/users with only the best conditions.
+Since any global b2p project in a specific industry might use this biggest user-base, it might mighty increase the competition among the projects — especially among **web-native** projects — forcing the projects to provide the comsumers/users with only the best conditions.
 
-Moreover, such a situation will especially-effect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage of a blockchain.
+Moreover, such a situation will especially affect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage of a blockchain.
 
 The changes in the blockchain industry will be especially-huge.
 
