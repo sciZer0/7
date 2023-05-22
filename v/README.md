@@ -27,13 +27,13 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as sustainability and social responsibility.
+Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as ecological sustainability and social responsibility.
 
-This just proves that people now are increasingly appreciating non-financial social-oriented values.
+This just proves that people now are increasingly appreciating non-trivial wisdom values.
 
-It might be safe to also suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democracy.
+Also, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems more justness and more democracy.
 
-Additionally, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
+Along with this all, it is important that a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
 The team behind the Worldcoin project
 
@@ -56,7 +56,9 @@ If to scale all these metrics a bit, keeping in mind the reputation of Sam Altma
 
 it becames more or less certain that the Worldcoin project might have created billions of digital passports in just some years.
  
-Each digital passport automatically creates one Public Address, and these Public Addresses might be absolutely-good for the projects to airdrop various incentive points (tokens) to the users.
+Each global digital passport automatically creates one Public Address, and these Public Addresses might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
+
+Remarkably, these Public Addresses might be used on any blockchains.
 
 Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects, along with the lives of billions of people.
 
@@ -72,7 +74,7 @@ The changes in the blockchain industry will be especially-huge.
 
 Thanks to the new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **absolutely-unpopular** — since each new blockchain might easily start up with the biggest-ever user base of billions of people.
 
-Additionally, thanks to the new revolutionary blockchain protocol (described in this paper below), each "old" blockchain, being a big social system, might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain, being a big social system, might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
@@ -86,14 +88,19 @@ This paper proposes an idea of a new blockchain protocol that allows a blockchai
 
 * **highly-popular** 
 * **highly-just**
-* **higgly-democratic**
+* **highly-democratic**
+* **highly-ecological**
 * **highly-efficient**
 
-also, of course,
+also,
+
+* **highly-ecological**
+
+and, of course,
 
 * **permissionless**
 * **highly-decentralized**
-* **highly-sustainable** (indestructible).
+* **highly-viable** (indestructible).
 
 The protocol is represented through describing a **revolutionary blockchain** being built based on the given protocol — specifically, through describing the Unicorn (**U**) blockchain.
 
@@ -149,10 +156,11 @@ Moreover, this native token has governance power, and owners of the token can vo
 The U blockchain, being **highly-decentralized** and having strong **unchangeable pre-programmed fundamentals**, is simultaneously
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
-* **highly-sustainable** (extremely-hard, at best impossible, to harm or stop),
+* **highly-viable** (extremely-hard, at best impossible, to harm or stop),
 * **highly-just** (with over 1 billion people EQUALLY owning the blockchain's shares, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
+* **highly-ecological** (a carbon footprint is minimal in the industry)
 * **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply**.
 
 The U blockchain also provides **extremely-generous incentives** to the early blockchain contributors, and also highly-generous incentives to each of its contributors in general.
