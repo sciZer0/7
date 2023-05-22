@@ -79,7 +79,9 @@ Moreover, such a situation will especially affect the blockchain industry which 
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as absolutely **unpopular** and **unjust** — since each new blockchain might easily start up with the biggest-ever global user-base of billions of people and better token-distribution (better Gini coefficient).
+Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as both **unpopular** and **unjust** 
+
+— since each new blockchain might easily start up with the biggest-ever global user-base of billions of people and with more just (fair) token-distribution (meaning the better Gini coefficient).
 
 Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain created before 2023 or so, undoubtedly being a big social system, might definitely be perceived in the future as simultaneously
 
