@@ -37,9 +37,9 @@ In particular, if you know the multiplication table and can understand these sim
 8 / 2 = 4<br>
 9.8 / 2 * 1 = 4.9
 
-you are fully able to easily understand every thing, even if you have no scientific background.
+you are fully able to easily understand everything here, even having no scientific background.
 
-Throughout the whole paper, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times and in various ways.
+Throughout this whole paper, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times and in various ways.
 
 Feel free to ask me any questions about the discoveries: thescizer0@gmail.com.
 
@@ -56,19 +56,19 @@ As a result, among other things, I got the following:
 * New Formula for Energy<br>
 * New Formula for Power<br>
 
-Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, the discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+Since Energy, as THE main resource for each event in the Universe, is the main concept in the chief sciences, the discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
-At best, thanks to the discoveries,<br>
+Thanks to the discoveries,<br>
 
-* the world will get unlimited access to new clean energy and the ability to REALLY prosper;<br>
+* the world can get unlimited access to new clean energy and the ability to REALLY prosper;<br>
 
-* people will become more financially secure, have more free time (less working time), and can significantly improve their lives, making them more fulfilled, happier and longer;<br>
+* people can become more financially secure, have more free time (less working time), and can significantly improve their lives, making them more fulfilled, happier and longer;<br>
 
-* we as civilization will improve our understanding of the Universe and, in general, our thinking.
+* we as civilization can improve our understanding of the Universe and, in general, our thinking.
 
 
 
@@ -116,9 +116,17 @@ Unfortunately, science mistakenly believes that the real reason for the differen
 
 But the real reason is not Gravitational Force  -- not Work of Gravitational Force.
 
-The real reason of the difference in the distances is Inertia. 
+The real reason of the difference in the distances is Inertia.
 
-But modern science absolutely fails to understand this.
+<p align="center">
+
+  <img src="/assets/images/table.png"/>
+
+</p>
+
+*This table above is explained in detail below.*
+
+Unfortunately, modern science absolutely fails to understand the role of Inertia.
 
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
