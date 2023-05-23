@@ -1,4 +1,4 @@
-<h1 align="center">This is the continuation of this paper:</h1>
+<h3 align="center">This is the continuation of this paper:</h3>
 
 Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
@@ -81,7 +81,7 @@ The New Definition of Work in the most general sense is:
 
 > **Work is any activity of Organism that is spending Energy (resource).**
 
-In other words,
+In short,
 
 Work is any activity that is spending Energy (resource).
 
@@ -89,7 +89,7 @@ On the other hand,
 
 > **Energy is the resource for Organism to be doing Work.**
 
-In other words,
+In short,
 
 Energy is the resource to do Work.
 
@@ -107,56 +107,39 @@ The current official law of Conservation of Energy is:
 
 *Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
 
-It looked like all calculations proved this law.
+But it is possible for us to take free Energy from the nature — from the surrounding space.
 
-But in reality, all official formulas for calculating Work and Energy are absolutely wrong.
+The truth is that we people have been doing this for a long time.
 
-The wrongness of all the official formulas for calculating Work and Energy is a proven fact. 
+We take free Energy in many cases, but it looks like people just don't understand this.
 
-The fact was proven here: [link](https://github.com/sciZer0/7/tree/main/a).
+For example, when you breathe in the air you are taking free Energy from the environment — from the surrounding space. 
 
-The New Law of Conservation of Energy is:
+Say, every second your organism is spending a certain amount of Energy. Let’s take this amount as 100%. The thing is that about just 10% of this Energy your organism is taking from food (which might be not for free). And about 90% of this Energy your organism is taking for free from the environment  — through breathing.
 
-> **Energy can neither be created nor destroyed — only converted from one form of Energy to another, and in some cases, Energy can be taken for free.**
+This split can be whether 10% and 90%, or 5% and 95%, or other, I justdon't know exactly.
 
-Importantly, this possibility itself to take Energy for free isn’t new per se.
+In order for you to try to understand how big is the share of this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can have been living without food for weeks, and just for seconds without breathing.
 
-We take free Energy in many cases, people just don't understand this.
+We also take free Energy when we use the sun, wind, hydro or thermal power stations, for example.
 
-For example, when you breathe in the air you are taking free Energy from the environment — from the surrounding space — from the Universe. 
+At some time point (in about 10 years or even much earlier) a solar panel can fully pay for itself and further, every moment next, can give us completely free Energy.
 
-Say, every second your organism is spending a certain amount of Energy. Let’s take this amount as 100%. The thing is that about just 10% of this Energy your organism is taking from food (which might be not for free). And about 90% of this Energy your organism is taking for free -  through breathing.
-
-This split can be 10% and 90%, 5% and 95%, or other, I just don't know exactly.
-
-In order to try to understand how big is the share of this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can live without food for weeks and just for seconds without breathing.
-
-There are although 2 problems with Energy that a human’s organism takes for free through breathing:
-
-* the organism cannot store this Energy unlike that Energy that the organism takes from food
-* some organs are arranged to mostly take Energy generated only from food.
-
-You just have to understand that when breathing a human takes Energy for free.
-
-We also take free Energ when we use the sun, wind, hydro or thermal power stations, for example.
-
-At some time point (in about 10 years), a solar panel can fully pay for itself and further, every moment next, can give us completely free Energy.
-
-In this case, the solar panel is just a tool to take free Energy from the environment — from the surrounding space — from the Universe. At some time point, this tool can fully pay for itself and further, every moment next, can give us completely free Energy.
+In this case, the solar panel is just a device/tool to take free Energy from the environment — from the surrounding space. At some time point, such a tool can fully pay for itself and further, every moment next, can give us completely free Energy.
 
 And there is a lot of other examples.
 
-Moreover, in a wide sense, the whole world's profit is only possible because we people can take free Energy in various forms, otherwise this would be a zero-sum game.
+Moreover, in general, the whole world's profit is only possible because we people can take free Energy in various forms, otherwise this all would be a zero-sum game.
 
-Very importantly, the possibility itself to take free Energy isn’t new. 
+Importantly, everything in general is a system.
 
-*We will see confirmations of the New Law of Conservation of Energy below.*
+Morw importantly,
 
-Also importantly, 
+* there are the Energy-Isolated Systems and Energy-Non-Isolated Systems
 
-* there are Energy-Isolated Systems and Energy-Non-Isolated Systems; – often, people consider some systems as Energy-Isolated, but in reality, these systems are Energy-Non-Isolated;
+* often, people consider some systems as Energy-Isolated, but in reality, these systems are Energy-Non-Isolated.
 
-* some devices – those devices that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning, can, for free, take in Energy from the surrounding space – can work with an efficiency of more than 100%; 
+* some devices/tools *– those that in reality aren't Energy-Isolated Systems but are Energy-Non-Isolated Systems, meaning can take in Energy from the surrounding space for free–* can work with an efficiency of more than 100%.
 
 For example, an Electromagnet connected to an Electrical Source can additionally take in free Energy from the surrounding space and through this can work with an efficiency of more than 100%.
 
