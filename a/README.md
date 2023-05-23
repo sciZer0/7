@@ -16,7 +16,7 @@ New Formula for Power<br>
 * START<br>
 
 ## FIRST OF ALL
-This paper shows that science now is a fundamentally illogical/wrong thing taken on faith, and that the scientific system itself is exactly a religious sect.
+This paper shows that science now is a fundamentally illogical/wrong thing taken by people on faith, and that the scientific system itself is exactly a religious sect.
 
 I am just a person on the globe and all I have is logic.
 
