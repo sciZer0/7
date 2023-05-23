@@ -145,6 +145,15 @@ For example, an Electromagnet connected to an Electrical Source can additionally
 
 *More on this all below.*
 
+As we already know, in reality all official formulas for calculating Work and Energy are absolutely wrong.
+
+The wrongness of all the official formulas for calculating Work and Energy is a proven fact. 
+
+The fact has been proven here: [link](https://github.com/sciZer0/7/tree/main/a).
+
+The New Law of Conservation of Energy is:
+
+> **Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in some cases, Energy can be being taken from the surrounding space for free.**
 
 
 
