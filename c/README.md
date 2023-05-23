@@ -117,13 +117,15 @@ For example, when you breathe in the air you are taking free Energy from the env
 
 Say, every second your organism is spending a certain amount of Energy. Let’s take this amount as 100%. The thing is that about just 10% of this Energy your organism is taking from food (which might be not for free). And about 90% of this Energy your organism is taking for free from the environment  — through breathing.
 
-This split can be whether 10% and 90%, or 5% and 95%, or other, I justdon't know exactly.
+This split might be whether 10% and 90%, or 5% and 95%, or other, I justdon't know exactly.
 
-In order for you to try to understand how big is the share of this Energy that your organism evey second is taking for free through breathing, just think about the fact that a human can have been living without food for weeks, and just for seconds without breathing.
+In order for you to try to understand how big is the share of this Energy that your organism evey second is taking for free from the surrounding space through breathing, just think about the fact that a human organism can have been living without food for weeks, and just for seconds without breathing.
 
-We also take free Energy when we use the sun, wind, hydro or thermal power stations, for example.
+We also take free Energy when we use the sun, or wind, or hydro, or thermal power stations, for example.
 
-At some time point (in about 10 years or even much earlier) a solar panel can fully pay for itself and further, every moment next, can give us completely free Energy.
+We call the solar power stations the solar panels.
+
+At some time point (in ≈ 10 years or even earlier) a solar panel can fully pay for itself, and further every moment next, can give us completely free Energy.
 
 In this case, the solar panel is just a device/tool to take free Energy from the environment — from the surrounding space. At some time point, such a tool can fully pay for itself and further, every moment next, can give us completely free Energy.
 
