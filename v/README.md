@@ -79,7 +79,7 @@ Moreover, such a situation will especially affect the blockchain industry which 
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **unpopular**.
+Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **unpopular**
 
 — since each new blockchain might easily start up with the biggest-ever global user-base of billions of people and with more just (fair) token-distribution (meaning the fundamentally-better Gini coefficient).
 
@@ -143,11 +143,13 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, simultaneously improving the Solana protocol in each key aspect.
 
-At the start, the 99.85% of the total supply is EQUALLY distributed for free among over **1 billion people**. 
+The U blockchain have strong the **unchangeable pre-programmed fundamentals** — including the maximum supply of the native token.
 
-From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token. 
+At the start, the 99.85% of the maximum supply is EQUALLY distributed for free among over **1 billion people**. 
 
-Revolutionarily, the native token of the U blockchain has governance power, and owners of the token can vote with it on 4 types of proposals.
+As a result, from day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token and the best Gini coefficient in the industry.
+
+Furthermore, the native token of the U blockchain has governance power, and owners of the token can vote with it on all important proposals — specifically, 4 types of proposals.
 
 ***For reference***
 
@@ -161,24 +163,24 @@ Revolutionarily, the native token of the U blockchain has governance power, and 
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
-Importantly, thanks to using the new consensus mechanism
+Thanks to the use of the new consensus mechanism
 
 *— leveraging the democratic voting and borrowing heavily from Solana's Proof-of-History (PoH) —*
 
 the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-All Gas Fees received are burned 🔥 and contributors are being rewarded thanks to implementation of the blockchain-inbuilt annual tax — tiny-in-rate (0.15%) and having the potential to constantly be reduced through democratic voting, 
+Yet, all Gas Fees received are burned 🔥 and contributors (devs, validators) are being rewarded thanks to implementation of the blockchain-inbuilt annual tax — tiny-in-rate (0.15%) and having the potential to constantly be reduced through democratic voting, 
 
-Despite the tiny rate of the unnual tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide highly-generous incentives to each of its contributors in general.
+Despite the tiny rate of the unnual tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide **highly-generous incentives** to each of its contributors in general.
 
 As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 *In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
 
-The U blockchain, being **highly-decentralized** and having strong **unchangeable pre-programmed fundamentals**, is simultaneously
+The U blockchain, being **highly-decentralized**, is simultaneously
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
-* **highly-secure** (extremely-hard, at best impossible, to harm or stop),
+* **highly-secure** (extremely-hard, at best impossible, to harm or stop the work of the blockchain),
 * **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (tens of times more efficient than the most efficient blockchains)
