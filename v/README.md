@@ -37,7 +37,7 @@ Together with this all, a new project called Worldcoin has the potential to soon
 
 The team behind the Worldcoin project
 
-*— including **Sam Altmam**, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
+*— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
 
 is building the biggest-ever global user-base that might be used for promoting any global b2p project.
 
@@ -47,7 +47,7 @@ The process of building this user-base involves creating people's global digital
 
 by pic-taking people's irises with the unique device called Orb. 
 
-It is important to note that the whole process is going in a privacy-preserving manner where people remain **anonymous**.
+It is important to note that the whole process is going in a privacy-preserving way where people remain anonymous.
 
 One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planned to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
