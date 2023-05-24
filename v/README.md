@@ -69,7 +69,7 @@ Remarkably, these Public Addresses can be used on any blockchain.
 
 Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects — along with the lives of billions of people.
 
-Specifically, each global b2p project,  with such a base, will essentially have the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its either  incentive points or even sometimes shares — i.e. tokens — to people of the base.
+Specifically, each global b2p project, having such a base, will essentially get the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its  incentive points or even sometimes shares — i.e. tokens — to people of the base.
 
 Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
 
