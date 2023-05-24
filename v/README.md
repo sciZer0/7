@@ -73,9 +73,9 @@ With the base, each global b2p project will have the easy and economic tool to p
 
 Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
 
-It might mighty increase the competition among the projects — especially among **web-native** projects — forcing the projects to provide the comsumers/users with only the best conditions.
+It might notably increase the competition among the projects — especially among **web-native** projects — forcing the projects to provide the comsumers/users with only the best conditions.
 
-Moreover, such a situation will especially dramatically affect the blockchain industry which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage of a blockchain.
+Moreover, such a situation will especially-dramatically affect the blockchain industry, which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage of a blockchain.
 
 The changes in the blockchain industry will be especially-huge.
 
