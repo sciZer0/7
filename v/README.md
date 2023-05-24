@@ -27,19 +27,19 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as social responsibility, if generally, and sustainability (ecologicness), if to name one. 
+Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values — reflecting the publuc demand for more social responsibility of businesses.
 
-This just proves that people now are increasingly appreciating non-trivial, wise values.
+Also, the moral imperative of the vales is becoming more and more manifest.
 
-Also, it might be safe to suppose that in the nearest future, people will desperately expect from all the social systems more justness and more democraticness — along with more effectiveness.
+Moreover, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems in general more justness and more democraticness — along with more effectiveness.
 
-Together with this all, a new project called Worldcoin has the potential to soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
+On this forming landscape, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects significantly, along with the lives of billions of people worldwide.
 
 The team behind the Worldcoin project
 
 *— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
 
-is building the biggest-ever global user-base that might be used for promoting any global b2p project.
+is building the biggest-ever global user-base that might be used for promoting any global b2p project in particular, and for distributing anything and everything in general.
 
 The process of building this user-base involves creating people's global digital passports 
 
