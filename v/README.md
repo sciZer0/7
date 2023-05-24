@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as social responsibility, if more generally, and sustainability (ecologicness), if more specifically. 
+Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values, such as social responsibility, if generally, and sustainability (ecologicness), if to name one. 
 
 This just proves that people now are increasingly appreciating non-trivial, wise values.
 
