@@ -156,7 +156,7 @@ Revolutionarily, the native token of the U blockchain has governance power, and 
 
 ***So massive votes aren't any problem now in terms of technology.***
 
-***Also, there are the tools to decrease for the majority of Voters the need to really vote on proposal, keeping only monitoring.***
+***Also, there are the tools to decrease for the majority of Voters the need to really vote on proposals, keeping only monitoring.***
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
