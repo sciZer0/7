@@ -33,13 +33,13 @@ Also, the moral imperative of the vales is becoming more and more manifest.
 
 Moreover, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems in general more justness and more democraticness — along with more effectiveness.
 
-On this forming landscape, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects significantly, along with the lives of billions of people worldwide.
+On this forming landscape, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects significantly — along with the lives of billions of people worldwide.
 
 The team behind the Worldcoin project
 
 *— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
 
-is building the biggest-ever global user-base that might be used for promoting any global b2p project in particular, and for distributing anything and everything in general.
+is building the biggest-ever global user-base that might be used for promoting any global b2p project in particular, and for distributing anything and everything in general — including Universal Basic Income (UBI).
 
 The process of building this user-base involves creating people's global digital passports 
 
@@ -51,7 +51,7 @@ It is important to note that the whole process is going in a privacy-preserving 
 
 One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planned to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
-If to scale all these metrics a bit, keeping in mind the achievements of Sam Altmam and his opportunities about raising the funds, 
+If to scale all these metrics a bit, keeping in mind the obvious achievements of Sam Altmam and his opportunities about raising the funds, 
 
 <p><i>700(passport/week)*50,000(device)*52(week/year)=1,820,000,000 (passport/year)</i></p>
 
@@ -67,9 +67,9 @@ might be used by global b2p projects to airdrop various incentive points (tokens
 
 Remarkably, these Public Addresses can be used on any blockchain.
 
-Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects, along with the lives of billions of people.
+Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects — along with the lives of billions of people.
 
-With the base, each global b2p project will have the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its incentive points (tokens) to people of the base.
+With such a base, each global b2p project will have the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its incentive points (tokens) to people of the base.
 
 Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
 
@@ -79,9 +79,9 @@ Moreover, such a situation will especially-dramatically affect the blockchain in
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to this new paradigm, each "old" blockchain created before 2023 or so might definitely be perceived in the future as **unpopular**
+Thanks to this new paradigm emerging, each "old" blockchain (i.e. created before 2023 or so) might definitely be perceived in the future as **unpopular**
 
-— since each new blockchain might easily start up with the biggest-ever global user-base of billions of people and with more just (fair) token-distribution (meaning the fundamentally-better Gini coefficient).
+— since each new blockchain might easily start up with the biggest-ever user-base of billions of people.
 
 Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain, undoubtedly being a big social system, might definitely be perceived in the future as simultaneously
 
@@ -102,7 +102,7 @@ might increasingly prevent each "old" blockchain from getting mass adoption in t
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have the **unchangeable pre-programmed fundamentals** and be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain, built on it, to have the **unchangeable pre-programmed fundamentals** and be simultaneously
 
 * **highly-popular** 
 * **highly-just**
