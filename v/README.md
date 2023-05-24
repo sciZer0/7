@@ -140,31 +140,35 @@ The protocol is represented through describing a **revolutionary blockchain** be
 
 The U blockchain is a layer-1, DAO-style blockchain.
 
-From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token.
-
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, simultaneously improving the Solana protocol in each key aspect.
 
-The native token has governance power, and owners of the token can vote with it on 4 types of proposals.
+At the start, the 99.85% of the total supply is EQUALLY distributed for free among over **1 billion people**. 
+
+From day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token. 
+
+Revolutionarily, the native token of the U blockchain has governance power, and owners of the token can vote with it on 4 types of proposals.
 
 ***For reference***
 
 ***Technologically, taking a vote is the same as making a transaction.***
 
-***The Solana blockchain, at its best times, processed about 30 million transactions per day, at the peak, 65 million, and now is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future.***
+***At its best times, the Solana blockchain processed about 30 million transactions per day, at the peak, 65 million, and now is already capable of over 400 million — with the potential to process 60 billion transactions per day in the future.***
 
 ***So massive votes aren't any problem now in terms of technology.***
 
+***Also, there are the tools to decrease for the majority of Voters the need to really vote on proposal, keeping only monitoring.***
+
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
-Importantly, thanks to the use of a new consensus mechanism
+Importantly, thanks to using the new consensus mechanism
 
-*— leveraging democracy and borrowing heavily from Solana's Proof-of-History (PoH) —*
+*— leveraging the democratic voting and borrowing heavily from Solana's Proof-of-History (PoH) —*
 
 the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
 
-All Gas Fees received are burned 🔥 and contributors are being rewarded thanks to implementation of the blockchain-inbuilt universal tax — tiny-in-rate (0.15%) and having the potential to constantly be reduced through democratic voting, 
+All Gas Fees received are burned 🔥 and contributors are being rewarded thanks to implementation of the blockchain-inbuilt annual tax — tiny-in-rate (0.15%) and having the potential to constantly be reduced through democratic voting, 
 
-Despite the tiny rate of the tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide highly-generous incentives to each of its contributors in general.
+Despite the tiny rate of the unnual tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide highly-generous incentives to each of its contributors in general.
 
 As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
