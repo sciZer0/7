@@ -41,7 +41,7 @@ The team behind the Worldcoin project
 
 is building the biggest-ever global user-base that might be used for promoting any global b2p project in particular, and for distributing anything and everything in general — including Universal Basic Income (UBI).
 
-The process of building this user-base involves creating people's global digital passports 
+The process of building this biggest-ever user-base involves creating people's global digital passports 
 
 —  *one passport to one person* —
 
