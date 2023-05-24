@@ -61,7 +61,7 @@ it becomes more or less certain that the Worldcoin project might have created bi
  
 Each global digital passport automatically creates one Public Address, and these Public Addresses
 
-*— being the bigest-ever global user-base —*
+*— together being the bigest-ever global user-base —*
 
 might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
 
