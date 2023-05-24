@@ -143,7 +143,7 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, simultaneously improving the Solana protocol in each key aspect.
 
-The U blockchain has strong the **unchangeable pre-programmed fundamentals** — including the maximum supply of the native token.
+The U blockchain has the **unchangeable pre-programmed fundamentals** — including the maximum supply of the native token.
 
 At the start, the 99.85% of the maximum supply is EQUALLY distributed for free among over **1 billion people**. 
 
@@ -152,7 +152,7 @@ As a result, from day one, the blockchain has
 * over **1 billion people** EQUALLY owning the blockchain's native token
 * the best Gini coefficient in the industry.
 
-Furthermore, the native token of the U blockchain has governance power, and owners of the token can vote with it on all important proposals — specifically, 4 types of proposals.
+Furthermore, the native token of the U blockchain has governance power, and owners of the token can vote with it on all important proposals — specifically, on 4 types of proposals.
 
 ***For reference***
 
@@ -166,27 +166,27 @@ Furthermore, the native token of the U blockchain has governance power, and owne
 
 ***Plus, Garbage-Collecting technologies help reduce the blockchain's storage of no longer used/maintained data.***
 
-Thanks to the use of the new consensus mechanism
+Importantly, thanks to the use of the new consensus mechanism
 
 *— leveraging the democratic voting and borrowing heavily from Solana's Proof-of-History (PoH) —*
 
-the U blockchain is, and will always be, at least **tens of times** more efficient than the most efficient traditional blockchains, including the Solana blockchain.
+the U blockchain is, and will always be, at least **tens of times** more efficient than even the most efficient traditional blockchains, including the Solana blockchain.
 
-Yet, all Gas Fees received are burned 🔥 and contributors (devs, validators) are being rewarded thanks to implementation of the blockchain-inbuilt annual tax — tiny-in-rate (0.15%) and having the potential to constantly be reduced through democratic voting, 
+Yet, all Gas Fees received are burned 🔥, and the contributors (devs, validators) are being rewarded thanks to implementation of the blockchain-inbuilt annual tax — with a tiny rate (0.15%) which has the potential to constantly be reduced through democratic voting, 
 
-Despite the tiny rate of the unnual tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide **highly-generous incentives** to each of its contributors in general.
+Despite the tiny rate of the unnual tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide **highly-generous incentives** to each of its contributors in general in the long run.
 
 As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
 *In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
 
-The U blockchain, being **highly-decentralized**, is simultaneously
+Summarizing, the U blockchain, being **highly-decentralized**, is simultaneously
 
 * **permissionless** (no one can forbid you to have and transfer your tokens)
-* **highly-secure** (extremely-hard, at best impossible, to harm or stop the work of the blockchain),
-* **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient)
+* **highly-secure** (extremely-hard, at best impossible, to harm or stop the work of the blockchain)
+* **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient in the industry)
 * **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
-* **highly-efficient** (tens of times more efficient than the most efficient blockchains)
+* **highly-efficient** (tens of times more efficient than even the most efficient blockchains)
 * **highly-ecological** (a carbon footprint is minimal in the industry)
 * **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply**.
 
