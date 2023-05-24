@@ -59,9 +59,9 @@ If to scale all these metrics a bit, keeping in mind the obvious achievements of
 
 it becomes more or less certain that the Worldcoin project might have created billions of digital passports in just a few years.
  
-Each global digital passport automatically creates one Public Address, and these Public Addresses
+Each global digital passport automatically creates one Public Address, and these Public Addresses together
 
-*— together being the bigest-ever global user-base —*
+*— being the bigest-ever global user-base —*
 
 might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
 
