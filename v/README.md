@@ -63,13 +63,13 @@ Each global digital passport automatically creates one Public Address, and these
 
 *— being the bigest-ever global user-base —*
 
-might be used by global b2p projects to airdrop various incentive points (tokens) to the users.
+might be used by global b2p projects to promote themselves.
 
 Remarkably, these Public Addresses can be used on any blockchain.
 
 Namely the creation of such a biggest base of Public Addresses might significantly change the promotion of global b2p projects — along with the lives of billions of people.
 
-With such a base, each global b2p project will have the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its either  incentive points or even sometimes shares — i.e. tokens — to people of the base.
+Specifically, each global b2p project,  with such a base, will have the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its either  incentive points or even sometimes shares — i.e. tokens — to people of the base.
 
 Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
 
