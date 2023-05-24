@@ -29,7 +29,7 @@ doomed by its protocol<br>
 
 Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services that align with their values — reflecting the publuc demand for more social responsibility of businesses.
 
-Also, the moral imperative of values is becoming more and more manifest.
+Also, the moral imperative of the values is becoming more and more manifest.
 
 Moreover, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems in general more justness and more democraticness — along with more effectiveness.
 
