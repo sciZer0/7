@@ -51,7 +51,7 @@ It is important to note that the whole process is going in a privacy-preserving 
 
 One Orb needs one human operator and allows to create 700+ digital passports per week on average. The team planned to produce 50k+ devices a year and attract a necessary number of the contributor-operators.
 
-If to scale all these metrics a bit, keeping in mind the reputation of Sam Altmam and his opportunities about raising the funds, 
+If to scale all these metrics a bit, keeping in mind the achievements of Sam Altmam and his opportunities about raising the funds, 
 
 <p><i>700(passport/week)*50,000(device)*52(week/year)=1,820,000,000 (passport/year)</i></p>
 
