@@ -31,7 +31,7 @@ Currently, consumers/users are increasingly willing to pay a premium for product
 
 This just proves that people now are increasingly appreciating non-trivial, wise values.
 
-Also, it might be safe to suppose that in the nearest future, people will desperately expect from all the people's working systems more justness and more democraticness — along with more effectiveness.
+Also, it might be safe to suppose that in the nearest future, people will desperately expect from all the social systems more justness and more democraticness — along with more effectiveness.
 
 Together with this all, a new project called Worldcoin has the potential to soon change the promotion of global b2p projects and the lives of billions of people worldwide significantly.
 
@@ -83,7 +83,7 @@ Thanks to this new paradigm, each "old" blockchain created before 2023 or so mig
 
 — since each new blockchain might easily start up with the biggest-ever global user-base of billions of people and with more just (fair) token-distribution (meaning the fundamentally-better Gini coefficient).
 
-Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain created before 2023 or so, undoubtedly being a people's working system, might definitely be perceived in the future as simultaneously
+Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain created before 2023 or so, undoubtedly being a big social system, might definitely be perceived in the future as simultaneously
 
 * **unjust**
 * **undemocratic**
