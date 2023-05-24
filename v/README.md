@@ -143,11 +143,14 @@ The U blockchain is a layer-1, DAO-style blockchain.
 
 Technologically, the blockchain borrows heavily from **the Solana blockchain**, simultaneously improving the Solana protocol in each key aspect.
 
-The U blockchain have strong the **unchangeable pre-programmed fundamentals** — including the maximum supply of the native token.
+The U blockchain has strong the **unchangeable pre-programmed fundamentals** — including the maximum supply of the native token.
 
 At the start, the 99.85% of the maximum supply is EQUALLY distributed for free among over **1 billion people**. 
 
-As a result, from day one, the blockchain has over **1 billion people** EQUALLY owning the blockchain's native token and the best Gini coefficient in the industry.
+As a result, from day one, the blockchain has
+
+* over **1 billion people** EQUALLY owning the blockchain's native token
+* the best Gini coefficient in the industry.
 
 Furthermore, the native token of the U blockchain has governance power, and owners of the token can vote with it on all important proposals — specifically, 4 types of proposals.
 
