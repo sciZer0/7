@@ -172,7 +172,7 @@ Importantly, thanks to the use of the new consensus mechanism
 
 the U blockchain is, and will always be, at least **tens of times** more efficient than even the most efficient traditional blockchains, including the Solana blockchain.
 
-Yet, all Gas Fees received are burned 🔥, and the contributors (devs, validators) are being rewarded thanks to implementation of the blockchain-inbuilt annual tax — with a tiny rate (0.15%) which has the potential to constantly be reduced through democratic voting, 
+Yet, all Gas Fees received are burned 🔥, and the contributors (devs, validators) are being rewarded thanks to the implementation of the blockchain-inbuilt annual tax with a tiny rate (0.15%) — the rate, in turn, has the potential to be constantly reduced through democratic voting. 
 
 Despite the tiny rate of the unnual tax, nevertheless the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide **highly-generous incentives** to each of its contributors in general in the long run.
 
