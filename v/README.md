@@ -27,7 +27,7 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers/users are increasingly willing to pay a premium for products and services that align with their values — reflecting the publuc demand for more social responsibility of businesses.
+Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services that align with their values — reflecting the publuc demand for more social responsibility of businesses.
 
 Also, the moral imperative of the vales is becoming more and more manifest.
 
