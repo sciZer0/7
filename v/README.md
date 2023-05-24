@@ -102,7 +102,7 @@ might increasingly prevent each "old" blockchain from getting mass adoption in t
 
 *More on the above below.*
 
-This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have strong **unchangeable pre-programmed fundamentals** and be simultaneously
+This paper proposes an idea of a new blockchain protocol that allows a blockchain built based on it to have the **unchangeable pre-programmed fundamentals** and be simultaneously
 
 * **highly-popular** 
 * **highly-just**
