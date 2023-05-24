@@ -71,7 +71,7 @@ Even leaving out other upcoming great things associated with the global digital 
 
 Specifically, each global b2p project, having such a base, will essentially get the easy and economic tool to promote itself through this biggest-ever user-base, airdropping its  incentive points or even sometimes shares — i.e. tokens — to people of the base.
 
-Including, each **new** global b2p project will have the good opportunity to start up very powerfully.
+Including, each **new** global b2p project will get the good opportunity to start up very powerfully.
 
 It might notably increase the competition among the projects — especially among **web-native** projects — forcing the projects to provide the comsumers/users with only the best conditions.
 
