@@ -81,7 +81,7 @@ Including, each **new** global b2p project will get the good opportunity to star
 
 It might notably increase the competition among the projects — especially among **web-native** projects — forcing the projects to provide the comsumers/users with only the best conditions.
 
-Moreover, such a situation will especially-dramatically affect the blockchain industry, which is web-native and where additionally code and ideas are already open and free, and where often the long-before-achieved user-base is the only advantage of a blockchain.
+Moreover, such a situation will especially-dramatically affect the blockchain industry, which is web-native and where additionally code and ideas are already open and free, and what's more, where often the long-before-achieved user-base is the only advantage of a blockchain.
 
 The changes in the blockchain industry will be especially-huge.
 
