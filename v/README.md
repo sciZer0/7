@@ -168,7 +168,7 @@ Furthermore, the native token of the U blockchain has governance power, and owne
 
 Importantly, thanks to the use of the new consensus mechanism
 
-*— leveraging the democratic voting and borrowing heavily from Solana's Proof-of-History (PoH) —*
+*— heavily borrowing from Solana's Proof-of-History (PoH) and  leveraging the democratic voting —*
 
 the U blockchain is, and will always be, at least **tens of times** more efficient than even the most efficient traditional blockchains, including the Solana blockchain.
 
@@ -178,9 +178,11 @@ In despite of the tiny rate of the unnual tax, the U blockchain provides
 
 * **extremely-generous incentives** (automated-donations) to the early blockchain contributors, * **highly-generous incentives** (automated-donations) to each of its contributors.
 
-As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+Thanks to the sinergy of the advantages, the blockchain has the   unique native token.
 
-*In other words, the permissionless, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
+Specifically, as its native token the U blockchain has **the permissionless, secure, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
+
+*In other words, the permissionless, secure, cheapest-to-globally-transfer token with powerfully-decreasing total-supply.*
 
 Summarizing, the U blockchain, being **highly-decentralized**, is simultaneously
 
@@ -190,7 +192,7 @@ Summarizing, the U blockchain, being **highly-decentralized**, is simultaneously
 * **highly-democratic** (the blockchain has over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (the blockchain is tens of times more efficient than even the most efficient blockchains)
 * **highly-ecological** (the blockchain's carbon footprint is minimal in the industry)
-* **with the unique advanced native token** (as its native token the blockchain has the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply).
+* **with the unique advanced native token** (as its native token the blockchain has the permissionless, secure, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply).
 
 This unique advanced native token has the perspective to become the most valuable asset in the financial world. 
 
