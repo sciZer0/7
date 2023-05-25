@@ -85,7 +85,7 @@ Moreover, such a situation will especially-dramatically affect the blockchain in
 
 The changes in the blockchain industry will be especially-huge.
 
-Thanks to this new paradigm being coming, each "old" blockchain (i.e. created before 2023 or so) might definitely be perceived in the future as **highly-unpopular**
+Thanks to the upcoming new paradigm, each "old" blockchain (i.e. created before 2023 or so) might definitely be perceived in the future as **highly-unpopular**
 
 — since each new blockchain might easily start up with the biggest-ever user-base of billions of people.
 
