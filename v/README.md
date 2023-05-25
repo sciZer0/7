@@ -172,9 +172,11 @@ Importantly, thanks to the use of the new consensus mechanism
 
 the U blockchain is, and will always be, at least **tens of times** more efficient than even the most efficient traditional blockchains, including the Solana blockchain.
 
-What's more, all Gas Fees received are burned 🔥, and the contributors (devs, validators) are being rewarded thanks to the implementation of the blockchain-inbuilt annual tax with a tiny rate (0.15%) — the rate, in turn, has the potential to constantly be being reduced through democratic voting. 
+What's more, all Gas Fees received are burned 🔥, and the contributors (devs, validators) are being rewarded thanks to the implementation of the blockchain-inbuilt annual tax with a tiny rate (0.15%) — the rate, in turn, has the potential to constantly be reduced through democratic voting. 
 
-In despite of the tiny rate of the unnual tax, the U blockchain provides **extremely-generous incentives** to the early blockchain contributors, and also is supposed to provide **highly-generous incentives** to each of its contributors in general in the long run.
+In despite of the tiny rate of the unnual tax, the U blockchain provides
+
+* **extremely-generous incentives** (automated-donations) to the early blockchain contributors, * **highly-generous incentives** (automated-donations) to each of its contributors.
 
 As its native token the U blockchain has **the permissionless, cheapest-to-globally-transfer token with powerfully-increasing scarcity**. 
 
@@ -182,13 +184,13 @@ As its native token the U blockchain has **the permissionless, cheapest-to-globa
 
 Summarizing, the U blockchain, being **highly-decentralized**, is simultaneously
 
-* **permissionless** (no one can forbid you to have and transfer your tokens)
-* **highly-secure** (extremely-hard, at best impossible, to harm or stop the work of the blockchain)
-* **highly-just** (with over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient in the industry)
-* **highly-democratic** (with over 1 billion voters EQUALLY owning the blockchain's governance token)
-* **highly-efficient** (tens of times more efficient than even the most efficient blockchains)
-* **highly-ecological** (a carbon footprint is minimal in the industry)
-* **with the unique advanced native token** having the perspective to become the most valuable asset in the financial world — specifically, **with the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply**.
+* **permissionless** (No one can forbid you to have and transfer your tokens on the blockchain)
+* **highly-secure** (it is extremely-hard, at best impossible, to harm or stop the work of the blockchain)
+* **highly-just** (the blockchain has over 1 billion people EQUALLY owning the blockchain's native-token, providing the best-ever Gini coefficient in the industry)
+* **highly-democratic** (the blockchain has over 1 billion voters EQUALLY owning the blockchain's governance token)
+* **highly-efficient** (the blockchain is tens of times more efficient than even the most efficient blockchains)
+* **highly-ecological** (the blockchain's carbon footprint is minimal in the industry)
+* **with the unique advanced native token** *having the perspective to become the most valuable asset in the financial world* (the blockchain has the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply).
 
 At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **1 billion people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of other people** to  benefit from it.
 
