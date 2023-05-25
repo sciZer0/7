@@ -190,7 +190,9 @@ Summarizing, the U blockchain, being **highly-decentralized**, is simultaneously
 * **highly-democratic** (the blockchain has over 1 billion voters EQUALLY owning the blockchain's governance token)
 * **highly-efficient** (the blockchain is tens of times more efficient than even the most efficient blockchains)
 * **highly-ecological** (the blockchain's carbon footprint is minimal in the industry)
-* **with the unique advanced native token** *having the perspective to become the most valuable asset in the financial world* (the blockchain has the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply).
+* **with the unique advanced native token** (as its native token the blockchain has the permissionless, cheapest-to-globally-transfer token with  powerfully-decreasing total-supply).
+
+This unique advanced native token has the perspective to become the most valuable asset in the financial world. 
 
 At best, the blockchain might be the 1st one to achieve the market capitalization of at least **$20 trillion**, and allow about **1 billion people** from around the world to make life-changing money from investing NO MONEY, also allowing **billions of other people** to  benefit from it.
 
@@ -199,6 +201,8 @@ The narrative defined by the blockchain also involves the use of Soul-Bound Toke
 Last but not Least
 
 The U blockchain only sees its leadership in providing people with only the best conditions. 
+
+The conditions that are extremely-hard for competitors to significantly improve.
 
 
  <br><br>
