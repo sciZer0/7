@@ -27,11 +27,17 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services aligning with their values, which reflects the publuc demand for more social responsibility of businesses.
+Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services of brands aligning with their values.
 
-Also, the moral imperative of the values is becoming more and more manifest.
+The values in general reflect the publuc demand for more justness and moralness.
 
-Moreover, it might be safe to suppose that in the nearest future, people will desperately expect from all big social systems in general more justness and more democraticness — along with more effectiveness.
+For now, the scope is limited to businesses but most likely will be extended.
+
+So it might be safe to suppose that in the nearest future, people will increasingly expect from all big social systems in general
+
+*— incl. state systems and money systems —*
+
+more justness and more moralness.
 
 On this forming landscape, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects significantly — along with the lives of billions of people worldwide.
 
