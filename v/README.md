@@ -31,7 +31,7 @@ Currently, consumers/users — predominantly younger generations — are increas
 
 Surprisingly to many, the values in general reflect people's request for more justness and moralness of businesses.
 
-Even though for now the focus of the request is really limited mainly to b2p businesses but most likely it might be significantly extended.
+Even though for now the focus of the request is really limited mainly to b2p businesses but most likely, eventually,  it might be significantly extended.
 
 So it might be relatively safe to suppose that in the nearest future, people will increasingly expect from all big social systems in general
 
