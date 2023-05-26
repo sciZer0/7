@@ -31,7 +31,7 @@ Currently, consumers/users — predominantly younger generations — are increas
 
 The values in general reflect people's request for more justness and moralness.
 
-For now, the scope is limited to businesses but most likely might be extended.
+For now, the scope of the request is limited mainly to businesses but most likely might be significantly extended.
 
 So it might be relatively safe to suppose that in the nearest future, people will increasingly expect from all big social systems in general
 
