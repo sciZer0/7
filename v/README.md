@@ -29,7 +29,7 @@ doomed by its protocol<br>
 
 Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services of brands aligning with their values.
 
-The values in general reflect the publuc request for more justness and moralness.
+The values in general reflect people's request for more justness and moralness.
 
 For now, the scope is limited to businesses but most likely might be extended.
 
