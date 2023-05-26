@@ -29,9 +29,9 @@ doomed by its protocol<br>
 
 Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services of brands aligning with their values.
 
-Surprisingly to many, the values in general reflect people's request for more justness and moralness.
+Surprisingly to many, the values in general reflect people's request for more justness and moralness of businesses.
 
-For now, the focus of the request is limited mainly to b2p businesses but most likely might be significantly extended.
+Even though for now the focus of the request is really limited mainly to b2p businesses but most likely it might be significantly extended.
 
 So it might be relatively safe to suppose that in the nearest future, people will increasingly expect from all big social systems in general
 
