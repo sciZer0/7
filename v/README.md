@@ -39,7 +39,7 @@ So it might be relatively safe to suppose that in the nearest future, people wil
 
 more justness and more moralness.
 
-On this forming landscape, a new project called Worldcoin has the potential to very soon change the promotion of global b2p projects significantly — along with the lives of billions of people worldwide.
+On this forming landscape, a new blickchain project called Worldcoin has the potential to very soon change the promotion of global b2p projects significantly — along with the lives of billions of people worldwide.
 
 The team behind the Worldcoin project
 
