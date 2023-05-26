@@ -31,7 +31,7 @@ Currently, consumers/users — predominantly younger generations — are increas
 
 Surprisingly to many, the values in general reflect people's request for more justness and moralness of businesses.
 
-Even though for now the focus of the request is really limited mainly to b2p businesses but most likely, eventually,  it might be significantly extended.
+For now, the focus of the request is limited mainly to global b2p businesses but most likely, eventually, it might be significantly extended.
 
 So it might be relatively safe to suppose that in the nearest future, people will increasingly expect from all big social systems in general
 
@@ -87,7 +87,7 @@ The changes in the blockchain industry will be especially-huge.
 
 Thanks to the upcoming new paradigm, each "old" blockchain (i.e. created before 2023 or so) might definitely be perceived in the future as **highly-unpopular**
 
-— since each new blockchain might easily start up with the biggest-ever user-base of billions of people.
+— since any new blockchain with good principles might easily start up very powerfully, using the biggest-ever user-base of billions of people.
 
 Additionally, thanks to the new revolutionary blockchain protocol (described below), each "old" blockchain
 
