@@ -43,7 +43,7 @@ On this forming landscape, a new blockchain project called Worldcoin has the pot
 
 The team behind the Worldcoin project
 
-*— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO, and who earlier was Y-Combinator's president and Reddit's CEO —*
+*— including Sam Altmam, who is the project's co-founder and  simultaneously OpenAI's CEO (GPT-4), and who earlier was Y-Combinator's president and Reddit's CEO —*
 
 is building the biggest-ever global user-base that might be used for promoting any global b2p project in particular, and for distributing anything and everything in general — including Universal Basic Income (UBI).
 
