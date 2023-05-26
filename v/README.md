@@ -210,7 +210,7 @@ Last but not Least
 
 The U blockchain only sees its leadership in providing people with only the best conditions. 
 
-The conditions that are extremely-hard for competitors to significantly improve.
+These conditions are the best at the moment of the start,  and hopefully, will always be extremely-hard for competitors to significantly improve.
 
 
  <br><br>
