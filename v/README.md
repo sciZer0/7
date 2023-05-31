@@ -27,11 +27,15 @@ doomed by its protocol<br>
 <h2 align="center">Context</h2>
 <p align="center">In Brief</p>
 
-Currently, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services of brands aligning with their values.
+Currently, if a company's culture doesn't align with what Gen Z employees expect, they're going to leave.
 
-Surprisingly to many, the values in general reflect people's request for more justness and moralness of businesses.
+In other words, if company values don't match their personal values, they'll quit their jobs.
 
-For now, the focus of the request is limited mainly to global b2p businesses but most likely, eventually, it might be significantly extended.
+Also, consumers/users — predominantly younger generations — are increasingly willing to pay a premium for products and services of brands aligning with their personal values.
+
+Surprisingly to many, these values in general reflect people's request for more justness and moralness of businesses.
+
+For now, the focus of the request is beimg limited mainly to businesses but most likely, eventually, it might be significantly extended.
 
 So it might be relatively safe to assume that in the nearest future, people will increasingly expect from all big social systems in general
 
