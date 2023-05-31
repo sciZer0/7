@@ -33,7 +33,7 @@ Surprisingly to many, the values in general reflect people's request for more ju
 
 For now, the focus of the request is limited mainly to global b2p businesses but most likely, eventually, it might be significantly extended.
 
-So it might be relatively safe to suppose that in the nearest future, people will increasingly expect from all big social systems in general
+So it might be relatively safe to assume that in the nearest future, people will increasingly expect from all big social systems in general
 
 *— incl. state systems and money systems —*
 
