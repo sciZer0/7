@@ -1,6 +1,6 @@
 <h3 align="center">This is the continuation of this paper:</h3>
 
-Discovering Fundamental Logical Errors in Science and Making New Discoveries Changing All Natural Sciences and Philosophy::<br>
+Discovering Fundamental Logical Errors in Science and Making New Discoveries Changing All Natural Sciences and Philosophy:<br>
 <br>
 New Formula for Force<br>
 New Formula for Work<br>
