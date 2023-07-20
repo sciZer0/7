@@ -250,6 +250,12 @@ Please pay attention that
 
 the "Target" in the formula is namely Target Acceleration associated with the given Force, but <b>never</b> Real Acceleration of the pushed object.
 
+Each Force has its Target. 
+
+Each Force is striving to fulfill its goal through each moment of time while the Force exists. 
+
+The Target  is a new concept in science.
+
 In my opinion,
 
 the New Formula for Force is exactly the true Newton's Formula for Force that he implyed.
